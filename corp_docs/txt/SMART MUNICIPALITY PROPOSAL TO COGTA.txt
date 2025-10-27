@@ -1,0 +1,556 @@
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 0 | 15 
+ 
+SMART MUNICIPALITY 
+PROPOSAL 
+ 
+TO 
+ 
+COOPERATIVE GOVERNANCE 
+and TRADITIONAL AFFAIRS 
+(CoGTA) 
+ 
+Document Name: 
+MG-PPSL-AISMUNIC-COGTA 202508.03 
+ 
+Author: 
+Charlene van Onselen 
+Date: 
+14 August 2025 
+Version: 
+03 
+ 
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 1 | 15 
+ 
+1 
+Executive Summary 
+Artificial Intelligence (AI) is helping local governments to operate more efficiently through 
+accelerating service delivery, monitoring and measuring of objectives and targets, 
+automating and simplifying routine administrative tasks and performing sophisticated 
+data analysis to help public officials make more informed decisions.   
+There are several use cases for AI in local government such as strategic objective 
+monitoring 
+and 
+project 
+management, 
+financial 
+management, 
+smart 
+services 
+management, road condition management, urban planning and development, public 
+safety and law enforcement, education and workforce development, community 
+engagement, 
+healthcare 
+and 
+social 
+services, 
+environmental 
+monitoring 
+and 
+management, emergency response and disaster management, traffic management and 
+transportation and citizen services. 
+The CoGTA District Development Model (DDM) has been designed and implemented to 
+specifically address problems with service delivery by allowing all spheres of government, 
+from local municipalities to national government, to work together collaboratively and 
+effectively.  The DDM provides oversight through assisting local municipalities to plan, 
+budget and implement projects and programmes more effectively. It aids municipalities 
+to monitor, measure and manage capably and productively.  
+ 
+Figure 1: MacrocommAI Unity© supports the government's DDM and One Plan for governance and service delivery 
+oversight 
+MacrocommAI Unity© enables and facilitates the needs of the DDM as its tools and 
+platform monitor and measure the delivery across all spheres of government; promoting 
+working together in an efficient manner through the use of analytics and predictive 
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 2 | 15 
+ 
+analytics dashboards and scorecards.  This synergy allows for a standardisation of 
+technology by facilitating the different software platforms information to be accessible 
+across departments, providing real-time dashboard updates for pro-active management 
+and maintenance of government services for high-quality service delivery, and enabling 
+effective knowledge management and record keeping.  
+ 
+ 
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 3 | 15 
+ 
+TABLE OF CONTENTS 
+1 
+EXECUTIVE SUMMARY .......................................................................................................... 1 
+2 
+INTRODUCTION .................................................................................................................... 4 
+3 
+PROBLEM STATEMENT .......................................................................................................... 5 
+4 
+MACROCOMMAI UNITY© SOLUTION ................................................................................... 6 
+4.1 
+SMART MUNICIPALITIES START WITH SERVICE GOVERNANCE EXCELLENCE ........................................ 9 
+5 
+METHODOLOGY .................................................................................................................. 12 
+5.1 
+DESIGN THE DDM AI TARGET OPERATING MODEL ...................................................................... 12 
+5.2 
+AN AI CAPABILITIES ASSESSMENT AND MAP ................................................................................ 12 
+5.3 
+CHANGE MANAGEMENT AND COMMUNICATION STRATEGY .......................................................... 13 
+5.4 
+AI TARGET OPERATING MODEL: CENTRALISED HYBRID TOM ....................................................... 13 
+5.4.1 
+Centralised TOM .......................................................................................................... 13 
+5.4.2 
+Hybrid Local Government (Geographically) Aligned TOM ...................................... 13 
+5.4.3 
+Implementation Approach Proposed ....................................................................... 14 
+6 
+TIMELINE FROM DESIGN TO IMPLEMENT ......................................................................... 14 
+7 
+MACROCOMMAI OVERVIEW ............................................................................................... 14 
+8 
+CONCLUSION ...................................................................................................................... 14 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 4 | 15 
+ 
+2 
+Introduction 
+The Department of Cooperative Governance and Traditional Affairs (CoGTA) Department 
+has the unenviable role to lead local government through enabling municipalities to 
+deliver on services of the pre-determined and agreed quality and standard, ensure good 
+governance, build institutional resilience and administrative capability.  The primary tool 
+to drive delivery of national government’s objectives and targets for South Africa is the 
+District Development Model. 
+MacrocommAI Unity© leverages core machine and deep learning technologies, data 
+integration and real-time analytics which enable automation of dashboards, scorecards, 
+alerts through centralising data for analytics and predictive modelling to promote service 
+delivery efficacy, cost reductions and informed decision making.  This facilitation of strong 
+operations and processes to manage the local government infrastructure and services to 
+meet socio-economic needs of its citizens offers the DDM the oversight required. 
+In 2019, the District Development Model (DDM) and it’s One Plan was initiated.  The DDM 
+has the primary responsibility to direct and improve integrated planning and delivery 
+across the three spheres of government. 
+The Government of National Unity (GNU) has emphasised the need for every municipality 
+to work effectively to regain public trust and fulfil government’s constitutional obligations.  
+The DDM is to actively oversee, guide and champion integrated planning which has been 
+identified as a critical strategy for remove silos and foster collaboration across 
+government and society through 6 (six) transformative principles to guide and inform 
+each Local Government’s One Plan. 
+ 
+Figure 2: District Development Model (DDM) Transformative Principles that inform each Local Government's One 
+Plan 
+The Local Government’s Integrated Development Plan (IDP) and the DDM One Plan are 
+interrelated.  The IDP sets out the long-terms goals, strategies and projects for the local 
+government (municipality level) whilst the DDM integrates these with the larger provincial 
+and national government objectives.  The IDP informs the local government’s One Plan 
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 5 | 15 
+ 
+with insight into the local needs and priorities.  All these different plans and goals can be 
+digitised and incorporated into the MacrocommAI Unity© platform allowing for integrity 
+in measuring, monitoring, actioning and reporting across all government spheres. 
+3 
+Problem Statement 
+Local government (municipalities) faces a growing crisis of governance and service 
+delivery characterised by financial mismanagement, corruption, infrastructure decay, 
+poor service delivery, lack of urban planning, technical and institutional capabilities, and 
+growing public distrust and frustration.  These persistent ills and increasing risks 
+undermine their ability to meet their constitutional mandate. threatening social cohesion 
+and widening inequalities. 
+The primary issues municipalities are having to tackle head-on are: 
+• Financial 
+Mismanagement 
+& Instability 
+• Governance and 
+Corruption 
+• Service Delivery 
+Failures 
+• Lack of Capacity 
+and Skills 
+• Aging and Poorly 
+Maintained 
+Infrastructure 
+• Urbanization and 
+Housing Pressure 
+• Social Unrest and 
+Community 
+Protests 
+• Climate and 
+Environmental 
+Vulnerabilities 
+ 
+The DDM aids municipalities in address these issues through integrated, cooperative 
+governance at the local government level, oversight and direct guidance.  
+The DDM adds to the complexity of governance structures, duplication and bureaucracy 
+for the provincial and local government bodies which creates barriers for adoption and 
+implementation.  Stakeholders struggle with the DDM hubs mandates, roles and 
+responsibilities, and their inability to measure its performance, and value contribution.   
+ 
+Figure 3:  The three (3) spheres of government and how the DDM has been envisaged to build a central repository 
+and standard across these 
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 6 | 15 
+ 
+This impacts the budgetary requirements for the DDM as the potential for corruption 
+exists, and the fear that monies for various key projects will be diverted disempowering 
+local governments to achieve their commitments to their constituencies.   
+The lack of capacity and technical skills within municipalities hinders the delivery of 
+quality services, and the lack of accountability and oversight often lead to 
+mismanagement and can result in corruption.  
+The local government systemic service delivery failure has left many communities without 
+reliable access to water, sanitation, electricity, and waste management.   
+For the DDM to achieve its goals of improved service delivery, integrated planning, and 
+sustainable development, it must address these critical challenges.  This will require a 
+robust artificial intelligence platform to facilitate integrated governance through 
+dashboards, scorecards, analytics and predictive modelling. 
+There are 161 municipalities that are at medium risk of instability and financial distress; 
+representing 63% of South Africa’s local government.  This is high vulnerability especially 
+if we consider that only 61 (24%) are deemed stable.  The other 196 municipalities status 
+of distressed and medium risk require government oversight to monitor, support and 
+assist to prevent further decline and inability to serve their citizens.  These municipalities 
+have financial and local government mismanagement, poor financial planning and 
+governance, and lack service delivery. 
+ 
+Figure 4: Whilst more municipalities are being reflected as stable and distressed are decreasing, the majority of 
+municipalities are medium risks. Source: DCoG Strategic Plan for 2025-2030 
+4 
+MacrocommAI Unity© Solution 
+MacrocommAI Unity© is a modulised AI solution that provides all three (3) spheres of 
+government to collaborate more effectively and efficiently through the use of analytics 
+and predictive analytics dashboards and scorecards, providing a standardisation of 
+technology by facilitating the different software platforms information to be accessible 
+across departments and enabling effective knowledge management and record keeping. 
+64
+111
+66
+16
+66
+107
+54
+30
+35
+161
+61
+0
+50
+100
+150
+200
+Distressed
+Medium Risk
+Low Risk
+Stable
+Municipalities Risk
+2021
+2022
+2023
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 7 | 15 
+ 
+ 
+Figure 5: MacrocommAI Unity Platform Driving Integrated Solutions and Governance 
+CoGTA and the DDM have a need for smarter governance, enabled by real-time data, 
+artificial intelligence, and systemic accountability to help rebuild public trust and meet 
+the government’s objectives for South Africa.  Municipalities need a solution that 
+transforms governance into a transparent, data-driven system, with early warning, 
+shared accountability, and performance visibility at its core.   
+ 
+ 
+Figure 6  MacrocommAI Unity© offers service governance aligning with government strategy, offering high value 
+and requiring a skilled team for an intermediate level implementation 
+MacrocommAI starts with financial, performance and service governance as the first step 
+towards an AI Smart Municipality Solution by promoting higher productivity and enabling 
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 8 | 15 
+ 
+citizen services.  This AI Solution ensures strategic alignment with CoGTA and National 
+Treasury objectives regarding the DDM, offers high value with ease of access to 
+information, analytics, scorecards, dashboards and the ability to model using predictive 
+analytics.   MacrocommAI Unity© is an empowering solution that will aid the DDM to 
+oversee, guide and direct municipalities to meet respective and national objectives and 
+targets. 
+Once this governance structure is in place, it is easier to incorporate other AI Tools 
+regarding key service delivery areas such as traffic management, health care, urban 
+planning amongst key services due to the modular structure of MacrocommAI’s 
+Solutions. 
+MacrocommAI Unity© enables local-, provincial- and national government officials to 
+monitor and measure for modernisation of the municipality, enhancements and 
+streamlining of processes the identified key performance indicators (KPI’s) such as: 
+• 
+Services 
+o 
+Waste collection turnaround time, bin capacity, tonnage collected per 
+route, fuel efficiency, missed pick up rate 
+o 
+Road conditions, visual condition index, pothole density, potholes 
+repaired, road infrastructure damage (curbs, storm drains, traffic signs) 
+o 
+Traffic light queue length, near misses, cables stolen, uptime 
+(active/inactive), repaired, malfunction frequency, delays, travel time 
+• 
+Financial 
+o 
+Revenue earned from different utilities such as water, electricity; 
+expenditure on different projects and key maintenance areas, and 
+departmental costs; budget vs actual; debt and cashflow management. 
+The modular structure of MacrocommAI Unity©  allows for the integration and 
+incorporation of the different municipal software systems/tools such as the Potholefixgp 
+or SAMRAS, SOLAR, Munsoft, EnerGov, MetVal, and CityView;  which help them with 
+financial management, property and revenue management, public works, and overall 
+operational efficiency.   
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 9 | 15 
+ 
+ 
+Figure 7: MacrocommAI Unity© - A simple overview of the blueprint 
+Once the core governance and oversight platform is deployed, the implementation is 
+intermediate and requires a well-skilled team from government to help drive the set-up 
+of MacrocommAI Unity©.  The priority would be agreed for the incorporation which may 
+be to start with the financial systems or operational efficiency systems (CityView).  
+4.1 Smart Municipalities Start with Service Governance Excellence 
+MacrocommAI offers a powerful AI-first approach to financial, performance and service 
+governance that leverages AI algorithms to expedite routine processes saving 
+government officials time and freeing them to focus on execution and analytics for 
+streamlining and enhancing processes for service delivery.  
+Unity© ,a real-time monitoring system that aligns municipal performance with national 
+service delivery objectives, using data provides a tool of accountability and 
+transformation that facilitates the rolling up to a national level for the much-needed 
+collaboration and support across all government spheres.   
+CoGTA and the DDM through Unity© will be able to provide the required oversight to 
+guide municipal activities, monitor implementation of policies, drive accountability to the 
+community and ensure corrective action as mandated. 
+The Smart Municipality Solution uses a modular, scalable framework using foundational 
+components designed to address specific gaps in governance; from aligning national KPIs 
+with local outputs to monitoring citizen impact in real time.  It aligns service delivery with 
+measurable Key Performance Indicators (KPI) tied to national government priorities.  
+This is embedded within MacrocommAI’s intelligent platform, which connects 
+departments, tracks data in real time, and applies AI to highlight risks, trends, and 
+performance outcomes. This turns fragmented operations into an intelligent, unified 
+system of action, and enables the predictability modelling functionality for local 
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 10 | 15 
+ 
+government and the DDM to prepare for various possible scenarios, making it a powerful 
+aid to build future capability. 
+Each module component from dashboards and scorecards to alerts to anonymised 
+metrics ensures that municipalities remain focused on delivery, not bureaucracy.  
+Dashboard Examples: Service Delivery 
+Traffic Light Management 
+Road Condition – Pothole Management 
+ 
+ 
+It enables DDM and National Treasury oversight without micromanagement, 
+accountability without blame, and transparency without fear. 
+Dashboard Examples: Finance and Human Resources 
+Financial Dashboard 
+HR KPI’s 
+ 
+ 
+These dashboards and scorecards enable easy monitoring and can be viewed at a 
+national level with the drilldown to local municipality levels allowing for the identification 
+of risk areas and municipalities, and where national government needs to ensure budget 
+allocation for larger reforming and modernising projects such as smart metering 
+solutions. 
+ 
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 11 | 15 
+ 
+ 
+Figure 8: MacrocommAI Unity© Guiding Principle Components 
+These guiding principle components work together to provide a holistic, digital nervous 
+system for municipal governance, giving both local managers and national authorities the 
+tools to monitor, assess, and improve service delivery continuously. 
+The value of this solution isn’t just technical, it’s transformational. Municipalities that 
+embrace MacrocommAI will gain the capacity to operate with precision, speed, cost 
+effectiveness and transparency.  This builds internal efficiency, improves public trust, and 
+aligns every action with a measurable outcome. 
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 12 | 15 
+ 
+ 
+Figure 9: MacrocommAI Unity© Outcome Benefits 
+Ultimately, these benefits enable a shift from reactive service management to proactive 
+service excellence, making it possible to restore credibility and improve lives, one well-
+governed municipality at a time. 
+5 
+Methodology 
+MacrocommAI is not just about being a use-case scenario solution rather we focus on 
+Industrialised Intelligence that is grounded in an AI Centre of Excellence that is grounded 
+in an intentional, government-wide operating model that focuses on the development of 
+a strategic centre which is aligned to all constitutional obligations and local government 
+objectives.  This strategic centre is based upon three core pillars: technical capability for 
+resilience and scalability, value fulfilment engine, and a robust risk and compliance 
+structure. 
+5.1 Design the DDM AI Target Operating Model 
+To have a robust Target Operating Model (TOM), the following would need to be 
+established: a data science team to work closely with CoGTA, National Treasury, DDM, 
+SALGA and Local Government (as rolled out to each district or metropolitan area); a 
+Centre of Excellence at DDM, and an AI Governance Council with senior stakeholders 
+across government entities. 
+5.2 An AI Capabilities Assessment and Map 
+MacrocommAI will aid CoGTA, National Treasury, DDM, Provincial and Local Government 
+to assess and align their capabilities.   
+•No more quarterly reports. Live 
+dashboards make service delivery 
+transparent.
+Real-Time Visibility
+•Alerts before systems collapse allow for 
+preventative action.
+Early Intervention
+•Everyone works toward the same 
+measurable objectives.
+Unified Accountability
+•A single model applied across 
+municipalities for benchmarking.
+National 
+Standardisation
+•Residents see tangible, trackable proof 
+of delivery.
+Public Trust
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 13 | 15 
+ 
+5.3 Change Management and Communication Strategy 
+MacrocommAI will create clear, consistent and pertinent communication strategies to 
+ensure that all stakeholders are informed of the benefits and impact of this solution. 
+5.4 AI Target Operating Model: Centralised Hybrid TOM 
+To facilitate and enable the DDM for CoGTA and National Treasury, an AI Centralised TOM 
+is proposed with a hybrid of local government aligned hubs. 
+5.4.1 
+Centralised TOM 
+The starting point would be to build the Centralised TOM strength to ensure governance 
+oversight through a Centre of Excellence and a Portfolio Steering Committee that 
+oversees the Planning (where all government priorities, objectives and KPI are set and 
+managed), Building (solution development and project management) and Deployment 
+(Where the solutions are implemented and maintained).  
+5.4.1.1 Benefits 
+The benefits are effective long-term planning, strong oversight of finances and 
+governance, best practice and centralised technology solutions, economies of scale, 
+expertise development across government and cost effectiveness.   
+5.4.1.2 Downside 
+The downside to be managed are the potential silos that may occur between the teams 
+that plan, build and deploy, agility may be comprised, a one-size-fits-all approach across 
+all local government and slower decision making due to steering portfolio protocols. 
+5.4.2 
+Hybrid Local Government (Geographically) Aligned TOM 
+The second phase would be to add a sub-layer of local government aligned hubs where 
+there is a local government portfolio steering committee that provides the required 
+oversight and strategy to meet the needs, objectives and targets of that district or 
+metropolitan area. 
+5.4.2.1 Benefits 
+The benefit of building this hybrid alignment will be autonomy and agility regarding the 
+local government requirements and allow for dedicated local teams to ensure that all 
+service demands are met.   
+5.4.2.2 Downside 
+The downside is that this level of AI capability and maturity will need to be developed with 
+the required supporting processes, technology standards, demands collaboration and 
+strong communication to prevent loss of synergy and unnecessary complexity.   
+This will require upskilling and cross-learning across each area, continual reinforcement 
+of the bigger DDM AI Governance strategy, regular enforcement of standards to remove 
+
+ 
+ 
+ 
+ 
+MG-PPSL-AISMUNIC-COGTA 202508.03 MG SMART MUNICIPALITY PROPOSAL TO COGTA 
+Page 14 | 15 
+ 
+siloed technology architecture and awareness that initially it will be costly but if well 
+managed become cost effective and show returns.  
+5.4.3 
+Implementation Approach Proposed 
+Build the centralised operating model and parallel run the development of hybrid aligned 
+(geographical) operation model with those local governments (municipalities) that are 
+identified as being the most digitally inclined to adopt the Smart Municipality solution.   
+SALGA has identified Cape Town, Johannesburg, Tshwane, and eThekwini, as well as other 
+districts and municipalities such as Dr Kenneth Kaunda, Gert Sibande, O.R. Tambo, Pixley 
+ka Seme, Thabo Mofutsanyane, Umgungundlovu, Umzinyathi, and Vhembe as being 
+digitally inclined municipalities. 
+6 
+Timeline From Design to Implement 
+The timeline from Design to Implementation is assessed in a pre-audit assessment for 
+final solutioning and project plan design.   
+The timeline will be broken into three core phases of deliverables for review of 90, 180 
+and 270 days. 
+7 
+MacrocommAI Overview 
+Macrocomm Group is a leading IoT Company focussing on smart solutions driving 
+connected intelligence and driving upskilling to prepare South Africa for the Fifth 
+Industrial Revolution; the inclusion of people to ensure smart delivery across government 
+and re-earning public trust. 
+8 
+Conclusion 
+The Smart Municipality Solution, powered by MacrocommAI Unity©, is not just a system 
+upgrade, it’s a shift in service and governance culture.   Unity© placing data,  AI 
+capabilities and People at the centre of public accountability, empowering local 
+governments, all spheres of government and the DDM, to perform better, respond faster, 
+and serve smarter to meet the national objectives and public needs.   
+Together with CoGTA, MacrocommAI Unity© can redefine what "good governance" looks 
+like in South Africa and prove that municipalities can deliver and be managed effectively, 
+as well as rewin public trust.

@@ -1,0 +1,28 @@
+{
+  "name": "Macrocomm",
+  "logo_url": "/static/brand/icon16.png",         
+  "accent": "#ff6a00",
+  "primary": "#ffffff",                           
+  "on_primary": "#000000",
+  "bubble_bg": "#ff6a00",
+  "bubble_fg": "#ffffff",
+
+  "launcherText": "Ask Macro-Bot",                
+
+  "welcome": {
+    "title": "Hi! 👋 I’m Macro-Bot.",
+    "subtitle": "Ask me anything about company policies, procedures, HR or benefits — I’ll keep it smart and simple."
+  },
+
+  "colors": {
+    "primary": "#ffffff",
+    "accent": "#ff6a00"
+  },
+
+  "api": {
+    "chat": "/chat"
+  }
+}
+
+
+

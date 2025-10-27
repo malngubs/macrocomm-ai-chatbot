@@ -1,0 +1,401 @@
+Template Name 
+MG-HR-CPU-TEM 202410.00 
+ 
+ 
+Document name 
+MG-HR-CPU-POL 202410.02 
+Previous Name, if changed 
+MCG-CPU Rev:01 
+Description 
+MG-HR COMPANY PROPERTY USAGE POLICY 
+Revision No 
+02 
+Date of Revision 
+10 OCTOBER 2024 
+Date of Next Revision 
+N/A 
+Author 
+Yakshini Naidoo 
+Approver 
+Sivi Moodley 
+ 
+MG-HR-CPU-POL 202410.02 MG COMPANY USAGE POLICY 101024 
+Page 1 | 7 
+ 
+ 
+ 
+Document Name: 
+MG-HR-CPU-POL 202410.02 
+Updated on: 
+15 October 2023 
+Version: 
+02 
+Author: 
+Yakshini Naidoo 
+MACROCOMM 
+GROUP  
+COMPANY USAGE 
+POLICY 
+ 
+ 
+ 
+
+Template Name 
+MG-HR-CPU-TEM 202410.00 
+ 
+ 
+Document name 
+MG-HR-CPU-POL 202410.02 
+Previous Name, if changed 
+MCG-CPU Rev:01 
+Description 
+MG-HR COMPANY PROPERTY USAGE POLICY 
+Revision No 
+02 
+Date of Revision 
+10 OCTOBER 2024 
+Date of Next Revision 
+N/A 
+Author 
+Yakshini Naidoo 
+Approver 
+Sivi Moodley 
+ 
+MG-HR-CPU-POL 202410.02 MG COMPANY USAGE POLICY 101024 
+Page 2 | 7 
+ 
+DOCUMENT CONTROL 
+This provides information on the document version control and sign-off  
+DOCUMENT HISTORY 
+DOCUMENT NAME 
+VERSION 
+DATE 
+MCG-CPU REV:01 
+01 
+??? 
+MG-HR-CPU-POL 202410.02 
+02 
+10 OCT 24 
+DOCUMENT APPROVAL 
+DOCUMENT NAME.VERSION 
+MG-HR-CPU-POL 202410.02 
+CHANGES MADE 
+Reformatted into new template 
+STAKEHOLDER NAME AND DESIGNATION 
+SIGNATURE 
+DATE 
+Sivi 
+Moodley 
+(Macrocomm 
+Group 
+Chief 
+Executive Officer – 16.1) 
+ 
+ 
+Elton Chettiar (Macrocomm Group Chief 
+Operating Officer - 16.2) 
+ 
+ 
+Yakshini Naidoo (Macrocomm Group Human 
+Resources Director) 
+ 
+ 
+Ashok Sooklall (Macrocomm Group General 
+Manager: Procurement) 
+ 
+ 
+Kumaran 
+Govender 
+(Macrocomm 
+Group 
+Financial Manager) 
+ 
+ 
+Charlene van Onselen (Macrocomm Group 
+Business Optimisation Executive - Health and 
+Safety) 
+ 
+ 
+ 
+
+Template Name 
+MG-HR-CPU-TEM 202410.00 
+ 
+ 
+Document name 
+MG-HR-CPU-POL 202410.02 
+Previous Name, if changed 
+MCG-CPU Rev:01 
+Description 
+MG-HR COMPANY PROPERTY USAGE POLICY 
+Revision No 
+02 
+Date of Revision 
+10 OCTOBER 2024 
+Date of Next Revision 
+N/A 
+Author 
+Yakshini Naidoo 
+Approver 
+Sivi Moodley 
+ 
+MG-HR-CPU-POL 202410.02 MG COMPANY USAGE POLICY 101024 
+Page 3 | 7 
+ 
+TABLE OF CONTENTS 
+1 
+PURPOSE ................................................................................................................................. 4 
+1.1 
+RESPONSIBILITY AND AUTHORITY ..................................................................................................... 4 
+1.2 
+POLICY SCOPE ................................................................................................................................ 4 
+2 
+POLICY SUMMARY .................................................................................................................. 4 
+2.1 
+USE OF COMPANY VEHICLES ............................................................................................................ 5 
+2.2 
+USE AND DISSEMINATION OF COMPANY INFORMATION ..................................................................... 5 
+2.3 
+MONITORING OF NETWORK COMMUNICATIONS ............................................................................... 6 
+3 
+LOSS OR DAMAGE TO COMPANY PROPERTY ........................................................................ 6 
+3.1 
+UNAUTHORISED USE OF COMPANY PROPERTY ................................................................................... 6 
+3.2 
+LOSS OF COMPANY DEVICES – NO FAULT OF THE EMPLOYEE ............................................................... 7 
+3.3 
+STOLEN COMPANY VEHICLE ............................................................................................................. 7 
+ 
+ 
+ 
+
+Template Name 
+MG-HR-CPU-TEM 202410.00 
+ 
+ 
+Document name 
+MG-HR-CPU-POL 202410.02 
+Previous Name, if changed 
+MCG-CPU Rev:01 
+Description 
+MG-HR COMPANY PROPERTY USAGE POLICY 
+Revision No 
+02 
+Date of Revision 
+10 OCTOBER 2024 
+Date of Next Revision 
+N/A 
+Author 
+Yakshini Naidoo 
+Approver 
+Sivi Moodley 
+ 
+MG-HR-CPU-POL 202410.02 MG COMPANY USAGE POLICY 101024 
+Page 4 | 7 
+ 
+1 
+Purpose 
+Macrocomm has developed this policy to ensure that all company assets are 
+protected and used correctly for the scope its intended to. The purpose of this 
+policy is to ensure that all property maintained by Macrocomm is kept in the best 
+possible working condition and to ensure proper use of such property and 
+Macrocomm networks. 
+"Property," as the term is used in this policy, is defined as any piece of equipment, 
+furnishing, vehicle, building or supply leased, owned, donated or otherwise in the 
+custodial care of Macrocomm or any person acting as its agent. 
+No Macrocomm employee should expect any privacy on Macrocomm premises 
+or when using Macrocomm property or networks, except that which is required 
+by law. 
+1.1 Responsibility and Authority 
+Management will apply and enforce this policy to ensure a harmonious working 
+environment characterised by fairness and equality. Furthermore, it will be a joint 
+effort between management and employees to ensure that all employees are 
+aware of the company’s anti-discrimination policy and practices. The policy will be 
+accessible through various internal communication channels including, but not 
+limited to, the shared drive and hard copies. 
+1.2 Policy Scope 
+All Macrocomm Group permanent employees, including employees within 
+subsidiaries and service lines, and acquisition companies.  
+2 
+Policy summary 
+All Macrocomm employees must maintain their work environment in an orderly 
+fashion and follow all Macrocomm rules to ensure its proper use and 
+maintenance. 
+Any employee who is found to have neglected or misused Macrocomm property 
+will be subject to disciplinary action up to and including termination. If an 
+employee's misuse 
+of 
+Macrocomm’s property damages the property, 
+Macrocomm reserves the right to require the employee to pay all or part of the 
+cost to repair or replace the property. As per the company’s disciplinary code, 
+
+Template Name 
+MG-HR-CPU-TEM 202410.00 
+ 
+ 
+Document name 
+MG-HR-CPU-POL 202410.02 
+Previous Name, if changed 
+MCG-CPU Rev:01 
+Description 
+MG-HR COMPANY PROPERTY USAGE POLICY 
+Revision No 
+02 
+Date of Revision 
+10 OCTOBER 2024 
+Date of Next Revision 
+N/A 
+Author 
+Yakshini Naidoo 
+Approver 
+Sivi Moodley 
+ 
+MG-HR-CPU-POL 202410.02 MG COMPANY USAGE POLICY 101024 
+Page 5 | 7 
+ 
+misappropriation of Macrocomm property is grounds for immediate termination 
+and possible criminal action. 
+No employee may use Macrocomm property (including but not limited to 
+computers, telephones, cell phones, copiers, Internet services and printers) for 
+personal use unless specific permission has been granted by the employee's 
+department head. If such permission is granted, the employee will be responsible 
+for the care and return of the loaned property. Special care should be taken to 
+identify any concerns regarding its condition before the property is removed or 
+used by the employee for personal use. 
+2.1 Use of Company Vehicles 
+Any employee for whom driving is an essential job duty must be authorized and 
+approved by the General Manager to drive Macrocomm vehicles. It is the 
+responsibility of the employee driver of a Macrocomm vehicle to ensure that the 
+vehicle is in full operational condition before each use. The employee driver will 
+sign a vehicle log report noting any problems with, or damage to, the vehicle 
+before each use. Should the employee return the vehicle to the company with 
+damage to the vehicle, the vehicle log report will be used as support evidence of 
+the condition of the vehicle before it was used by the employee driver. Any vehicle 
+found to be unsafe will be removed from the operational fleet until appropriate 
+maintenance or repairs have occurred. 
+If an employee gets a speeding fine whilst driving a company vehicle, this will be 
+for the employee’s account. Information will be verified against the logbook for 
+the time period. The employee will be informed of the traffic violation and may 
+agree to a salary deduction or full payment of the fine, depending on the amount.  
+2.2 Use and Dissemination of Company Information 
+"Information," as the term is used in this policy, includes without limitation any 
+information owned or used by Macrocomm such as: 
+• 
+Any company employee, customer or client lists. 
+• 
+Any company database information, including addresses and 
+telephone numbers. 
+• 
+Any information from Macrocomm employee personnel files, including 
+employee addresses, telephone numbers, employment status and 
+salary information. 
+
+Template Name 
+MG-HR-CPU-TEM 202410.00 
+ 
+ 
+Document name 
+MG-HR-CPU-POL 202410.02 
+Previous Name, if changed 
+MCG-CPU Rev:01 
+Description 
+MG-HR COMPANY PROPERTY USAGE POLICY 
+Revision No 
+02 
+Date of Revision 
+10 OCTOBER 2024 
+Date of Next Revision 
+N/A 
+Author 
+Yakshini Naidoo 
+Approver 
+Sivi Moodley 
+ 
+MG-HR-CPU-POL 202410.02 MG COMPANY USAGE POLICY 101024 
+Page 6 | 7 
+ 
+• 
+Any photographs, videotapes and sound clips of any Macrocomm 
+employee, customer or client. 
+Only those employees who are authorized by Macrocomm’s board of directors or 
+executive team, or whose job description permits them to do so, may speak on 
+behalf of Macrocomm.  Notwithstanding the foregoing, specific permission from 
+Macrocomm’s board of directors or executive team will be required before any 
+employee may disseminate confidential information. 
+No employee may knowingly dispense such information to any outside party 
+unless authorization has been granted. This could include other employees who 
+do not have the right to know such information. Any breach will be considered a 
+violation of Macrocomm’s policy concerning confidentiality.  
+2.3 Monitoring of Network Communications 
+Macrocomm reserves the right to monitor at any time any communications that 
+use Macrocomm networks in any way, including data, voice mail, email, telephone 
+logs, Internet use and network traffic, to determine proper use. 
+Macrocomm will review network communications activity and will analyze use 
+patterns.  
+No employee may knowingly disable any network software or system identified 
+as a monitoring tool. 
+3 
+Loss or damage to company property 
+3.1 Unauthorised use of company property 
+The unauthorised use of company property may be a form of theft; however, the 
+offence is wider than theft in the technical sense because it does not require the 
+employee to have actually taken possession of the employer's property or 
+alternatively deprived the employer of use of that property. In the case of any 
+unauthorised use of company property which results in damage or loss, the full 
+retail value of the item will be deducted from the employee’s salary over an agreed 
+period of time. The employee will be required to complete the Macrocomm Loan 
+agreement, stipulating the payback period. The total amount of the debt will not 
+exceed the actual amount of the loss or damage.  
+The employee will also have the option to replace the device with a new device at 
+the same value. The make, model and spec of the device should be on par with 
+
+Template Name 
+MG-HR-CPU-TEM 202410.00 
+ 
+ 
+Document name 
+MG-HR-CPU-POL 202410.02 
+Previous Name, if changed 
+MCG-CPU Rev:01 
+Description 
+MG-HR COMPANY PROPERTY USAGE POLICY 
+Revision No 
+02 
+Date of Revision 
+10 OCTOBER 2024 
+Date of Next Revision 
+N/A 
+Author 
+Yakshini Naidoo 
+Approver 
+Sivi Moodley 
+ 
+MG-HR-CPU-POL 202410.02 MG COMPANY USAGE POLICY 101024 
+Page 7 | 7 
+ 
+the lost or broken device. The replacement device will become the property of 
+Macrocomm thereafter.  
+In the case of negligent behaviour, the standard disciplinary process will ensue to 
+address the breach of company rules.  
+In all cases where there is no clear admission of guilt, Macrocomm will follow a 
+fair procedure and give the employee a reasonable opportunity to show why the 
+deductions should not be made.  
+3.2 Loss of company devices – No fault of the employee 
+In the case of loss of a company asset due to no fault of the employee, the 
+company will replace the asset, on receipt of evidentiary support e.g. a valid police 
+case number. Replacement will be managed through the insurance process if 
+applicable.  
+Should an employee lose a company device for a second time during the 
+employment period, they will be liable for replacement of the device. If there was 
+a previous loss of any company device, the employee is liable for either 
+replacement of the new device or pay-back based on the amount initially paid by 
+the company. If the asset is insured, the employee will be liable for the insurance 
+excess payment for replacement of the device. 
+3.3 Stolen company vehicle 
+In the case of a company vehicle being stolen or written off, the company will 
+conclude its own investigation. Should the incident investigation show no fault of 
+the employee, the company will proceed with the standard process related to 
+insurance claims.  
+Should there be foul play suspected and/or proven, the company reserves its 
+rights to proceed with criminal charges, together with application of the 
+company’s disciplinary process.

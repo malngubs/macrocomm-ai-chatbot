@@ -1,0 +1,377 @@
+Document Name MG-FIN-PRO-RPFC 202509.00
+Previous Name, if changed N/A
+Description MG FINANCIAL DEPARTMENT RECEIPT OF PAYMENT FROM
+CUSTOMER PROCEDURE
+
+Revision No 03 Tacro
+
+Date of Revision 12 SEPTEMBER 2025 SMART MADE SIMPLE
+Date of Next Revision 12 SEPTEMBER 2027
+
+Author KAILAN MOODLEY
+
+Approver KUMARAN GOVENDER
+
+MACROCOMM GROUP (PTY) LTD
+RECEIPT OF PAYMENT FROM
+CUSTOMER PROCEDURE
+
+RECEIPT OF PAYMENT FROM CUSTOMER PROCEDURE
+
+Document Name: Version:
+MG-FIN-PRO-RPFC 202508.00 03
+
+Date: Author:
+
+12 SEPTEMBER 2025 KAILAN MOODLEY
+
+MG-FIN-PRO-RPFC 202509.03 MG FINANCIAL DEPARTMENT
+RECEIPT OF PAYMENT FROM CUSTOMER PROCEDURE Pg 1 of 8
+
+Document Name MG-FIN-PRO-RPFC 202509.00
+
+Previous Name, if changed N/A
+
+Description MG FINANCIAL DEPARTMENT RECEIPT OF PAYMENT FROM m~)
+P CUSTOMER PROCEDURE on
+
+Revision No 03 macroconmm
+
+Date of Revision 12 SEPTEMBER 2025 “ SMART MADE SIMPLE
+
+Date of Next Revision 12 SEPTEMBER 2027
+
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+
+Document Control
+
+Version Date Changes
+MG-FIN-PRO 202508.00 00 08/08/25
+MG-FIN-PRO 202508.00 01 11/08/25
+
+MG-FIN-PRO-RPFC 202508.00 02 19/08/25
+
+MG-FIN-PRO-RPFC 202509.00 03 12/09/25
+
+Document Sign-Off / Approval
+
+This is the formal sign-off for the Receipt of Payment from Customer procedure.
+
+Designation Signature
+
+MG-FIN-PRO-RPFC 202509.03 MG FINANCIAL DEPARTMENT
+RECEIPT OF PAYMENT FROM CUSTOMER PROCEDURE Pg 2 of 8
+
+Document Name MG-FIN-PRO-RPFC 202509.00
+Previous Name, if changed N/A
+MG FINANCIAL DEPARTMENT RECEIPT OF PAYMENT FROM
+
+Description CUSTOMER PROCEDURE CA \
+Revision No 03 ‘(mMmacroc giana
+Date of Revision 12 SEPTEMBER 2025 al SMART MADE SIMPLE
+Date of Next Revision 12 SEPTEMBER 2027
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+TABLE OF CONTENTS
+1 PROCEDURE DESCRIPTION AND PURPOSE .................ssccccccccsssscceecccccsssssssccccessssessccccessssesseees 4
+1.1 DESCRIPTION ....csscsssscsceccscssescseeseneescscescseseseeacsessesceeesenessceecacaeeassesaesesacaeesaesaeseeasaesssaeaeseeesaeeeeacees 4
+1.2 BENEFITS vo. sseescecescscesceescseesesceccscesesesccscnescsesscuescuecscsesacseseaesacscsaeseeasseeeeaeeaeseeesaeeeeaceeeaeeesaseeasets 4
+1.3. AREAS OF RESPONSIBILITY ......csssccssssessescscecesceecsceeescseescsenscsecsenesacsceecsesseseseeseuaescesaeeeeaceeeaseesaeeetacees 4
+1.4. RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES......sssssessesseseseeseeteees 4
+2 FINANCE MANAGEMENT PROCEDURE. ....................cccsssccceccccssssscescccccsscssssccccssssssscceceesssssseees 5
+2.1 PROCEDURE OBJECTIVES AND METRICS. .....ssssssssscsssseseescsceesceecscecescsessesesacseescaesaeseeasaesscaenaeseesseeeeaeees 5
+2.2 | PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S) ...s.cscescescscesccsceseeseeseecsessessesseeeeeeeessnessesseeseeasrenees 5
+3 = TYPICAL PROCEDURE INPUTS ...........eccccccctcerrstsssscssssssscscssssssceccecesesssccscecssssssccccsssssssssssseeees 5
+3.1 INFORMATION OR DOCUMENTS NEEDED......csssscsssseseescseeesceecscscescseesesesacaeecaesaesesesaesenesaeseeesseeesaeees 5
+3.2 RESOURCES NEEDED... sesceccesscesscssscescesscesscssscescesseesseessecssecssesssesesesesecesssesesesssessseseecsusceseceasonaasea 5
+3.3 PERSONNEL NEEDED uo... ceccescesscessccscescessecsscessceseeessecssecssecssesssecesesesesesssesssesssessseseecsuecsueceascnaacea 6
+3.4 PRECEDING PROCESSES/PROCEDURES ......ssssecsssseseeseseseescseesensesescacsessesceeescseacsesaceeesenesaceesaceeeaseeeases 6
+4 TYPICAL PROCEDURE OUTPUTS. ...............ccccsccccccsccscsssssssssssssssccesessssssssccccccsssssccssscssssssssssseeees 6
+41 TYPICAL OUTPUTS ARE..s.sccssesssesseseseescseeseneucescsccsescescseeacsessceesscueeaesesacsesacseescaesaeseeesseeaeaceaesceesaeseeasees 6
+4.2 TECHNICAL OR SYSTEM USED .....sasssssssessceesesesescceseesesceecscneaceecscneeacseesesesacsessenesassesesaeeasaeeesaeeeaeeees 6
+4.3 DOCUMENTS... ssesesescssesceecssecescseescscescseesesesaescsecsesaesceessenesceesseeeeacueeacsesacaesasnesacaesaeaesasaeeaeseeesaeeees 6
+4.4 ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS .....cssssesscssesseseeseesesescesecseeseesesseeeeseears 6
+5 THE RECEIPT OF PAYMENT FROM CUSTOMER PROCEDURE ................cccccccssssscseeccccsssseeeeees 7
+6 RISKS AND OPPORTUNITIES ...........ceecscssssccccsssesccccsssssssssssscsscesceesesssesssccccccsssssseccsscsssssssseseeees 8
+6.1 RISKS v.sscsssscssesescescncesesceecsescescseeseueaceeescsesseseeacsesseseeeesenescsesscacaesesaesenasaesasaeeaesceesaeeaeaceesaesesaeeeeacee® 8
+6.2 OPPORTUNITIES ..s.cessccssccsscesscesscesseessesssesesesssessseseseseseseseseseeeseseseecseecsaecsaecsuecsuecsascessseaseesseesseeseeenees 8
+7 — SUPPORT ...........ssssssssssssccsscsssseesscccssessssessssesssessscesscsesssseessessssesscsesssssseescssssssssssesssseesssessseeseses 8
+
+MG-FIN-PRO-RPFC 202509.03 MG FINANCIAL DEPARTMENT
+RECEIPT OF PAYMENT FROM CUSTOMER PROCEDURE Pg 3 0f 8
+
+Document Name MG-FIN-PRO-RPFC 202509.00
+Previous Name, if changed N/A
+
+on MG FINANCIAL DEPARTMENT RECEIPT OF PAYMENT FROM ~
+Description . \
+
+CUSTOMER PROCEDURE —s
+
+Revision No 03 ) macroc CATT |
+Date of Revision 12 SEPTEMBER 2025 7 SMART MADE SIMPLE
+Date of Next Revision 12 SEPTEMBER 2027
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+
+1 Procedure Description and Purpose
+
+The purpose of this Receipt of Payment from Customer procedure is to enable the
+Finance and Sales team to facilitate the customer through ordering, receiving an invoice,
+and processing payment of their respective order.
+
+1.1 Description
+
+This is the Standard procedure that the Finance and Sales team will follow to ensure
+that there is consistency in the receiving of payments from customers process which
+will, in turn, lead to:
+
+e customer satisfaction as this will be done in a timeous manner.
+e Improve profitability
+
+e Increase cash flow
+1.2 Benefits
+
+The benefit of this procedure is that the Finance and Sales teams can use it as a
+reference if there are any improvements that the team want to implement on the
+process to make it more efficient.
+
+1.3 Areas of Responsibility
+
+The Sales team receive a customer order and sends it to the Finance department.
+
+The Finance Administrator/Accountant (s) is responsible with processing the invoice of
+the customer.
+
+The Finance Administrator/Accountant (s) is responsible for receiving payment from the
+customer, update payment received on Sage.
+
+1.4 Relationship between this Procedure and other
+Procedures/Processes
+
+This procedure has a direct impact on the Procurement team as the customer order and
+invoice must be accurately captured for the Procurement team to obtain/release
+products needed by the customer.
+
+MG-FIN-PRO-RPFC 202509.03 MG FINANCIAL DEPARTMENT
+RECEIPT OF PAYMENT FROM CUSTOMER PROCEDURE Pg 4of8
+
+Document Name MG-FIN-PRO-RPFC 202509.00
+
+Previous Name, if changed N/A
+
+Description MG FINANCIAL DEPARTMENT RECEIPT OF PAYMENT FROM
+CUSTOMER PROCEDURE
+
+Revision No 03
+
+Date of Revision 12 SEPTEMBER 2025
+
+Date of Next Revision 12 SEPTEMBER 2027
+
+Author KAILAN MOODLEY
+
+Approver KUMARAN GOVENDER
+
+2 Finance Management Procedure
+
+2.1 Procedure Objectives and Metrics
+
+2.1.1. Procedure objectives
+
+e Receive the correct payment from customer
+
+2.1.2 Procedure Metrics
+Each objective of this procedure is measured according to the:
+
+e Correct customer order
+e Payment terms
+
+2.2 Procedure Owner(s) and Key Stakeholder(s)
+
+2.2.1. Procedure Owner
+
+The Finance Head & team and Sales Head are responsible for ensuring that the Receipt
+of Payment from Customer procedure is complied with by all parties involved.
+
+2.2.2 Key Stakeholders
+The key stakeholders are all the department heads within the group.
+
+3 Typical Procedure Inputs
+The typical procedure inputs are:
+3.1. Information or Documents Needed
+
+The following information or documents are necessary for effective measuring and
+enabling of the Receipt of Payment from Customer procedure:
+
+e Customer order
+e Customer invoice
+
+3.2 Resources Needed
+
+The following resources are needed to support this procedure:
+
+e None
+
+MG-FIN-PRO-RPFC 202509.03 MG FINANCIAL DEPARTMENT
+
+RECEIPT OF PAYMENT FROM CUSTOMER PROCEDURE Pg 50f8
+
+Document Name MG-FIN-PRO-RPFC 202509.00
+Previous Name, if changed N/A
+
+on MG FINANCIAL DEPARTMENT RECEIPT OF PAYMENT FROM ~
+Description . \
+
+CUSTOMER PROCEDURE —s
+
+Revision No 03 ) macroc CATT |
+Date of Revision 12 SEPTEMBER 2025 7 SMART MADE SIMPLE
+Date of Next Revision 12 SEPTEMBER 2027
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+
+3.3 Personnel Needed
+
+The Salesperson and Finance Administrator/Accountant (s).
+
+3.4 Preceding Processes/Procedures
+
+Purchase Order Generation process, Generic Ordering process, Generic Stock-in process,
+Generic Stock-out process, Delivery Upliftment process, Customer Returns (and
+replacements) process to Manufacturer, Delivery Rejection process, Generic Supplier
+Invoice loading process, Payment Scheduling and Processing process, Customer Invoice
+process, and the Bank Statement Reconciliation process, and New Customer Loading into
+Sage process.
+
+4 Typical Procedure Outputs
+The following outputs:
+4.1 Typical outputs are
+e Payment from the customer
+4.2 Technical or System used
+e Sage
+4.3 Documents
+e Bank statement
+4.4 Enablement or Operationalisation of Another Process
+
+The Sales department drives the Finance team to complete the customer's invoice and
+sends it to the customer.
+
+The Finance Head/Admin prompts the customer to pay should the customer not meet
+terms agreed upon.
+
+This process will enable the Procurement team to supply the customer with their
+respective products.
+
+MG-FIN-PRO-RPFC 202509.03 MG FINANCIAL DEPARTMENT
+RECEIPT OF PAYMENT FROM CUSTOMER PROCEDURE Pg 60f 8
+
+Document Name
+
+Previous Name, if changed N/A
+
+MG-FIN-PRO-RPFC 202509.00
+
+MG FINANCIAL DEPARTMENT RECEIPT OF PAYMENT FROM
+
+Description CUSTOMER PROCEDURE Cp\ |
+
+Revision No 03 ‘Macroc . laa
+Date of Revision 12 SEPTEMBER 2025 wy SMART MADE SIMPLE
+Date of Next Revision 12 SEPTEMBER 2027
+
+Author
+
+KAILAN MOODLEY
+
+Approver
+
+KUMARAN GOVENDER
+
+5 The Receipt of Payment from Customer procedure
+
+5.1 Payment Notification
+
+For cash-upfront transactions, the customer provides proof of payment
+(POP) to both the Sales Department and the Finance Department.
+
+5.2 Payment Confirmation
+
+The Finance Administrator/Accountant verifies with the General Manager
+that the payment has been received in the company’s bank account.
+
+The General Manager provides the Finance Administrator/Accountant
+with the relevant bank statement reflecting the payment.
+
+5.3 Processing in Pastel
+
+The Finance Administrator/Accountant logs into Pastel.
+
+e Select Process, cash book, process cash books, select the relevant
+account and ensure that the bank statement is in a CSV file format.
+It is also important to ensure that the bank statement is in the
+relevant format i.e date, description, amount then select pastel
+bank manager and upload.
+
+e The payment is allocated to the correct customer account and
+matched against the corresponding invoice.
+
+e Once this process is complete, the bank account is updated in
+
+Pastel, and a system backup is performed to ensure data integrity.
+
+5.4 Payments on Credit Terms
+
+e For customers with 30-day payment terms, the Finance
+Administrator/Accountant updates the bank records at the end of
+the month.
+
+e Anupdated customer statement, reflecting the payment made, is
+then sent to the customer.
+
+MG-FIN-PRO-RPFC 202509.03 MG FINANCIAL DEPARTMENT
+
+RECEIPT OF PAYMENT FROM CUSTOMER PROCEDURE Pg 7 of 8
+
+Document Name
+Previous Name, if changed N/A
+
+on MG FINANCIAL DEPARTMENT RECEIPT OF PAYMENT FROM m~)
+Description
+
+CUSTOMER PROCEDURE 4
+
+Revision No 03 “macrocomm
+Date of Revision 12 SEPTEMBER 2025 a SMART MADE SIMPLE
+Date of Next Revision
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+
+6 Risks and Opportunities
+
+6.1 Risks
+
+The following risks have been identified:
+
+BUSINESS IMPACT MITIGATION ACTIONS
+Non-payment Cash flow loses Have a good debt collection policy
+profitability
+
+6.2 Opportunities
+
+The following opportunities table will used to help improve the procedure and
+processes to for greater Finance efficacies.
+
+PROCESS/PROCEDURE AMENDMENT,
+
+OPPORTUNITY BUSINESS IMPACT TRAINING REQUIREMENT
+
+7 Support
+
+If there are any queries or problems regarding the Receipt of Payment from Customer
+procedure, contact the Finance Head, Finance Administrator/Accountant (s) (s), or Sales
+team.
+
+MG-FIN-PRO-RPFC 202509.03 MG FINANCIAL DEPARTMENT
+RECEIPT OF PAYMENT FROM CUSTOMER PROCEDURE Pg 8 of 8

@@ -1,0 +1,484 @@
+Document Name 
+MG-FIN-PRO-PSP 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT PAYMENT SCHEDULE 
+PROCESSING PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-PSP 202509.03 MG FINANCIAL DEPARTMENT  
+PAYMENT SCHEDULE AND PROCESSING PROCEDURE 
+Pg 1 of 8 
+ 
+MACROCOMM GROUP (PTY) LTD 
+FINANCE PROCEDURE  
+PAYMENT SCHEDULE AND PROCESSING PROCEDURE 
+Document Name: 
+MG-FIN-PRO-PSP 202508.03 
+Version: 
+03 
+Date: 
+12 SEPTEMBER 2025 
+Author: 
+KAILAN MOODLEY 
+ 
+ 
+
+Document Name 
+MG-FIN-PRO-PSP 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT PAYMENT SCHEDULE 
+PROCESSING PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-PSP 202509.03 MG FINANCIAL DEPARTMENT  
+PAYMENT SCHEDULE AND PROCESSING PROCEDURE 
+Pg 2 of 8 
+ 
+Document Control 
+Name 
+Version 
+Date 
+Changes 
+MG-FIN-PRO 202508.00 
+00 
+08/08/25 
+ 
+MG-FIN-PRO 202508.00 
+01 
+11/08/25 
+ 
+MG-FIN-PRO-PSP 202508.00 
+02 
+19/08/25 
+ 
+MG-FIN-PRO-PSP 202508.00 
+03 
+12/09/25 
+ 
+ 
+ 
+ 
+ 
+Document Sign-Off / Approval 
+This is the formal sign-off for the Payment Schedule and Processing procedure. 
+Name 
+Designation 
+Date 
+Signature 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Document Name 
+MG-FIN-PRO-PSP 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT PAYMENT SCHEDULE 
+PROCESSING PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-PSP 202509.03 MG FINANCIAL DEPARTMENT  
+PAYMENT SCHEDULE AND PROCESSING PROCEDURE 
+Pg 3 of 8 
+ 
+ 
+TABLE OF CONTENTS 
+1 
+PROCEDURE DESCRIPTION AND PURPOSE ........................................................................... 4 
+1.1 
+DESCRIPTION ................................................................................................................................ 4 
+1.2 
+BENEFITS ...................................................................................................................................... 4 
+1.3 
+AREAS OF RESPONSIBILITY .............................................................................................................. 4 
+1.4 
+RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ................................ 5 
+2 
+FINANCE MANAGEMENT PROCEDURE .................................................................................. 5 
+2.1 
+PROCEDURE OBJECTIVES AND METRICS ............................................................................................ 5 
+2.2 
+PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S) ........................................................................... 5 
+3 
+TYPICAL PROCEDURE INPUTS ................................................................................................ 5 
+3.1 
+INFORMATION OR DOCUMENTS NEEDED .......................................................................................... 6 
+3.2 
+RESOURCES NEEDED ...................................................................................................................... 6 
+3.3 
+PERSONNEL NEEDED ..................................................................................................................... 6 
+3.4 
+PRECEDING PROCESSES/PROCEDURES ............................................................................................. 6 
+4 
+TYPICAL PROCEDURE OUTPUTS ............................................................................................. 6 
+4.1 
+TYPICAL OUTPUTS ARE .................................................................................................................... 6 
+4.2 
+TECHNICAL OR SYSTEM USED ........................................................................................................... 6 
+4.3 
+DOCUMENTS ................................................................................................................................. 7 
+4.4 
+ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS ......................................................... 7 
+5 
+THE PAYMENT SCHEDULE AND PROCESSING PROCESS ....................................................... 7 
+6 
+RISKS AND OPPORTUNITIES .................................................................................................. 8 
+6.1 
+RISKS ........................................................................................................................................... 8 
+6.2 
+OPPORTUNITIES ............................................................................................................................ 8 
+7 
+SUPPORT ................................................................................................................................. 8 
+ 
+ 
+ 
+ 
+
+Document Name 
+MG-FIN-PRO-PSP 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT PAYMENT SCHEDULE 
+PROCESSING PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-PSP 202509.03 MG FINANCIAL DEPARTMENT  
+PAYMENT SCHEDULE AND PROCESSING PROCEDURE 
+Pg 4 of 8 
+ 
+1 Procedure Description and Purpose 
+The purpose of this Payment Schedule and Processing procedure is to enable the Finance 
+department to effectively schedule and process a payment (s) to suppliers. 
+1.1 Description 
+This is the standard procedure for the Finance department to follow so that there will be 
+consistency in the process of Payment Schedule and Processing procedure. 
+1.2 Benefits 
+The benefit of this procedure is that the Finance department will use this procedure as a 
+reference to guide them whenever there is a payment to be scheduled and processed to 
+a supplier. 
+They can refer to this procedure to make improvements in the process to make it more 
+efficient. 
+1.3 Areas of Responsibility 
+The Finance Administrator/Accountants (s) is accountable for completing the payment 
+requisition form and filling it with information matching the supplier invoice, printing out 
+the payment requisition form and proof of payment (POP), then attaching it to the 
+Supplier invoice/statement. 
+The Finance Administrator/Accountants (s) is accountable for authorising the payment 
+requisition, adds the payment requisition to payment schedule (MG-FIN-FRM-
+PMT202509.00) by filling in the supplier’s name and current amount owed.  
+The Finance Head confirms the payment schedule for month-end payments, presents 
+them to the CEO for Amendments and/or Authorisation.  
+The Finance Head is responsible for the Supplier payment process and sends the proof 
+of payment to the respective supplier, when requested by the supplier. 
+The CEO revises the amount payable to supplier for the month entered in the revised 
+amount column.  
+The General Manager is responsible for approving/releasing payments due to suppliers. 
+
+Document Name 
+MG-FIN-PRO-PSP 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT PAYMENT SCHEDULE 
+PROCESSING PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-PSP 202509.03 MG FINANCIAL DEPARTMENT  
+PAYMENT SCHEDULE AND PROCESSING PROCEDURE 
+Pg 5 of 8 
+ 
+1.4 Relationship between this Procedure and other 
+Procedures/Processes 
+This procedure has an impact and direct relationship with Procurement department 
+and/or other departments within the organisation (depending on which department 
+requests a payment). 
+2 Finance Management Procedure 
+2.1 Procedure Objectives and Metrics 
+2.1.1 Procedure objectives: 
+• 
+Get authority from Finance Head regarding payment requisition with attachments 
+• 
+Get Authority from the CEO regarding the confirmation of the payment schedule 
+for month-end payments. 
+2.1.2 Procedure Metrics: 
+Each objective of this procedure is measured according to the: 
+• 
+Ensure there are no errors in the supplier sub-ledger and payment requisition 
+printouts which are attached to the supplier invoice/statement 
+• 
+Data on the payment schedule must be accurate 
+2.2 Procedure Owner(s) and Key Stakeholder(s) 
+2.2.1 Procedure Owner 
+The procedure owner is the Finance Head to ensure that procedures are adhered to and 
+that the metrics are set as well as met. 
+2.2.2 Key Stakeholders 
+The key stakeholders for this procedure are the Finance team, Finance Head, General 
+Manager, and the CEO. 
+3 Typical Procedure Inputs 
+The typical procedure inputs are: 
+
+Document Name 
+MG-FIN-PRO-PSP 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT PAYMENT SCHEDULE 
+PROCESSING PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-PSP 202509.03 MG FINANCIAL DEPARTMENT  
+PAYMENT SCHEDULE AND PROCESSING PROCEDURE 
+Pg 6 of 8 
+ 
+3.1 Information or Documents Needed 
+The following information or documents are necessary for effective measuring and 
+enabling of the Payment Schedule and Processing procedure:  
+• 
+Supplier Invoice/Statement 
+• 
+Amount payable to supplier 
+ 
+3.2 Resources Needed 
+The following resources are needed to support this procedure: 
+• 
+Payment requisition form 
+• 
+Payment Schedule  
+3.3 Personnel Needed 
+The team which consists of Finance Administrator/Accountant (s), Finance Head, the 
+General Manager, and the CEO. 
+3.4 Preceding Processes/Procedures 
+Purchase Order Generation process, Generic Ordering process, Generic Stock-in process, 
+Generic Stock-out process, Delivery Upliftment process, Customer Returns (and 
+replacements) process to Manufacturer, Delivery Rejection process, and Supplier Invoice 
+Loading process. 
+4 Typical Procedure Outputs 
+The following outputs: 
+4.1 Typical outputs are 
+• 
+Proof of Payment to supplier 
+4.2 Technical or system used 
+• 
+Sage 
+• 
+Excel 
+
+Document Name 
+MG-FIN-PRO-PSP 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT PAYMENT SCHEDULE 
+PROCESSING PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-PSP 202509.03 MG FINANCIAL DEPARTMENT  
+PAYMENT SCHEDULE AND PROCESSING PROCEDURE 
+Pg 7 of 8 
+ 
+4.3 Documents 
+• 
+Proof of Payment to Supplier 
+• 
+Signed payment requisition form (once payment is done)  
+4.4 Enablement or Operationalisation of Another Process 
+The Finance Head drives the Finance Administrator/Accountant (s) to submit accurate 
+payment requisition with attachments so that it can be added it to the payment schedule. 
+The Finance Head presents the figures to the CEO to ensure that all the figures are 
+accurate.  
+The Finance Head prompts the General Manager to release payments after they are 
+authorised by the CEO. 
+5 The Payment Schedule and Processing process 
+• 
+The supplier will send invoices and statements via email to the Accounts 
+department. 
+• 
+The financial administrator/Accountant that is responsible for the division 
+that the invoice relates to will print a copy of the invoice and statement, 
+then proceed to add the payment-to the payment schedule. 
+• 
+This schedule will include the name of the supplier; the invoice amounts as 
+well as the amount reflected in the statement. It will also include the period 
+that the payment is for as well as a column for any comments for revisions 
+to be made. 
+• 
+On the physical copy of the invoice, the financial administrator/Accountant 
+will write the Pastel invoice number, GL account number and stamp the 
+physical copy with a posted stamp. 
+• 
+The physical copy of an invoice is stapled with the payment requisition and 
+POP once it has been paid. 
+• 
+Then file debtors according to the alphabet. 
+ 
+ 
+ 
+ 
+ 
+
+Document Name 
+MG-FIN-PRO-PSP 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT PAYMENT SCHEDULE 
+PROCESSING PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-PSP 202509.03 MG FINANCIAL DEPARTMENT  
+PAYMENT SCHEDULE AND PROCESSING PROCEDURE 
+Pg 8 of 8 
+ 
+6 Risks and Opportunities 
+6.1 Risks 
+The following risks have been identified: 
+RISK 
+BUSINESS IMPACT 
+MITIGATION ACTIONS 
+Incorrect/missed 
+payments 
+Cash flow shortages due to 
+incorrect payments 
+ 
+Late payments may cause 
+interest to be charged on 
+overdue account 
+Always double-check amount paid to 
+supplier (s) 
+ 
+Endure that all suppliers are paid on 
+time 
+Fraudulent payments 
+Unnecessary outflow of 
+economic resources 
+Train staff on consequences of 
+fraudulent payments 
+ 
+6.2 Opportunities 
+The following opportunities table will used to help improve the procedure and 
+processes to for greater Finance efficacies. 
+OPPORTUNITY 
+BUSINESS IMPACT 
+PROCESS/PROCEDURE AMENDMENT, 
+TRAINING REQUIREMENT  
+ 
+ 
+ 
+ 
+7 Support 
+If there are any queries or problems regarding the Payment Schedule and Processing 
+procedure, contact the Finance Head or Finance Administrator/Accountants (s).

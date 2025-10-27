@@ -1,0 +1,486 @@
+macrocomm
+
+SMART MADE SIMPLE
+
+Macrocomm Fleet Analytics - Systems & Solutions Overview
+
+Introduction
+
+Macrocomm Fleet Analytics is a pioneering leader in the realm of fleet management,
+redefining industry standards through the delivery of cutting-edge data analytics. We
+specialise in delivering comprehensive fleet management solutions that transcend
+traditional commercial offerings. Our innovative approach leverages data analytics,
+accurate costing data, and trip information derived from telematics devices to empower
+businesses with unparalleled insights into their fleet operations.
+
+Five years in development and benefiting from nearly seven years of machine learning,
+launched in February 2018, our fleet analytics system has found favour in the commercial
+fleet sector where we now manage fleets, ranging from three vehicles to over six thousand
+vehicles in size, for numerous clients from SMMEs through to large corporates.
+
+Core to successes is our ability to integrate data from myriad sources, seamlessly.
+Stemming from the birth of our platform/unit agnostic Fleet Analytics product, we have
+fine-tuned the art of data cleansing, aggregation, normalisation and presentation, as well
+as advanced systems integration.
+
+As dedicated fleet specialists, our agile development team delivers bespoke, dashboard-
+style representations of key metrics and actionable insights, enhanced by targeted
+customised reporting, designed in conjunction with each client.
+
+& Sean Hardman
+
+macrocomm 2024-05-01 to 2024-05-31 a All Cost Centers ~ _AltRegistrations
+Distance Travelled Trip Duration Speed Duration/Cost Excess Idle Duration High Risk Trips After Hours Distance/Cost
+aN i : tT — >
+(vo — aN wi an 1]
+{ CS) ( } (7) >< / \7 ((
+YX V/ \ ] Oo / f~( Ly) / { EN
+VW? NZ ans ar, CoN 7
+
+166270.2 km 4127:23:42 25:22:00 00:00:00 134 44193.0 km
+R 742 687.96 R 3063.51 RO R 195 981.9
+
+Acceleration Score | @ Afterhours Score 4 @ | Braking Score + @ Cornering Score 4 @ Speeding Score 4 @ Total Score + i)
+
+woby vobog voy vob vob
+\ 40 3% go y \ 40 60 y s 40 3 60 + s 40 8 oy v.40 3% 6 \ 40 3 69 7
+30 70 30 70 30 70 30 70 30 70 30 70
+“20 20% S20 20% S20 20% S20 807 S20 80% S20 80
+
+{>” 90 - (-" 90 - {>” 20 {-” w- {-” 90- (-" 90
+=o 100 — © =o 100 = 8 ° 100 = 8 =o 100 = © =o 100 = © =o 100 = &
+Acceleration After hours Braking Cornenng Speeding Total
+100% 97.9% 98.8% 100% 82.2% 95.8%
+
+2|Page
+
+macro
+
+SMART MADE SIMPLE
+
+EEE EEE E TEESE SESE OT OESESESES TOSS DOSS ESTSESSSSSSO OOO OSSTSSSSSES SOOO OSTOSSSESESSS LSS OOS SSISESESES SSO OOSSSSSESESES SOOO TTSSTSTSSSESSSSITEO 1
+DICFOGUCTION oes eeeesesesesesesesenenenenenssesessseseseseueeeesesnscenseecaeacacacacacasacacacacaesseeeeeeeeesnsnenenatenenatatatatasaeaeaeneneees 2
+Macrocomm Fleet Analytics... cecccccssceceseeseeseseseseeeeecseseeeeececseeeeecaeseeeseeseneeecaeaeeesesaeaeeeeesaeaeeeesaeaeereetaes 4
+Fleet AnalyticS OVErVICW! 0. ecceessssssseseseseseeeeeceseeeseseeeseeeseasaeacacacaeseesuseseseeeeeeteneeenenenenseatatatatataeaeaeneneeed 4
+DIStINCtIVE FEATULES? ee eee ee eseteeseeeseseeeeecseseeeecscsesesevscaseesacaeeseavacaeeesesseaseesevacaeeetesseaseneevaeaseeteraeates 4
+Data-Driven Decision Making)... ceeeeecsseceseseseeesesesesesenenessteseseseseseseeeeeetseenenenseetatasaeataeasaeaeneneees 4
+Driver Behaviour Analytics: cceeesesssececssesesesssssesesesesssesssensseseseseseseeeeeeneeenesenesetatasasasaeaeieneneneees 4
+Actionable INSIQNtS: oo... ce ceseseeseeteetsteetseseseseeeeeeteeeneesescasaeseaensasaeaseeeeseeeeeeeensessenenenatatatatataeaeneneees 5
+Customised Financial and Operational REPOrts: ......eeseseseseseseeeeeeeeeeeeeseeseeeeeenenenenenenenees 5
+Platform Agnostic Telematics Data Harvesting)... ccsstsssseseeeeeeeseeeessseeseetetasaseaeseneeneses 5
+
+Key BeMefits: ne eeceeseeseesesessseeseseseseseseseeeecseeeseseseseseseaeaeaeasaeasasesseseseseeeeteeensneneneneeaeatatatataeaeaeneneeed 5
+COSt SAVINGS? ooo. eee eeseseeeeseseeeeeseseseeesscssseeecacseseesacaesesasaeseeevacaceeesasaeeeeesacaeeesesasaseeeeraeaeeesesseaseneetacs 5
+Enhanced Safety? a... sscseseseetsssstsseseseseeseeseeeesessessessesssesseseseseseseseeeseeeesecesesereeetetasasaeaeaeaeneneneees 6
+Optimised Efficiency and Streamlined Operations: oo... eeeeseseeeeeeeeeeeeeeeeeeeeseeeeeeneteneneneneees 6
+Fleet ANALYTICS SUMIM ALY! ce eeeeststssstsesteeseeeeeeeeeseeeseseeeseetstaeaeacacacaeaeuseseeeseeeeeeteeeeenenenanseatatatatataeaeneneneees 7
+MaACrOcOMM SMart FICC... ceeesesessseseeeeeeeseseseeeeesessseeceeseaeaeaeseaeseseeeseeeeeeeeeeeeneeenenetetataeataeasaeaeneneneees 7
+Fleet Management OVErViCW? oc ceeseseseseceeesesesesesesesesesesensnsnensseseseseseetetetetetenenenetesatatataeataeaeaeneneees 7
+TelematticS UNits: ne  ceeseeseseeseeeeeteeseseseseeeeeeeseenseseseseseneaeasasueaseeeeseeeenseenseseenenatanacatatasaeaeneneees 8
+Smart Fleet Management Platform: 0... eeseseseseseseeteeeseeeeseeeseeeeeeeesseeseeeeseaeseaeaeseseasasaseeeeeeeeeeees 9
+Map ViICW NAVIZATION? oe eee eeseteeeeseseeeeesscsesseececscseesecaeaeecaeaseevavaceesesesaeaseetavaceseesesaeaseetevacaeeeees 9
+User CUStOMISADIE VIOW! 0... eeeeeseseseseseseeeeeeeseeeseseseseatseseacaeacaeaeseseseeeseetetenetenenetenetatasatatataeaeeeneneees 9
+REPOrting FUNCCIONS! oo. eee esenseeeeeseeeeeesseseeeeecseseeesecsesseecacseeeeevacaeeesesaeaseesevacaeeeeesacaseneevacaeenses 10
+Trip Mistory AN PlayDack? cc ceeseseeeseseseeeeeeeseseeeseseseseseaeacaeaeseseeseseseeeeeeneteeeeenstetatatatateeeesenened 10
+Alerts (managing Dy CXxCeption): cc ceeceseeceseseseeesesesesesseessseseseseeeeeeeenetetstenetetasataeaeaeeeneneees 10
+Additional FUNCtIONS! oc cecetesetetetetsteteeseeeeeeeeeeeeesneesessacaeaeaeseaeuseeseeeseeeeeenenenenenanetatatatataeaeneneees 11
+
+API CAPADIItiSS? eee eeseeseneseseneseeeeeeeseeeeeeeeeeneneeseseseaeaeaeasasusueeseeeseeeeeeneneneeenetatatatatateeaeaenened 11
+ANCrOid Appt... eseececesesesesesesesesesesesesesssssesseseseeeeeseececacseseaesesensasasasusesseeeseeeeeenenensnensnatatasatataeaeneneae 11
+Fleet ManageMent SUMIMALY: oc ceesessseeeesteesesesesesesenesesensneeseseseseseseetetetenenensteneratataeataeaeaeneneneey 12
+
+3|Page
+
+Macrocomm
+
+SMART MADE SIMPLE
+
+Macrocomm Fleet Analytics
+
+Fleet Analytics Overview:
+
+Fleet Analytics revolves around delivering actionable insights to a fleet owner/manager. By
+establishing the base of ‘to-the-cent accurate total cost of ownership’ (TCO) and then
+identifying potential revenue enhancements, we empower fleet owners with an
+optimisation tool that positively impacts on overall efficiencies and resultant running costs.
+
+Distinctive Features:
+
+At Macrocomm, we stand head and shoulders above the competition by harnessing the
+power of data analytics to reveal actionable insights aimed at optimising efficiency and
+minimising running costs.
+
+Data-Driven Decision Making:
+
+We prioritise informed decision-making by leveraging the wealth of data generated by
+telematics devices, along with all costing data attributable to the fleet, processed by our
+advanced Al-based analytics engine, to form the foundation for a comprehensive
+understanding of fleet performance.
+
+Maintenance PK by Model 12
+
+> peo 2FP + D
+
+Driver Behaviour Analytics:
+
+Our expertise extends beyond conventional fleet management, as we specialise in
+identifying and rectifying suboptimal driver behaviour. By analysing driver behaviour data,
+we assist businesses in cultivating safe, efficient, and cost-effective driving practices,
+ultimately leading to substantial reductions in fleet running costs.
+
+4|Page
+
+macro
+
+SMART MADE SIMPLE
+
+Macrocomm takes data analysis to the next level by translating raw data into actionable
+insights. Our web-based dashboard offers real-time visualizations and reports, enabling
+fleet managers to monitor and optimise operations seamlessly. This dashboard serves as a
+central hub for monitoring various metrics, including fuel efficiency, maintenance needs,
+and driver performance.
+
+We understand that each business has unique operational requirements. Macrocomm
+delivers customised financial and operational reports tailored to the specific needs of our
+clients. These reports provide a comprehensive overview of fleet performance, running
+costs and wasteful/unnecessary expenditure, enabling businesses to make informed
+strategic decisions.
+
+Through automated data harvesting from foreign platforms, we have created an
+environment that allows the implementation of the Macrocomm Fleet Analytics system
+using existing telematics devices. As such, implementation of the system is without
+physically touching vehicles, resulting in speedy and non-disruptive roll-out.
+
+Through accurate costing data and driver behaviour analytics, Macrocomm empowers
+businesses to implement measures that significantly reduce fleet running costs, enhancing
+overall profitability.
+
+ft
+
+Fleet No = — Registration = Amount = — #of Transactions a Vehicle Type Fleet Number Format = Count a
+
+5|Page
+
+Nnacrocomm
+
+SMART MADE SIMPLE
+
+Enhanced Safety:
+
+Our driver behaviour analytics focus not only on cost reduction but also on safety
+enhancement. By addressing risky driving behaviours, we contribute to creating a safer
+driving environment for both drivers and the public.
+
+ed 0
+
+- Setected Date Se‘ect Cost Center(s) 55 Select Ragistration(s} 124 ree
+Ghacrocomm zo2407 91102240020 6 All Cost Centers * —_ AlRegistrations + [seo & Sean Herdmen
+TN
+
+Drivers Dashboard
+
+| Map Satelite |
+
+Optimised Efficiency and Streamlined Operations:
+
+Our solutions go beyond basic fleet management, optimising operational efficiency
+through data-driven insights. This leads to better resource allocation, improved route
+planning, and reduced vehicle downtime.
+
+The web-based dashboard centralises fleet data, streamlining the monitoring and
+management of operations. This real-time visibility leads to more proactive decision-
+making and quicker responses to emerging issues.
+
+ft
+= Ooo ste | Current Selection
+Ry Ra a m4
+B Cost Savings Mileage Fuel Card Transactions
+tn se nm oa
+: a
+7
+a0
+
+a n
+‘
+i
+;
+3
+a
+a
+
+Statistical Outliers Vehicles In Fleet @ Commercial) 23:s21-3¢: oe
+
+bp O6 &@
+
+6|Page
+
+Mmacrocomm
+
+a“ SMART MADE SIMPLE
+
+Fleet analytics summary:
+
+Macrocomm Fleet Analytics is at the forefront of fleet management evolution, leveraging
+data analytics and telematics devices to provide businesses with unparalleled insights into
+their operations. Our commitment to accurate costing data, driver behaviour analytics, and
+actionable insights sets us apart as a game-changer in the industry. Through our
+customised reports and web-based dashboard, we empower businesses to take control of
+their fleet operations, reduce costs, enhance safety, and optimise efficiency.
+
+~~ elected Date Range Select Cost Center(s): 17 Select Registration(s) 65
+ann -
+“\macrocomm 2024-05-0) to 2024-05-3) 6 All Cost Centers All Registrations
+
+Total Cost Fuel Spend Fuel Volume Maintenance Tolls: Leases
+
+Total Cost Total Fuel Spend Total Fuel Volume Total Maintenance Total Tolts Total Leases.
+
+VENDOR REGISTRATION AREA LITRES TRANSACTION COST TRANSACTION TYPE CARD TYPE TRANSACTION NUMBER TRANSACTION DATE
+
+Macrocomm Smart Fleet
+
+Fleet Management Overview:
+
+Macrocomm Smart Fleet is a fleet management platform facilitating remote eyes-on-fleet
+through a combination of an intuitive PC-based and Android-based tracking platform
+informed by a range of basics to advanced telematics units. Whether monitoring via the
+web-app or mobile-app, access to the platform is from anywhere on the planet with
+internet connectivity.
+
+7|Page
+
+WV nacrocomm
+
+SMART MADE SIMPLE
+
+Telematics Units:
+
+Our telematics offerings start from basic tracking capabilities (dot-
+On-a-map) and top out at sophisticated units capable of monitoring
+multiple sensors, including but not limited to, fuel, door open/close,
+tyre pressure, cargo hold temperature/humidity/door status and
+CANBUS information.
+
+Superior edge computing, across the entire range of units,
+facilitates onboard processing of geo-zone, driver ID, GPS speed
+and 3-axis accelerometer data, adding to the efficiency in
+transmission of the abundance of data pushed to the servers. Further data processing at
+server level surrounding customised sensors, alerts and business rules (amongst many
+more metrics) feed the user interface.
+
+DATA DATA
+
+8|Page
+
+“macro
+
+SMART MADE SIMPLE
+
+The feature rich, web-based, Smart Fleet Platform is an intuitive and user-friendly
+management/viewing platform facilitating a dot-on-the-map view along with location data,
+a host of management tools and numerous reporting functions.
+
+preto, Ana" +
+
+2 ; ©) -
+Tyre P rY - v
+Remote T ° 6
+B31RS: *
+
+a
+
+e Clustered view of assets with mouse-click zoom-in
+e On-map click on vehicle to reveal info pop-up
+
+e Sidebar vehicle listing, grouping, filtering and selection with events and history tabs
+e Scroll-wheel zoom in/out
+
+e Retractable side bar (displaying vehicle, events and history tabs) to open up the map
+view
+
+e Retractable, user configurable, bottom bar to facilitate on-screen - per selected
+vehicle - metrics monitoring such as:
+
+o Location street address and stop duration - with click-through to street map
+
+o Driver ID
+o Sensor values (fuel tank level, tyre pressures, cargo hold temperature, current
+speed etc.)
+
+o Service and maintenance schedule
+e User selectable map type, geo-zone/POI overlay toggle, live traffic overlay toggle
+
+9|Page
+
+™~
+
+‘\macrocomm
+
+SMART MADE SIMPLE
+
+Reporting Functions:
+
+On-demand reports
+
+Scheduled reports (daily, weekly, monthly)
+
+User selectable scheduled report delivery time
+
+User selectable PDF, CSV, HTML, JSON, XLS or XLSX report format
+
+Over 30 report type options based around trips, time, drivers, events, geo-zones,
+routes vehicle status, maintenance schedules etc
+
+Trip history and playback:
+
+eeeee 8g 8 8 8
+
+User selectable date range
+
+On-map trip overlay with event flags
+1x to 6x playback speed > mW om *xly
+
+On-screen data log view
+
+Graphical or data log depiction of speed, altitude and any additional user configured
+sensors
+
+Download/export in CSV, GSR, KML or GPX file formats
+
+Speed Altitude Battery Voltage
+
+Cathcart
+
+Kei Mouth
+
+Kidal"é Rear
+
+Alerts (managing by exception):
+
+Alerts are linked to events (business rules) which determine normal operating parameters.
+Violation of the set parameters will raise an on-platform/in-app pop-up alert which can be
+instantly distributed via email or SMS to any number of designated recipients.
+
+Any metric being monitored can raise automatic alerts, based on the business rules that
+will trigger events - a few examples listed below:
+
+10| Page
+
+Macrocomm
+
+SMART MADE SIMPLE
+
+Accident/Impact alert : sc ane urgerston fa
+jane F ‘urse Fi Paul jie
+Tyre pressure and temperature : cOAR2T® Xo Mall Nelson (0 Koh)
+
+Steelpoort .
+dlehall :
+
+Cargo-hold temperature and WD “Tatelkop
+humidity
+Sudden fuel loss Pater "a serene
+Maintenance reminders
+
+Speeding
+
+Harsh acceleration, braking and cornering
+
+Excess idling
+
+Geo-zone violations (entering/leaving/parked)
+
+SOS
+
+Route departure
+
+Custom alerts (e.g. Cargo door open outside of the designated geo-zones)
+Trip start/end
+
+Mashishing Sabie
+° ¢
+
+Additional Functions:
+
+User creation and management interface with permissions control per user
+Task/order creation, distribution and management
+
+Driver ID (RFID, iButton or manual allocation)
+
+Geo-fence management
+
+Route management
+
+Camera event snap-shot storage
+
+User configurable landing page (dashboard)
+
+API capabilities:
+
+The platform provides an API interface to facilitate integration of platform data into third
+party platforms or the client’s existing systems, as well as the ability to develop fully
+customised reports.
+
+Android App: —_
+
+< Track
+
+The Android app adds ease of use within the mobile environment. ne
+
+Time: 11.15 31.05.2020
+si nt
+
+Map view of all or selected vehicles
+
+User selectable map type
+
+Alerts/events list view with timestamp and tap to view on map
+Trip playback with sensors (graphical and or data log) - tap to
+switch between graphical or data log view
+
+Vehicle list with edit functionality (dependent on user rights)
+Add new vehicle (dependent on user rights)
+
+Remove vehicle (dependent on user rights)
+
+Coordinates: -25,885582, 28174762
+
+11| Page
+
+macrocomm
+
+SMART MADE SIMPLE
+
+Fleet Management Summary:
+Offering both PC and Android options, this versatile and capable fleet management system,
+backed by a robust and well-documented API layer, ticks all the boxes for the modern and
+
+progressive fleet owner/manager.
+
+The system also caters for resellers, with white-labelling options available to resellers and
+
+end-users alike.
+
+1 9 _- Macrocomm Fleet Analytics x + = o x
+Sn - @
+
+2 @
+<€ G ©) https://smart-fleet.co.za/auth
+W Wesbank Fleet Anal >
+
+$ FMB120 Teltonika D... ql FMBOO1 Teltonika D.. @ efiting [BJ Signin FNG Supplier GPS Server
+
+@ efiling @ iTechAdmin = Create Executable fr... Q Pilot - Login - Servic... { Template:FMB Devic.
+
+« yl mnt 2 <
+e “inacrocomm
+fo} ¢ iN { FLEET ANALYTICS
+
+8
+
+oa =
+a O Polofields Crossing
+
+Spec-Savers Polofields( 99,
+
+12|Page

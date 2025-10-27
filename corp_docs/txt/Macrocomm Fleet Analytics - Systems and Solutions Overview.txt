@@ -1,0 +1,344 @@
+2 | P a g e  
+ 
+Macrocomm Fleet Analytics - Systems & Solutions Overview 
+Introduction 
+ 
+Macrocomm Fleet Analytics is a pioneering leader in the realm of fleet management, 
+redefining industry standards through the delivery of cutting-edge data analytics. We 
+specialise in delivering comprehensive fleet management solutions that transcend 
+traditional commercial offerings. Our innovative approach leverages data analytics, 
+accurate costing data, and trip information derived from telematics devices to empower 
+businesses with unparalleled insights into their fleet operations. 
+Five years in development and benefiting from nearly seven years of machine learning, 
+launched in February 2018, our fleet analytics system has found favour in the commercial 
+fleet sector where we now manage fleets, ranging from three vehicles to over six thousand 
+vehicles in size, for numerous clients from SMMEs through to large corporates. 
+Core to successes is our ability to integrate data from myriad sources, seamlessly. 
+Stemming from the birth of our platform/unit agnostic Fleet Analytics product, we have 
+fine-tuned the art of data cleansing, aggregation, normalisation and presentation, as well 
+as advanced systems integration. 
+As dedicated fleet specialists, our agile development team delivers bespoke, dashboard-
+style representations of key metrics and actionable insights, enhanced by targeted 
+customised reporting, designed in conjunction with each client. 
+ 
+
+ 
+ 
+3 | P a g e  
+ 
+Contents 
+ ...................................................................................................................................................................... 1 
+Introduction ............................................................................................................................................... 2 
+Macrocomm Fleet Analytics.................................................................................................................... 4 
+Fleet Analytics Overview: ..................................................................................................................... 4 
+Distinctive Features: ............................................................................................................................. 4 
+Data-Driven Decision Making: ........................................................................................................ 4 
+Driver Behaviour Analytics: ............................................................................................................. 4 
+Actionable Insights: .......................................................................................................................... 5 
+Customised Financial and Operational Reports: ....................................................................... 5 
+Platform Agnostic Telematics Data Harvesting: ......................................................................... 5 
+Key Benefits: .......................................................................................................................................... 5 
+Cost Savings: ...................................................................................................................................... 5 
+Enhanced Safety: ............................................................................................................................... 6 
+Optimised Efficiency and Streamlined Operations: .................................................................. 6 
+Fleet analytics summary: ..................................................................................................................... 7 
+Macrocomm Smart Fleet ......................................................................................................................... 7 
+Fleet Management Overview: ............................................................................................................ 7 
+Telematics Units: ............................................................................................................................... 8 
+Smart Fleet Management Platform: ................................................................................................. 9 
+Map view navigation: ....................................................................................................................... 9 
+User customisable view: .................................................................................................................. 9 
+Reporting Functions: ...................................................................................................................... 10 
+Trip history and playback: ............................................................................................................. 10 
+Alerts (managing by exception): .................................................................................................. 10 
+Additional Functions: ..................................................................................................................... 11 
+API capabilities: ................................................................................................................................ 11 
+Android App: .................................................................................................................................... 11 
+Fleet Management Summary: .......................................................................................................... 12 
+ 
+
+ 
+ 
+4 | P a g e  
+ 
+ 
+ 
+Macrocomm Fleet Analytics 
+ 
+Fleet Analytics Overview: 
+Fleet Analytics revolves around delivering actionable insights to a fleet owner/manager. By 
+establishing the base of ‘to-the-cent accurate total cost of ownership’ (TCO) and then 
+identifying potential revenue enhancements, we empower fleet owners with an 
+optimisation tool that positively impacts on overall efficiencies and resultant running costs. 
+Distinctive Features: 
+At Macrocomm, we stand head and shoulders above the competition by harnessing the 
+power of data analytics to reveal actionable insights aimed at optimising efficiency and 
+minimising running costs.  
+Data-Driven Decision Making:  
+We prioritise informed decision-making by leveraging the wealth of data generated by 
+telematics devices, along with all costing data attributable to the fleet, processed by our 
+advanced AI-based analytics engine, to form the foundation for a comprehensive 
+understanding of fleet performance. 
+ 
+Driver Behaviour Analytics:  
+Our expertise extends beyond conventional fleet management, as we specialise in 
+identifying and rectifying suboptimal driver behaviour. By analysing driver behaviour data, 
+we assist businesses in cultivating safe, efficient, and cost-effective driving practices, 
+ultimately leading to substantial reductions in fleet running costs. 
+ 
+
+ 
+ 
+5 | P a g e  
+ 
+Actionable Insights:  
+Macrocomm takes data analysis to the next level by translating raw data into actionable 
+insights. Our web-based dashboard offers real-time visualizations and reports, enabling 
+fleet managers to monitor and optimise operations seamlessly. This dashboard serves as a 
+central hub for monitoring various metrics, including fuel efficiency, maintenance needs, 
+and driver performance. 
+Customised Financial and Operational Reports:  
+We understand that each business has unique operational requirements. Macrocomm 
+delivers customised financial and operational reports tailored to the specific needs of our 
+clients. These reports provide a comprehensive overview of fleet performance, running 
+costs and wasteful/unnecessary expenditure, enabling businesses to make informed 
+strategic decisions. 
+Platform Agnostic Telematics Data Harvesting:  
+Through automated data harvesting from foreign platforms, we have created an 
+environment that allows the implementation of the Macrocomm Fleet Analytics system 
+using existing telematics devices. As such, implementation of the system is without 
+physically touching vehicles, resulting in speedy and non-disruptive roll-out. 
+ 
+Key Benefits: 
+ 
+Cost Savings:  
+Through accurate costing data and driver behaviour analytics, Macrocomm empowers 
+businesses to implement measures that significantly reduce fleet running costs, enhancing 
+overall profitability. 
+ 
+ 
+ 
+
+ 
+ 
+6 | P a g e  
+ 
+Enhanced Safety:  
+Our driver behaviour analytics focus not only on cost reduction but also on safety 
+enhancement. By addressing risky driving behaviours, we contribute to creating a safer 
+driving environment for both drivers and the public. 
+ 
+ 
+Optimised Efficiency and Streamlined Operations:  
+Our solutions go beyond basic fleet management, optimising operational efficiency 
+through data-driven insights. This leads to better resource allocation, improved route 
+planning, and reduced vehicle downtime. 
+The web-based dashboard centralises fleet data, streamlining the monitoring and 
+management of operations. This real-time visibility leads to more proactive decision-
+making and quicker responses to emerging issues. 
+ 
+ 
+
+ 
+ 
+7 | P a g e  
+ 
+Fleet analytics summary: 
+ 
+Macrocomm Fleet Analytics is at the forefront of fleet management evolution, leveraging 
+data analytics and telematics devices to provide businesses with unparalleled insights into 
+their operations. Our commitment to accurate costing data, driver behaviour analytics, and 
+actionable insights sets us apart as a game-changer in the industry. Through our 
+customised reports and web-based dashboard, we empower businesses to take control of 
+their fleet operations, reduce costs, enhance safety, and optimise efficiency. 
+ 
+ 
+ 
+Macrocomm Smart Fleet 
+ 
+Fleet Management Overview: 
+Macrocomm Smart Fleet is a fleet management platform facilitating remote eyes-on-fleet 
+through a combination of an intuitive PC-based and Android-based tracking platform 
+informed by a range of basics to advanced telematics units. Whether monitoring via the 
+web-app or mobile-app, access to the platform is from anywhere on the planet with 
+internet connectivity. 
+
+ 
+ 
+8 | P a g e  
+ 
+Telematics Units: 
+Our telematics offerings start from basic tracking capabilities (dot-
+on-a-map) and top out at sophisticated units capable of monitoring 
+multiple sensors, including but not limited to, fuel, door open/close, 
+tyre pressure, cargo hold temperature/humidity/door status and 
+CANBUS information.  
+Superior edge computing, across the entire range of units, 
+facilitates onboard processing of geo-zone, driver ID, GPS speed 
+and 3-axis accelerometer data, adding to the efficiency in 
+transmission of the abundance of data pushed to the servers. Further data processing at 
+server level surrounding customised sensors, alerts and business rules (amongst many 
+more metrics) feed the user interface. 
+ 
+ 
+
+ 
+ 
+9 | P a g e  
+ 
+ 
+ 
+Smart Fleet Management Platform: 
+The feature rich, web-based, Smart Fleet Platform is an intuitive and user-friendly 
+management/viewing platform facilitating a dot-on-the-map view along with location data, 
+a host of management tools and numerous reporting functions. 
+ 
+Map view navigation: 
+• 
+Clustered view of assets with mouse-click zoom-in 
+• 
+On-map click on vehicle to reveal info pop-up 
+• 
+Sidebar vehicle listing, grouping, filtering and selection with events and history tabs 
+• 
+Scroll-wheel zoom in/out 
+User customisable view: 
+• 
+Retractable side bar (displaying vehicle, events and history tabs) to open up the map 
+view 
+• 
+Retractable, user configurable, bottom bar to facilitate on-screen - per selected 
+vehicle - metrics monitoring such as: 
+o Location street address and stop duration – with click-through to street map 
+o Driver ID 
+o Sensor values (fuel tank level, tyre pressures, cargo hold temperature, current 
+speed etc.) 
+o Service and maintenance schedule 
+• 
+User selectable map type, geo-zone/POI overlay toggle, live traffic overlay toggle 
+
+ 
+ 
+10 | P a g e  
+ 
+Reporting Functions: 
+• 
+On-demand reports 
+• 
+Scheduled reports (daily, weekly, monthly) 
+• 
+User selectable scheduled report delivery time 
+• 
+User selectable PDF, CSV, HTML, JSON, XLS or XLSX report format 
+• 
+Over 30 report type options based around trips, time, drivers, events, geo-zones, 
+routes vehicle status, maintenance schedules etc  
+Trip history and playback: 
+• 
+User selectable date range 
+• 
+On-map trip overlay with event flags 
+• 
+1x to 6x playback speed 
+• 
+On-screen data log view 
+• 
+Graphical or data log depiction of speed, altitude and any additional user configured 
+sensors 
+• 
+Download/export in CSV, GSR, KML or GPX file formats 
+ 
+ 
+ 
+Alerts (managing by exception): 
+Alerts are linked to events (business rules) which determine normal operating parameters. 
+Violation of the set parameters will raise an on-platform/in-app pop-up alert which can be 
+instantly distributed via email or SMS to any number of designated recipients. 
+ 
+Any metric being monitored can raise automatic alerts, based on the business rules that 
+will trigger events – a few examples listed below: 
+ 
+
+ 
+ 
+11 | P a g e  
+ 
+• 
+Accident/Impact alert 
+• 
+Tyre pressure and temperature 
+• 
+Cargo-hold temperature and 
+humidity 
+• 
+Sudden fuel loss 
+• 
+Maintenance reminders 
+• 
+Speeding 
+• 
+Harsh acceleration, braking and cornering 
+• 
+Excess idling 
+• 
+Geo-zone violations (entering/leaving/parked) 
+• 
+SOS 
+• 
+Route departure 
+• 
+Custom alerts (e.g. Cargo door open outside of the designated geo-zones) 
+• 
+Trip start/end 
+ 
+Additional Functions: 
+• 
+User creation and management interface with permissions control per user 
+• 
+Task/order creation, distribution and management 
+• 
+Driver ID (RFID, iButton or manual allocation) 
+• 
+Geo-fence management 
+• 
+Route management 
+• 
+Camera event snap-shot storage 
+• 
+User configurable landing page (dashboard) 
+ 
+API capabilities: 
+The platform provides an API interface to facilitate integration of platform data into third 
+party platforms or the client’s existing systems, as well as the ability to develop fully 
+customised reports. 
+Android App: 
+The Android app adds ease of use within the mobile environment. 
+• 
+Map view of all or selected vehicles 
+• 
+User selectable map type 
+• 
+Alerts/events list view with timestamp and tap to view on map 
+• 
+Trip playback with sensors (graphical and or data log) – tap to 
+switch between graphical or data log view 
+• 
+Vehicle list with edit functionality (dependent on user rights) 
+• 
+Add new vehicle (dependent on user rights) 
+• 
+Remove vehicle (dependent on user rights) 
+ 
+
+ 
+ 
+12 | P a g e  
+ 
+ 
+Fleet Management Summary: 
+Offering both PC and Android options, this versatile and capable fleet management system, 
+backed by a robust and well-documented API layer, ticks all the boxes for the modern and 
+progressive fleet owner/manager. 
+ 
+The system also caters for resellers, with white-labelling options available to resellers and 
+end-users alike.

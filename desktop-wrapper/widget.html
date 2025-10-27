@@ -1,0 +1,124 @@
+<!--
+A minimal wrapper that shows ONLY the chat bubble.
+No margins, no scrollbars, no extra background.
+Size it to your bubble and nothing else will be visible.
+-->
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Macrocomm Chat – Popup</title>
+    <style>
+      /* Make the window exactly the size of the chat card */
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: transparent;  /* keep window edges invisible */
+        overflow: hidden;
+        width: 100%;
+        height: 100%;
+      }
+      .wrap {
+        /* Remove any white rim by matching the exact card size */
+        width: 416px;
+        height: 356px;
+        position: absolute;
+        top: 0; left: 0;
+      }
+      iframe {
+        width: 100%;
+        height: 100%;
+        border: 0;
+        display: block;
+        background: transparent;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <!-- Load your bubble page only; no 404s from "/" -->
+      <iframe src="http://127.0.0.1:8000/static/host.html" allow="clipboard-read; clipboard-write"></iframe>
+    </div>
+    <script>
+      // Find the iframe that renders your widget UI
+      const iframe = document.querySelector('iframe');
+
+      // Helper: aggressively hide/remove elements that look like close/toggle
+      function removeCloseLikeElements(doc) {
+        if (!doc) return;
+
+        // 1) Selector-based candidates (class/id/aria/title contain close/dismiss/toggle)
+        const bySelector = doc.querySelectorAll(`
+          [aria-label*="close" i],
+          [aria-label*="dismiss" i],
+          [title*="close" i],
+          [title*="dismiss" i],
+          [role="button"][aria-label*="close" i],
+          [class*="close" i],
+          [class*="dismiss" i],
+          [class*="toggle" i],
+          [id*="close" i],
+          [id*="dismiss" i],
+          [id*="toggle" i]
+        `);
+
+        bySelector.forEach(el => hideEl(el));
+
+        // 2) Text-based candidates: any button-like element whose text is ×/✕/close
+        const byText = doc.querySelectorAll('button, [role="button"], .btn, .icon, div, span');
+        byText.forEach(el => {
+          const t = (el.textContent || '').trim().toLowerCase();
+          if (t === '×' || t === '✕' || t === 'x' || t === 'close') hideEl(el);
+        });
+
+        // 3) Geometry heuristic: small/medium clickable elements in the top-right corner
+        const all = Array.from(doc.querySelectorAll('*')).slice(0, 2000); // cap for safety
+        const vw = doc.documentElement.clientWidth;
+        const vh = doc.documentElement.clientHeight;
+        all.forEach(el => {
+          try {
+            const r = el.getBoundingClientRect();
+            const area = r.width * r.height;
+            const clickable = (el.tagName === 'BUTTON') ||
+                              el.hasAttribute('role') && /button/i.test(el.getAttribute('role')) ||
+                              /pointer|auto/.test(getComputedStyle(el).cursor);
+            const topRightish = r.right > vw - 180 && r.top < 160;  // ~top-right box
+            const smallish = area > 200 && area < 20000;            // not gigantic
+            if (clickable && topRightish && smallish) hideEl(el);
+          } catch (_) {}
+        });
+
+        function hideEl(el) {
+          el.style.display = 'none';
+          el.style.visibility = 'hidden';
+          el.style.pointerEvents = 'none';
+          el.setAttribute('aria-hidden', 'true');
+        }
+      }
+
+      // Inject CSS & set up a MutationObserver so re-renders also get cleaned
+      iframe.addEventListener('load', () => {
+        const doc = iframe.contentDocument || iframe.contentWindow?.document;
+        if (!doc) return;
+
+        // Normalize margins/background inside widget doc
+        const style = doc.createElement('style');
+        style.textContent = `
+          html, body { margin:0 !important; padding:0 !important; background:transparent !important; }
+          /* Preemptively hide common classes if present */
+          .widget-close, .chatbot-close, .close, .mcw-close, .macrocomm-close, .widget-toggle {
+            display: none !important; visibility: hidden !important; pointer-events: none !important;
+          }
+        `;
+        doc.head.appendChild(style);
+
+        // Initial sweep
+        removeCloseLikeElements(doc);
+
+        // Keep sweeping after any DOM change (SPAs, hydration, updates)
+        const mo = new MutationObserver(() => removeCloseLikeElements(doc));
+        mo.observe(doc.documentElement, { childList: true, subtree: true, attributes: true });
+      });
+    </script>
+  </body>
+</html>

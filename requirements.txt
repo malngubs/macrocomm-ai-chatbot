@@ -1,0 +1,23 @@
+﻿# --- core web ---
+fastapi==0.111.0
+uvicorn[standard]==0.30.3
+python-dotenv==1.0.1
+
+# --- langchain v2/pydantic v2 compatible set ---
+langchain==0.3.7
+langchain-core==0.3.7
+langchain-community==0.3.7
+langchain-text-splitters==0.3.2
+langchain-chroma==0.1.4
+langchain-openai==0.2.10
+openai>=1.40.0
+
+# --- retrieval stack ---
+chromadb>=0.5.3,<0.6
+rank-bm25==0.2.2
+tiktoken>=0.7.0
+
+# --- optional OCR (only if you use the OCR script) ---
+# pymupdf==1.24.5
+# pillow==10.3.0
+# pytesseract==0.3.10

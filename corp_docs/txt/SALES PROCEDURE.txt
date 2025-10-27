@@ -1,0 +1,734 @@
+Document - Template Name 
+6.1.3 MG-SLS-PRO 202404.04 
+ 
+Previous Name, if changed 
+6.1.3 MG-SLS-PRO 202404.03 
+Description 
+MG SALES PROCEDURE 
+Revision No 
+VERSION 024 
+Date of Revision 
+01 JULY 2024 
+Date of Next Revision 
+01 JULY 2026 
+ 
+6.1.3 MG-SLS-PRO 202407.04 MG SALES PROCEDURE 010724 
+Pg 1 of 11 
+ 
+Document Name: 
+6.1.3 MG-SLS-PRO 202407.04 MG SALES 
+PROCEDURE 010724 
+Version: 
+04 
+Date: 
+01 JULY 2024 
+Author: 
+Ikeraam Davis 
+Charlene van Onselen 
+MACROCOMM 
+GROUP  
+SALES PROCEDURE 
+ 
+ 
+ 
+
+Document - Template Name 
+6.1.3 MG-SLS-PRO 202404.04 
+ 
+Previous Name, if changed 
+6.1.3 MG-SLS-PRO 202404.03 
+Description 
+MG SALES PROCEDURE 
+Revision No 
+VERSION 024 
+Date of Revision 
+01 JULY 2024 
+Date of Next Revision 
+01 JULY 2026 
+ 
+6.1.3 MG-SLS-PRO 202407.04 MG SALES PROCEDURE 010724 
+Pg 2 of 11 
+ 
+Document Control 
+Name 
+Version 
+Date 
+Changes 
+6.1.3 MG-SLS-PRO 202404.00 MG SALES 
+PROCEDURE 
+Original (00) 
+18 APR 24 
+n/a 
+6.1.3 MG-SLS-PRO 202404.01 MG SALES 
+PROCEDURE 
+Version 01 
+18 JUN 24 
+Updated Inputs and 
+Outputs 
+6.1.3 MG-SLS-PRO 202404.02 MG SALES 
+PROCEDURE 
+Version 02 
+20 JUN 24 
+Risks updated 
+6.1.3 MG-SLS-PRO 202404.03 MG SALES 
+PROCEDURE 
+Version 03 
+21 JUN 24 
+Process Diagram 
+added 
+6.1.3 MG-SLS-PRO 202404.04 MG SALES 
+PROCEDURE 
+Version 04 
+01 JUL 24 
+Removed commission 
+as part of HR 
+Remuneration Policy 
+Document Sign-Off / Approval 
+This is the formal sign-off for the Sales Procedure. 
+Name 
+Designation 
+Date 
+Signature 
+Elton Chettiar 
+Chief Operating Officer – 
+Macrocomm Group 
+ 
+ 
+Ikeraam Davis 
+Managing Executive 
+Macrocomm Group: Smart 
+Solutions Sales  
+ 
+ 
+Ashok Sooklall 
+Procurement Manager 
+Macrocomm Group 
+ 
+ 
+Kumaran Govender 
+Financial Manager 
+Macrocomm Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Document - Template Name 
+6.1.3 MG-SLS-PRO 202404.04 
+ 
+Previous Name, if changed 
+6.1.3 MG-SLS-PRO 202404.03 
+Description 
+MG SALES PROCEDURE 
+Revision No 
+VERSION 024 
+Date of Revision 
+01 JULY 2024 
+Date of Next Revision 
+01 JULY 2026 
+ 
+6.1.3 MG-SLS-PRO 202407.04 MG SALES PROCEDURE 010724 
+Pg 3 of 11 
+ 
+ 
+TABLE OF CONTENTS 
+1 
+PROCEDURE DESCRIPTION AND PURPOSE .............................................................................. 4 
+1.1 
+DESCRIPTION ..................................................................................................................................... 4 
+1.2 
+BENEFITS ........................................................................................................................................... 4 
+1.3 
+AREAS OF RESPONSIBILITY .................................................................................................................. 4 
+1.4 
+RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ................................. 4 
+2 
+SALES MANAGEMENT PROCEDURE .......................................................................................... 4 
+2.2 
+PROCEDURE OWNER(S) AND RESPONSIBLE PARTIES ............................................................................. 5 
+3 
+TYPICAL PROCEDURE INPUTS ................................................................................................... 5 
+3.1 
+INFORMATION OR DOCUMENTS NEEDED ............................................................................................. 5 
+3.2 
+RESOURCES NEEDED .......................................................................................................................... 5 
+3.3 
+PERSONNEL NEEDED .......................................................................................................................... 6 
+3.4 
+PRECEDING PROCESSES/PROCEDURES ................................................................................................ 6 
+4 
+TYPICAL PROCEDURE OUTPUTS ................................................................................................ 6 
+4.1 
+TYPICAL OUTPUTS ARE: ....................................................................................................................... 6 
+4.2 
+TECHNICAL OR SYSTEM ....................................................................................................................... 6 
+4.3 
+DOCUMENTS ..................................................................................................................................... 6 
+4.4 
+ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS ........................................................... 6 
+5 
+THE SALES PROCEDURE ............................................................................................................. 7 
+5.1 
+NEW CUSTOMER ENGAGEMENT .......................................................................................................... 7 
+5.2 
+THE CUSTOMER ONBOARDING STAGE ................................................................................................. 7 
+5.3 
+THE CUSTOMER ORDER FULFILMENT STAGE ........................................................................................ 8 
+6 
+RISKS AND OPPORTUNITIES ...................................................................................................... 8 
+6.1 
+RISKS ................................................................................................................................................ 8 
+6.2 
+OPPORTUNITIES ................................................................................................................................. 9 
+7 
+PROCESSES .................................................................................................................................. 9 
+8 
+SUPPORT.................................................................................................................................... 11 
+ 
+ 
+ 
+ 
+
+Document - Template Name 
+6.1.3 MG-SLS-PRO 202404.04 
+ 
+Previous Name, if changed 
+6.1.3 MG-SLS-PRO 202404.03 
+Description 
+MG SALES PROCEDURE 
+Revision No 
+VERSION 024 
+Date of Revision 
+01 JULY 2024 
+Date of Next Revision 
+01 JULY 2026 
+ 
+6.1.3 MG-SLS-PRO 202407.04 MG SALES PROCEDURE 010724 
+Pg 4 of 11 
+ 
+1 Procedure Description and Purpose 
+The purpose of this Sales procedure is to enable the Sales Department to grow sales 
+and work effectively with Procurement and Finance to streamline their customer 
+onboarding and ordering process in their pursuit of their sales targets.  
+1.1 Description 
+This is the standard procedure for the sales team to follow to grow their pipeline, 
+onboard new customers, and place orders for fulfilment and to meet their targets. 
+1.2 Benefits 
+The benefit of this procedure is that the sales team will have a reference point to guide 
+them in their sales and for the sales manager to identify areas of improvement within 
+sales and between the different impacting areas such as: procurement, finance, 
+operations and other. 
+1.3 Areas of Responsibility 
+The Managing Executive of Smart Solutions Sales is accountable for the performance of 
+the sales team and to ensure that the Procurement and Finance process which facilitate 
+the fulfilment of all sales order received. 
+All sales team members and/or business development managers must follow the sales 
+processes and procedures to provide a strong pipeline and updating of the Customer 
+Relationship Management (CRM) tool being used as best practice for effective sales 
+management, and to ensure that all the information required by Finance and 
+Procurement is provided to help provide a simple and strong sales experience for all 
+customers. 
+1.4 Relationship between this Procedure and other 
+Procedures/Processes 
+This procedure has an impact and associative relationship with procurement, finance, 
+operations, and the different product houses. 
+2 Sales Management Procedure 
+2.1.1 Procedure Objectives and Metrics 
+2.1.1.1 The procedure objectives are defined as: 
+• 
+Identifying new customers and engaging them 
+• 
+Building a sales pipeline to meet targets and grow the business 
+• 
+Onboard new customers 
+
+Document - Template Name 
+6.1.3 MG-SLS-PRO 202404.04 
+ 
+Previous Name, if changed 
+6.1.3 MG-SLS-PRO 202404.03 
+Description 
+MG SALES PROCEDURE 
+Revision No 
+VERSION 024 
+Date of Revision 
+01 JULY 2024 
+Date of Next Revision 
+01 JULY 2026 
+ 
+6.1.3 MG-SLS-PRO 202407.04 MG SALES PROCEDURE 010724 
+Pg 5 of 11 
+ 
+• 
+Retain and cross-sell, and up-sell to existing customers 
+• 
+Provide customer quotations and full orders through procurement 
+2.1.1.2 Procedure Metrics 
+Each objective of this procedure is measured according to the: 
+• 
+sales targets set by the sales manager, 
+• 
+the likelihood of sales conversions,  
+• 
+customer onboarding,  
+• 
+cross selling and up-selling (retention of customer) and the targeted revenue,  
+• 
+the discount permissible,  
+• 
+the lead-time to delivery of stock to customers and  
+2.2 Procedure Owner(s) and Responsible Parties 
+2.2.1 Procedure Owner 
+The sales manager is responsible for ensuring that procedures are adhered to the 
+metrics are set as well as met. 
+2.2.2 Key Stakeholders 
+The key stakeholders are the sales team, the sales manager, the procurement and 
+finance teams, respective product managers, marketing, and operations teams. 
+3 Typical Procedure Inputs 
+The typical procedure inputs are: 
+3.1 Information or Documents Needed 
+The following information or documents are necessary for effective measuring and 
+enabling of the sales procedure: 
+• 
+The sales pipeline measuring tool / CRM Tool 
+• 
+Customer research and identification 
+• 
+Customer contact information 
+• 
+Sales targets 
+• 
+Inventory stock level report. 
+3.2 Resources Needed 
+The following resources are needed to support this procedure: 
+• 
+Sales and/or marketing brochures 
+• 
+Application forms 
+
+Document - Template Name 
+6.1.3 MG-SLS-PRO 202404.04 
+ 
+Previous Name, if changed 
+6.1.3 MG-SLS-PRO 202404.03 
+Description 
+MG SALES PROCEDURE 
+Revision No 
+VERSION 024 
+Date of Revision 
+01 JULY 2024 
+Date of Next Revision 
+01 JULY 2026 
+ 
+6.1.3 MG-SLS-PRO 202407.04 MG SALES PROCEDURE 010724 
+Pg 6 of 11 
+ 
+• 
+Non-Disclosure Agreements 
+• 
+Terms and Conditions per Product Suite 
+• 
+POPIA 
+• 
+Sales targets 
+• 
+Inventory stock level report 
+• 
+Quotation Tool and master price list 
+3.3 Personnel Needed 
+The sales team with access to the procurement team to ensure that the correct stock 
+ordered is delivered timeously to customers. 
+3.4 Preceding Processes/Procedures 
+Customer research and identification, pricing, procurement ordering and 
+commissioning per target achieved are preceding processes/procedures. 
+4 Typical Procedure Outputs 
+The following outputs: 
+4.1 Typical outputs are: 
+• 
+The sales pipeline report / CRM Tool reports 
+• 
+Quotations and invoices to customers 
+• 
+Completed application forms and customers uploaded onto the financial 
+system 
+• 
+Delivered orders to customers 
+• 
+Payments received from customers 
+4.2 Technical or System 
+The primary sales system or tool is the Quotation tool 
+4.3 Documents 
+• 
+CRM Reports/ Sales Reports 
+• 
+Monthly targets 
+4.4 Enablement or Operationalisation of Another Process 
+The sales team drives the procurement team to order stock and provide deliveries to 
+customers, in turn driving organisational revenue. 
+
+Document - Template Name 
+6.1.3 MG-SLS-PRO 202404.04 
+ 
+Previous Name, if changed 
+6.1.3 MG-SLS-PRO 202404.03 
+Description 
+MG SALES PROCEDURE 
+Revision No 
+VERSION 024 
+Date of Revision 
+01 JULY 2024 
+Date of Next Revision 
+01 JULY 2026 
+ 
+6.1.3 MG-SLS-PRO 202407.04 MG SALES PROCEDURE 010724 
+Pg 7 of 11 
+ 
+5 The Sales Procedure 
+The sales procedure is divided into 3 (three) primary stages: The New Customer 
+Engagement Stage, The Customer Onboarding Stage and the Customer Order 
+Fulfilment Stage.  These stages must be followed sequentially for a new customer, but 
+for existing customers the first two stages will be skipped. 
+5.1 New Customer Engagement 
+5.1.1 The salesperson will conduct market research to identify potential customers, or 
+engage within their network, or a potential customer may contact Macrocomm 
+to enquire about a specific product solution. 
+• 
+The CRM Tool is to be updated to provide a view of the sales conversion likelihood. 
+5.1.2 The salesperson will meet with the customer to conduct a needs analysis and/or 
+to provide an initial solution to meet the customer need. 
+• 
+The CRM Tool is to be updated to provide a view of the sales status 
+5.1.3 The salesperson will provide a more detailed solution proposal with commercials 
+for the customer’s consideration. 
+• 
+The CRM Tool is to be updated to provide a view of the sales status 
+5.1.4 The salesperson will build a relationship with the customer during the sales 
+process from discovery to close the deal.    When the customer accepts the 
+solution and pricing, then the salesperson must drive the onboarding process to 
+execute the order. 
+• 
+The CRM Tool is to be updated to provide a view of the sales status 
+5.2 The Customer Onboarding Stage 
+5.2.1 The salesperson should provide the customer with an application form, provide 
+a quotation for the order and obtain from the customer a purchase order. 
+• 
+The CRM Tool is to be updated to provide a view of the sales status 
+• 
+The quantity of stock available to be checked, if to be ordered from supplier the 
+Salesperson to provide lead time for delivery to customer based upon availability; if 
+no stock a 14 (fourteen) day lead time. 
+5.2.2 The salesperson to work with the finance team to confirm the success of the 
+customer vetting for either a contract based deal or a cash-only deal. 
+• 
+The CRM Tool is to be updated to provide a view of the sales status 
+
+Document - Template Name 
+6.1.3 MG-SLS-PRO 202404.04 
+ 
+Previous Name, if changed 
+6.1.3 MG-SLS-PRO 202404.03 
+Description 
+MG SALES PROCEDURE 
+Revision No 
+VERSION 024 
+Date of Revision 
+01 JULY 2024 
+Date of Next Revision 
+01 JULY 2026 
+ 
+6.1.3 MG-SLS-PRO 202407.04 MG SALES PROCEDURE 010724 
+Pg 8 of 11 
+ 
+5.3 The Customer Order Fulfilment Stage 
+5.3.1 Once the customer has been successfully vetted, the salesperson must confirm 
+that all the required documentation is received from the customer. 
+5.3.2 The Procurement Checklist to be completed and attached to the Purchase Order, 
+and given to the Procurement Manager. 
+5.3.3 The Procurement Manager will confirm stock, and if there is insufficient he will 
+place an order.  The salesperson must keep the customer informed of when the 
+stock will be delivered. 
+• 
+If procurement is ordering from supplier(s) then salesperson to notify client of a 14 
+(fourteen) day lead time; only if there is no stock on hand. 
+5.3.4 Once the stock is available, Procurement will provide a copy of the Purchase 
+Order to the Finance Team to issue the customer with an invoice for payment.  
+When payment has been received and confirmed by Finance, then Procurement 
+will ship the order to the customer.   
+• 
+The CRM Tool is to be updated to provide a view of the sales status 
+6 Risks and Opportunities 
+6.1 Risks 
+The following risks have been identified: 
+RISK 
+BUSINESS IMPACT 
+MITIGATION ACTIONS 
+Non-Adherence to 
+Procedure 
+Loss of potential sale 
+Ensure all sales team members are 
+trained on the process and understand 
+the sales tools 
+ 
+Customer complaint in 
+order delays 
+Ensure all sales team members are 
+trained on the process and work closely 
+with procurement, and understand their 
+inventory and supplier order processes 
+to manage customer sales regarding 
+lead times 
+ 
+Inaccuracy in pipeline 
+reporting that result in 
+over- or underreporting 
+on sales pipeline 
+impacting forecasting and 
+projections for the year 
+Ensure all sales team members are 
+trained on the process and how to be 
+diligent with their pipeline management 
+and reporting. 
+ 
+
+Document - Template Name 
+6.1.3 MG-SLS-PRO 202404.04 
+ 
+Previous Name, if changed 
+6.1.3 MG-SLS-PRO 202404.03 
+Description 
+MG SALES PROCEDURE 
+Revision No 
+VERSION 024 
+Date of Revision 
+01 JULY 2024 
+Date of Next Revision 
+01 JULY 2026 
+ 
+6.1.3 MG-SLS-PRO 202407.04 MG SALES PROCEDURE 010724 
+Pg 9 of 11 
+ 
+6.2 Opportunities 
+The following opportunities table will used to help improve the procedure and 
+processes to for greater sales efficacies. 
+OPPORTUNITY 
+BUSINESS IMPACT 
+PROCESS/PROCEDURE AMENDMENT, 
+TRAINING REQUIREMENT  
+ 
+ 
+ 
+7 Processes 
+The processes mapped below support this procedure. 
+ 
+MACROCOMM GROUP - SMART SOLUTIONS SALES
+SALES PROCESS  - NEW CUSTOMER ENGAGEMENT
+AUTHOR
+IKERAAM DAVIS
+PROCESS  NAME
+24.6.5 MG-PRO-SLS 202406.01
+DESCRIPTION
+MG SALES PROCESS SMART SOLUTIONS
+VERSION
+01
+CUSTOMER
+Customer Request Contact
+SALES PERSON
+DATE
+21 JUNE 2024
+Email, 
+Web Enquiry, 
+Phone Call, 
+Meeting
+Engages with 
+Customer 
+Needs Analysis
+Schedules a Discovery 
+Meeting
+• 
+Virtual,
+• 
+Face-to-Face
+First Discovery 
+Meeting
+Enquiry Form 
+Completion
+Confirms Needs 
+Analysis with 
+Customer
+Bespoke Solution 
+Offering 
+and Quote
+Bespoke Solution 
+Presentation to 
+Customer 
+(2nd Meeting)
+Reject Solution
+Deal Lost
+Accept Solution
+Deal Won
+Customer Onboarding 
+Process
+UPDATE 
+CRM 
+SYSTEM
+UPDATE 
+CRM 
+SYSTEM
+UPDATE 
+CRM 
+SYSTEM
+UPDATE 
+CRM 
+SYSTEM
+UPDATE 
+CRM 
+SYSTEM
+UPDATE 
+CRM 
+SYSTEM
+Customer Ordering Process
+
+Document - Template Name 
+6.1.3 MG-SLS-PRO 202404.04 
+ 
+Previous Name, if changed 
+6.1.3 MG-SLS-PRO 202404.03 
+Description 
+MG SALES PROCEDURE 
+Revision No 
+VERSION 024 
+Date of Revision 
+01 JULY 2024 
+Date of Next Revision 
+01 JULY 2026 
+ 
+6.1.3 MG-SLS-PRO 202407.04 MG SALES PROCEDURE 010724 
+Pg 10 of 11 
+ 
+ 
+ 
+MACROCOMM GROUP - SMART SOLUTIONS SALES
+SALES PROCESS  - NEW CUSTOMER ONBOARDING
+AUTHOR
+IKERAAM DAVIS
+PROCESS  NAME
+24.6.5 MG-PRO-SLS 202406.01
+DESCRIPTION
+MG SALES PROCESS SMART SOLUTIONS
+VERSION
+01
+CUSTOMER
+SALES PERSON
+DATE
+21 JUNE 2024
+New Customer Engagement 
+Process
+Send 
+Customer 
+Application 
+Form and 
+Agreement
+Complete 
+Application 
+Form
+Sign 
+Agreement
+Email 
+Application 
+and 
+Agreement to 
+MG
+Send to Finance 
+and Legal
+FINANCE
+LEGAL
+Open Customer 
+Record and File on 
+Pastel
+VET Customer
+Open Customer File; Store 
+Agreement
+Customer Contract 
+Approved
+Cash Only
+Customer Order 
+Process
+UPDATE 
+CRM 
+SYSTEM
+UPDATE 
+CRM 
+SYSTEM
+UPDATE 
+CRM 
+SYSTEM
+MACROCOMM GROUP - SMART SOLUTIONS SALES
+SALES PROCESS  - CUSTOMER ORDER
+AUTHOR
+IKERAAM DAVIS
+PROCESS  NAME
+24.6.5 MG-PRO-SLS 202406.01
+DESCRIPTION
+MG SALES PROCESS SMART SOLUTIONS
+VERSION
+01
+CUSTOMER
+SALES PERSON
+DATE
+21 JUNE 2024
+Customer Onboarding 
+Process
+Confirm 
+Customer 
+Order
+Customer 
+Provides 
+Purchase 
+Order
+Customer 
+Quotation
+PROCUREMENT
+FINANCE
+Email PO and 
+Quotation & 
+PNL to 
+Procurement
+Attach 
+Procurement 
+Order Checklist
+Procurement Check s 
+Order Checklist and the 
+PO Information
+Confirm Stock
+Order
+On-Hand
+Ship to 
+Customer
+Provide Copy to Finance
+Invoice Process
+
+Document - Template Name 
+6.1.3 MG-SLS-PRO 202404.04 
+ 
+Previous Name, if changed 
+6.1.3 MG-SLS-PRO 202404.03 
+Description 
+MG SALES PROCEDURE 
+Revision No 
+VERSION 024 
+Date of Revision 
+01 JULY 2024 
+Date of Next Revision 
+01 JULY 2026 
+ 
+6.1.3 MG-SLS-PRO 202407.04 MG SALES PROCEDURE 010724 
+Pg 11 of 11 
+ 
+8 Support 
+If there are any queries or problems regarding the sales procedure, the Managing 
+Executive of Smart Solutions Sales can be contacted on smartsales@macrocomm.co.za

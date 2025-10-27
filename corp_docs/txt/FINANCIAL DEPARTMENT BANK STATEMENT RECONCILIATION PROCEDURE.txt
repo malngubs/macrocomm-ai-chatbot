@@ -1,0 +1,460 @@
+Document Name 
+MG-FIN-PRO-BSR 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT BANK STATEMENT 
+RECONCILIATION PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-BSR 202509.03 MG FINANCIAL DEPARTMENT  
+BANK STATEMENT RECONCILIATION PROCEDURE 
+Pg 1 of 8 
+ 
+MACROCOMM GROUP (PTY) LTD 
+FINANCE PROCEDURE 
+BANK STATEMENT RECONCILIATION PROCESS 
+Document Name: 
+MG-FIN-PRO-BSR 202508.00 
+Version: 
+03 
+Date: 
+12 SEPTEMBER 2025 
+Author: 
+KAILAN MOODLEY 
+ 
+ 
+
+Document Name 
+MG-FIN-PRO-BSR 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT BANK STATEMENT 
+RECONCILIATION PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-BSR 202509.03 MG FINANCIAL DEPARTMENT  
+BANK STATEMENT RECONCILIATION PROCEDURE 
+Pg 2 of 8 
+ 
+Document Control 
+Name 
+Version 
+Date 
+Changes 
+MG-FIN-PRO 202508.00 
+00 
+08/08/25 
+ 
+MG-FIN-PRO 202508.00 
+01 
+11/08/25 
+ 
+MG-FIN-PRO-BSR 202508.00 
+02 
+19/08/25 
+ 
+MG-FIN-PRO-BSR 202508.00 
+03 
+12/09/25 
+ 
+ 
+ 
+ 
+ 
+Document Sign-Off / Approval 
+This is the formal sign-off for the Bank Statement Reconciliation procedure. 
+Name 
+Designation 
+Date 
+Signature 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Document Name 
+MG-FIN-PRO-BSR 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT BANK STATEMENT 
+RECONCILIATION PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-BSR 202509.03 MG FINANCIAL DEPARTMENT  
+BANK STATEMENT RECONCILIATION PROCEDURE 
+Pg 3 of 8 
+ 
+ 
+TABLE OF CONTENTS 
+1 
+PROCEDURE DESCRIPTION AND PURPOSE ........................................................................... 4 
+1.1 
+DESCRIPTION ................................................................................................................................ 4 
+1.2 
+BENEFITS ...................................................................................................................................... 4 
+1.3 
+AREAS OF RESPONSIBILITY .............................................................................................................. 4 
+1.4 
+RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ................................ 4 
+2 
+FINANCE MANAGEMENT PROCEDURE .................................................................................. 4 
+2.1 
+PROCEDURE OBJECTIVES AND METRICS ............................................................................................ 4 
+2.2 
+PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S) ........................................................................... 5 
+3 
+TYPICAL PROCEDURE INPUTS ................................................................................................ 5 
+3.1 
+INFORMATION OR DOCUMENTS NEEDED .......................................................................................... 5 
+3.2 
+RESOURCES NEEDED ...................................................................................................................... 5 
+3.3 
+PERSONNEL NEEDED ..................................................................................................................... 5 
+3.4 
+PRECEDING PROCESSES/PROCEDURES ............................................................................................. 5 
+4 
+TYPICAL PROCEDURE OUTPUTS ............................................................................................. 6 
+4.1 
+TYPICAL OUTPUTS ARE .................................................................................................................... 6 
+4.2 
+TECHNICAL OR SYSTEM USED .......................................................................................................... 6 
+4.3 
+DOCUMENTS ................................................................................................................................. 6 
+4.4 
+ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS ......................................................... 6 
+5 
+THE BANK STATEMENT RECONCILIATION PROCEDURE ....................................................... 6 
+6 
+RISKS AND OPPORTUNITIES .................................................................................................. 7 
+6.1 
+RISKS ........................................................................................................................................... 7 
+6.2 
+OPPORTUNITIES ............................................................................................................................ 7 
+7 
+SUPPORT ................................................................................................................................. 8 
+ 
+ 
+ 
+ 
+
+Document Name 
+MG-FIN-PRO-BSR 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT BANK STATEMENT 
+RECONCILIATION PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-BSR 202509.03 MG FINANCIAL DEPARTMENT  
+BANK STATEMENT RECONCILIATION PROCEDURE 
+Pg 4 of 8 
+ 
+1 Procedure Description and Purpose 
+The purpose of this Bank Statement Reconciliation procedure is to enable Finance team 
+to effectively reconcile cashbooks and ensure that the bank balance on Sage matches 
+the balance on the bank statement. 
+1.1 Description 
+This is the standard procedure for the Finance department to follow so that there will be 
+consistency which will maintain quality in the services provided to ensure that the 
+organisation’s bank transactions are recorded accurately. 
+1.2 Benefits 
+It will ensure that the teams deliver exceptional reconciliation service in a consistent and 
+professional manner. The Finance team can refer to this procedure and its process to 
+ensure consistency in reconciling. 
+1.3 Areas of Responsibility 
+The General Manager is responsible for receiving the bank statement and distributing it 
+to the Finance department. 
+The Finance Administrator/Accountant (s) responsible for reconciling the cashbook on 
+Sage accurately. 
+1.4 Relationship between this Procedure and other 
+Procedures/Processes 
+This procedure has a direct impact on the business as system bank account and actual 
+bank balances need to reconcile. 
+2 Finance Management Procedure 
+2.1 Procedure Objectives and Metrics 
+2.1.1 Procedure objectives 
+• 
+Effectively reconcile cashbook  
+2.1.2 Procedure Metrics 
+Each objective of this procedure is measured according to the: 
+
+Document Name 
+MG-FIN-PRO-BSR 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT BANK STATEMENT 
+RECONCILIATION PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-BSR 202509.03 MG FINANCIAL DEPARTMENT  
+BANK STATEMENT RECONCILIATION PROCEDURE 
+Pg 5 of 8 
+ 
+• 
+Monthly bank statement from the bank 
+2.2 Procedure Owner(s) and Key Stakeholder(s) 
+2.2.1 Procedure Owner 
+The procedure owner is the Finance Head. 
+2.2.2 Key Stakeholders 
+The key stakeholders are the Finance Administrator/Accountant (s) responsible and the 
+Finance Head. 
+3 Typical Procedure Inputs 
+The typical procedure inputs are: 
+3.1 Information or Documents Needed 
+The following information or documents are necessary for effective measuring and 
+enabling of the Bank Statement Reconciliation procedure: 
+• 
+Bank Statement  
+3.2 Resources Needed 
+The following resources are needed to support this procedure: 
+• 
+None 
+3.3 Personnel Needed 
+The Finance Head and Finance Administrator/Accountant (s) and General Manager. 
+3.4 Preceding Processes/Procedures 
+Purchase Order Generation process, Generic Ordering process, Generic Stock-in process, 
+Generic Stock-out process, Delivery Upliftment process, Customer Returns (and 
+replacements) process to Manufacturer, Delivery Rejection process, Generic Supplier 
+invoice loading process, Payment Scheduling and Processing process, and Customer 
+Invoice process 
+
+Document Name 
+MG-FIN-PRO-BSR 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT BANK STATEMENT 
+RECONCILIATION PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-BSR 202509.03 MG FINANCIAL DEPARTMENT  
+BANK STATEMENT RECONCILIATION PROCEDURE 
+Pg 6 of 8 
+ 
+4 Typical Procedure Outputs 
+The following outputs: 
+4.1 Typical outputs are 
+• 
+Cash Book Reconciliation 
+4.2 Technical or System used 
+• 
+Sage 
+4.3 Documents 
+• Bank Statement 
+• Cashbook soft copy 
+4.4 Enablement or Operationalisation of Another Process 
+The Finance Head drives the Finance Administrator/Accountant (s) to ensure that the 
+cashbook reconciles to the bank statement. 
+5 The Bank Statement Reconciliation procedure 
+5.1 
+Transaction Recording 
+• 
+The Finance Administrator/Accountant is responsible for ensuring that all 
+transactions up to the last day of the month are accurately captured on Pastel. 
+5.2 
+Reconciliation in Pastel 
+• 
+The Finance Administrator/Accountant logs into Pastel and selects the “Bank 
+Reconciliation” option. 
+or the relevant bank account and reconciliation period are selected. 
+• 
+The closing balance as per the bank statement is entered into and updated in the 
+system. 
+5.3 
+Reconciliation Report 
+• 
+Pastel generates a bank reconciliation report. 
+
+Document Name 
+MG-FIN-PRO-BSR 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT BANK STATEMENT 
+RECONCILIATION PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-BSR 202509.03 MG FINANCIAL DEPARTMENT  
+BANK STATEMENT RECONCILIATION PROCEDURE 
+Pg 7 of 8 
+ 
+• 
+If the cashbook balance matches the bank statement balance, the Finance 
+Administrator/Accountant prints the reconciliation report and files it together with 
+a copy of the corresponding bank statement. 
+5.4 
+Discrepancy Resolution 
+• 
+If the cashbook balance does not align with the bank statement balance, the 
+Finance Administrator/Accountant reviews all transactions in the cashbook. 
+• 
+Each transaction is cross-checked to confirm that the amounts have been 
+captured accurately in line with the bank statement. 
+• 
+Necessary corrections are made until the balances reconcile. 
+ 
+6 Risks and Opportunities 
+6.1 Risks 
+The following risks have been identified: 
+RISK 
+BUSINESS IMPACT 
+MITIGATION ACTIONS 
+Certain transactions 
+not being recorded 
+• 
+Incorrect supplier 
+and customer sub-
+ledges/statement  
+• 
+Incorrect 
+figures 
+on 
+monthly 
+reports 
+Ensure that cash book reconciles   
+ 
+6.2 Opportunities 
+The following opportunities table will used to help improve the procedure and 
+processes to for greater Finance efficacies. 
+OPPORTUNITY 
+BUSINESS IMPACT 
+PROCESS/PROCEDURE AMENDMENT, 
+TRAINING REQUIREMENT  
+Use the FNB Sage 
+Statement for a more 
+efficient process 
+It can eliminate steps in 
+the process and make it 
+more efficient 
+Train staff on how to utilise “The FNB 
+Sage statement” 
+ 
+
+Document Name 
+MG-FIN-PRO-BSR 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT BANK STATEMENT 
+RECONCILIATION PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAN MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-BSR 202509.03 MG FINANCIAL DEPARTMENT  
+BANK STATEMENT RECONCILIATION PROCEDURE 
+Pg 8 of 8 
+ 
+7 Support 
+If there are any queries or problems regarding the Bank Statement Reconciliation 
+procedure, contact the Finance department.

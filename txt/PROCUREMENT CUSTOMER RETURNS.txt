@@ -1,0 +1,712 @@
+Document Name
+
+Description
+
+Revision No
+Date of Revision
+Date of Next Revision
+
+MG-PRC-PRO-CRR 202509.02
+
+Previous Name, if changed MG-PRC-PRO-CRR 202508.01
+
+MG PROCUREMENT GENERIC CUSTOMER RETURNS AND
+REPLACEMENTS PROCEDURE
+
+02
+
+10 SEPTEMBER 2025
+
+10 SEPTEMBER 2027
+
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+‘macro
+
+i
+SMART MADE SIMPLE
+
+4
+—
+
+MACROCOMM GROUP (PTY) LTD
+
+PROCUREMENT
+
+CUSTOMER RETURNS (AND REPLACEMENT) PROCEDURE
+
+Document Name:
+
+Date:
+
+MG-PRM-PRO-CR&R 202509.02
+
+10 SEPTEMBER 2025
+
+Version:
+
+02
+
+Author:
+TSHEGOFATSO NAKEDI
+
+MG-PRM-PRO-CR&R 202509.02
+
+MG PROCUREMENT CUSTOMER RETURNS
+
+AND REPLACEMENTS PROCEDURE
+
+Pg 1 of 13
+
+Document Control
+
+Document Name MG-PRC-PRO-CRR 202509.02
+
+Previous Name, if changed MG-PRC-PRO-CRR 202508.01
+
+Description MG PROCUREMENT GENERIC CUSTOMER RETURNS AND
+REPLACEMENTS PROCEDURE
+
+Revision No 02
+
+Date of Revision 10 SEPTEMBER 2025
+
+Date of Next Revision 10 SEPTEMBER 2027
+
+Author TSHEGOFATSO NAKEDI
+
+Approver ASHOK SOOKLALL
+
+Version
+
+Date
+
+=n
+ra SMART MADE SIMPLE
+
+macrocomm
+
+Changes
+
+MG-PRC-PRO-OEM-CSTR 202507.00 00 16/07/2025 | Processes
+MG-PRC-PRO-CRR 202508.01 01 25/08/2025 | Document name
+MG-PRM-PRO-CRR 202509.02 02 10/09/2025
+
+Document Sign-Off / Approval
+
+This is the formal sign-off for this Customer Returns and Replacements Procedure.
+
+Designation
+
+Ashok Sooklall
+
+General Manager - MG
+Elton Chettiar Chief Operating Officer
+
+Signature
+
+MG-PRM-PRO-CR&R 202509.02 MG PROCUREMENT CUSTOMER RETURNS
+
+AND REPLACEMENTS PROCEDURE
+
+Pg 2 of 13
+
+Document Name MG-PRC-PRO-CRR 202509.02
+Previous Name, if changed MG-PRC-PRO-CRR 202508.01
+Descripti MG PROCUREMENT GENERIC CUSTOMER RETURNS AND oe
+escription REPLACEMENTS PROCEDURE [aN
+Revision No 02 C aN \
+Date of Revision 10 SEPTEMBER 2025 a CAMnN
+Date of Next Revision 10 SEPTEMBER 2027 MacrOcor nm
+Author TSHEGOFATSO NAKED!
+Approver ASHOK SOOKLALL
+TABLE OF CONTENTS
+1 PROCEDURE DESCRIPTION AND PURPOSE ..................c:csssssssccecccccsssssseescccssccsssssssssecsssccessseees 5
+1.1 DESCRIPTION ...s..ccesssssccessscccsssssecesssseecesssseccsssssecesesseecesesseeeseseeeessaeeeeesseeesesseeesesaeeessensesesssateesenaes 5
+1.2 BENEFITS.......ccssccccsssscccesssscccsssscecesssseecesssseccsssssecesesseecesssseecessasecesesaeecesssaseseseeseeeeseaesesssaeeesseateeeenaes 5
+1.3 AREAS OF RESPONSIBILITY .....ssssscccsssssccesssscccessscecesssssecessseecessaeeccsessseeecssseeecsaseeessseeesesnsesesessateeeenaes 5
+1.4 RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ...sssssccsscccsssssssseeeeeeees 6
+2 CUSTOMER RETURNS TO MANUFACTURER (SUPPLIER) PROCEDURE. .................cccssseccceesses 6
+2.2 PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S).......sccccesssssscccceccceessesssssceessccesessessseesssccsessensaeeesseess 6
+3 TYPICAL PROCEDURE INPUTS. .................cccccsccssssssssscccccccccsssssscceccccccesssscssccsssccssssessseessseeesssoees 7
+3.1 INFORMATION OR DOCUMENTS NEEDED ........cssscccsssssccesssseecesesneecesssseeceesssececseseeeesesaesecesaeeeessateeeseaes 7
+3.2 RESOURCES NEEDED.......cs.cccsssssccesssseccessseeccsssseecesssseecessseeecsssseeeccesaeeeessnseeecesaeeeeseaeeeeesaesesssateessnaes 7
+3.3 PERSONNEL NEEDED.......c..cccsssssccessscccesseeccsssseeccssnseecesssseecessseeeecssaeeecesseeeceaseeesesaeeesessaesesssaeeeeenaes 7
+3.4 PRECEDING PROCESSES/PROCEDURES ....sssccccccccesssssssceescccesseessssseesscceseseesseeessceeseseessaeeeseccsessenaeereseess 7
+4 TYPICAL PROCEDURE OUTPUTS ..................:ccesssssssccccccccsssssccesccccsccssssscesscccssccssssssesscesssecesssoees 8
+4.1 TYPICAL OUTPUTS ARE: ....csscccssssscccsssssecesssseccessseecesssssecessusecessseeccesesaeeeessnseeecesaseeesssaeeeessseeesesseeesesaes 8
+4,2 TECHNICAL OR SYSTEM....csscccesssscccsssscccesssseccesssseccsssseecesssssecessneeecessaeeeessseeeceessesesssueeesesnseeesssateesenaes 8
+4,3 DOCUMENTS ...scccccsssseccesssscccsssscecesssseecesssseccsssseecesesseecesesseeesesseecssaeeeessseeeseaeeeeeeaeeesesaesesssateeeenaes 8
+4.4 ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS ........cccsessssssecseccesesssssseesseccsessssseeteseess 8
+5 THE GENERIC CUSTOMER RETURNS TO MANUFACTURER (SUPPLIER) PROCEDURE .......... 9
+5.1 SUB PROCEDURE: CUSTOMER COMPLAINT, TESTING PRODUCT CONNECTIVITY TO THE NETWORK, AND
+PRODUCT (DEVICE) RETURN ........ccsscccssssccesssscecesssseecssssseccseseecesssseecessneecessseeecssseeeceaseeeessaeeeessaseeesssseeeeenaes 9
+5.2 SUB PROCEDURE: INTERNAL PRODUCT (DEVICE) WARRANTY AND CONDITION ASSESSMENT......... ERROR!
+BOOKMARK NOT DEFINED.
+
+5.3. SUB PROCEDURE: COMMUNICATION WITH THE MANUFACTURER (SUPPLIER) FOR STOCK TESTING AND
+REPLACEMENT UNDER WARRANTY OR RESOLUTION OF ISSUE ....cssecscsssssssscscsesesssscscsessssvsvscsesessssssvscsesesesusasaces 10
+
+5.4 SUB PROCEDURE: MANUFACTURER (SUPPLIER) TESTING OUTCOME AND PRODUCT RETURN OR NEW
+
+DELIVERY. ..csccscsscssccsccsecsscsssesecsecseveseesecsesseeeseesecsessesessesecseeeseseesacseseeseseesecesessecssessesesssessssesesecsscssesuseaseaseass 11
+5.5. SUB PROCEDURE: CUSTOMER REPLACEMENT OR NEW PRODUCT (DEVICE) SHIPPED. .....sssssssseseseseeseees 11
+6 RISKS AND OPPORTUNITIES. ..................ccccccccsssssssscccccccccsssssssceccccccesssscssccssecesssssesseeessecessssees 12
+6.1 RISKS ...scesccesccssccesccssceeseesseceseesseesseesseessecsseessecsseceaeessecssecsseesseceaeesseceaeesseesseesseecseecseesseesseerseesseeeseeed 12
+6.2 OPPORTUNITIES ......ssssssssssseescsenescnenenenesesesesesesecencuessscscuesesesseeueseneneneneseaeseneaeaeseaeaeseseeeeeeneneneneneees 12
+7 — PROCESSES.............ccccsssssssssscccsssscsccccccccccccccccscecccecccccessssssssssssssssssssssssssssssssssssssssssssssssssssssssssees 13
+
+MG-PRM-PRO-CR&R 202509.02 MG PROCUREMENT CUSTOMER RETURNS
+
+AND REPLACEMENTS PROCEDURE Pg 3 of 13
+
+Document Name MG-PRC-PRO-CRR 202509.02
+Previous Name, if changed MG-PRC-PRO-CRR 202508.01
+Description MG PROCUREMENT GENERIC CUSTOMER RETURNS AND _—
+REPLACEMENTS PROCEDURE
+Revision No 02 ~
+Date of Revision 10 SEPTEMBER 2025 mMacrocoenmm”™
+Date of Next Revision 10 SEPTEMBER 2027 4 SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+MG-PRM-PRO-CR&R 202509.02 MG PROCUREMENT CUSTOMER RETURNS
+
+AND REPLACEMENTS PROCEDURE Pg 4of 13
+
+Document Name MG-PRC-PRO-CRR 202509.02
+Previous Name, if changed MG-PRC-PRO-CRR 202508.01
+Description MG PROCUREMENT GENERIC CUSTOMER RETURNS AND ~
+REPLACEMENTS PROCEDURE — \
+Revision No 02 C aN \
+Date of Revision 10 SEPTEMBER 2025 ) macro 7
+Date of Next Revision 10 SEPTEMBER 2027 Wy SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+1 Procedure Description and Purpose
+
+The purpose of this Customer Returns and Replacement procedure is to details why and
+how stock order deliveries are returned to Macrocomm Group and replaced for the
+customer.
+
+Macrocomm Group Procurement does not have a centralised warehouse for storage, it
+keeps safety/buffer stock on hand to keep lead time at a minimum to satisfy customer
+demand in a timeous manner.
+
+1.1 Description
+
+This is the procedure of how to manage customer complaints regarding products and
+their returning of such for replacement, and how we engage with the manufacturers to
+do a swap-out by replacing the product.
+
+In this procedure the words:
+
+e product and/or device; and
+e manufacturer and/or supplier are used interchangeably
+
+1.2 Benefits
+
+This procedure provides the Procurement team with the guidelines of to accept a
+product return and engage with the manufacturer to obtain a replacement.
+
+e the Finance Team will effectively reconcile against invoices
+
+e to havea record of all goods returned to us, and then onto Suppliers
+
+e to havea record of all goods replaced under warranty
+
+e to havea record of all goods that are no longer under warranty replaced
+
+1.3 Areas of Responsibility
+
+The General Manager is accountable for the Procurement department.
+
+The Procurement Officer is responsible for receiving customer returns from Group
+subsidiary and returning them to Supplier; notify supplier to replace returned device(s).
+
+The Salesperson is responsible for receiving a “dead” device(s) from the customer,
+testing the device/investigating cause of returned device(s); and giving them to the
+Procurement department.
+
+MG-PRM-PRO-CR&R 202509.02 MG PROCUREMENT CUSTOMER RETURNS
+
+AND REPLACEMENTS PROCEDURE Pg 5 of 13
+
+Document Name MG-PRC-PRO-CRR 202509.02
+Previous Name, if changed MG-PRC-PRO-CRR 202508.01
+Description MG PROCUREMENT GENERIC CUSTOMER RETURNS AND .
+REPLACEMENTS PROCEDURE ~
+Revision No 02 o en |
+Date of Revision 10 SEPTEMBER 2025 ) macro COMM
+Date of Next Revision 10 SEPTEMBER 2027 4 SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+1.4 Relationship between this Procedure and other
+Procedures/Processes
+
+This procedure informs the process for replacement of a product that has failed in the
+market and returned by a customer. This follows on from the Generic Stock-Out and
+Customer Complaint Processes.
+
+This procedure documents the key steps of the Customer Returns and Replacements
+process.
+
+2 Customer Returns and Replacements Procedure
+Management
+
+2.1.1. Procedure Objectives and Metrics
+
+2.1.1.1 The procedure objectives are defined as:
+e Determining the reason for the customer complaint regarding the product
+e Investigate as to why the customer is returning a product(s)
+e Determining if the product is under warranty and qualifies for a replacement
+e Successful replacement of the product for the customer
+
+2.1.1.2 Procedure Metrics
+Each objective of this procedure is measured according to the:
+
+e The customer Purchase Order
+e The customer's usage of the product
+e The Supplier/Manufacturer Warranty
+o if the product/device is in or out of warranty
+e Date of installation of the product for the customer
+e Lead time from complaint to replacement
+
+2.2 Procedure Owner(s) and Key Stakeholder(s)
+
+2.2.1. Procedure Owner
+
+The General Manager is responsible for managing this process and ensuring that all
+stakeholders follow the steps outlined for effective procurement.
+
+The person performing this task is the Procurement Officer and is the delegated
+responsible person.
+
+MG-PRM-PRO-CR&R 202509.02 MG PROCUREMENT CUSTOMER RETURNS
+
+AND REPLACEMENTS PROCEDURE Pg 6 of 13
+
+Document Name MG-PRC-PRO-CRR 202509.02
+Previous Name, if changed MG-PRC-PRO-CRR 202508.01
+Description MG PROCUREMENT GENERIC CUSTOMER RETURNS AND .
+REPLACEMENTS PROCEDURE ~
+Revision No 02 o en |
+Date of Revision 10 SEPTEMBER 2025 ) macro COMM
+Date of Next Revision 10 SEPTEMBER 2027 4 SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+2.2.2 Key Stakeholders
+
+The key stakeholders are the Manufacturer (Supplier), Sales Team and Finance.
+
+3 Typical Procedure Inputs
+
+The typical procedure inputs are noted below:
+
+3.1 Information or Documents Needed
+
+The following information or documents are necessary for effective measuring and
+enabling of the Generic Customer Returns to Manufacturer (Supplier) Procedure:
+
+e Purchase Order issued to Supplier
+
+e Customer Purchase Order
+
+e Report on the product malfunction, and/or the customer complaint regarding the
+device.
+
+e Supplier Delivery Note
+
+e Manufacturer Device Warranty
+
+e Certificate of installation (if applicable) for this product
+
+3.2 Resources Needed
+
+The following resources are needed to support this procedure:
+
+e Report from customer noting the malfunctioning of the product
+
+3.3 Personnel Needed
+
+There are two key processes effected by personnel:
+
+e The loT Salesperson/Fleet Operations salesperson checks the connectivity either
+through the Sigfox Platform or the Fleet SaaS Platform before declaring the product
+(device) as malfunctioning and forwarded to Procurement.
+
+e The Procurement Officer inspects the stock received upon arrival and liaises with the
+supplier to effect the replacement.
+
+3.4 Preceding Processes/Procedures
+
+The preceding process is the Generic Stock-Out Process performed by the Procurement
+Officer and/or the Installation Process performed by the Sales loT team or Fleet
+Operations team.
+
+MG-PRM-PRO-CR&R 202509.02 MG PROCUREMENT CUSTOMER RETURNS
+
+AND REPLACEMENTS PROCEDURE Pg 7 of 13
+
+Document Name MG-PRC-PRO-CRR 202509.02
+Previous Name, if changed MG-PRC-PRO-CRR 202508.01
+Description MG PROCUREMENT GENERIC CUSTOMER RETURNS AND ~
+REPLACEMENTS PROCEDURE — \
+Revision No 02 C aN \
+Date of Revision 10 SEPTEMBER 2025 ) macro 7
+Date of Next Revision 10 SEPTEMBER 2027 Wy SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+4 Typical Procedure Outputs
+The following outputs:
+
+4.1 Typical outputs are:
+
+e Investigation outcome from Technician (telematics device)
+e Connectivity restored
+o Product (device) reset
+e Warranty honoured, product (device) replaced
+e Customer purchases a new product
+o If out of warranty
+o Customer abuse established
+
+4.2 Technical or System
+
+e Email
+e Excel
+
+4.33 Documents
+
+e Customer email that reports on the product (device) malfunction
+
+e Delivery note received from customer regarding the returned product (device)
+e Supplier / Manufacturer Warranty
+
+e Installation certificate (if applicable)
+
+e The manufacturer (supplier) test confirming if the product (device) has
+malfunctioned, and if it is covered under warranty.
+
+e New Purchase order from customer if a new product to be purchased (if device is
+out of warranty or customer abuse)
+
+e Delivery note received from the manufacturer (supplier)
+4.4 Enablement or Operationalisation of Another Process
+
+This Customer Returns and Replacement Procedure enables the investigation of the
+malfunctioning product received from the customer and replaced by the manufacturer /
+supplier.
+
+MG-PRM-PRO-CR&R 202509.02 MG PROCUREMENT CUSTOMER RETURNS
+
+AND REPLACEMENTS PROCEDURE Pg 8 of 13
+
+Document Name MG-PRC-PRO-CRR 202509.02
+Previous Name, if changed MG-PRC-PRO-CRR 202508.01
+Description MG PROCUREMENT GENERIC CUSTOMER RETURNS AND ~
+REPLACEMENTS PROCEDURE — \
+Revision No 02 C aN \
+Date of Revision 10 SEPTEMBER 2025 ) macro'r Jaa
+Date of Next Revision 10 SEPTEMBER 2027 Wy SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+5 The Customer Returns and Replacements Procedure
+
+The Generic Customer Returns to Manufacturer (Supplier) Procedure is important as it
+enables the monitoring of products to ensure that we supply quality products (devices)
+to our customers and educate them on the correct usage/environment for these. It
+ensures that we effect robust stock control over all products returned and replaced.
+
+5.1 Sub-process: Customer Complaint which leads to an
+investigation
+
+The key steps are noted below:
+
+5.1.1. The Customer informs the Salesperson (loT/Fleet) either via email or
+telephonically about the device having issues.
+
+5.1.2 There are three causes of device malfunction/damage that the Salesperson will
+investigate:
+
+5.1.2.1 Connectivity
+
+5.1.2.1.1 The Sales Manager/Fleet technician/Connect consultant checks the
+connectivity of the product / device on the Sigfox Network or for Fleet
+products, the GSM network using the Saas Platform.
+
+5.1.2.1.2 If the connectivity is 100% then the issue may be due to the customer's
+environment; or if the device is unable to connect to the network, then the
+device is to be returned to the Salesperson.
+5.1.2.2 “Dead” Product/battery
+5.1.2.2.1 The device is no longer fulfilling its intended function.
+
+5.1.2.3. Customer abuse
+
+5.1.2.3.1 A technician will be sent out to do an investigation on telematics device to
+determine whether it is the customer at fault or if the product is “dead”.
+
+e Ifthe customer is at fault, then they will cover the technician fee and
+cost of the product replacement.
+
+e The MG Procurement department will receive the “dead” unit from
+Salesperson.
+
+MG-PRM-PRO-CR&R 202509.02 MG PROCUREMENT CUSTOMER RETURNS
+
+AND REPLACEMENTS PROCEDURE Pg 9 of 13
+
+Document Name MG-PRC-PRO-CRR 202509.02
+Previous Name, if changed MG-PRC-PRO-CRR 202508.01
+Description MG PROCUREMENT GENERIC CUSTOMER RETURNS AND .
+REPLACEMENTS PROCEDURE ~
+Revision No 02 o en |
+Date of Revision 10 SEPTEMBER 2025 ) macro COMM
+Date of Next Revision 10 SEPTEMBER 2027 4 SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+5.1.2.3.2 Other subsidiary units do not need a technician.
+
+5.1.3 The Salesperson (loT/Fleet) to request the customer to return the device; and to
+record by email what the malfunction problem (issue) is.
+
+5.1.4 The Salesperson (loT/Fleet) advises the Procurement Officer that there is a
+product / device has malfunctioned by this specific customer and to expect this
+to be returned.
+
+5.1.5 The Procurement Officer to confirm if the product is still under warranty and to
+request a copy of the installation certificate (if applicable).
+
+5.1.6 When the customer's returned product is received, the Procurement Officer
+must record this in the Stock Returned Register - MG-STK-RTN-REG 202405.00 -
+and confirm the serial number against the last order.
+
+5.2 Sub-process: Communication with the Supplier for Stock Testing
+and Replacement Under Warranty or Resolution of Issue
+
+The key steps are noted below:
+
+5.2.1 The manufacturer tests the product to confirm is malfunction and confirms if the
+product is covered under the warranty.
+
+5.2.1.1 If the product is confirmed to have malfunctioned and is covered under the
+warranty, the manufacturer as per the agreement with Macrocomm will effect
+replacement
+
+5.2.1.2 If the product is confirmed to have malfunctioned and is not covered under the
+warranty (due to the warranty having expired) then the manufacturer will agree
+with the Procurement Officer to send a new device for the customer to
+purchase.
+
+5.2.1.3 If the product is confirmed as to having malfunctioned due to customer abuse
+and that it is no longer covered under the warranty, the manufacturer will
+agree with the Procurement Officer to send a new device for the customer to
+purchase.
+
+5.2.1.4 If the product, after testing is in full working order, it will be returned to
+Macrocomm to return to the customer.
+
+5.2.2 The Procurement Officer continually monitors the status of the replacement with
+the Supplier either telephonically or via email.
+
+MG-PRM-PRO-CR&R 202509.02 MG PROCUREMENT CUSTOMER RETURNS
+
+AND REPLACEMENTS PROCEDURE Pg 10 of 13
+
+Document Name MG-PRC-PRO-CRR 202509.02
+
+Previous Name, if changed MG-PRC-PRO-CRR 202508.01
+MG PROCUREMENT GENERIC CUSTOMER RETURNS AND
+
+Description REPLACEMENTS PROCEDURE ~~
+
+Revision No 02 CA
+
+Date of Revision 10 SEPTEMBER 2025 (mMacrocomm
+Date of Next Revision 10 SEPTEMBER 2027 / SMART MADE SIMPLE
+Author TSHEGOFATSO NAKED!
+
+Approver ASHOK SOOKLALL
+
+5.2.2.1 The Procurement Officer will keep the Salesperson (loT/Fleet) updated on the
+interactions with and/or feedback from the manufacturer (supplier).
+
+5.2.2.2 The Salesperson (loT/Fleet) is to keep the customer updated on the timeframe
+for a replacement or if they need to purchase a new product based upon the
+finding of the manufacturer. This will be done by email and/or telephonically.
+
+5.2.2.3 If the replacement is urgent as it is part of the POC or POV project, then
+Macrocomm Procurement to issue a loan product (device) to prevent the
+project from stalling; this will be run parallel with the manufacturer (supplier)
+testing process noted above in 5.2.1.
+
+5.2.2.3.1 If the customer refuses the loan product (device) then they must wait until
+the manufacturer (Supplier) provides the outcome if their testing and if a
+replacement will be given.
+
+5.3 Sub-process: Manufacturer (Supplier) Testing Outcome and
+Product Return or New Delivery.
+
+The key steps are noted below:
+5.3.1. The manufacturer test outcome will be emailed to the Procurement Officer.
+
+5.3.2 The test will determine if the product is replaced under warranty or if a new
+product is to be purchased.
+
+5.3.3 The manufacturer will package and ship to Macrocomm either the:
+
+5.3.3.1 Replacement product if test confirms malfunction and it is under warranty
+
+5.3.3.2 Anew product if the test confirms malfunction but it is no longer under
+warranty
+
+5.3.3.3 Anew product if the test confirms customer abuse
+5.3.3.4 The Salesperson (loT/Fleet) will be advised.
+
+5.3.3.5 The Salesperson (loT/Fleet) will communicate the finding with the customer.
+5.3.3.5.1. The customer will be advised when to expect the replacement or
+
+5.3.3.5.2 The customer, if they agree, will be advised when to expect the new
+product (device) and be invoiced accordingly
+
+5.4 Sub-process: Customer Replacement or New Product Shipped.
+
+The key steps are noted below:
+
+MG-PRM-PRO-CR&R 202509.02 MG PROCUREMENT CUSTOMER RETURNS
+
+AND REPLACEMENTS PROCEDURE Pg 11 of 13
+
+Document Name MG-PRC-PRO-CRR 202509.02
+
+Previous Name, if changed MG-PRC-PRO-CRR 202508.01
+MG PROCUREMENT GENERIC CUSTOMER RETURNS AND
+
+peserpien | epuacementsprocepure
+
+Date of Revision 10 SEPTEMBER 2025 mMacrocom”
+Date of Next Revision 10 SEPTEMBER 2027 4 SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+
+Approver ASHOK SOOKLALL
+
+5.4.1 The generic stock-in and stock-out processes will be followed when the
+replacement stock or new stock is received from the manufacturer (supplier).
+
+5.4.1.1 The customer will be invoiced if the product (device) is not under warranty or
+fails the malfunction test
+
+5.4.2 The customer will be kept informed by the Salesperson from the beginning of
+the process until the matter is resolved.
+
+6 Risks and Opportunities
+
+6.1 Risks
+
+The following risks have been identified:
+
+BUSINESS IMPACT MITIGATION ACTIONS
+
+Replacement not Revenue loss All products tested and checked to
+covered under confirm if under warranty by
+warranty Macrocomm and the Manufacturer
+
+(Supplier) before providing a
+
+replacement.
+
+6.2 Opportunities
+
+The following opportunities table will used to help improve the procedure and
+processes for greater efficiencies.
+
+PROCESS/PROCEDURE AMENDMENT,
+
+OPPORTUNITY BUSINESS IMPACT
+
+TRAINING REQUIREMENT
+
+MG-PRM-PRO-CR&R 202509.02 MG PROCUREMENT CUSTOMER RETURNS
+
+AND REPLACEMENTS PROCEDURE Pg 12 of 13
+
+Document Name MG-PRC-PRO-CRR 202509.02
+Previous Name, if changed MG-PRC-PRO-CRR 202508.01
+Description MG PROCUREMENT GENERIC CUSTOMER RETURNS AND
+REPLACEMENTS PROCEDURE
+Revision No 02 e
+Date of Revision 10 SEPTEMBER 2025 mMacrocom”
+Date of Next Revision 10 SEPTEMBER 2027 4 SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+7 Processes
+
+The processes mapped below is for Customer Returns and Replacements.
+
+MACROCOMM GROUP PROCUREMENT DEPARTMENT >
+PROCESS DESCRIPTION IMG PROCUREMENT CUSTOMER RETURNS AND REPLACEMENT PROCESS Ca
+CUSTOMER RETURNS AND REPLACEMENTS favor [unex a CS in moc
+
+Unit(s) has an issue
+
+v
+
+Inform Sales person of Pay bill
+4
+y Receiving and shipping
+er Subsdiary Unit(s >
+Sales person conducts Other Subetaey Geils) Setective urstis}
+investigation
+
+Inform customer on lead
+ustomer abuse > wstomer—> Bil Customer
+Customer abut > investigation on telematics device ggres cost silane * te
+*
+Fleet Techrcin/Sales .
++ Technician fee
+- <> Conectity — > ma cat chck on Teg
+
+Dead unitfoattery <> bm Bdsgnal <p Salesperson informs customer ochee
+
+y Device
+inform Procurement | <-——$ $$
+
+Receiving and shipping defective unit(s)
+
+Receive defective unit(s)
+
+Inform Suppher of
+defective unit(s}
+
+Send unit(s) back to the
+supplier
+
+Acknowledges Receipt of
+
+RetumedLna(s} > Aepait nits)
+me Return units} to MG Send New unit(s] to MG
+¥ > Unit|s) in Working Order 4
+Tests unit(s} > @> -
+Replace unit(s)
+
+Damaged unit(s) due to
+
+ia Customer Abuse
+
+P| Invoice MG Process,
+
+8 Support
+
+If there are any queries or problems regarding the Generic Delivery Rejection Procedure
+contact either the General Manager or the Procurement Officer.
+
+MG-PRM-PRO-CR&R 202509.02 MG PROCUREMENT CUSTOMER RETURNS
+
+AND REPLACEMENTS PROCEDURE Pg 13 of 13

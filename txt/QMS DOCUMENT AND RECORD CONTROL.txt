@@ -1,0 +1,1122 @@
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04
+
+Previous Name, if changed N/A
+
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE Ge
+
+Revision No 04 mac
+
+Date of Revision 30 MAY 2025 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+
+Approver Elton Chettiar
+
+Document Name:
+
+MG-QMS-PRO-DRCNTRL
+
+202505.04 DOCUMENT AND
+
+buh 2 RECORD CONTROL
+8 PROCEDURE
+
+Charlene van Onselen
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 0 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+Document Name MG-QMS-PRO-DRCNTRL 202505.04
+Previous Name, if changed N/A
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE Ge
+Revision No 04 Macro
+Date of Revision 30 MAY 2025 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+Author Charlene van Onselen
+Approver Elton Chettiar
+DOCUMENT CONTROL
+
+This provides information on the document version control and sign-off.
+
+DOCUMENT HISTORY
+
+DOCUMENT NAME VERSION | DATE
+
+MG-QMS-PRO-DRCNTRL 202407.00 00 08 JUL 2024
+
+MG-QMS-PRO-DRCNTRL 202407.01 01 26 JUL 2024
+
+MG-QMS-PRO-DRCNTRL 202408.02 02 13 AUG 2024
+
+MG-QMS-PRO-DRCNTRL 202409.03 03 10 SEP 2024
+
+MG-QMS-PRO-DRCNTRL 202505.04 04 30 MAY 2025
+DOCUMENT APPROVAL
+
+DOCUMENT NAME.VERSION
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL
+
+CHANGES MADE
+
+The naming filing convention has been updated
+STAKEHOLDER NAME AND DESIGNATION SIGNATURE | DATE
+
+Elton Chettiar (Macrocomm Group Chief
+Operating Officer - 16.2)
+
+Charlene van Onselen (Macrocomm Group
+Business Optimisation Executive - Health and
+Safety)
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 1 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04
+
+Previous Name, if changed N/A
+
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE Ge
+
+Revision No 04 Macro
+
+Date of Revision 30 MAY 2025 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+
+Approver Elton Chettiar
+
+TABLE OF CONTENTS
+
+1 PROCEDURE DESCRIPTION AND PURPOSE ...............scccssecossecccssccsscccsccccsscccsssccsscccsscccssseesscees 3
+1.1 DESCRIPTION ..sccscscscscscssssescscsescsssssssscsesssssesesscscsssesessssessusssssssesesssessssssesesssesscsesesesesasacsesesesesacaeseseees 3
+1.2 BENEFITS AND OBJECTIVES ...scscssssssescsesessssescscsescsssesessescsesssesesasscsesesesscsesesssssacscsesesesasscscsesesesacscseseees 3
+1.3 AREAS OF RESPONSIBILITY .....cscscsssssssscsesesesessscsssscsesesssessssssesesesssesassesssesasscscsesesesesacscsesesesecseseseseeeeees 3
+1.4 RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ....ssssssssssesssscssssseseees 4
+
+2 QMS DOCUMENT AND RECORD CONTROL PROCEDURE ..................csccossecccsecccscccesccccscccesees 4
+2.2 PROCEDURE OWNER(S) AND RESPONSIBLE PARTIES ...cssscsssssssscscscscsssscscsesessscscscsessssssvsvscsesesussvssscseees 5
+
+3 TYPICAL PROCEDURE INPUTG................csccccsscccsscccsccccsccccscccescccescccescccnscccescccesccceseccesescscccesese 5
+3.1 INFORMATION OR DOCUMENTS NEEDED....c.cscscssssssesesesescsssesccsesesseccscsesesesesesscsesesesesasacsesesesesacsesesenes 5
+3.2 RESOURCES NEEDED.......cccscscsessssesesescsesssssescssescsesesesscscsesesesesasesssessssssesesssesscsesesesesacscsesesesesacscsesenes 5
+3.3 PERSONNEL NEEDED ....sscscscscscssesesescsesesessscscsscscsesescsssscsesssesessssesssessssesesesssesscsesesesesacscsesesesesacseseseees 5
+3.4 PRECEDING PROCESSES/PROCEDURES «.sscsssssssscscsssssscscscscsesssscscsessssvsvscscsessssscscsessssssvsvscsessesssssvssseees 6
+
+4 TYPICAL PROCEDURE OUTPUTS ................ccsscccsscccsscccscccesccccscccescccescccescccescccescccescccescccscccesese 6
+41 TYPICAL OUTPUTS ARE}. .scscssssssescsesssssssscscscsesssssessssesesesssesssscsesesssessesesssesasacsesesesesasaescsesesesacsesesenteeeaes 6
+4,2 DOCUMENTS ...sccscscsssescssssescscsesesesssssscsesssssesasscsesesesessssesesesssscsesesssesssscsesesssesacsesesesssasacsesesesesacaeseseees 6
+4.3 ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS ..sessessssssscsesscscscscscsessesvscscsessssssvssseseees 6
+
+5 THE DOCUMENT AND RECORD CONTROL PROCEDURE .................cccsccosscccescccescccescccescccesece 6
+5.1 CREATING AND UPDATING DOCUMENTED INFORMATION ..cscscsssssssscscscscsesesesvsvscsesessscsvscscsssssssvscsessees 6
+5.2 CONTROL OF DOCUMENTED INFORMATION. ...cscssscsssssessssssssesesesesesesesesesesesescscsesescscscscscscscscscscsvacseees 8
+
+6 RISKS AND OPPORTUNITIES ...............ccsscccsscccescccsscccescccescecescccescccescecesccescccescccscccscccescccesees 16
+6.1 RISKS ...csssccssssseccessssccesssscecesssueccsssseeccssseeecesesseecsesseeccssaeecesesseecessseccseesesecessseeeseseeeeesnseeesssaesesenaes 16
+6.2 OPPORTUNITIES ...scssescsesesescscssscscscsesssesssasscsesesesesasscsesesssesscsesssesasacsesesesesasscsesesesesscscsesesesesaacseaeees 17
+
+7 PROCESS ACTIVITY MAP. ...............scccsscccsscccescccescccescecescccescccescecescecncccuscccusccccscccscccscccescccesces 17
+
+8 SUPPORT ...........ssccccssssccccssssceccssssccccssssecccssssecccssssccccsssecccesseecccsscecouessseseesccsosessescceescesosessessones 17
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 2 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04
+
+Previous Name, if changed N/A
+
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE Ge
+
+Revision No 04 Macro
+
+Date of Revision 30 MAY 2025 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+
+Approver Elton Chettiar
+
+1. Procedure Description and Purpose
+
+The purpose of this procedure is to ensure that all relevant documented
+information and organizational knowledge which forms an integral part of the
+Macrocomm quality management system is managed under controlled
+conditions and that all documented information is reviewed and approved by
+authorized personnel prior to issue for use.
+
+1.1 Description
+
+This procedure is to establish and maintain an effective and systematic control of
+all internal and external documented information that concerns and affects the
+implementation and maintenance of the Macrocomm Integrated Management
+System.
+
+1.2 Benefits and Objectives
+
+The benefits of this will ensure identification of new processes, procedures, and
+policies for control amendments on previous versions of these. It will also ensure
+proper storage of controlled copies and disposal of obsolete documents. It will
+prevent unauthorised reproduction and use of records. These benefits are also
+the primary objectives of the procedure.
+
+1.3 Areas of Responsibility
+
+The owner of this procedure is the SHEQ Coordinator and/or the Business
+Optimisation who is responsible for management of all documents including but
+not limited to processes, work instructions, method statements, specifications,
+Quality manual and all records etc. and ensure that the integrity of the quality
+management system is maintained when changes to the quality management
+system are planned and implemented.
+
+Relevant Head of Departments will make the final approval of all documents
+before distribution.
+
+All Departmental Heads are responsible reviewing and updating their documents
+and keep retaining records.
+
+All staff are responsible to propose and notify Departmental Heads of any
+changes that need to be made on all documents.
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 3 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04
+
+Previous Name, if changed N/A
+
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE Ge
+
+Revision No 04 Macro
+
+Date of Revision 30 MAY 2025 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+
+Approver Elton Chettiar
+
+1.4 Relationship between this Procedure and other
+Procedures/Processes
+
+This procedure has an impact and associative relationship across the organisation
+to ensure an integrated management process of all documents within
+Macrocomm.
+
+2 QMS Document and Record Control Procedure
+
+2.1.1
+
+Procedure Objectives and Metrics
+
+2.1.1.1 The procedure objectives are defined as:
+
+Identifying all documents, processes, procedures, and policies that
+require amendment.
+
+Ensuring version control of every document type; that changes and
+current revision status of documents are identified.
+
+Ensuring that the relevant departmental heads sign-off and approve all
+amendments prior to distribution for use.
+
+Updating of the master document index
+Ensuring standardisation of all document types
+Reviewing and revising as necessary and re-approving documents
+
+Ensuring that relevant versions of applicable documents are available at
+points of use.
+
+Ensuring that documents remain legible and readily identifiable.
+
+Ensuring that documents of external origin are identified, and their
+distribution controlled.
+
+Preventing the unintended use of obsolete documents
+
+2.1.1.2 Procedure Metrics
+
+Each objective of this procedure is measured according to the:
+
+Version control
+
+Impact on productivity and efficiencies within the business
+
+The speed of learning new jobs by those promoted or changing roles,
+and by new recruits to the organisation.
+
+Accessibility of all staff to the documents, policies and procedures, and
+processes that they need to perform a task.
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 4 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04
+
+Previous Name, if changed N/A
+
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE Ge
+
+Revision No 04 Macro
+
+Date of Revision 30 MAY 2025 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+
+Approver Elton Chettiar
+
+2.2 Procedure Owner(s) and Responsible Parties
+
+2.2.1. Procedure Owner
+
+The SHEQ Co-Ordinator and/or Business Optimisation Executive (hereinafter
+referred to SHEQ Co-Ordinator) is responsible for ensuring that the integrated
+management document and record procedure is applied.
+
+2.2.2 Key Stakeholders
+
+The key stakeholders are all the departmental heads within the group.
+
+3 Typical Procedure Inputs
+The typical procedure inputs are:
+3.1 Information or Documents Needed
+
+The information or documents required are:
+
+e The company organogram
+
+e Divisional, supplier or product changes
+
+e Anew way of working to promote greater efficiency.
+
+e Anew project that drives change or innovation
+
+e Process or procedure amendments which require new agreements or
+forms or other to support their efficacy.
+
+e New systems or software
+
+3.2 Resources Needed
+
+The following resources are needed to support this procedure:
+
+e Master document and record index
+e Strong filing and administration of all documents
+e SharePoint accessibility
+
+e Microsoft Licenses for those who create or update/amend any
+documents.
+
+3.3 Personnel Needed
+
+The personnel needs are the business optimisation team and all respective
+department heads and their respective staff.
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 5 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04
+
+Previous Name, if changed N/A
+
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE Ge
+
+Revision No 04 Macro
+
+Date of Revision 30 MAY 2025 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+Approver Elton Chettiar
+
+3.4 Preceding Processes/Procedures
+
+Identification of all document types that require updating or amending to support
+the business as it grows and streamlines.
+
+4 Typical Procedure Outputs
+The following outputs:
+4.1 Typical outputs are:
+
+e Updated Quality Management processes, procedures, policies, forms,
+and documents, Quality Manual Technical or System
+
+e The master document and record index
+4.2 Documents
+
+e Change Management Request - MG-QMF-FRM-CRT 202408.06
+e Management of Change - MG-QMS-FRM-MOC 202408.02
+e Master document and record index - MG-DCTRL-INDEX 202406.00
+
+4.3 Enablement or Operationalisation of Another Process
+
+This will allow for integration and streamlining of all policies, processes,
+procedures, forms, and documentation across the group and facilitate training or
+upskilling of employees.
+
+5 The Document and Record Control Procedure
+
+The document and record control procedure is divided into 4 (four) primary
+Stages: change management procedure (if applicable), updating and/or
+amendment of document if not new, sign-off and approval, and distribution.
+
+5.1 Creating and updating documented information
+
+All the Quality Management Systems documented information developed and
+used in Macrocomm are controlled by the SHEQ Coordinator and maintained by
+the respective Department Heads.
+
+e Anyone can request (Known as the Request Originator) a new document
+or a change to a document using the Change Request Form MG-QMF-
+FRM-CRT 202408.06
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 6 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04
+
+Previous Name, if changed N/A
+
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE Ge
+
+Revision No 04 Macro
+
+Date of Revision 30 MAY 2025 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+
+Approver Elton Chettiar
+
+e Any policy or procedure change impact must be recorded on the
+Management of Change Register MG-QMS-FRM-MOC 202408.02
+
+The Change Request form and proposed new document or changes are sent the
+Departmental Head for Review and Approval.
+
+All the Management System documented information is written and issued in the
+standard formats approved by the Departmental Heads
+
+The SHEQ Coordinator Registers and updates documents on the Master Record
+Index MG-DRCTRL-INDEX 202406.00.
+
+No member of staff shall make copies of controlled documented information
+without the approval of the Departmental Head. The controlled copies shall be
+kept and stored on the Shared Drive on the server and a duplicate set for easy
+accessibility on SharePoint.
+
+The SHEQ Coordinator will incorporate all Management Systems documented
+information in the Master List of documented information MG-DRCTRL-INDEX
+202406.00.
+
+When creating and updating documented information, Macrocomm shall ensure
+appropriate:
+a) identification and description (e.g. logo, a title, revision number,
+date of issue, issue number)
+b) format (e.g. language, software version, graphics) and media (e.g.
+paper, electronic)
+c) business unit and/or Macrocomm company
+d) owner of the document
+e) review and approval for suitability and adequacy.
+
+Only when the review being made on the documents is cosmetic e.g. change of
+header size, document layout meaning the change does not affect the Quality
+Management System intended results ONLY the effective date will change, and
+the revision number remains the same. This will also apply during the review
+period when no changes were made to a document the revision will remain the
+same.
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 7 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04
+
+Previous Name, if changed N/A
+
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE Ge
+
+Revision No 04 Macro
+
+Date of Revision 30 MAY 2025 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+Approver Elton Chettiar
+
+5.2 Control of Documented Information
+
+5.2.1 Approval of Documented information for Adequacy Prior to Issue
+
+All the quality management system documented information is prepared,
+checked, reviewed, updated as necessary by the Departmental Heads. Other
+members of the department may be consulted in the review and preparation of
+documents.
+
+All the management system documented information is approved by the
+Departmental Heads
+
+The management system documented information is recorded in the Master
+Document List MG-DRCTRL-INDEX 202406.00 by the SHEQ Coordinator
+
+5.2.2 Review, Updating and Re-Approval of Documented Information
+
+The Departmental Heads are responsible for reviewing and updating documents
+every 24 months with their department or as necessary and re-approval of the
+applicable Management system documented information, when there is a change
+in the process or as applicable using a Change Request Form MG-QMF-FRM-CRT
+202408.06.
+
+5.2.3 Identification of Changes and the Current Revision Status of Documented
+information
+
+SHEQ Coordinator ensures that all changes made on the Management System
+documented information are written in a blue font.
+
+The first documented information developed will be version 00 for all pages.
+
+Any changes affecting QMS made to the documented information will change the
+version number of the documented information. The version number will change
+to the next numerical number.
+
+Only when the review being made on the documents is cosmetic e.g. change of
+header size, document layout meaning the change does not affect the Quality
+Management System intended results ONLY the effective date will change, and
+the revision number remains the same. This will also apply during the review
+period when no changes were made to a document the rev will remain the same.
+
+The SHEQ Coordinator will distribute the revised documented information to the
+relevant Departmental Heads
+
+Departmental Heads shall communicate the latest documents to their
+departments.
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 8 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04 a
+
+Previous Name, if changed N/A \\
+
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE Gm
+
+Rein z “macrocomm
+Date of Revision 30 MAY 2025 7 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+
+Approver Elton Chettiar
+
+Departmental Heads shall withdraw all the “obsolete” documented information
+for filing or disposal.
+
+The Master List of Documents MG-DRCTRL-INDEX 202406.00 shall be updated to
+include the new or revised documented information.
+
+5.2.4 ISO activities that will stimulate changes in documents.
+
+The following International Organisation for Standardisation (ISO) activities that
+will stimulate changes to documents are the following:
+
+e Internal audits
+
+e Nonconformity
+
+e Management of change
+
+e Management Review
+
+e External audit
+
+e Update in legal requirements
+
+e Incidents (Health and Safety)
+
+e 24 Month document review
+
+5.2.5 Legibility of documented information
+
+Departmental Heads ensure that Documents are kept clean, legible, and where
+practical protected from mishandling or damage.
+
+Documents are preserved in the most suitable manner, which may include but
+not limited to electronic, lamination, framing, storing in plastic pockets, and filing
+in cabinets.
+
+Documents are retained by Departmental Heads as per the Master Document List
+MG-DRCTRL-INDEX 202406.00
+
+5.2.6 Identification of Documented information
+
+Quality management systems documented information will carry unique
+identification with the following format.
+
+FILE NAME FORMAT
+
+AA-BBB-CCC-DDDDD-EEE YYYYMM.NN
+
+AA MG Macrocomm Group
+ML Macrocomm LiveWire
+BBB COO MG Operations Department
+
+G-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page9 | 18
+
+Template Name
+
+MG-QMS-PRO-TEM 202406.01
+
+Document Name
+
+MG-QMS-PRO-DRCNTRL 202505.04
+
+Previous Name, if changed
+
+N/A
+
+ee NT Ymacrocom
+Date of Revision 30 MAY 2025 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+npr Fon hey
+FIN MG Financial Department
+HR MG Human Resources Department
+HSE MG Health and Safety
+LGL MG Legal Department
+MCT Macrocomm Connect
+MFA Macrocomm Fleet Analytics
+MKT MG Marketing Department
+MSS Macrocomm Smart Solutions
+MSU Macrocomm Smart Utilities
+PRC MG Procurement Department
+PR] MG or ML Project Office
+QMS MG Quality Management Systems
+SSD MG Shared Services Department
+TDR MG Tender Department
+ccc AGR Agreement
+CAF Customer Application Form
+CEP Compliance Engagement Plan
+CHT Project Charter
+CMR Change Management Request
+COM Communiqué
+DEC Declaration
+DOI Disclosure of Interest
+DOF Debit Order Form
+ELE Electricity
+EWT E-Wallet
+FRM Form
+FNC Project Functional Specification
+INC Incident
+IVC Invoice
+INV Inventory
+MOl Memorandum of Intent
+
+G-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL
+
+Page 10 | 18
+
+Template Name
+
+MG-QMS-PRO-TEM 202406.01
+
+Document Name
+
+MG-QMS-PRO-DRCNTRL 202505.04
+
+Previous Name, if changed
+
+N/A
+
+Description
+
+MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE
+
+Revision No
+
+Date of Revision
+Next Date of Revision
+Author
+
+04
+
+30 MAY 2025
+
+30 MAY 2027
+Charlene van Onselen
+
+SMART MADE SIMPLE
+
+Approver Elton Chettiar
+MOU Memorandum of Understanding
+NBP Notice Board Plan
+NCF Non-Conformance
+PRO Procedure
+PRC Process
+POL Policy
+POV Proof of Value
+SCP Project Scope Document
+SLS Sales
+SNO Sign-off / Approval Sheet
+SOW Statement of Work
+TAC Terms and Conditions
+VDO Voice and Data Order
+WAT Water
+DDDDDD CKL Checklist
+CMG Change Management
+CSC Customer Supplier Contract
+DRCTRL Document and Record Control
+REG Register
+
+EEE TEM Template
+
+(this may not always be used)
+
+YYYYMM YYYY The year the document is created or
+amended - helps to immediately know how
+recent the document is
+
+MM the month the document is created or
+amended - helps to immediately know how
+recent the document is
+
+-NN NN This is the version of the document.
+
+00 = original version
+
+01 = first revision of the document
+02....9n = the second revision etc of the
+document
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 11 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04
+
+Previous Name, if changed N/A
+
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE Ge
+
+Revision No 04 Macro
+
+Date of Revision 30 MAY 2025 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+
+Approver Elton Chettiar
+
+All Documents will have a Document Name, Document Number, Revision and
+Date; the date will be typed using the format DDMMYY. Documents shall be
+marked when in revision format.
+
+5.2.7 Document Control Within Documents
+
+All documents are document controlled within the document header and footer.
+The header contains the document control detail, and the footer contains the
+name of the document and its current version as confirmation thereof.
+
+The basic document template is MG-ISO-TEM 202407.02 ISO New Form Basic
+Template Format 290724.
+
+5.2.7.1. The Header Control
+
+The header control must be always completed to ensure that there is effective
+document control.
+
+Template Name MG-ISO-TEM 202407.02
+Document Name
+Previous Name, if changed
+
+Revision No } macro
+
+Description Cre
+
+Date of Revision wv SMART MADE SIMPLE
+Date of Next Revision
+
+Author Approver
+
+e Template Name = this is the document name of the template used to
+create the document.
+
+e Document Name = this is the name of the document.
+
+° Previous Name, if Changed = this is the name of the previous version of
+the document.
+
+° Description = This is the descriptor name of the document.
+
+° Revision No = this is the revision or version number of the document.
+
+° Date of Revision = this is the date of the current version or revision of
+the document.
+
+° Date of Next Revision = is the date the document will be reviewed again
+for revision; usually this is every 24 months.
+
+e Author = this is the name of the document author.
+
+e Approver = this is the name of the person who has authority to approve
+this document.
+
+e The company logo is always found on the right-hand side of the
+document control in the header.
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 12 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04
+
+Previous Name, if changed N/A a)
+
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE gg
+
+reason z “macrocomm
+Date of Revision 30 MAY 2025 7 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+
+Approver Elton Chettiar
+
+5.2.7.2 The Footer Control
+
+The footer control is the name of the document as per the header control item
+“Document Name.” It is the saved name of the document.
+
+The page number is always found on the right-hand side of the footer.
+
+5.2.8 Reports and Registers Naming Convention
+
+All report forms are to be given a number using the standard naming convention
+abbreviation to precede the number. All report numbers will be followed by the
+year in which these reports are compiled. It is important to note that all report
+forms are all based upon a signed-off template.
+
+Registers recording the different reports such as incidents, non-conformances
+and change requests are to be named using the standard naming convention with
+the current year. Registers will be kept per financial year.
+
+Report Naming Convention
+
+FILE NAME FORMAT
+
+CCCYYYY.0000.NN
+
+ccc INC Incident
+
+NCF Non-Conformance
+
+CMR Change Management Request
+YYYY YYYY The year the document is created or
+
+amended - helps to immediately know how
+recent the document is, e.g. 2024
+
+0000 0000 The number of the report, this will be
+sequentially numbered each year starting at
+0001; 0002; 0003; ....000n
+
+-NN NN This is the version of the document.
+(this may not be used) 00 = original version
+01 = first revision of the document
+
+02....nn = the second revision etc of the
+document
+
+Register Naming Convention
+
+FILE NAME FORMAT
+
+AA-BBB-CCC-DDD.2024
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 13 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+Document Name MG-QMS-PRO-DRCNTRL 202505.04 a
+Previous Name, if changed N/A \\
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE @
+Revision No 04 “thacrocomm
+Date of Revision 30 MAY 2025 “ SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+Author Charlene van Onselen
+Approver Elton Chettiar
+AA MG Macrocomm Group
+ML Macrocomm LiveWire
+BBB COO MG Operations Department
+FIN MG Financial Department
+HR MG Human Resources Department
+HSE MG Health and Safety
+LGL MG Legal Department
+MFA Macrocomm Fleet Analytics
+MKT MG Marketing Department
+MSS Macrocomm Smart Solutions
+PRC MG Procurement Department
+PR) MG or ML Project Office
+QMS MG Quality Management Systems
+SSD MG Shared Services Department
+TDR MG Tender Department
+ccC CMR Change Management Requests
+INC Incident
+NCF Non-Conformances
+DDDDDD REG Register
+YYYY YYYY The year the document is created or
+amended - helps to immediately know how
+recent the document is, e.g. 2024
+
+5.2.9 Storage and Accessibility of all Documents
+
+All documents will be stored on the Shared Drive and on SharePoint.
+
+On the Shared Drive all documents will be stored in soft editable versions, and in
+PDF as a back-up of the SharePoint One Drive.
+
+On SharePoint there will two identical folders of all files:
+
+e One will be with only password protected forms and templates, and PDF
+versions of all documents to access by staff.
+
+e The other will be the soft copy version for all respective department
+heads to amend their documents and follow the procedure prior to
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 14 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04
+
+Previous Name, if changed N/A
+
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE Ge
+
+Revision No 04 Macro
+
+Date of Revision 30 MAY 2025 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+
+Approver Elton Chettiar
+
+updating the PDF version for distribution. Access to editable documents
+will be restricted to the respective owner and Business Optimisation.
+The SharePoint Folders will be:
+e Macrocomm Operations with sub folders per division and/or group
+company.
+e Macrocomm Operations Soft Copy with sub folders per division and/or
+group company.
+
+5.2.10 Management of Obsolete Documented information
+
+Departmental Heads shall retrieve all obsolete documented information from
+their department and ensure the latest version is used.
+
+Departmental Heads decide on the necessary disposal methods for their
+department depending on the nature of the documents (e.g. Shredding)
+
+SHEQ Coordinator shall ensure the latest version is on the shared drive.
+
+Where there is a need to retain obsolete documented information, it shall be
+preserved in an Obsolete documented information file/Folder on the Shared drive
+to prevent its unintended use. It will be retained for a period of 5 (five) years.
+
+5.2.11 Documents by External Providers
+
+Documents of external Origin are obtainable on Acts online shop. Documents are
+readily available through the following link https://www.acts.co.za/ or via the
+SAOISH website https://www.saoish.co.za; the latter the Group has a subscription
+to. The legal department receives all updates and circulates those relevant to the
+respective business heads. The latest documents can be viewed or downloaded
+from this website. All requests for such must be passed to the legal department
+to access and download.
+
+5.2.12 Protection of Data
+
+The Electronic Management System (SharePoint) has been created to securely
+house the system’s documentation and relevant data. It provides easy access to
+current versions of applicable documents to use where needed.
+
+The Electronic Management System can be viewed as a read only or PDF (i.e.
+information only) document.
+
+The SHEQ Coordinator and Departmental Head have the authority to change the
+documents (following approval of the documents)
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 15 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04 a
+
+Previous Name, if changed N/A \\
+
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE @
+
+Revision No 04 “thacrocomm
+Date of Revision 30 MAY 2025 4 SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+
+Approver Elton Chettiar
+
+Security of electronic data on the company network and computer system is the
+responsibility of Outsourced IT providers.
+
+Physical security related to Macrocomm’s records is the responsibility of the
+Departmental Heads including legal documents that are produced and/or
+received in the process of the business activities.
+
+Electronic records are retained and controlled by Departmental Heads and SHEQ
+Coordinator and the Outsourced IT Providers, either on the live network or on
+archive media, with back-ups in secure storage at company locations and at an
+off-site facility.
+
+5.2.13 Sending Documents to External Interested Parties
+
+When sending documents to External Interested Parties, the documents shall be
+in PDF format and only upon consent by the Departmental Head, may an editable
+version be sent. This is to reduce the risk of editing of documents.
+
+Examples of External Interested Parties are:
+
+e Customers
+e Suppliers
+
+6 Risks and Opportunities
+
+6.1 Risks
+
+The following risks have been identified:
+
+BUSINESS IMPACT MITIGATION ACTIONS
+Use of obsolete Wrong processes being Document control and removal of all
+documents followed, or wrong forms | obsolete documents from being
+being used this can accessed by staff
+prohibit business
+processes and waste time
+Storage of Wrong version of a policy | Ensuring that only the most recent
+
+may be used resulting in version of the document is accessible
+an employee acting inan_ | and keeping the master document and
+uninformed manner and record index updated
+
+expecting a result that is
+no longer agreed.
+
+documents and
+records uncontrolled
+
+Documents being This could result in Always password protect or save
+
+edited unsanctioned sanctions documents as a PDF so that non-
+which may impact editable documents only are accessible
+business negotiations to all.
+
+G-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 16 | 18
+
+Template Name MG-QMS-PRO-TEM 202406.01
+
+Document Name MG-QMS-PRO-DRCNTRL 202505.04
+Previous Name, if changed N/A
+Description MG QMS DOCUMENT AND RECORD CONTROL PROCEDURE
+
+Macrocomm
+
+Revision No 04
+
+Date of Revision 30 MAY 2025 a SMART MADE SIMPLE
+Next Date of Revision 30 MAY 2027
+
+Author Charlene van Onselen
+
+Approver Elton Chettiar
+
+6.2 Opportunities
+
+The following opportunities table will used to help improve the procedure and
+processes to for greater sales efficacies.
+
+PROCESS/PROCEDURE AMENDMENT,
+
+OPPORTUNITY BUSINESS IMPACT
+
+TRAINING REQUIREMENT
+
+7 Process Activity Map
+
+The process activity map below shows the inputs and outputs for document and
+record control.
+PO
+
++ New Information
+* Retained Information
+* Maintained Information
+
++ New Process/Procedure/Policy
+
+* Changed
+Process/Procedure/Policy
+
+* Revised QMS Document
+
+* Standards
+
+* Business restructuring
+
+* Supplier Requirements
+
+* Controlling documented
+information and organisational
+
+* Reseller Business Model knowledge
+
+* Technology
+
+* Documented information
+register
++ Disaster recovery
+
+* Document Owner
+
++ Document Control
+
++ SHEQ Quality Manager / Co-
+Ordinator
+
++ New Process/Procedure/Policy
+* Document Changes
+
++ Document Approval
+
++ Process/Procedure Control
+
+* Continual improvement
+
++ Record Control
+
++ No of incorrect documents
+
++ No of document errors
++ No of document changes
+
+8 Support
+
+If there are any queries or problems regarding this procedure contact the SHEQ
+Coordinator.
+
+MG-QMS-PRO-DRCNTRL 202505.04 MG QMS DOCUMENT AND RECORD CONTROL Page 17 | 18

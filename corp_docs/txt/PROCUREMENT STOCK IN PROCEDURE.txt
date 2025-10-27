@@ -1,0 +1,503 @@
+Document Name 
+MG-PRM-PRO-SI 202509.02 
+ 
+Previous Name, if changed 
+MG-PRC-PRO-SIP 202508.01 
+Description 
+MG PROCUREMENT GENERIC STOCK-IN PROCEDURE 
+Revision No 
+02 
+Date of Revision 
+10 SEPTEMBER 2025 
+Date of Next Revision 
+10 SEPTEMBER 2027 
+Author 
+TSHEGOFATSO NAKEDI 
+Approver 
+ASHOK SOOKLALL 
+ 
+MG-PRM-PRO-SI 202509.02 MG PROCUREMENT STOCK IN PROCEDURE 
+Pg 1 of 9 
+ 
+MACROCOMM GROUP (PTY) LTD 
+PROCUREMENT 
+ 
+STOCK IN PROCEDURE 
+Document Name: 
+MG-PRM-PRO-SI 202509.02 
+Version: 
+02 
+Date: 
+10 SEPTEMBER 2025 
+Author: 
+TSHEGOFATSO NAKEDI 
+ 
+ 
+
+Document Name 
+MG-PRM-PRO-SI 202509.02 
+ 
+Previous Name, if changed 
+MG-PRC-PRO-SIP 202508.01 
+Description 
+MG PROCUREMENT GENERIC STOCK-IN PROCEDURE 
+Revision No 
+02 
+Date of Revision 
+10 SEPTEMBER 2025 
+Date of Next Revision 
+10 SEPTEMBER 2027 
+Author 
+TSHEGOFATSO NAKEDI 
+Approver 
+ASHOK SOOKLALL 
+ 
+MG-PRM-PRO-SI 202509.02 MG PROCUREMENT STOCK IN PROCEDURE 
+Pg 2 of 9 
+ 
+Document Control 
+Name 
+Version 
+Date 
+Changes 
+MG-PRC-PRO-SIP 202507.00 
+00 
+16/07/2025 
+Process 
+MG-PRC-PRO-SIP 202508.01 
+01 
+25/08/2025 
+Authors 
+MG-PRM-PRO-SI 202509.02 
+02 
+10/09/2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document Sign-Off / Approval 
+This is the formal sign-off for the Stock-In Procedure. 
+Name 
+Designation 
+Date 
+Signature 
+Ashok Sooklall 
+General Manager – MG 
+ 
+ 
+Elton Chettiar 
+Chief Operating Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Document Name 
+MG-PRM-PRO-SI 202509.02 
+ 
+Previous Name, if changed 
+MG-PRC-PRO-SIP 202508.01 
+Description 
+MG PROCUREMENT GENERIC STOCK-IN PROCEDURE 
+Revision No 
+02 
+Date of Revision 
+10 SEPTEMBER 2025 
+Date of Next Revision 
+10 SEPTEMBER 2027 
+Author 
+TSHEGOFATSO NAKEDI 
+Approver 
+ASHOK SOOKLALL 
+ 
+MG-PRM-PRO-SI 202509.02 MG PROCUREMENT STOCK IN PROCEDURE 
+Pg 3 of 9 
+ 
+ 
+TABLE OF CONTENTS 
+1 
+PROCEDURE DESCRIPTION AND PURPOSE ............................................................................ 4 
+1.1 
+DESCRIPTION ................................................................................................................................... 4 
+1.2 
+BENEFITS ......................................................................................................................................... 4 
+1.3 
+AREAS OF RESPONSIBILITY ................................................................................................................ 4 
+1.4 
+RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ................................ 4 
+2 
+STOCK-IN PROCEDURE MANAGEMENT .................................................................................. 4 
+2.1 
+PROCEDURE OBJECTIVES AND METRICS .............................................................................................. 4 
+2.2 
+PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S) ............................................................................. 5 
+3 
+TYPICAL PROCEDURE INPUTS................................................................................................. 5 
+3.1 
+INFORMATION OR DOCUMENTS NEEDED ........................................................................................... 5 
+3.2 
+RESOURCES NEEDED ........................................................................................................................ 5 
+3.3 
+PERSONNEL NEEDED ........................................................................................................................ 6 
+3.4 
+PRECEDING PROCESSES/PROCEDURES ............................................................................................... 6 
+4 
+TYPICAL PROCEDURE OUTPUTS ............................................................................................. 6 
+4.1 
+TYPICAL OUTPUTS ARE: ..................................................................................................................... 6 
+4.2 
+TECHNICAL OR SYSTEM ..................................................................................................................... 6 
+4.3 
+DOCUMENTS ................................................................................................................................... 6 
+4.4 
+ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS .......................................................... 6 
+5 
+THE GENERIC STOCK-IN PROCESS .......................................................................................... 7 
+5.1 
+SUB-PROCESS: RECEIPT AND RECORDING OF STOCK RECEIVED ............................................................ 7 
+5.2 
+SUB-PROCESS: STATUS OF GOODS DELIVERED .................................ERROR! BOOKMARK NOT DEFINED. 
+6 
+RISKS AND OPPORTUNITIES ................................................................................................... 8 
+6.1 
+RISKS .............................................................................................................................................. 8 
+6.2 
+OPPORTUNITIES ............................................................................................................................... 9 
+7 
+PROCESSES ............................................................................................................................... 9 
+8 
+SUPPORT .................................................................................................................................. 9 
+ 
+ 
+ 
+ 
+
+Document Name 
+MG-PRM-PRO-SI 202509.02 
+ 
+Previous Name, if changed 
+MG-PRC-PRO-SIP 202508.01 
+Description 
+MG PROCUREMENT GENERIC STOCK-IN PROCEDURE 
+Revision No 
+02 
+Date of Revision 
+10 SEPTEMBER 2025 
+Date of Next Revision 
+10 SEPTEMBER 2027 
+Author 
+TSHEGOFATSO NAKEDI 
+Approver 
+ASHOK SOOKLALL 
+ 
+MG-PRM-PRO-SI 202509.02 MG PROCUREMENT STOCK IN PROCEDURE 
+Pg 4 of 9 
+ 
+1 Procedure Description and Purpose 
+The purpose of this Generic Stock-in Process is to enable the receipt, recording and 
+updating of the stock control sheet in the Procurement Department. 
+Macrocomm Group Procurement does not have a centralised warehouse for storage, it 
+keeps safety/buffer stock on hand to keep lead time at a minimum to satisfy customer 
+demand in a timeous manner. 
+1.1 Description 
+This is the procedure of how to record all ordered stock after it has been delivered 
+1.2 Benefits 
+This procedure provides the procurement team with the guidelines of how to record all 
+stock received from Suppliers to allow for accurate assessment of stock received and 
+effectively inspecting it. 
+It will be a guideline for the Procurement department to have a standard process of 
+receiving stock from supplier. 
+1.3 Areas of Responsibility 
+The Procurement Officer is responsible for ensuring that the supplier delivers the 
+correct stock that was ordered and inspecting it. 
+1.4 Relationship between this Procedure and other 
+Procedures/Processes 
+This procedure has a direct impact on the Stock Out and Delivery Rejection processes 
+depending on the stock delivered by the Supplier. 
+2 Stock-In Procedure Management 
+2.1 Procedure Objectives and Metrics 
+2.1.1 Procedure Objectives: 
+• 
+Accurate recording of all ordered stock that is received from the Supplier matches 
+the stock ordered by the Sales team. 
+• 
+Promote accurate reconciliation by the Finance Team against invoices. 
+
+Document Name 
+MG-PRM-PRO-SI 202509.02 
+ 
+Previous Name, if changed 
+MG-PRC-PRO-SIP 202508.01 
+Description 
+MG PROCUREMENT GENERIC STOCK-IN PROCEDURE 
+Revision No 
+02 
+Date of Revision 
+10 SEPTEMBER 2025 
+Date of Next Revision 
+10 SEPTEMBER 2027 
+Author 
+TSHEGOFATSO NAKEDI 
+Approver 
+ASHOK SOOKLALL 
+ 
+MG-PRM-PRO-SI 202509.02 MG PROCUREMENT STOCK IN PROCEDURE 
+Pg 5 of 9 
+ 
+2.1.2 Procedure Metrics: 
+Each objective of this procedure is measured according to the: 
+• 
+Purchase Order received from the Group Subsidiary 
+• 
+Quotation issued to Customer 
+• 
+Purchase Order issued to the Supplier 
+• 
+Invoice issued to Customer to effect payment 
+• 
+Leadtime from order to supplier to actual receipt of goods from supplier 
+2.2 Procedure Owner(s) and Key Stakeholder(s) 
+2.2.1 Procedure Owner 
+The General Manager is responsible for managing this process and ensuring that all 
+stakeholders follow the steps outlined for effective procurement.   
+The person performing this task is the Procurement Officer and is the delegated 
+responsible person. 
+2.2.2 Key Stakeholders 
+The key stakeholders are the Suppliers, Sales and Finance Teams. 
+3 Typical Procedure Inputs 
+The typical procedure inputs are noted below: 
+3.1 Information or Documents Needed 
+The following information or documents are necessary for effective measuring and 
+enabling of the Generic Stock-In Procedure: 
+• 
+Quotation for stock from the Supplier 
+• 
+Purchase order to the Supplier 
+• 
+Invoice from the Supplier 
+• 
+Supplier banking details 
+• 
+Delivery Note from the Supplier and/or Courier Company 
+3.2 Resources Needed 
+The following resources are needed to support this procedure: 
+• 
+Stock control sheet 
+
+Document Name 
+MG-PRM-PRO-SI 202509.02 
+ 
+Previous Name, if changed 
+MG-PRC-PRO-SIP 202508.01 
+Description 
+MG PROCUREMENT GENERIC STOCK-IN PROCEDURE 
+Revision No 
+02 
+Date of Revision 
+10 SEPTEMBER 2025 
+Date of Next Revision 
+10 SEPTEMBER 2027 
+Author 
+TSHEGOFATSO NAKEDI 
+Approver 
+ASHOK SOOKLALL 
+ 
+MG-PRM-PRO-SI 202509.02 MG PROCUREMENT STOCK IN PROCEDURE 
+Pg 6 of 9 
+ 
+3.3 Personnel Needed 
+The Procurement Officer is the person who takes receipt of the stock delivered and 
+records this on the Stock control sheet. 
+3.4 Preceding Processes/Procedures 
+The preceding processes are the Sales’ Customer Order, Procurement’s Generic 
+Ordering (if there is stock available), Purchase Order Generation (if there is no stock 
+available) process. 
+4 Typical Procedure Outputs 
+The following outputs: 
+4.1 Typical outputs are: 
+• 
+The Purchase Order issued to the Supplier is used as the check sheet to confirm that 
+the correct stock has been delivered 
+• 
+Delivery Note signed and a copy filed 
+• 
+The stock control sheet is updated 
+• 
+The Salesperson is informed that the stock has been delivered and recorded. 
+4.2 Technical or System 
+• 
+Excel 
+4.3 Documents 
+• 
+Invoice from Supplier 
+• 
+Updated Stock control sheet 
+• 
+Delivery Note 
+4.4 Enablement or Operationalisation of Another Process 
+This enables Finance’s Generic Supplier Invoice Loading and Payment Scheduling and 
+Processing, and Procurement’s Stock Out or Delivery Rejection depending on the 
+condition of the stock delivered by the supplier. 
+ 
+ 
+ 
+
+Document Name 
+MG-PRM-PRO-SI 202509.02 
+ 
+Previous Name, if changed 
+MG-PRC-PRO-SIP 202508.01 
+Description 
+MG PROCUREMENT GENERIC STOCK-IN PROCEDURE 
+Revision No 
+02 
+Date of Revision 
+10 SEPTEMBER 2025 
+Date of Next Revision 
+10 SEPTEMBER 2027 
+Author 
+TSHEGOFATSO NAKEDI 
+Approver 
+ASHOK SOOKLALL 
+ 
+MG-PRM-PRO-SI 202509.02 MG PROCUREMENT STOCK IN PROCEDURE 
+Pg 7 of 9 
+ 
+5 The Generic Stock-In Process 
+The Generic Stock-In Procedure is important as it provides a record of all stock ordered 
+from Suppliers and sold-on to customers. 
+5.1 Sub-process: Receipt and Recording of Stock Received 
+The key steps are noted below: 
+5.1.1 Reception advises the Procurement Officer in person/email that stock has 
+arrived from the Supplier. 
+5.1.2 Procurement Officer checks the stock and/or goods that have been delivered 
+against the Purchase Order issued to the Supplier. 
+5.1.3 If the goods are: 
+5.1.3.1 As per the Purchase Order, the delivery note is signed by the Procurement 
+Officer. 
+5.1.3.2 If not, then the goods are returned to the Supplier. 
+5.1.3.3 If the goods are damaged, the goods are returned to the Supplier, this is noted 
+on the delivery note. 
+5.1.3.4 The Purchase Order is kept on record with the relevant notes written on it to 
+record the status of the order. 
+• 
+If the order is only partially fulfilled, the Procurement Officer notes this on the delivery 
+note and on the Purchase Order copy held by the Procurement Officer. 
+5.1.4 The delivery note is filed in the stock received file 
+5.1.5 The Sales Team is advised via email/in person that stock has been delivered and 
+is on-hand for dispatch. 
+ 
+ 
+ 
+ 
+ 
+
+Document Name 
+MG-PRM-PRO-SI 202509.02 
+ 
+Previous Name, if changed 
+MG-PRC-PRO-SIP 202508.01 
+Description 
+MG PROCUREMENT GENERIC STOCK-IN PROCEDURE 
+Revision No 
+02 
+Date of Revision 
+10 SEPTEMBER 2025 
+Date of Next Revision 
+10 SEPTEMBER 2027 
+Author 
+TSHEGOFATSO NAKEDI 
+Approver 
+ASHOK SOOKLALL 
+ 
+MG-PRM-PRO-SI 202509.02 MG PROCUREMENT STOCK IN PROCEDURE 
+Pg 8 of 9 
+ 
+6 Risks and Opportunities 
+6.1 Risks 
+The following risks have been identified: 
+RISK 
+BUSINESS IMPACT 
+MITIGATION ACTIONS 
+Defective stock  
+Unable to sell defective 
+stock which may lead to 
+revenue loss 
+Potential sale loss due to 
+poor turnaround time to 
+customer 
+Visual inspection to ensure the integrity 
+of stock received is in good condition 
+Stock theft 
+Revenue loss 
+Stock take (use stock register) to ensure 
+stock balances 
+Non delivery by 
+supplier 
+Unfulfilled customer 
+orders, revenue loss 
+Follow up via email with supplier to 
+ensure that all the stock ordered is 
+received in good order 
+Incorrect stock  
+Non-fulfilment of 
+customer order, Poor 
+turnaround time to 
+customer.  
+Reputation damage. 
+Ensure stock items received are correct 
+and quantity received are as per the 
+Purchase Order, and delivery note/goods 
+received note corresponds accordingly. 
+
+Document Name 
+MG-PRM-PRO-SI 202509.02 
+ 
+Previous Name, if changed 
+MG-PRC-PRO-SIP 202508.01 
+Description 
+MG PROCUREMENT GENERIC STOCK-IN PROCEDURE 
+Revision No 
+02 
+Date of Revision 
+10 SEPTEMBER 2025 
+Date of Next Revision 
+10 SEPTEMBER 2027 
+Author 
+TSHEGOFATSO NAKEDI 
+Approver 
+ASHOK SOOKLALL 
+ 
+MG-PRM-PRO-SI 202509.02 MG PROCUREMENT STOCK IN PROCEDURE 
+Pg 9 of 9 
+ 
+6.2 Opportunities 
+The following opportunities table will used to help improve the procedure and 
+processes for greater efficiencies. 
+OPPORTUNITY 
+BUSINESS IMPACT 
+PROCESS/PROCEDURE AMENDMENT, 
+TRAINING REQUIREMENT  
+ 
+ 
+ 
+7 Processes 
+The processes mapped below is for Stock In. 
+ 
+8 Support 
+If there are any queries or problems regarding the Generic Stock-In Procedure contact 
+either the General Manager or the Procurement Officer.

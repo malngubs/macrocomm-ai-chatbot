@@ -1,0 +1,424 @@
+Template Name 
+MG-ISO-TEM 202502.03 
+ 
+Document Name 
+MG-QMS-PRO-TEM 202508.03 
+Previous Name, if changed 
+MG-QMS-PRO-TEM 202503.02 
+Description 
+MG QMS PROCEDURE TEMPLATE 
+Revision No 
+03 
+Date of Revision 
+10 AUGUST 2025 
+Date of Next Revision 
+10 AUGUST 2027 
+Author 
+LUNGA KHUMALO 
+Approver 
+CHARLENE VAN ONSELEN 
+ 
+MG-QMS-PRO-TEM 202508.00 MG QMS PROCEDURES’ DEFINITION TEMPLATE  
+Pg 1 of 7 
+ 
+MACROCOMM GROUP (PTY) LTD 
+PROCEDURE DEFINITIONS 
+TEMPLATE 
+Document Name: 
+MG-QMS-PRO-TEM 202508.00 
+Version: 
+00 
+Date: 
+10 AUGUST 2025 
+Author: 
+LUNGA KHUMALO 
+ 
+ 
+
+Template Name 
+MG-ISO-TEM 202502.03 
+ 
+Document Name 
+MG-QMS-PRO-TEM 202508.03 
+Previous Name, if changed 
+MG-QMS-PRO-TEM 202503.02 
+Description 
+MG QMS PROCEDURE TEMPLATE 
+Revision No 
+03 
+Date of Revision 
+10 AUGUST 2025 
+Date of Next Revision 
+10 AUGUST 2027 
+Author 
+LUNGA KHUMALO 
+Approver 
+CHARLENE VAN ONSELEN 
+ 
+MG-QMS-PRO-TEM 202508.00 MG QMS PROCEDURES’ DEFINITION TEMPLATE  
+Pg 2 of 7 
+ 
+Document Control 
+Name 
+Version 
+Date 
+Changes 
+MG-QMS-PRO-TEM 202503.02 
+02 
+4 MAR 25 
+ 
+MG-QMS-PRO-TEM 202508.03 
+03 
+10 AUG 25 
+Definitions added per 
+section 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document Sign-Off / Approval 
+This is the formal sign-off for the Definitions’ Procedure. 
+Name 
+Designation 
+Date 
+Signature 
+Charlene van Onselen 
+Business Optimisation 
+Executive 
+15 AUG 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Template Name 
+MG-ISO-TEM 202502.03 
+ 
+Document Name 
+MG-QMS-PRO-TEM 202508.03 
+Previous Name, if changed 
+MG-QMS-PRO-TEM 202503.02 
+Description 
+MG QMS PROCEDURE TEMPLATE 
+Revision No 
+03 
+Date of Revision 
+10 AUGUST 2025 
+Date of Next Revision 
+10 AUGUST 2027 
+Author 
+LUNGA KHUMALO 
+Approver 
+CHARLENE VAN ONSELEN 
+ 
+MG-QMS-PRO-TEM 202508.00 MG QMS PROCEDURES’ DEFINITION TEMPLATE  
+Pg 3 of 7 
+ 
+ 
+TABLE OF CONTENTS 
+1 
+WHAT IS A PROCEDURE AND WHY DO WE NEED IT? ............................................................ 4 
+1.1 
+PROCEDURE DEFINITION ................................................................................................................ 4 
+1.2 
+REASONS FOR A PROCEDURE .......................................................................................................... 4 
+1.3 
+BENEFITS OF A PROCEDURE ............................................................................................................ 4 
+2 
+PROCEDURE DESCRIPTION AND PURPOSE ........................................................................... 4 
+2.1 
+DESCRIPTION ................................................................................................................................ 4 
+2.2 
+BENEFITS ...................................................................................................................................... 5 
+2.3 
+AREAS OF RESPONSIBILITY .............................................................................................................. 5 
+2.4 
+RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ................................ 5 
+3 
+XXX MANAGEMENT PROCEDURE .......................................................................................... 5 
+3.1 
+PROCEDURE OBJECTIVES AND METRICS ............................................................................................ 5 
+3.2 
+PROCEDURE OWNER(S) AND RESPONSIBLE PARTIES .......................................................................... 5 
+4 
+TYPICAL PROCEDURE INPUTS ................................................................................................ 5 
+4.1 
+INFORMATION OR DOCUMENTS NEEDED .......................................................................................... 6 
+4.2 
+RESOURCES NEEDED ...................................................................................................................... 6 
+4.3 
+PERSONNEL NEEDED ..................................................................................................................... 6 
+4.4 
+PRECEDING PROCESSES/PROCEDURES ............................................................................................. 6 
+5 
+TYPICAL PROCEDURE OUTPUTS ............................................................................................. 6 
+5.1 
+TYPICAL OUTPUTS ARE .................................................................................................................... 6 
+5.2 
+TECHNICAL OR SYSTEM USED .......................................................................................................... 6 
+5.3 
+DOCUMENTS ................................................................................................................................. 6 
+5.4 
+ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS ......................................................... 6 
+6 
+THE XXX PROCEDURE ............................................................................................................. 7 
+7 
+RISKS AND OPPORTUNITIES .................................................................................................. 7 
+7.1 
+RISKS ........................................................................................................................................... 7 
+7.2 
+OPPORTUNITIES ............................................................................................................................ 7 
+8 
+PROCESSES .............................................................................................................................. 7 
+9 
+SUPPORT ................................................................................................................................. 7 
+ 
+ 
+
+Template Name 
+MG-ISO-TEM 202502.03 
+ 
+Document Name 
+MG-QMS-PRO-TEM 202508.03 
+Previous Name, if changed 
+MG-QMS-PRO-TEM 202503.02 
+Description 
+MG QMS PROCEDURE TEMPLATE 
+Revision No 
+03 
+Date of Revision 
+10 AUGUST 2025 
+Date of Next Revision 
+10 AUGUST 2027 
+Author 
+LUNGA KHUMALO 
+Approver 
+CHARLENE VAN ONSELEN 
+ 
+MG-QMS-PRO-TEM 202508.00 MG QMS PROCEDURES’ DEFINITION TEMPLATE  
+Pg 4 of 7 
+ 
+1 WHAT IS A PROCEDURE AND WHY DO WE NEED IT? 
+1.1 Procedure Definition 
+A procedure is a detailed, step-by-step set of instructions that explains how to carry out 
+a specific process with an organisation. 
+It helps employees perform tasks consistently, correctly, and safely. 
+1.2 Reasons for a Procedure 
+• 
+Standardisation – ensures that tasks are done the same way every time 
+• 
+Clarity and guidance – provides clear instructions so employees know what to do  
+• 
+Training tool – Helps onboard new staff quicker 
+• 
+Compliance and safety – Ensures legal and safety requirements are met 
+• 
+Accountability – clearly defies responsibilities, which in turn makes it easier to 
+track who did what and when. 
+1.3 Benefits of a Procedure 
+• 
+Support for continuous improvement – All documented processes can be 
+reviewed and improved over time 
+• 
+Efficiency and timesaving – reduce confusion 
+• 
+Reduced errors – minimises mistakes and rework by providing clear guidance 
+• 
+Risk management – lowers the chance of operational failures and errors 
+• 
+Easier problem-solving – if an issue arises, this document helps identify at which 
+step things went wrong 
+2 Procedure Description and Purpose 
+Explains the purpose of the respective procedure and gives an overview of what the 
+procedure is about and how it will assist the departments involved. 
+2.1 Description 
+Gives a short description or “word picture” of the entire process. 
+
+Template Name 
+MG-ISO-TEM 202502.03 
+ 
+Document Name 
+MG-QMS-PRO-TEM 202508.03 
+Previous Name, if changed 
+MG-QMS-PRO-TEM 202503.02 
+Description 
+MG QMS PROCEDURE TEMPLATE 
+Revision No 
+03 
+Date of Revision 
+10 AUGUST 2025 
+Date of Next Revision 
+10 AUGUST 2027 
+Author 
+LUNGA KHUMALO 
+Approver 
+CHARLENE VAN ONSELEN 
+ 
+MG-QMS-PRO-TEM 202508.00 MG QMS PROCEDURES’ DEFINITION TEMPLATE  
+Pg 5 of 7 
+ 
+2.2 Benefits 
+The focus is on how the procedure will offer better communication in terms of aligning 
+on the same process and speaking the same “language”. 
+How the respective procedure improves the quality of the task at hand. 
+2.3 Areas of Responsibility 
+The people accountable for the success of the process from start to finish 
+2.4 Relationship between this Procedure and other 
+Procedures/Processes 
+Mention the procedures that have direct impact or relationship with the procedure at 
+hand. 
+3 xxx Management Procedure 
+3.1 Procedure Objectives and Metrics 
+3.1.1 Procedure objectives: 
+ An objective is what you want to do specifically at the end of a process so that you 
+focus all your effort towards achieving it. 
+3.1.2 Procedure Metrics 
+Metrics are how you are going to reach your objective; it is quantifiable and offers an 
+answer as to how we measure the success of our objectives. 
+3.2 Procedure Owner(s) and Responsible Parties 
+3.2.1 Procedure Owner 
+The designation of who will be in charge of ensuring that the procedure is applied across 
+the process. 
+3.2.2 Key Stakeholders 
+Individuals who are key to the success of the procedure 
+4 Typical Procedure Inputs 
+The typical procedure inputs are: 
+
+Template Name 
+MG-ISO-TEM 202502.03 
+ 
+Document Name 
+MG-QMS-PRO-TEM 202508.03 
+Previous Name, if changed 
+MG-QMS-PRO-TEM 202503.02 
+Description 
+MG QMS PROCEDURE TEMPLATE 
+Revision No 
+03 
+Date of Revision 
+10 AUGUST 2025 
+Date of Next Revision 
+10 AUGUST 2027 
+Author 
+LUNGA KHUMALO 
+Approver 
+CHARLENE VAN ONSELEN 
+ 
+MG-QMS-PRO-TEM 202508.00 MG QMS PROCEDURES’ DEFINITION TEMPLATE  
+Pg 6 of 7 
+ 
+4.1 Information or Documents Needed 
+• 
+Documents can either be digital or physical 
+• 
+Information gives us insight into the content of the procedure 
+4.2 Resources Needed 
+Resources are things/tools that we can use to find the information that we need. 
+4.3 Personnel Needed 
+The teams that are needed for the success of the procedure. 
+4.4 Preceding Processes/Procedures 
+Process (s) that takes place before the current process. (write all the 
+processes/procedures that precede the current process.) 
+5 Typical Procedure Outputs 
+The following outputs: 
+5.1 Typical outputs are 
+• 
+What we get at the end of the current process 
+5.2 Technical or System Used 
+• 
+The system (s) to make the process easier to complete. 
+5.3 Documents 
+• 
+Physical or digital record that we get at the of the process 
+5.4 Enablement or Operationalisation of Another Process 
+We mention the teams that are crucial in making the current process a success, whether 
+it is by providing tools/resources that make the other stage (s) of the process easier to 
+complete.  
+It is about ensuring that the process is sustainable and repeatable.  
+
+Template Name 
+MG-ISO-TEM 202502.03 
+ 
+Document Name 
+MG-QMS-PRO-TEM 202508.03 
+Previous Name, if changed 
+MG-QMS-PRO-TEM 202503.02 
+Description 
+MG QMS PROCEDURE TEMPLATE 
+Revision No 
+03 
+Date of Revision 
+10 AUGUST 2025 
+Date of Next Revision 
+10 AUGUST 2027 
+Author 
+LUNGA KHUMALO 
+Approver 
+CHARLENE VAN ONSELEN 
+ 
+MG-QMS-PRO-TEM 202508.00 MG QMS PROCEDURES’ DEFINITION TEMPLATE  
+Pg 7 of 7 
+ 
+6 The XXX Procedure 
+The xxxx procedure steps are: 
+• 
+6.1. Steps  
+o Sub-step 
+• 
+6.2. Step 
+7 Risks and Opportunities 
+7.1 Risks 
+A risk is a situation that involves exposure to danger: 
+RISK 
+BUSINESS IMPACT 
+MITIGATION ACTIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.2 Opportunities 
+Opportunities are a gap that we exploit to improve the process 
+The following opportunities table will used to help improve the procedure and processes 
+to for greater xxx department efficacies. 
+OPPORTUNITY 
+BUSINESS IMPACT 
+PROCESS/PROCEDURE AMENDMENT, 
+TRAINING REQUIREMENT  
+ 
+ 
+ 
+8 Processes 
+The process mapped below supports this procedure. 
+Place a process map that summarises the steps written under heading 5 “ The xxx 
+Procedure” steps. 
+9 Support 
+If there are any queries or problems regarding the xxx procedure, you may contact…

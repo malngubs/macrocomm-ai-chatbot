@@ -1,0 +1,507 @@
+Background 
+Municipalities are faced with a major backlog of unpaid utility services resulting in revenue 
+shortages. This is primarily due to billing discrepancy disputes and reduced revenue collection due 
+to interim billing, a direct result of aging infrastructure and in-accurate consumption figures as 
+well as many unbilled points.  
+The replacement of legacy metering infrastructure with Smart metering for both Electricity and 
+Water will provide an increase in accurate electricity and water consumption data in real-time, for 
+billing purposes, facilitating a reduction in monthly municipal interim billing and a noticeable 
+improvement in revenue collection. This coupled with smart prepaid metering, which focuses on 
+ensuring that bypasses and ghost vending are eradicated, will ensure financial viability of 
+municipalities. 
+Thanks to our wildly innovative Internet of Things (IoT) solutions, many Smart Cities are already 
+active and deploying rapidly. All spheres of government can leverage cellular and Low Power Wide 
+Area Network (LPWAN) IoT technologies such as NB-IoT, Sigfox, and Lora WAN to connect and 
+improve infrastructure, improve efficiency, reduce costs, and enhance convenience and quality of 
+life for citizens. 
+Utilities Challenges  
+The following challenges have been identified in the utility sector: 
+Utility Challenge 
+Our Smart Utility Solutions 
+Reliable 
+data 
+for 
+informed 
+planning, 
+maintenance, 
+and 
+management. 
+• Accurate, clean, and verified data to allow for effective 
+management and maintenance regarding the utility’s 
+infrastructure (both electricity and water). 
+• Reliable data to allow for informed future planning for 
+utility upgrades, investment, and expansion of utility 
+services 
+Improved Revenue Collection, 
+Financial 
+Management 
+and 
+Strategic Planning. 
+• 
+Accurate billing which promotes trust and encourages 
+payment for utility services utilised. 
+• 
+The ability to budget and plan based using reliable 
+revenue and expense data for financial and alternative 
+infrastructure expenditure scenarios for strategic 
+planning. 
+• 
+Increased ability to invest in future capital projects. 
+• 
+Reliable data regarding consumption, billing and 
+infrastructure status will provide for greater budgetary 
+control. 
+• 
+Stronger 
+financial 
+control 
+and 
+infrastructure 
+management will promote creditworthiness and 
+borrowing cost reduction. 
+Change management for citizen 
+payment behaviour change. 
+• 
+The need to change people’s behaviour from a culture 
+of non-payment for services to payment for services. 
+
+  
+ 
+P a g e  2 | 9 
+Utility Challenge 
+Our Smart Utility Solutions 
+Socio-Economic Upliftment. 
+• 
+Job creation and upskilling of local artisans is a primary 
+need to foster competency strengths in the utilities 
+sector. 
+ 
+Typical Cost-Benefits experienced through the deployment of 
+our Smart Utility solutions include: 
+ 
+ 
+ 
+Figure 1.1:  Benefit Realisation of Smart Metering 
+The reduction of interim billing; building citizen confidence, promoting revenue collection, and 
+reducing billing disputes. 
+Accurate billing removing interim billing (the usage of estimated average consumption) which 
+increases revenue recovery. 
+Smart notification of meter tampering (electrical and water meter bypasses), including vandalism 
+and ghost vending, allowing for quicker resolution. 
+Smart identification of previously unbilled meters not yet loaded onto the municipal platform; 
+increasing billing points. 
+The ability to identify water leaks early; limiting water wastage and improve restoration response 
+time. 
+Historical information is available.  Data is digitised and stored with access 24/7.  This data is for 
+analytics and planning purposes. 
+The ability to access verified customer information and their consumption of electricity and water. 
+
+  
+ 
+P a g e  3 | 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.2: Smart Metering Solution – Benefit Highlights 
+We understand and respect the current constraints Government institutions experience; 
+unfunded budgets, low revenue generation, little to no capital expenditure, and increasing 
+operational expenditure with a very low revenue recovery rate. 
+Our smart metering solution focuses on enhancing revenue within government institutions by 
+focusing on revenue protection, enhancement, and recovery. These three pillars form the basis of 
+this intervention. 
+Smart Utility Benefits 
+Implementation of Smart Utility Solutions for electricity and water results in the following benefits 
+for each municipality, government departments and the Country as a whole. 
+The table below depicts the smart utility metering solutions for both electricity and water, and the 
+corresponding benefits. 
+Smart Metering Solution Offering 
+Smart Metering Solution Benefits 
+Accuracy and completeness of meter 
+readings for automatic and seamless 
+integration into the billing system; 
+removing manual meter reading risks 
+in accordance with mSCOA. 
+• 
+Accurate meter readings resulting in accurate 
+billing. 
+• 
+Citizen confidence. 
+• 
+Increased revenue collection; allowing the credit 
+control department better control over their book. 
+• 
+Fewer disputes over billing. 
+• 
+Removal of interim billing for electricity and/or 
+water 
+• 
+Improved monthly financial reports. 
+• 
+Improved reporting on vandalism, water leakages 
+and other billing exceptions. 
+
+  
+ 
+P a g e  4 | 9 
+Smart Metering Solution Offering 
+Smart Metering Solution Benefits 
+Efficiency 
+through 
+seamless 
+integration 
+into 
+the 
+billing 
+(municipalities 
+financial 
+system) 
+removing human intervention risks, 
+as data is transmitted securely using 
+encryption. 
+• 
+Billing and financial data transferred securely 
+through an encrypted file for uploading into the 
+municipalities financial system (billing). 
+• 
+Citizens can access their electricity and water 
+accounts on their phone using the Mobile App. 
+Tamper reporting through system 
+signals and alerts which allows for 
+faster 
+investigations 
+and 
+interventions to protect revenue and 
+integrity of the electricity and water 
+grid. 
+• 
+Tamper 
+signals 
+and 
+alerts 
+communicated 
+frequently 
+allowing 
+for 
+investigation 
+and 
+intervention to protect revenue collection.  
+Remote 
+disconnection 
+and 
+reconnection of electricity and water 
+meters as required, based upon 
+customer payment status 
+• 
+The reconnect and disconnect fee per water meter 
+can be saved using functionality provided with the 
+smart electricity and water meter solution system 
+via remote AMR platform. 
+Our data is digitised 
+• 
+All data captured via FDM (Field Deployment 
+Manager – Installation Tool), Verification Tool and 
+data consumed from other data sets, is available 
+on the IoT platform in real-time, and is cloud 
+stored for ease of access – 24/7.  
+• 
+Analytics & reporting tools are available on the IoT 
+platform. A myriad of standard reports is currently 
+available, with the ability to request for additional 
+templates timeously. 
+Verification Tool & Data Cleansing – 
+including the “vetting process” 
+• 
+We will be able to assist in the identification of any 
+data integrity issues with the data sets provided 
+for the implementation of the Smart Metering 
+Project and is able to conduct independent data 
+cleansing activities.  
+• 
+We will implement a Verification/Audit process, 
+which involves the in-field site audit of every ERF 
+within the boundaries of each municipality, with 
+the updating of the following critical data; 
+o 
+GEO location, 
+o 
+Street address, 
+o 
+Electricity and Water meter numbers, 
+o 
+Account numbers, 
+o 
+ERF ref, etc. 
+• 
+All above data is “vetted” prior to being uploaded 
+onto the IoT platform. This process entails back-
+office 
+resources 
+reviewing 
+all 
+information 
+captured using the in-field application, against 
+
+  
+ 
+P a g e  5 | 9 
+Smart Metering Solution Offering 
+Smart Metering Solution Benefits 
+POE (Proof of Evidence) available, thereafter either 
+accepting, rejecting, or escalating data elements.  It 
+is understood that data cleansing is a key aspect of 
+implementing the new smart utility metering 
+infrastructure. 
+• 
+The QA process ensure that data being uploaded 
+onto the IoT platform is accurate. 
+• 
+The above process proves vital in resolving any 
+“unmatched” 
+records/accounts 
+for 
+billing 
+purposes. 
+FDM (Field Deployment Manager) 
+Tool – Including the “Vetting” process  
+• 
+We use an in-house developed FDM for the 
+successful 
+installation, 
+configuration 
+& 
+commissioning of in-field IoT hardware (Electrical 
+& Water Smart Meters). 
+• 
+This tool is in the form of a smart phone 
+application which is available on the play store at 
+no charge. 
+• 
+Data captured on the FDM Tool is used to activate 
+devices onto the IoT platform and ensure correct 
+information is being uploaded. 
+• 
+All above data is “vetted” prior to being uploaded 
+onto the IoT platform. This process entails back-
+office 
+resources 
+reviewing 
+all 
+information 
+captured using the in-field application, against 
+POE 
+available, 
+thereafter 
+either 
+accepting, 
+rejecting or escalating data elements. 
+• 
+This tool is also used for device “swap-outs”, which 
+ensures 
+no 
+duplication 
+of 
+devices 
+per 
+account/ERF. We request that municipalities 
+technical (Water & Electricity) utilise this tool, to 
+ensure continuity of data cleansing with matching 
+of devices to account. The data captured via this 
+tool will accurately update the existing records, 
+seamlessly. 
+We 
+can 
+provide 
+detailed 
+SOP 
+(Standard Operating Procedure) for this process, 
+including training on the use of the tools. 
+• 
+The FDM “swap out” function covers the variations 
+of: 
+o 
+Water meter swap-out: Replacing of an old 
+non-functional water meter with a new one. 
+o 
+Smart pulse unit swap out: Only the Smart 
+pulse unit is swapped out, with the current 
+water meter being “linked” to the new pulse 
+unit. 
+
+  
+ 
+P a g e  6 | 9 
+Smart Metering Solution Offering 
+Smart Metering Solution Benefits 
+• 
+Both water meter & pulse units being swapped 
+out: The IoT platform is updated with new 
+information on the new devices for a particular 
+account. Old units are made in-active on the 
+platform, thereby ensuring accurate billing in real-
+time. 
+Check Readings 
+• 
+We are committed to supplying in-field verified & 
+audited check readings, including POE, for billing 
+purposes. 
+• 
+Where AMR (Automatic Meter Reading) issues are 
+being experienced, we are committed to supplying 
+in-field 
+verified 
+& 
+audited 
+check 
+readings, 
+including POE, for billing purposes. 
+• 
+It is important that readings which have been 
+checked and are approved as accurate are sent 
+through and utilised, to drive the removal of all 
+interim billing exceptions. 
+Billing integration 
+• 
+Our Billing registers can be seamlessly integrated 
+into any municipal billing platform. 
+Reduced billing exceptions 
+• 
+Our solution can highlight billing exceptions such 
+as: 
+o 
+Unbilled – water and energy usage: 
+municipalities currently billing customer 
+for all services except Water usage 
+o 
+Incorrect meter number on a municipal 
+billing system, e.g.: captured as “NEW”. Our 
+Commissioning sheet not being used to 
+update the billing data. 
+o 
+New 
+& 
+old 
+meters 
+active 
+on 
+the 
+Municipality financial system. Customer 
+being billed interim on old meter & actual 
+on new meter (Double billing). 
+o 
+1 x Account number linked to multiple 
+addresses: 
+Incorrect 
+consumer 
+being 
+billed. 
+o 
+Duplicate Meter numbers – 1 x Meter 
+number linked to multiple accounts/ 
+Different stands. 
+o 
+Incomplete Meter serial numbers, e.g.: 
+Correct 
+meter 
+number: 
+C-SKG4373. 
+Municipal billing system has: 4373. 
+• 
+In-correct and in-complete street addresses from 
+the municipal data set. 
+
+  
+ 
+P a g e  7 | 9 
+Comprehensive Solution Offering  
+Due to our extensive experience in the smart municipal utility management space, we have 
+developed systems and solutions that add value to our clientele. We believe that through constant 
+system and solution research, development, and improvements, we can ensure that governments 
+operate at optimal utility management standards while maintaining service delivery commitments 
+and optimising revenue management in their utility management operational stream.  
+ 
+Macrocomm will provide an end-to-end service for hardware supply, field installation & project 
+management, AMR services, vending & collection services, and SLA & maintenance contracts as 
+part of the smart metering solution. The process on how this will be achieved has been stated 
+below: 
+ 
+Auditing and Data Cleansing 
+We start with an audit service that is included in the overall solution. This focuses on 
+understanding the key challenges faced in the revenue management of the institution. We are 
+able to identify major areas that can be quickly fixed to make a difference to the government 
+institution and focus on these areas as the first phase of the project. 
+ 
+Resolution of current disputes 
+All government institutions are faced with disputed accounts daily. Through a national contact 
+centre or a consumer engagement smart phone application, teams can address consumer queries 
+and deploy trained staff to address disputes, driving revenue recovery and creating a culture of 
+payment adoption through accurate and trusted billing. 
+ 
+ 
+
+  
+ 
+P a g e  8 | 9 
+Tariff correction and alignment 
+The implementation of approved tariffs, appropriately aligned to customer accounts, is key for 
+revenue enhancement. Data analytics will identify the correct customer allocations ensuring 
+accurate billing and tariff alignment.  
+ 
+Revenue recovery 
+Government institutions are faced with billions of historical debt. As part of our Value-Added 
+Services (VAS), we will implement the debt recovery regulations and manage the full recovery 
+process.  
+ 
+Revenue enhancement - LPU reconstruction  
+Large Power Users are the highest revenue-contributing customers of any government institution. 
+As part of the VAS, our teams will focus on these customers to ensure the accuracy & correctness 
+of the AMI. (Automatic Meter Infrastructure) 
+ 
+Statistical Metering solutions 
+Ensuring a healthy network infrastructure is key to any distribution. The solution will focus on a 
+turnkey methodology by managing incomers, substations, kiosks, and end supply points. This 
+provides insights into technical and non-technical loses, allowing municipalities to take corrective 
+action. 
+ 
+Energy Storage Solutions 
+Generation and storage in these networks become key in ensuring constant quality supply. 
+Storage is a major contributor to revenue enhancement based on TOU tariff management.  
+ 
+Supply of Hardware 
+With our supplier agreements with leading hardware OEM partners, we can provide superior 
+quality accredited products at cost-effective pricing. Electricity & Water meters will support 
+GSM/LTE & NB-IoT modules. Our experience in the field and working at mass has taught us the 
+hardware with individual communication modules is much more effective than concentrator type 
+on PLC. This is primarily due to communication problems experienced by the latter.  
+ 
+Automatic Meter Reading (AMR) services 
+AMR services are the only way of effectively monitoring and managing all revenue interventions 
+or programs. AMR services provide real-time alerts on all possible exceptions that may arise and 
+enable government institutions to not only protect current but also future revenue. Effective 
+budget and financial forecasting is facilitated with this process. 
+ 
+Vending & collection services 
+ 
+• 
+We will deploy a full vending solution to drive revenue collection. 
+• 
+The vending solution will be linked to the AMR system and the monitoring of token 
+purchases against consumption patterns, in real time, can identify possible ghost vending. 
+• 
+Alerts for partial or complete by-passes and equipment tampering is also reported on the 
+AMR platform.   
+• 
+We have implemented numerous collection gateways for government institutions, 
+including secure online or infield payment channels and smart wallets. 
+• 
+Money is securely collected and transferred to the various government institutions at 
+agreed timeframes, thereby assisting with cashflow management. 
+
+  
+ 
+P a g e  9 | 9 
+Technical Diagrams

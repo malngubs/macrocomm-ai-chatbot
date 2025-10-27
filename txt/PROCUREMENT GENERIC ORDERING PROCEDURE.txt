@@ -1,0 +1,540 @@
+Document Name MG-PRM-PRO-GO 202509.02
+
+Previous Name, if changed MG-PRC-PRO-GOP 202508.01
+
+Description MG PROCUREMENT GENERIC ORDERING PROCEDURE ~
+
+Revision No 02 ram N
+
+Date of Revision 10 SEPTEMBER 2025 % \) . oe
+Date of Next Revision 10 SEPTEMBER 2027 { Macro |S eain. |
+Author TSHEGOFATSO NAKEDI ll SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+MACROCOMM GROUP (PTY) LTD
+PROCUREMENT
+
+GENERIC ORDERING PROCEDURE
+
+Document Name: Version:
+MG-PRM-PRO-GOP 202509.02 02
+
+Date: Author:
+
+10 SEPTEMBER 2025 TSHEGOFATSO NAKEDI
+
+MG-PRM-PRO-GOP 202509.02 MG PROCUREMENT GENERIC ORDERING PROCEDURE Pg 1 of 10
+
+Document Name MG-PRM-PRO-GO 202509.02
+
+Previous Name, if changed MG-PRC-PRO-GOP 202508.01
+
+Description MG PROCUREMENT GENERIC ORDERING PROCEDURE
+
+Revision No 02 m2)
+
+Date of Revision 10 SEPTEMBER 2025 Ud
+
+Date of Next Revision 10 SEPTEMBER 2027 “rhacroco omm
+Author TSHEGOFATSO NAKED! “ SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+Document Control
+
+Name Version Date Changes
+MG-PRC-PRO-GOP 202507.00 00 16/07/2025 | Processes
+MG-PRC-PRO-GOP 202508.01 01 25/08/2025 | Authors
+MG-PRM-PRO-GOP 202509.02 02 10/09/2025
+
+Document Sign-Off / Approval
+
+This is the formal sign-off for the Generic Ordering Procedure.
+
+Name Designation Date Signature
+Ashok Sooklall General Manager - MG
+Elton Chettiar Chief Operating Officer
+
+MG-PRM-PRO-GOP 202509.02 MG PROCUREMENT GENERIC ORDERING PROCEDURE Pg 2 of 10
+
+Document Name MG-PRM-PRO-GO 202509.02
+Previous Name, if changed MG-PRC-PRO-GOP 202508.01
+Description MG PROCUREMENT GENERIC ORDERING PROCEDURE —.
+Date of Revision 70 SEPTEMBER 2025 CA \ om pn, wa
+Approver ASHOK SOOKLALL
+TABLE OF CONTENTS
+1 PROCEDURE DESCRIPTION AND PURPOSE................:ssssssssssssssssssssssssssesssssssssssssssssssssssssseseess 4
+1.1 DESCRIPTION .....sssscscssssssesescscsescecesescscscscscesescscucscucesescacsescscseseneueeseacseseueueacaeieaeueeeeasacaeaeeeetacaeneneeees 4
+1.2 BENEFITS... ssssssssssecesescscseececesescscscscececescsesescucscscseneseucuaescscsescecscesescsesesesseaeneneeseacacaeaeeeeeeasacaeeeeeeaeagas 4
+1.3. AREAS OF RESPONSIBILITY .....sssssssssssscesesesescsccesescscncseucucesescsescuceceseasussaescseseneueeseacacaeaeueeeeacaeaeneeeeaeagas 4
+1.4. RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ....ssssessseseseseseeseeeeesees 4
+2 GENERIC ORDERING PROCEDURE MANAGEMENT .................cccccccsssssscescccccsccsssscssscecssccessssees 4
+2.1 PROCEDURE OBJECTIVES AND METRICS.....sssssssssssscecesesescseeescscscueecescscscseneseeaescseneneeseacaeseaeeeeeeacaeneneeees 4
+2.2 PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S).......sccccesssssscccceccceessesssssceessccesessessseesssccsessensaeeesseess 5
+3 TYPICAL PROCEDURE INPUTS. .............ccssccscccsccssesessceescsscsssssseesessseesssssescceceecceescccecceececesesseseees 5
+3.1 INFORMATION OR DOCUMENTS NEEDED ......sssssssssecesesescseeeecescsenecesescseseuesescscseneueeecacaeaeaeeeetacaeneneeees 5
+3.2 RESOURCES NEEDED ......s.ssssssesescssesesesesescscscscesescscecscucesescnsscsenecacucseseeacscaeueueseacacaeaeseeasacaeaeneneeeaeaenes 5
+3.3 PERSONNEL NEEDED......s.esessscsessssssecesesescscscecesescsescsescesescncscsesecscscseeseacscaeaeueeseacseaeaeueesacacaeneeeeeeaeaenes 5
+3.4 PRECEDING PROCESSES/PROCEDURES .....ssssssssesesesssscesesesesesecseseseseseseseseseseseseeseseseaesesscseseaeeesesseseaeees 6
+4 TYPICAL PROCEDURE OUTPUTS ..............cccccscssssssesssessssssssssessssssssssssssssssssssssssssssssssssssssssessees 6
+4 TYPICAL OUTPUTS ARE: ..sssssessesescseesesesesescsescscscesescscsescucesescacsescuceacscaseeeacscaeaeneueeacacacieaeeeeeeasacaeneeeeaeaeas 6
+4.2 TECHNICAL OR SYSTEM... .ssssscsssssecesesessscecscscescncsescscucesesenesescuceseseseeescacaeaeueeecseacaeaeaeeeeecaeaeaeneeeeeeaeaeaes 6
+4.3 DOCUMENTS .....esscssssssssesesescsescecesescscsescscecesssesesesensseacsesseacscacaeseeesscacacacueeesacacaeaeueeeasacaeaeneeeseaeaeees 6
+4.4. ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS ...sscssssssssseesesesssesesesesceesseseseaeeeeesseseeeees 6
+5 GENERIC ORDERING PROCESG.............csscccsccccsccccseccccccccccccccccecccccecccccccesceccececccccccsssccescseseseeeeees 7
+5.1 SUB-PROCESS: AVAILABLE STOCK....ssssssssssssssesesesesescecescscueseesescseseseseesescaeaeneeeessacscseneeeseacaeneneeeeesacaenes 7
+5.2 — SUB-PROCESS: NO STOCK AVAILABLE .....ssssssessssssssscesescsesessescseneneeeescseseneueeescseaeseneeesacaeaeaeseeasacaenenenees 7
+6 RISKS AND OPPORTUNITIES..............cccccccsssssssssssssssssscccccccccccccccsececececccssssssssssssssssssssssssssssssssees 9
+6.1 RISKS v.esessescssssssecesescscsescecescscsescucsceacacsesescesacscneseucesessasuesescesescaeaceeuceacacueseseacieaeueeeeacaeaeaeeeeeeacaeneneeees 9
+6.2 OPPORTUNITIES .....ssesssssssssssesescscscsceccescscscscscsescseecscscesescneevscacacaceeeeescseaeneueesescseaeaeueeasacaeaeneeeeeeaeaeees 9
+7 — PROCESS. ............sssssssscssssssecssessssssssesssesssessssessscssesssssesssesssessssssssessesssssssscsssssessesscssssesssessosseoes 10
+8 —- SUPPORT............ssssssssssssssssecsssssscssssessesssessssesssessssssssesssessssssseesssesssessssessssssssessssscsssssssseesscsseses 10
+
+MG-PRM-PRO-GOP 202509.02 MG PROCUREMENT GENERIC ORDERING PROCEDURE Pg 3 of 10
+
+Document Name MG-PRM-PRO-GO 202509.02
+Previous Name, if changed MG-PRC-PRO-GOP 202508.01
+
+Description MG PROCUREMENT GENERIC ORDERING PROCEDURE
+
+Revision No 02 ~
+
+Date of Revision 10 SEPTEMBER 2025 AN)
+
+Date of Next Revision 10 SEPTEMBER 2027 macro bao ad |
+Author TSHEGOFATSO NAKEDI we SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+1 Procedure Description and Purpose
+The purpose of this Generic Ordering Process is to enable the ordering process of
+products for customers for respective subsidiaries.
+
+Macrocomm Group Procurement does not have a centralised warehouse for storage, it
+keeps safety/buffer stock on hand to keep lead time at a minimum to satisfy customer
+demand in a timeous manner.
+
+1.1 Description
+
+This is the standard ordering procedure that the Procurement department adheres to.
+
+1.2 Benefits
+
+This procedure provides the Procurement and Sales teams with clarity and guidelines of
+effectively satisfying orders and how to place orders with suppliers to fulfil customer
+orders in a timeous manner, respectively.
+
+1.3 Areas of Responsibility
+The Procurement Officer is responsible for ordering the correct amount of quantity that
+is ordered by the Sales department.
+
+The Finance department is responsible for ensuring that they review documents received
+from Sales thoroughly before the Generic Ordering process proceeds.
+
+Sales department is responsible for enquiring whether Procurement has any stock
+available to satisfy customer demand before informing customer of lead times.
+
+1.4 Relationship between this Procedure and other
+Procedures/Processes
+
+This procedure has an impact on the Sales department's Customer Ordering process and
+Finance department’s Customer Invoicing process.
+
+2 Generic Ordering Procedure Management
+
+2.1 Procedure Objectives and Metrics
+
+2.1.1 Procedure Objectives:
+
+e Ensure that Sales’ orders are effectively received
+e Quotation from Supplier - no stock available
+
+MG-PRM-PRO-GOP 202509.02 MG PROCUREMENT GENERIC ORDERING PROCEDURE Pg 4 of 10
+
+Document Name MG-PRM-PRO-GO 202509.02
+Previous Name, if changed
+
+MG-PRC-PRO-GOP 202508.01
+
+Description MG PROCUREMENT GENERIC ORDERING PROCEDURE
+
+Revision No 02 -~
+
+Date of Revision 10 SEPTEMBER 2025 Lie}
+
+Date of Next Revision 10 SEPTEMBER 2027 macro |S aiaa
+Author TSHEGOFATSO NAKEDI “7 SMART MADE SIMPLE
+
+Approver
+
+ASHOK SOOKLALL
+
+2.1.2. Procedure Metrics:
+
+Each objective of this procedure is measured according to the:
+
+Finance documentation review outcome
+Quantity of stock required by Sales
+
+Stock Availability
+
+Quotation from Supplier - no stock available
+
+2.2 Procedure Owner(s) and Key Stakeholder(s)
+
+2.2.1. Procedure Owner
+
+The General Manager is responsible for managing this process and ensuring that all
+stakeholders follow the steps outlined for effective procurement.
+
+The person performing this task is the Procurement Officer and is the delegated
+responsible person.
+
+2.2.2 Key Stakeholders
+
+The key stakeholders are the customers, the Sales and Finance Teams.
+
+3 Typical Procedure Inputs
+
+The typical procedure inputs are noted below:
+
+3.1
+
+Information or Documents Needed
+
+The following information or documents are necessary for effective measuring and
+enabling of the Generic Ordering Procedure:
+
+The Signed Quotation from customer
+
+Profit and Loss document
+Completed Finance/Checklist by Salesperson
+Purchase Order from respective subsidiary Manager
+
+3.2 Resources Needed
+
+The following resources are needed to support this procedure:
+
+Stock control sheet
+
+3.3 Personnel Needed
+
+The Procurement Officer, Finance Administrator/Accountant(s), Salesperson, respective
+Group Subsidiary manager, General manager.
+
+MG-PRM-PRO-GOP 202509.02 MG PROCUREMENT GENERIC ORDERING PROCEDURE Pg 5 of 10
+
+Document Name MG-PRM-PRO-GO 202509.02
+
+Previous Name, if changed MG-PRC-PRO-GOP 202508.01
+
+Description MG PROCUREMENT GENERIC ORDERING PROCEDURE
+Revision No 02 rw \
+
+Date of Revision 10 SEPTEMBER 2025 Lie)
+
+Date of Next Revision 10 SEPTEMBER 2027 macro ue be a a8 j
+Author TSHEGOFATSO NAKED! we SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+3.4 Preceding Processes/Procedures
+
+The preceding processes are Sales’ Customer Order process, and Finance’s Customer
+Loading into Sage process (if the customer is new), and Customer Invoicing.
+
+4 Typical Procedure Outputs
+
+The following outputs:
+
+4.1 Typical outputs are:
+
+e Dispatching Stock
+
+e Customers invoiced
+
+e Quotation from supplier - no stock available
+
+e Purchase order from Procurement to Supplier - no stock available
+
+4.2 Technical or System
+
+e Excel
+e Email
+
+4.33 Documents
+
+e Quotation from supplier - no stock available
+
+e Purchase order from Procurement to Supplier - no stock available
+e Invoice from Supplier - no stock available
+
+e Updated Stock control sheet
+
+4.4 Enablement or Operationalisation of Another Process
+
+It enables Stock Out process if stock is available; Purchase Order Generation and Stock In
+processes if there is no stock available; Delivery Upliftment process, Delivery rejection
+process if stock received from Supplier is not in good condition, Customer Returns if the
+stock delivered to the customer is not in good condition.
+
+It enables Finance’s Generic Supplier Invoice Loading and Payment Scheduling and
+Processing processes if there is no stock available.
+
+MG-PRM-PRO-GOP 202509.02 MG PROCUREMENT GENERIC ORDERING PROCEDURE Pg 6 of 10
+
+Document Name
+
+Previous Name, if changed MG-PRC-PRO-GOP 202508.01
+
+MG-PRM-PRO-GO 202509.02
+
+Description MG PROCUREMENT GENERIC ORDERING PROCEDURE ~
+
+Revision No 02 ~~
+
+Date of Revision 10 SEPTEMBER 2025 WF \_}
+
+Date of Next Revision 10 SEPTEMBER 2027 f macro o eaiaa
+Author TSHEGOFATSO NAKEDI 7 SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+5 Generic Ordering Process
+
+The Procurement Officer is cc’'d in the emails between the respective Subsidiary
+personnel and the Finance department. This allows the procurement officer to be
+proactive in the tasks she does in terms of checking stock availability from the moment
+the signed quotation from the customer is sent to the Finance department.
+
+5.1 Sub-process: Available Stock
+
+5.1.1. The Procurement Officer receives confirmation via email from the Finance
+Administrator/Accountant(s) - after reviewing the following documents - to
+proceed with the Procurement processes.
+
+Signed quotation (by customer)
+PNL statement
+
+Agreement (new customer)
+Subsidiary Purchase Order
+
+Customer Invoice
+
+5.1.2. The Procurement Officer matches the PO received from the Subsidiary
+Manager to the stock about to be released to the respective Salesperson.
+
+5.1.3. The Procurement Officer pulls the required quantity of stock to satisfy the
+order from respective Salesperson - this is the Stock Out procedure.
+
+The Stock control sheet is updated accordingly.
+
+5.2 Sub-process: No Stock Available
+
+5.2.1. The Procurement Officer receives confirmation via email from the Finance
+Administrator/Accountant(s), after reviewing the following documents, to
+proceed with the Procurement processes.
+
+Signed quotation (by customer)
+PNL statement
+
+Agreement (new customer)
+Subsidiary Purchase Order
+
+Customer Invoice
+
+MG-PRM-PRO-GOP 202509.02 MG PROCUREMENT GENERIC ORDERING PROCEDURE Pg 7 of 10
+
+Document Name MG-PRM-PRO-GO 202509.02
+
+Previous Name, if changed MG-PRC-PRO-GOP 202508.01
+
+Description MG PROCUREMENT GENERIC ORDERING PROCEDURE
+
+Revision No 02 rr \
+
+Date of Revision 10 SEPTEMBER 2025 WZ \) —
+Date of Next Revision 10 SEPTEMBER 2027 4 Macro - ae | |
+Author TSHEGOFATSO NAKEDI ll SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+5.2.2 The Procurement Officer informs the Salesperson via email that there is no
+stock available.
+
+5.2.3 The Procurement Officer reaches out to a supplier and requests a quotation
+from a supplier via email, and the following activities take place:
+
+5.2.3.1 Supplier receives the quotation
+5.2.3.2 Supplier emails quotation to MG
+5.2.3.3 Procurement Officer reviews quotation with the General Manager:
+
+o Quotation rejected:
+
+« If the quotation is not approved, it may be due to long lead time,
+price from supplier does not match price on the master product list
+
+« Procurement Officer finds an alternative supplier
+« Request a quotation from new supplier
+o Quotation approved:
+
+« Ifthe quotation is approved, it leads to the Purchase Order process,
+in the template - MG-FIN-PO 20230601.02 Purchasing Order
+Template 090623.
+
+" General manager signs off the Purchase Order
+« The Purchase Order is sent to the supplier
+
+« The supplier receives Purchase Order and generates an invoice
+against Purchase Order
+
+«= The Invoice is sent to the Procurement Officer or directly to the
+Finance department
+
+5.2.4 The Procurement Officer informs the Salesperson of lead time of ordered
+stock via email, and the Salesperson informs the customer of lead time via
+email.
+
+5.2.5 This enables the Generic Supplier Invoice Loading and Payment Scheduling &
+Processing processes in the Finance department
+
+5.2.6 The Supplier is either paid on a 30-day payment term or Cash before delivery
+payment.
+
+5.2.7 The stock is packaged and delivered to the MG head office.
+
+5.2.8 This enables the Stock In process.
+
+MG-PRM-PRO-GOP 202509.02 MG PROCUREMENT GENERIC ORDERING PROCEDURE Pg 8 of 10
+
+Document Name
+Previous Name, if changed
+
+MG-PRM-PRO-GO 202509.02
+MG-PRC-PRO-GOP 202508.01
+
+Description MG PROCUREMENT GENERIC ORDERING PROCEDURE
+Revision No 02
+
+Date of Revision 10 SEPTEMBER 2025
+
+Date of Next Revision 10 SEPTEMBER 2027
+
+Author TSHEGOFATSO NAKEDI
+
+Approver ASHOK SOOKLALL
+
+Macrocomm
+
+ra SMART MADE SIMPLE
+
+6 Risks and Opportunities
+
+6.1 Risks
+
+The following risks have been identified:
+
+Incorrect Pricing
+
+Stock Availability
+
+BUSINESS IMPACT
+
+Revenue loss or sales loss
+
+Revenue Loss, Sales Loss,
+
+long delay of getting stock
+to customer leads to poor
+
+customer service
+
+MITIGATION ACTIONS
+
+Check against the Supplier agreed price
+list, and the quotation received from the
+Supplier
+
+Confirm with the Supplier that they
+have stock before requesting a
+quotation
+
+Customer in arrears
+or legal
+
+Revenue loss, added cost
+of debt collection
+
+6.2 Opportunities
+
+Confirm with Finance that the customer
+is in good standing
+
+The following opportunities table will used to help improve the procedure and
+processes for greater efficiency.
+
+OPPORTUNITY
+
+BUSINESS IMPACT
+
+PROCESS/PROCEDURE AMENDMENT,
+
+TRAINING REQUIREMENT
+
+MG-PRM-PRO-GOP 202509.02 MG PROCUREMENT GENERIC ORDERING PROCEDURE Pg 9 of 10
+
+Document Name MG-PRM-PRO-GO 202509.02
+Previous Name, if changed | MG-PRC-PRO-GOP 202508.01
+Description MG PROCUREMENT GENERIC ORDERING PROCEDURE
+Revision No 02 m2)
+Date of Revision 10 SEPTEMBER 2025 4
+Date of Next Revision 10 SEPTEMBER 2027 an lacroconmm”
+Author TSHEGOFATSO NAKEDI “ SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+7 Process
+
+The processes mapped below is for Generic Ordering.
+
+MACROCOMM GROUP PROCUREMENT DEPARTMENT .
+PROCESS DESCRIPTION MAG PROCUREMENT GENERIC ORDERING PROCESS aN
+a “mac
+GENERIC ORDERING PROCESS SHART MADE SIMPLE
+
+v
+
+Send documents ta Finance to review and
+check stock availability with Procurement
+
+> =
+
+v
+Send Proof of Payment
+to Supplier
+
+y
+Find alternative supplies,
+ce with beter lead Rejected due to various
+Yes time
+io
+
+v
+Request a quotation GM signs off PO
+from Supplier Receive Invoice and
+v send it to Finance
+
+No»
+
+a
+Review Quotation with PO emaded to Supper
+GM 30-day term payment
+
+4
+
+v
+Proof of Feyment Delivers Stack
+r
+v v
+Generate Invoice against i packages ordered
+°0 Stock for Delivery
+
+8 Support
+
+If there are any queries or problems regarding the Generic Ordering Procedure contact
+either the General Manager or the Procurement Officer.
+
+MG-PRM-PRO-GOP 202509.02 MG PROCUREMENT GENERIC ORDERING PROCEDURE Pg 10 of 10

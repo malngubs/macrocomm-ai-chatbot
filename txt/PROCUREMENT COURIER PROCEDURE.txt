@@ -1,0 +1,491 @@
+Document Name
+Previous Name, if changed
+
+MG-PRM-PRO-GC(DU) 202509.02
+
+MG-PRC-PRO-GC(DU) 202508.01
+
+MG PROCUREMENT GENERIC COURIER
+
+Description (DELIVERY/UPLIFTMENT) PROCEDURE
+Revision No 02
+
+Date of Revision 10 SEPTEMBER 2025
+
+Date of Next Revision 10 SEPTEMBER 2027
+
+Author TSHEGOFATSO NAKEDI
+
+Approver ASHOK SOOKLALL
+
+Ymacro
+
+SMART MADE SIMPLE
+
+MACROCOMM GROUP (PTY) LTD
+PROCUREMENT
+
+GENERIC COURIER (DELIVERY/UPLIFTMENT) PROCEDURE
+
+Document Name:
+
+MG-PRM-PRO-GC(DU) 202509.02
+
+Date:
+
+10 SEPTEMBER 2025
+
+TSHEGOFATSO NAKEDI
+
+5-MG-PRM-PRO-GC(DU) 202509.02 MG PROCUREMENT COURIER PROCEDURE
+
+Pg 1 of 10
+
+Document Name MG-PRM-PRO-GC(DU) 202509.02
+Previous Name, if changed MG-PRC-PRO-GC(DU) 202508.01
+Description MG PROCUREMENT GENERIC COURIER
+(DELIVERY/UPLIFTMENT) PROCEDURE
+Revision No 02 om)
+Date of Revision 10 SEPTEMBER 2025 “thacrocomm
+Date of Next Revision 10 SEPTEMBER 2027 “ SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+Document Control
+
+Name Version Date Changes
+MG-PRC-PRO-CRR 202507.00 00 16/07/2025
+MG-PRC-PRO-GC(DU) 202508.01 01 25/08/2025
+MG-PRC-PRO-GC(DU) 202508.01 02 10/09/2025
+
+Document Sign-Off / Approval
+
+This is the formal sign-off for the Generic Courier (Delivery/Upliftment) Procedure.
+
+Designation Signature
+
+Ashok Sooklall General Manager - MG
+
+Elton Chettiar Chief Operating Officer
+
+ee
+
+5-MG-PRM-PRO-GC(DU) 202509.02 MG PROCUREMENT COURIER PROCEDURE Pg 2 of 10
+
+Document Name MG-PRM-PRO-GC(DU) 202509.02
+Previous Name, if changed MG-PRC-PRO-GC(DU) 202508.01
+Tate of Revision 10 SEPTEMBER 2025 “Ymacro ni
+Date of Next Revision 10 SEPTEMBER 2027 V4 SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+TABLE OF CONTENTS
+1 PROCEDURE DESCRIPTION AND PURPOSE................:ssssssssssssssssssssssssssesssssssssssssssssssssssssseseess 4
+1.1 DESCRIPTION .....sssscscssssssesescscsescecesescscscscscesescscucscucesescacsescscseseneueeseacseseueueacaeieaeueeeeasacaeaeeeetacaeneneeees 4
+1.2 BENEFITS... ssssssssssecesescscseececesescscscscececescsesescucscscseneseucuaescscsescecscesescsesesesseaeneneeseacacaeaeeeeeeasacaeeeeeeaeagas 4
+1.3. AREAS OF RESPONSIBILITY .....sssssssssssscesesesescsccesescscncseucucesescsescuceceseasussaescseseneueeseacacaeaeueeeeacaeaeneeeeaeagas 4
+1.4 RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ....ssssssssseseseeseseeresesees 4
+2 GENERIC COURIER (DELIVERY/UPLIFTMENT) PROCEDURE MANAGEMENT ..................ss000 4
+2.1 PROCEDURE OBJECTIVES AND METRICS.....sssssssssssscecesesescseeescscscueecescscscseneseeaescseneneeseacaeseaeeeeeeacaeneneeees 4
+2.2 PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S).......sccccesssssscccceccceessesssssceessccesessessseesssccsessensaeeesseess 5
+3 TYPICAL PROCEDURE INPUTS. .............ccssccscccsccssesessceescsscsssssseesessseesssssescceceecceescccecceececesesseseees 5
+3.1 INFORMATION OR DOCUMENTS NEEDED ......sssssssssecesesescseeeecescsenecesescseseuesescscseneueeecacaeaeaeeeetacaeneneeees 5
+3.2 RESOURCES NEEDED ......s.ssssssesescssesesesesescscscscesescscecscucesescnsscsenecacucseseeacscaeueueseacacaeaeseeasacaeaeneneeeaeaenes 5
+3.3 PERSONNEL NEEDED......s.esessscsessssssecesesescscscecesescsescsescesescncscsesecscscseeseacscaeaeueeseacseaeaeueesacacaeneeeeeeaeaenes 6
+3.4 PRECEDING PROCESSES/PROCEDURES .....ssssssssesesesssscesesesesesecseseseseseseseseseseseseeseseseaesesscseseaeeesesseseaeees 6
+4 TYPICAL PROCEDURE OUTPUTS ..............cccccscssssssesssessssssssssessssssssssssssssssssssssssssssssssssssssssessees 6
+4 TYPICAL OUTPUTS ARE: ..sssssessesescseesesesesescsescscscesescscsescucesescacsescuceacscaseeeacscaeaeneueeacacacieaeeeeeeasacaeneeeeaeaeas 6
+4.2 TECHNICAL OR SYSTEM... .ssssscsssssecesesessscecscscescncsescscucesesenesescuceseseseeescacaeaeueeecseacaeaeaeeeeecaeaeaeneeeeeeaeaeaes 6
+4.3 DOCUMENTS .....esscssssssssesesescsescecesescscsescscecesssesesesensseacsesseacscacaeseeesscacacacueeesacacaeaeueeeasacaeaeneeeseaeaeees 6
+4.4. ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS ...sscssssssssseesesesssesesesesceesseseseaeeeeesseseeeees 6
+5 THE GENERIC COURIER PROCESS ...........ccssccccsccccscccscccceccccececccccccccccccccccccccssccecsecececceccseseeseseees 6
+5.1 SUB-PROCESS: DISPATCH ORDER AND COURIER CONFIRMATION ......cssssesssseseseeseseescseeesesesesseeeseeeeseaees 7
+5.2  SUB-PROCESS: COURIER COLLECTION AND DELIVERY.......scssscesesesseseeecesescseeeesescacseeeeeeacaeaeneneeesaeaeneneeees 8
+6 RISKS AND OPPORTUNITIES..............cccccccsssssssssssssssssscccccccccccccccsececececccssssssssssssssssssssssssssssssssees 8
+6.1 RISKS v.esessescssssssecesescscsescecescscsescucsceacacsesescesacscneseucesessasuesescesescaeaceeuceacacueseseacieaeueeeeacaeaeaeeeeeeacaeneneeees 8
+6.2 OPPORTUNITIES .....ssesssssssssssesescscscsceccescscscscscsescseecscscesescneevscacacaceeeeescseaeneueesescseaeaeueeasacaeaeneeeeeeaeaeees 9
+7 — PROCESSEG...............ssssssssssscssccssssssscessescsessscesssesssessssessssssssessssssssssssessessssssssssssssssssssessessosseses 10
+8 —- SUPPORT............ssssssssssssssssecsssssscssssessesssessssesssessssssssesssessssssseesssesssessssessssssssessssscsssssssseesscsseses 10
+
+5-MG-PRM-PRO-GC(DU) 202509.02 MG PROCUREMENT COURIER PROCEDURE Pg 3 of 10
+
+Document Name MG-PRM-PRO-GC(DU) 202509.02
+Previous Name, if changed MG-PRC-PRO-GC(DU) 202508.01
+Description MG PROCUREMENT GENERIC COURIER
+(DELIVERY/UPLIFTMENT) PROCEDURE —~
+Revision No 02 7
+Date of Revision 10 SEPTEMBER 2025 t macro ; |
+Date of Next Revision 10 SEPTEMBER 2027 a SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+1 Procedure Description and Purpose
+The purpose of this Generic Courier Process is to enable the delivery of stock to
+customers to fulfil orders.
+
+Macrocomm Group Procurement does not have a centralised warehouse for storage, it
+keeps safety/buffer stock on hand to keep lead time at a minimum to satisfy customer
+demand in a timeous manner.
+
+1.1 Description
+
+This is the procedure of how to record and ensure delivery of stock to customers using
+couriers.
+
+1.2 Benefits
+
+This procedure provides the procurement team with the guidelines of how to record
+deliveries made to customers using couriers to have a record of all orders shipped by
+courier to the customer
+
+1.3 Areas of Responsibility
+The General Manager is accountable for the Procurement Department and the courier
+process and procedure.
+
+The Procurement Officer is responsible for getting the best possible courier in terms of
+price and lead time.
+
+1.4 Relationship between this Procedure and other
+Procedures/Processes
+
+This procedure informs the process for recording and arranging for a courier delivery of
+stock to customers.
+
+This procedure document directly impacts the Sales’ order process.
+
+2 Generic Courier (Delivery/Upliftment) Procedure
+Management
+
+2.1 Procedure Objectives and Metrics
+
+2.1.1 Procedure Objectives:
+
+e Accurate and timeous delivery to the customer at their chosen address
+
+5-MG-PRM-PRO-GC(DU) 202509.02 MG PROCUREMENT COURIER PROCEDURE Pg 4 of 10
+
+Document Name MG-PRM-PRO-GC(DU) 202509.02
+Previous Name, if changed MG-PRC-PRO-GC(DU) 202508.01
+Description MG PROCUREMENT GENERIC COURIER -
+(DELIVERY/UPLIFTMENT) PROCEDURE px
+Revision No 02 _WFE \_}
+Date of Revision 10 SEPTEMBER 2025 ) MmMacroc ~ aiaa
+Date of Next Revision 10 SEPTEMBER 2027 “7 SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+2.1.2 Procedure Metrics:
+Each objective of this procedure is measured according to the:
+
+e Price
+e Lead time
+e Accuracy of delivery (regarding the customer's address)
+
+2.2 Procedure Owner(s) and Key Stakeholder(s)
+
+2.2.1. Procedure Owner
+
+The General Manager is responsible for managing this process and ensuring that all
+stakeholders follow the steps outlined for effective procurement.
+
+The person performing this task is the Procurement Officer and is the delegated
+responsible person.
+2.2.2 Key Stakeholders
+
+The key stakeholders are the Courier Company, Sales Team and the Customer.
+
+3 Typical Procedure Inputs
+
+The typical procedure inputs are noted below:
+
+3.1 Information or Documents Needed
+
+The following information or documents are necessary for effective measuring and
+
+enabling of the Generic Procedure:
+
+e Email from Salesperson confirming delivery method and address
+
+e Delivery quotation issued by the Procurement Officer to the respective subsidiary
+manager for approval
+
+e Price of delivery
+e Lead time
+
+3.2 Resources Needed
+
+The following resources are needed to support this procedure:
+
+e Stock control sheet
+
+5-MG-PRM-PRO-GC(DU) 202509.02 MG PROCUREMENT COURIER PROCEDURE Pg 5 of 10
+
+Document Name MG-PRM-PRO-GC(DU) 202509.02
+Previous Name, if changed MG-PRC-PRO-GC(DU) 202508.01
+Description MG PROCUREMENT GENERIC COURIER '
+(DELIVERY/UPLIFTMENT) PROCEDURE ro
+Revision No 02 2}
+Date of Revision 10 SEPTEMBER 2025 { macro tas Lad |
+Date of Next Revision 10 SEPTEMBER 2027 we SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+3.3 Personnel Needed
+
+The Procurement Officer is the person who dispatches stock and arranges for the
+courier to collect the customer's package for delivery.
+
+3.4 Preceding Processes/Procedures
+
+The preceding processes are Customer Order, Generic Ordering, Stock-In, and Stock-
+Out.
+
+4 Typical Procedure Outputs
+The following outputs:
+
+4.1 Typical outputs are:
+
+e Approved courier by the respective subsidiary manager
+e Signed Courier Waybill (courier personnel upon delivery)
+e Signed Courier Waybill (Customer upon receiving delivery)
+
+4.2 Technical or System
+
+e Excel
+e Courier Company online system.
+
+4.33 Documents
+
+e Dispatch Note
+e Courier Waybill (from courier personnel and customer)
+
+4.4 Enablement or Operationalisation of Another Process
+
+This Generic Courier Procedure enables customer payments and the debt collection
+processes. It may enable the delivery rejection process, should the customer receive
+product(s) that is not in good condition.
+
+5 The Generic Courier Process
+
+The Generic Courier Procedure is important as this enables delivery of goods to
+customers whether local, regional or international.
+
+5-MG-PRM-PRO-GC(DU) 202509.02 MG PROCUREMENT COURIER PROCEDURE Pg 6 of 10
+
+Document Name MG-PRM-PRO-GC(DU) 202509.02
+Previous Name, if changed MG-PRC-PRO-GC(DU) 202508.01
+Description MG PROCUREMENT GENERIC COURIER —
+(DELIVERY/UPLIFTMENT) PROCEDURE orn \
+Revision No 02 Lg \)
+Date of Revision 10 SEPTEMBER 2025 (MacCrocG mmn
+Date of Next Revision 10 SEPTEMBER 2027 “ SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+5.1 Sub-process: Dispatch Order and Courier Confirmation
+The key steps are noted below:
+
+5.1.1 The Procurement Officer confirms the delivery address and method with the
+Salesperson via email.
+
+5.1.2 The Salesperson provides an email noting:
+
+5.1.2.1. The customer's name(s)
+
+5.1.2.2 Delivery method
+
+5.1.2.3 Delivery address
+
+5.1.2.4 Contact Person Name and Details
+
+5.1.3 The Procurement Officer generates a quotation - also takes dimensions of the
+package - in the courier website to share with the respective subsidiary manager
+for approval, the quotation may be rejected due to:
+
+5.1.3.1 High price
+
+5.1.3.2 Long lead time
+
+5.1.4 Upon approval of the quotation, the Procurement Officer will generate a waybill
+in the courier website to book the delivery.
+
+5-MG-PRM-PRO-GC(DU) 202509.02 MG PROCUREMENT COURIER PROCEDURE Pg 7 of 10
+
+Document Name
+Previous Name, if changed
+
+MG-PRM-PRO-GC(DU) 202509.02
+MG-PRC-PRO-GC(DU) 202508.01
+MG PROCUREMENT GENERIC COURIER
+
+macrocomm
+
+SMART MADE SIMPLE
+
+Description (DELIVERY/UPLIFTMENT) PROCEDURE
+Revision No 02
+
+Date of Revision 10 SEPTEMBER 2025
+
+Date of Next Revision 10 SEPTEMBER 2027
+
+Author TSHEGOFATSO NAKEDI
+
+Approver ASHOK SOOKLALL
+
+5.2 Sub-process: Courier Collection and Delivery
+
+5.2.1 The Procurement Officer packages the customer's stock for the Courier.
+
+5.2.2 The Procurement Officer prints the Courier Waybill from the Courier Company's
+online site and attaches it to the customer's package.
+
+5.2.3. The courier personnel collects the package and signs the waybill as proof of
+delivery, then leaves the signed waybill with the Procurement Officer.
+
+5.2.4 The courier website sends an email to the Procurement Officer and customer to
+track the delivery.
+
+5.2.5 The package is delivered to the customer by the courier personnel and the
+customer must provide a pin code for verification of delivery.
+
+5.2.5.1 Customer takes delivery of the parcel and signs waybill.
+
+5.2.6 The Courier emails the signed waybill as proof of delivery to the Procurement
+Officer and customer.
+
+5.2.7. The signed waybill is filed by the Procurement Officer.
+
+6 Risks and Opportunities
+
+6.1 Risks
+
+The following risks have been identified:
+
+BUSINESS IMPACT
+
+MITIGATION ACTIONS
+
+Delayed delivery
+
+Turnaround time to
+customer impacted,
+reputation risk.
+
+To track the shipment to promptly
+communicate with the customer
+regarding the delay, if any.
+
+Damaged stock
+
+Revenue loss with returns
+through shipping costs,
+and potential negation of
+the warranty.
+
+Poor customer
+experience.
+
+Package and label the stock well and
+ensure control measures across the
+shipping process. Report damaged
+stock and take corrective actions to
+maintain customer satisfaction
+
+Lost Shipment
+
+Revenue loss as
+Macrocomm will need to
+replace at own cost.
+
+Use the Courier tracking system to track
+and monitor the movement of the
+shipment to communicate with the
+
+5-MG-PRM-PRO-GC(DU) 202509.02 MG PROCUREMENT COURIER PROCEDURE Pg 8 of 10
+
+Document Name
+Previous Name, if changed
+
+MG-PRM-PRO-GC(DU) 202509.02
+MG-PRC-PRO-GC(DU) 202508.01
+MG PROCUREMENT GENERIC COURIER
+
+Description (DELIVERY/UPLIFTMENT) PROCEDURE m2)
+
+Revision No 02 Ud
+
+Date of Revision 10 SEPTEMBER 2025 “macrocomm
+Date of Next Revision 10 SEPTEMBER 2027 “ SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+
+Approver ASHOK SOOKLALL
+
+BUSINESS IMPACT MITIGATION ACTIONS
+
+customer and take corrective actions to
+minimise future losses.
+
+Pay for insurance on each parcel that is
+shipped.
+
+6.2 Opportunities
+
+The following opportunities table will used to help improve the procedure and
+processes for greater efficiencies.
+
+PROCESS/PROCEDURE AMENDMENT,
+
+OPPORTUNITY BUSINESS IMPACT TRAINING REQUIREMENT
+
+5-MG-PRM-PRO-GC(DU) 202509.02 MG PROCUREMENT COURIER PROCEDURE Pg 9 of 10
+
+Document Name
+Previous Name, if changed
+
+MG-PRM-PRO-GC(DU) 202509.02
+MG-PRC-PRO-GC(DU) 202508.01
+
+Description MG PROCUREMENT GENERIC COURIER —
+
+(DELIVERY/UPLIFTMENT) PROCEDURE
+Revision No 02 AN
+Date of Revision 10 SEPTEMBER 2025 mMacrocoenmm”™
+Date of Next Revision 10 SEPTEMBER 2027 “ SMART MADE SIMPLE
+Author TSHEGOFATSO NAKEDI
+Approver ASHOK SOOKLALL
+
+7 Processes
+
+The processes mapped below is for Generic Courier (Delivery/Upliftment).
+
+PROCESS NAME [éc-pam-ccio/uy-erc 202509.02 |
+PROCESS DESCRIPTION [WG PROCUREMENT GENERIC COURIER [DELIVERY/UPLIFIMENT) PROCESS
+
+MACROCOMM GROUP PROCUREMENT DEPARTMENT
+
+GENERIC COURIER (DELIVERY/UPLIFTMENT) PROCESS
+
+Cr)
+\macrocomm
+
+jgned Waybil to
+
+Arrange for Courier to
+Collect Stock jp Generate Courier Waybill Waybill Filed
+from Courier Site
+
+‘Stock-Out Process >
+
+Courier delivery >
+
+Confirm Customer
+Delivery Method » Delivery Method
+
+Head Office
+
+8 Support
+
+If there are any queries or problems regarding the Generic Courier (delivery upliftment)
+Procedure contact either the General Manager or the Procurement Officer.
+
+5-MG-PRM-PRO-GC(DU) 202509.02 MG PROCUREMENT COURIER PROCEDURE Pg 10 of 10

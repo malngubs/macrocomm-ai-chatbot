@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+
+# Data / caches
+db/
+logs/
+*.sqlite3
+
+# Node/Electron caches (if any)
+desktop-wrapper/node_modules/
+desktop-wrapper/dist/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+

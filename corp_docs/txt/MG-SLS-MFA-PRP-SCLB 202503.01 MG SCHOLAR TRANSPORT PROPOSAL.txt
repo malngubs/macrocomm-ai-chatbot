@@ -1,0 +1,691 @@
+MG-SLS-MFA-PRP-SCLB 202503.01 MG SCHOLAR TRANSPORT PROPOSAL 
+Page 0 | 12 
+version 01 | date 31/03/25 | author cvanonselen 
+ 
+ 
+ 
+ 
+ 
+ 
+MACROCOMM GROUP 
+SCHOLAR TRANSPORT 
+PROPOSAL 
+Limpopo Department of Education 
+Date: 26 August 2025 
+
+ 
+MG-SLS-MFA-PRP-SCLB 202503.01 MG SCHOLAR TRANSPORT PROPOSAL 
+Page 1 | 12 
+version 01 | date 31/03/25 | author cvanonselen 
+ 
+Macrocomm Scholar Transport - Limpopo Department of Education 
+Executive Summary 
+Safe and reliable scholar transport is a critical enabler of education in South Africa, where 
+thousands of learners depend on buses, taxis, and contracted vehicles to access schools 
+daily. Parents and the Department of Education must trust that learners are transported 
+securely, affordably, and reliably. 
+Drivers, funded partly through scholar transport grants, carry a dual responsibility; 
+ensuring the safety of children and maintaining compliance with licensing, health, and 
+service standards. 
+Macrocomm has developed a Smart Scholar Transport Ecosystem, combining AI-powered 
+cameras, telematics devices, alcohol ignition interlock technology, and fleet analytics to 
+provide: 
+• 
+Peace of mind for parents and schools by monitoring safety, incidents, and scholar 
+attendance. 
+• 
+Compliance and efficiency for the Department by ensuring grant-funded trips are 
+validated and drivers are compliant. 
+• 
+Operational support for drivers by offering reports, behavioural feedback, and 
+cost-saving measures that protect their livelihood. 
+Addressing the Key Pain Points 
+This solution is purpose-built to ensure safe, reliable, and transparent learner transport 
+in Limpopo, while also addressing fraud prevention and funding accountability. 
+The system integrates vehicle safety, driver accountability, learner verification, and real-
+time reporting to safeguard lives and reduce costs. 
+The Department faces challenges as they cannot always verify if a grant-funded trip was 
+delivered. Additionally, scholar transport owners may not know if the licensed shift driver 
+is the one behind the wheel, if the vehicle is overloaded, or if the driver is fatigued or 
+inebriated. Parents themselves lack visibility into whether their children arrived safely 
+and on time at school or home, and drivers may struggle with compliance costs despite 
+receiving grants.  
+This leaves the Department in a situation that results in the following financial loss and 
+safety risks: 
+
+ 
+MG-SLS-MFA-PRP-SCLB 202503.01 MG SCHOLAR TRANSPORT PROPOSAL 
+Page 2 | 12 
+version 01 | date 31/03/25 | author cvanonselen 
+ 
+Cause of Financial and Safety Risks 
+Issue 
+Description 
+Unsafe Vehicles 
+Many scholar transport vehicles are poorly maintained, lack valid 
+permits, or are unroadworthy, putting learners at risk. 
+Unverified Drivers 
+Inadequate vetting and monitoring allow unqualified or fatigued 
+drivers to operate learner transport. 
+Manual Records 
+Trip logs, attendance registers, and maintenance schedules are kept 
+manually, creating opportunities for error and fraud. 
+Inflated Trips / Ghost 
+Learners 
+Operators may claim subsidies for learners or trips that never took 
+place. 
+Unreported Changes 
+Learners changing schools or dropping out are not always updated in 
+transport records, leading to funding misallocation. 
+The Need for Better Accountability 
+South Africa’s scholar transport funding falls under the Learner Transport Programme, 
+managed jointly by the Department of Basic Education (DBE) and the Department of 
+Transport (DOT). Provinces contract service providers and allocate funds per learner 
+transported. 
+System Response to Key Challenges 
+Challenge 
+System Response 
+Unsafe and poorly 
+maintained vehicles 
+• 
+Digital maintenance schedules + alerts for 
+services.  
+• 
+Predictive AI for parts replacement and 
+breakdown prevention. 
+Unqualified or fatigued 
+drivers 
+• 
+Driver biometric upon access to vehicles. 
+• 
+Behaviour tracking (speed, braking, fatigue 
+events). 
+Inflated claims (ghost 
+learners, fake trips) 
+• 
+Biometric learner verification.  
+• 
+GPS-based trip logging. 
+Poor oversight of vehicle 
+lifecycle costs 
+• 
+Total Cost of Ownership (TCO) dashboard 
+showing fuel, maintenance, insurance, and 
+repairs. 
+
+ 
+MG-SLS-MFA-PRP-SCLB 202503.01 MG SCHOLAR TRANSPORT PROPOSAL 
+Page 3 | 12 
+version 01 | date 31/03/25 | author cvanonselen 
+ 
+System Response to Key Challenges 
+Challenge 
+System Response 
+Lack of deterrent 
+mechanisms 
+• 
+Tamper-proof, encrypted trip logs.  
+• 
+Automated red flags for anomalies. 
+Misaligned funding & 
+poor data 
+• 
+Funds tied to verified trips + verified learners 
+only.  
+• 
+Provincial dashboards to compare district-level 
+efficiency. 
+Provincial Oversight & Reporting 
+Our AI-powered transport verification system enables the Limpopo Department of 
+Education and Transport to: 
+• 
+Track fleet safety in real time: Vehicles, drivers, and learners monitored on one 
+platform. 
+• 
+Analyse TCO across the fleet: Compare operators, identify cost inefficiencies, 
+reduce subsidy waste. 
+• 
+Targeted safety interventions: Spot recurring issues like unroadworthy vehicles or 
+high-risk drivers. 
+• 
+Transparency & trust: Parents, schools, and communities see scholar transport as 
+reliable and accountable. 
+Proposed Solution - Solution Overview 
+Our blended solution of telematics, AI camera systems and Alcohol Ignition Interlock 
+provides an effective means of monitoring and controlling the two key pillars of scholar 
+transport: safety and management. 
+ 
+ 
+ 
+Vehicle 
+Telematics 
+Alcohol Ignition 
+Interlock 
+Passenger 
+Counting 
+Camera 
+AI In-Cab 
+& Forward-
+Facing Camera 
+Fleet Analytics 
+VEHICLE AND DRIVER LICENSE CONTROL 
+License Disk 
+ 
+ 
+ 
+ 
+X 
+Public Driver Permit 
+ 
+ 
+ 
+ 
+X 
+Driver’s License 
+ 
+ 
+ 
+ 
+X 
+Vehicle Service Control 
+ 
+ 
+ 
+ 
+X 
+Proof of Service 
+ 
+ 
+ 
+ 
+X 
+SAFETY FOR DRIVER & SCHOLAR 
+Driver Sobriety on the Job 
+ 
+X 
+ 
+ 
+ 
+
+ 
+MG-SLS-MFA-PRP-SCLB 202503.01 MG SCHOLAR TRANSPORT PROPOSAL 
+Page 4 | 12 
+version 01 | date 31/03/25 | author cvanonselen 
+ 
+Bus Overload 
+ 
+ 
+X 
+ 
+ 
+Regular Scholar Population 
+ 
+ 
+X 
+X 
+ 
+Scholar Safety 
+ 
+ 
+ 
+X 
+X 
+Shift Driver on Duty 
+ 
+ 
+ 
+X 
+ 
+FLEET MANAGEMENT 
+Driver Behaviour (e.g. speeding, harsh braking 
+etc) 
+X 
+ 
+ 
+ 
+X 
+Total Cost of Ownership 
+X 
+ 
+ 
+ 
+X 
+Performance: fuel efficiency, maintenance 
+needs 
+X 
+ 
+ 
+ 
+X 
+Trip route and duration 
+X 
+ 
+ 
+ 
+X 
+ 
+Service Level Agreement Reports 
+The core service level agreement reports available are: driving behaviour, alcohol 
+ignition interlock, passenger counter, and in-cab driver reports. 
+ 
+Service Level Agreement (SLA) Reports 
+SLA Report 
+Functionality 
+Alerts / Reporting 
+Driving 
+Behaviour 
+Vehicle telematics tracks 
+route deviations, service 
+intervals, and geo-zone 
+compliance. 
+• 
+Live web-based tracking for 
+authorised users (multi-
+vehicle, routes, reports).  
+• 
+Geo-zone management with 
+instant notifications (bus 
+stops, no-go zones, school 
+grounds).  
+• 
+Service interval tracking: 
+alerts for upcoming services 
+and exceeded limits 
+(time/km). 
+Alcohol 
+Ignition 
+Interlock 
+In-cab breathalyser detects 
+alcohol in driver’s breath 
+before vehicle starts. 
+• 
+Vehicle immobilised if 
+alcohol detected.  
+• 
+Instant SMS/email alerts 
+when alcohol is detected. 
+Passenger 
+Counting 
+Camera 
+Onboard camera counts 
+passengers to monitor 
+capacity. 
+• 
+Maximum allowable 
+passengers set at 
+installation.  
+• 
+Instant SMS/email alerts if 
+passenger count exceeded. 
+
+ 
+MG-SLS-MFA-PRP-SCLB 202503.01 MG SCHOLAR TRANSPORT PROPOSAL 
+Page 5 | 12 
+version 01 | date 31/03/25 | author cvanonselen 
+ 
+Service Level Agreement (SLA) Reports 
+SLA Report 
+Functionality 
+Alerts / Reporting 
+AI In-Cab & 
+Forward-
+Facing 
+Camera 
+AI-powered monitoring and 
+video recording (SD/Hard 
+Drive) of driver and road, 
+parked or moving. 
+• 
+Detects and alerts for: 
+distraction, fatigue, no 
+seatbelt, smoking/vaping.  
+• 
+Live video streaming (web + 
+Android/iOS).  
+• 
+Instant SMS/email alerts for 
+violations. 
+Contractor reports  
+Contractor reports include total cost of ownership for effective management of the 
+vehicle fleet. 
+Contractor Reports 
+Report 
+Functionality 
+Features & Insights 
+Fleet 
+Analytics 
+Provides accurate Total 
+Cost of Ownership (TCO) 
+and optimisation insights 
+for fleet efficiency. 
+• 
+Distinctive Features: Data 
+analytics to optimise efficiency 
+& minimise costs.  
+• 
+Data-Driven Decision Making: 
+AI-based analysis of telematics 
++ costing data for full fleet 
+performance view.  
+• 
+Driver Behaviour Analytics: 
+Identifies unsafe/inefficient 
+driver habits; promotes safe & 
+cost-effective driving.  
+• 
+Actionable Insights: Real-time 
+dashboards with fuel, 
+maintenance, driver 
+performance metrics.  
+• 
+Customised Reports: Tailored 
+financial & operational 
+reporting to track costs & 
+performance.  
+• 
+Platform Agnostic: Works with 
+existing telematics systems; no 
+disruption on rollout. 
+
+ 
+MG-SLS-MFA-PRP-SCLB 202503.01 MG SCHOLAR TRANSPORT PROPOSAL 
+Page 6 | 12 
+version 01 | date 31/03/25 | author cvanonselen 
+ 
+Contractor Reports 
+Report 
+Functionality 
+Features & Insights 
+Vehicle & 
+Driver 
+License 
+Controls 
+Ensures compliance by 
+managing licenses, service 
+records, and tyre 
+maintenance. 
+• 
+Upload driver & vehicle licenses 
++ service proofs.  
+• 
+Automatic kilometre tracking to 
+flag when service/tyre 
+replacement is due.  
+• 
+Manual capturing of license 
+renewals and compliance docs.  
+• 
+Tyre condition photos & 
+replacement receipts can be 
+uploaded for verification. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+MG-SLS-MFA-PRP-SCLB 202503.01 MG SCHOLAR TRANSPORT PROPOSAL 
+Page 7 | 12 
+version 01 | date 31/03/25 | author cvanonselen 
+ 
+Solution Diagram  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+MG-SLS-MFA-PRP-SCLB 202503.01 MG SCHOLAR TRANSPORT PROPOSAL 
+Page 8 | 12 
+version 01 | date 31/03/25 | author cvanonselen 
+ 
+Operational Features of the Scholar Transport System 
+Function 
+Description 
+System Capabilities 
+Morning & 
+Afternoon 
+Vehicle 
+Access 
+AI camera verifies each 
+learner entering/exiting 
+the vehicle using facial 
+recognition. 
+• 
+Accurate, automated attendance 
+at pick-up and drop-off points.  
+• 
+Flexible biometric options for 
+inclusive access.  
+• 
+Confirms that the correct learner 
+boards and exits at the right stop. 
+Real-Time or 
+Offline Sync 
+Passenger data is 
+uploaded instantly via 
+4G/Wi-Fi or stored and 
+synced when 
+connectivity is restored. 
+• 
+Live data available to school 
+principals, transport operators, 
+departments, and auditors.  
+• 
+Generates trip-by-trip, daily, 
+weekly, and termly 
+attendance/transportation 
+reports. 
+• 
+Aligns with school transport 
+business rules and contractual 
+requirements. 
+Tamper-
+Proof Logs 
+Every attendance scan 
+is GPS/time-stamped 
+with encrypted audit 
+trails. 
+• 
+AI algorithms prevent spoofing 
+(photos, masks, or fraudulent 
+scans).  
+• 
+Logs all interactions, including 
+manual overrides, for compliance.  
+• 
+Built-in sensors detect physical 
+tampering and send instant alerts 
+to administrators. 
+Central 
+Transport 
+Dashboard 
+All attendance and trip 
+data flows into a secure 
+web-based platform for 
+reporting and anomaly 
+detection. 
+• 
+Provides transparent oversight to 
+contractors, provincial/national 
+transport authorities.  
+• 
+Trend analysis and red-flag alerts 
+for repeated absenteeism, route 
+deviations, or unsafe patterns.  
+• 
+Supports funding verification and 
+prevents “ghost learner” fraud.  
+• 
+Integrates with vehicle 
+maintenance, service intervals, 
+and driver compliance data for 
+holistic fleet oversight. 
+
+ 
+MG-SLS-MFA-PRP-SCLB 202503.01 MG SCHOLAR TRANSPORT PROPOSAL 
+Page 9 | 12 
+version 01 | date 31/03/25 | author cvanonselen 
+ 
+These capabilities ensure the system is accurate, secure, scalable, and usable in diverse 
+school environments from rural no-fee schools to larger urban campuses with minimal 
+disruption. 
+Implementation & Technological Considerations 
+As learner transport operators explore technology to improve safety, efficiency, and 
+accountability, the selection of vehicle-based tools is critical particularly where budgets 
+and infrastructure are constrained. Fixed monitoring solutions limited to depot-based 
+systems often fail to address real-world challenges such as driver behaviour, route 
+compliance, passenger safety, and vehicle health in motion. 
+By contrast, an integrated in-vehicle hardware ecosystem provides a scalable and 
+practical approach. Using a combination of future ready technologies such as telematics 
+devices, backup communications, AI-driven cameras, passenger counting systems, and 
+alcohol interlocks, operators gain real-time insights into both driver conduct and vehicle 
+performance, while ensuring compliance with safety regulations and funding models. 
+The table below illustrates the core challenges with traditional monitoring versus the 
+advantages of our integrated vehicle-based system: 
+ 
+Challenge with Traditional / 
+Depot-Based Systems 
+Advantages of Vehicle-Embedded Hardware 
+Limited visibility once the 
+vehicle leaves the depot 
+Continuous live monitoring via GPS tracking and geo-
+zones 
+High comms risk if 4G/primary 
+network fails 
+Sigfox IoT backup device ensures failover connectivity 
+Passenger verification often 
+manual or inaccurate 
+AI passenger counting cameras with real-time alerts on 
+overload 
+Unsafe driving behaviour only 
+reported after incidents 
+AI in-cab + forward-facing cameras detect fatigue, 
+distraction, smoking, and non-seatbelt use in real time 
+No control over driver sobriety 
+Alcohol ignition interlock prevents vehicle start if 
+alcohol is detected 
+Maintenance often reactive, 
+raising TCO 
+Automated service interval alerts + telematics reports 
+optimise maintenance scheduling 
+ 
+Legal, Ethical, and Practical Considerations 
+
+ 
+MG-SLS-MFA-PRP-SCLB 202503.01 MG SCHOLAR TRANSPORT PROPOSAL 
+Page 10 | 12 
+version 01 | date 31/03/25 | author cvanonselen 
+ 
+Our solution is designed with learner safety, driver accountability, and data protection as 
+the foundation. 
+Safeguard 
+Details 
+Compliance with 
+POPIA 
+• 
+All learner and driver data encrypted end-to-end.  
+• 
+No personal video/audio is stored without 
+anonymisation. 
+Ethical AI Use 
+• 
+AI cameras tuned for fatigue/distraction detection 
+with low bias (<0.3%).  
+• 
+Passenger counting anonymised (numbers only, no 
+identity). 
+System Design for 
+Privacy 
+• 
+No constant facial recognition of learners; only 
+count-based verification.  
+• 
+Video feeds accessible only to authorised officials 
+with secure audit logs. 
+Through these safeguards, we ensure the system is POPIA-compliant, ethical, and 
+respectful of learner dignity, while delivering trusted operational oversight. 
+System Architecture Overview 
+The solution integrates three main components: 
+• 
+Vehicle Hardware Stack – GPS telematics, Sigfox backup, AI in-cab & forward-facing 
+cameras, dual passenger counters, alcohol ignition interlock. 
+• 
+Secure Cloud Platform – Real-time syncing of journey logs, encrypted storage, role-
+based access for operators, schools, and authorities. 
+• 
+Central Analytics Dashboard – Web-based portal with anomaly detection, SLA 
+compliance reports, and TCO metrics. 
+ 
+Technical Requirements 
+Component 
+Specification 
+Connectivity 
+4G-enabled GPS tracker with Sigfox failover for backup 
+communication 
+Power Source 
+Vehicle-powered with internal backup battery (ensures monitoring 
+even when ignition off) 
+
+ 
+MG-SLS-MFA-PRP-SCLB 202503.01 MG SCHOLAR TRANSPORT PROPOSAL 
+Page 11 | 12 
+version 01 | date 31/03/25 | author cvanonselen 
+ 
+Technical Requirements 
+Component 
+Specification 
+Security 
+AES-256 encryption, tamper alerts from hardware, and secure audit 
+logs 
+Integration 
+APIs for Department of Transport & Education reporting systems 
+Software 
+Updates 
+Over-the-air (OTA) updates for trackers, cameras, and interlock 
+firmware 
+ 
+Technical Architecture Diagram

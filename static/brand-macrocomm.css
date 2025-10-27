@@ -1,0 +1,93 @@
+/* brand-macrocomm.css
+   Macrocomm chat styling: taller window, full-rounded corners, stable header/logo.
+   Keep this file tiny; layout sizing lives here so you can tweak without touching JS. */
+
+:root{
+  --mcw-primary: #ffffff;     /* header fill */
+  --mcw-accent:  #ff6a00;     /* left bar + buttons */
+  --mc-font: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu,
+             "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+
+/* Root container is positioned by the widget JS; no change needed here. */
+.mc-root{ font-family:var(--mc-font) }
+
+/* Card: make it a bit wider and taller on desktop; keep fully rounded. */
+.mc-card{
+  width: 480px;
+  max-width: calc(100vw - 48px);
+  background: #fff;
+  border-radius: 16px;               /* FULLY rounded – top & bottom */
+  box-shadow: 0 12px 40px rgba(0,0,0,.18);
+  overflow: hidden;                  /* keep children clipped to rounded corners */
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header keeps the logo centred and never crops it. */
+.mc-header{
+  position: relative;
+  display: flex; align-items: center; justify-content: center;
+  background: var(--mcw-primary);
+  height: 64px; min-height: 64px;
+  padding: 0 16px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+
+/* Brand logo: fixed height, no cropping. */
+.mc-header-logo{
+  height: 42px; max-height: 42px; width: auto;
+  object-fit: contain; display: block; margin: 0 auto;
+}
+
+/* Close button kept for keyboard accessibility; we hide it in host if needed. */
+.mc-close{
+  appearance:none;border:0;background:transparent;color:#000;opacity:.6;
+  cursor:pointer;font-size:18px;line-height:1;position:absolute;right:10px;top:10px;
+}
+
+/* Body: make the chat visibly taller; smooth scrolling, top padding clears header. */
+.mc-body{
+  padding: 12px 12px 8px;
+  overflow: auto;
+  max-height: 72vh;                  /* TALLER viewport */
+  scroll-behavior: smooth;
+}
+
+/* Message bubbles */
+.mc-msg{
+  display:inline-block;
+  background:#f6f7f9;
+  border-left:4px solid var(--mcw-accent);
+  padding:10px 12px;
+  border-radius:10px;                /* rounded bubbles */
+  margin:8px 0;
+  white-space:normal;
+}
+.mc-user{
+  align-self:flex-end;
+  background:#eef7ff;
+  border-left-color:#9ecbff;
+}
+
+/* Input row */
+.mc-inputbar{ display:flex; gap:10px; padding:12px; border-top:1px solid #eee; background:#fff }
+.mc-input{ flex:1; border:1px solid #e0e0e0; border-radius:10px; padding:12px 14px; font-size:14px }
+.mc-send{ background:var(--mcw-accent); color:#fff; border:0; border-radius:10px; padding:0 16px; min-width:68px; cursor:pointer }
+
+/* Launcher pill button (when the card is hidden) */
+.mc-launcher{
+  position:fixed; right:24px; bottom:24px;
+  display:flex; align-items:center; gap:10px;
+  background:var(--mcw-accent); color:#fff;
+  border-radius:28px; box-shadow:0 10px 30px rgba(0,0,0,.2);
+  padding:10px 16px; font-weight:600; cursor:pointer
+}
+
+.hidden{ display:none }
+
+@media (max-width:520px){
+  .mc-card{ width: calc(100vw - 24px); }
+}
+

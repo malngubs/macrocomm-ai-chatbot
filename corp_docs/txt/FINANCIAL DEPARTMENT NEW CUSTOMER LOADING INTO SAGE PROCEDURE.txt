@@ -1,0 +1,472 @@
+Document Name 
+MG-FIN-PRO-NCLIS 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT NEW CUSTOMER LOADING 
+INTO SAGE PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAM MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-NCLIS 202509.03 MG FINANCIAL DEPARTMENT  
+NEW CUSTOMER LOADING INTO SAGE PROCEDURE 
+Pg 1 of 8 
+ 
+MACROCOMM GROUP (PTY) LTD 
+FINANCE PROCEDURE 
+NEW CUSTOMER LOADING INTO SAGE PROCEDURE 
+Document Name: 
+MG-FIN-PRO-NCLPIS 202508.00 
+Version: 
+03 
+Date: 
+12 SEPTEMBER 2025 
+Author: 
+KAILAN MOODLEY 
+ 
+ 
+
+Document Name 
+MG-FIN-PRO-NCLIS 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT NEW CUSTOMER LOADING 
+INTO SAGE PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAM MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-NCLIS 202509.03 MG FINANCIAL DEPARTMENT  
+NEW CUSTOMER LOADING INTO SAGE PROCEDURE 
+Pg 2 of 8 
+ 
+Document Control 
+Name 
+Version 
+Date 
+Changes 
+MG-FIN-PRO 202508.00 
+00 
+08/08/25 
+ 
+MG-FIN-PRO 202508.00 
+01 
+11/08/25 
+ 
+MG-FIN-PRO-NCLPIS 202508.00 
+02 
+19/08/25 
+ 
+MG-FIN-PRO-NCLPIS 202508.00 
+03 
+12/09/25 
+ 
+ 
+ 
+ 
+ 
+Document Sign-Off / Approval 
+This is the formal sign-off for the New Customer Loading Into Sage procedure. 
+Name 
+Designation 
+Date 
+Signature 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Document Name 
+MG-FIN-PRO-NCLIS 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT NEW CUSTOMER LOADING 
+INTO SAGE PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAM MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-NCLIS 202509.03 MG FINANCIAL DEPARTMENT  
+NEW CUSTOMER LOADING INTO SAGE PROCEDURE 
+Pg 3 of 8 
+ 
+ 
+TABLE OF CONTENTS 
+1 
+PROCEDURE DESCRIPTION AND PURPOSE ........................................................................... 4 
+1.1 
+DESCRIPTION ................................................................................................................................ 4 
+1.2 
+BENEFITS ...................................................................................................................................... 4 
+1.3 
+AREAS OF RESPONSIBILITY .............................................................................................................. 4 
+1.4 
+RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ................................ 4 
+2 
+FINANCE MANAGEMENT PROCEDURE .................................................................................. 5 
+2.1 
+PROCEDURE OBJECTIVES AND METRICS ............................................................................................ 5 
+2.2 
+PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S) ........................................................................... 5 
+3 
+TYPICAL PROCEDURE INPUTS ................................................................................................ 5 
+3.1 
+INFORMATION OR DOCUMENTS NEEDED .......................................................................................... 5 
+3.2 
+RESOURCES NEEDED ...................................................................................................................... 5 
+3.3 
+PERSONNEL NEEDED ..................................................................................................................... 6 
+3.4 
+PRECEDING PROCESSES/PROCEDURES ............................................................................................. 6 
+4 
+TYPICAL PROCEDURE OUTPUTS ............................................................................................. 6 
+4.1 
+TYPICAL OUTPUTS ARE .................................................................................................................... 6 
+4.2 
+TECHNICAL OR SYSTEM USED .......................................................................................................... 6 
+4.3 
+DOCUMENTS ................................................................................................................................. 6 
+4.4 
+ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS ......................................................... 6 
+5 
+THE NEW CUSTOMER LOADING PROCEDURE ....................................................................... 7 
+6 
+RISKS AND OPPORTUNITIES .................................................................................................. 7 
+6.1 
+RISKS ........................................................................................................................................... 7 
+6.2 
+OPPORTUNITIES ............................................................................................................................ 7 
+7 
+SUPPORT ................................................................................................................................. 8 
+ 
+ 
+ 
+ 
+
+Document Name 
+MG-FIN-PRO-NCLIS 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT NEW CUSTOMER LOADING 
+INTO SAGE PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAM MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-NCLIS 202509.03 MG FINANCIAL DEPARTMENT  
+NEW CUSTOMER LOADING INTO SAGE PROCEDURE 
+Pg 4 of 8 
+ 
+1 Procedure Description and Purpose 
+The purpose of this New Customer Loading procedure is to enable the Finance and the 
+Sales teams to work hand in hand to effectively acquire a new customer (s), vet them, and 
+load them successfully into Sage. 
+1.1 Description 
+This is the standard procedure for the Finance department to ensure there is consistency 
+in streamlining the processes in this procedure to reach a uniform way of loading new 
+customer into Sage. 
+1.2 Benefits 
+The benefit of this procedure is that it will serve as a reference point for both the Finance 
+and Sales teams to ensure that there is quality in the service provided to the customer 
+which will generate customer satisfaction. 
+The Finance and Sales teams can use this procedure to continuously improve the process 
+to make it more efficient. 
+1.3 Areas of Responsibility 
+The Sales team is accountable for: 
+• 
+Receiving the correct documents that accompany the customer’s application form 
+• 
+Informing customer about the vetting outcome. 
+The Finance Administrator/Accountant (s) is responsible for: 
+• 
+Loading new customer on Sage 
+• 
+Customer order process 
+• 
+Informing Procurement department about the new customer to be onboarded 
+1.4 Relationship between this Procedure and other 
+Procedures/Processes 
+This procedure has a direct relationship with the Sales procedure and the Procurement 
+procedure. 
+
+Document Name 
+MG-FIN-PRO-NCLIS 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT NEW CUSTOMER LOADING 
+INTO SAGE PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAM MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-NCLIS 202509.03 MG FINANCIAL DEPARTMENT  
+NEW CUSTOMER LOADING INTO SAGE PROCEDURE 
+Pg 5 of 8 
+ 
+2 Finance Management Procedure 
+2.1 Procedure Objectives and Metrics 
+2.1.1 Procedure objective 
+• 
+Vet new customer 
+• 
+Load new customer into Sage  
+• 
+Confirm vetting outcome and payment terms with the customer. 
+2.1.2 Procedure Metrics 
+Each objective of this procedure is measured according to the: 
+• 
+Customer’s application form and supporting documents. 
+• 
+Transunion check 
+2.2 Procedure Owner(s) and Key Stakeholder(s) 
+2.2.1 Procedure Owner 
+The procedure owners are the Finance and Sales Heads. 
+2.2.2 Key Stakeholders 
+The key stakeholders are the Finance administrator/Accountant (s), Salespeople, Sales 
+manager, Procurement manager, and the Procurement team. 
+3 Typical Procedure Inputs 
+The typical procedure inputs are: 
+3.1 Information or Documents Needed 
+The following information or documents are necessary for effective measuring and 
+enabling of the New Customer Loading procedure: 
+• 
+Supporting documents from new customer 
+• 
+Customer contract/Service level agreement (SLA) 
+3.2 Resources Needed 
+The following resources are needed to support this procedure: 
+• 
+Customer application form  
+
+Document Name 
+MG-FIN-PRO-NCLIS 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT NEW CUSTOMER LOADING 
+INTO SAGE PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAM MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-NCLIS 202509.03 MG FINANCIAL DEPARTMENT  
+NEW CUSTOMER LOADING INTO SAGE PROCEDURE 
+Pg 6 of 8 
+ 
+3.3 Personnel Needed 
+The Finance, Sales and Procurement teams. 
+3.4 Preceding Processes/Procedures 
+Purchase Order Generation process, Generic Ordering process, Generic Stock-in process, 
+Generic Stock-out process, Delivery Upliftment process, Customer Returns (and 
+replacements) process to Manufacturer, Delivery Rejection process, Generic Supplier 
+Invoice loading process, Payment Scheduling and Processing process, Customer Invoice 
+process, and the Bank Statement Reconciliation process. 
+4 Typical Procedure Outputs 
+4.1 Typical outputs are 
+• 
+Vetting outcome (s) 
+• 
+Payment terms agreed with customer 
+• 
+Generate customer account number 
+4.2 Technical or System used 
+• 
+Sage 
+• 
+TransUnion 
+4.3 Documents 
+• 
+Payment terms document  
+4.4 Enablement or Operationalisation of Another Process 
+The Sales team must ensure that they receive accurate information regarding the 
+customer application form and supporting documents. 
+Finance Administrator/Accountant (s): 
+• 
+Conduct 2nd vetting check customer’s good standing with the company. 
+• 
+Not vetting is done if the customer is new 
+The new customer is loaded into Sage. 
+This procedure enables the Procurement team to process the customer’s order. 
+
+Document Name 
+MG-FIN-PRO-NCLIS 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT NEW CUSTOMER LOADING 
+INTO SAGE PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAM MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-NCLIS 202509.03 MG FINANCIAL DEPARTMENT  
+NEW CUSTOMER LOADING INTO SAGE PROCEDURE 
+Pg 7 of 8 
+ 
+5 The New Customer Loading procedure 
+5.1 The Sales Department submits the customer order to the Finance Department. 
+Finance is responsible for vetting the customer to ensure compliance with the 
+company’s requirements. 
+• 
+Once the customer has been reviewed, Finance proceeds to create the customer 
+profile on Pastel.  
+• 
+This involves logging into Pastel, selecting the “Process Customer” option, 
+selecting add customer, populating the customer’s details and saving the 
+information once you have checked that all the necessary information (i.e. 
+customer name, address, VAT number, customer contact details, registration 
+number) have been captured. 
+• 
+A unique Pastel code will then be assigned to the customer, which will serve as a 
+payment reference. 
+• 
+Once the profile has been successfully created, the Sales Department will be 
+notified. 
+Once the customer has been reviewed, they will not be loaded onto Pastel, and the 
+Sales Department will be informed accordingly. 
+6 Risks and Opportunities 
+6.1 Risks 
+The following risks have been identified: 
+RISK 
+BUSINESS IMPACT 
+MITIGATION ACTIONS 
+Not reviewing 
+customers 
+Non-payments which will 
+affect cash flow 
+Ensure potential customer is thoroughly 
+vetted. 
+ 
+ 
+6.2 Opportunities 
+The following opportunities table will used to help improve the procedure and 
+processes to for greater Finance efficacies. 
+
+Document Name 
+MG-FIN-PRO-NCLIS 202509.00 
+ 
+ 
+Previous Name, if changed 
+N/A 
+Description 
+MG FINANCIAL DEPARTMENT NEW CUSTOMER LOADING 
+INTO SAGE PROCEDURE 
+Revision No 
+03 
+Date of Revision 
+12 SEPTEMBER 2025 
+Date of Next Revision 
+12 SEPTEMBER 2027 
+Author 
+KAILAM MOODLEY 
+Approver 
+KUMARAN GOVENDER 
+ 
+MG-FIN-PRO-NCLIS 202509.03 MG FINANCIAL DEPARTMENT  
+NEW CUSTOMER LOADING INTO SAGE PROCEDURE 
+Pg 8 of 8 
+ 
+OPPORTUNITY 
+BUSINESS IMPACT 
+PROCESS/PROCEDURE AMENDMENT, 
+TRAINING REQUIREMENT  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 Support 
+If there are any queries or problems regarding the New Customer Loading procedure, 
+contact the Finance Head, Finance administrator/Accountant (s) (s), or Sales team.

@@ -1,0 +1,1305 @@
+macro
+
+SMART MADE SIMPLE
+
+TECHNICAL OVERVIEW - Macrocomm Capabilities
+
+Intelligent Transport System Overview: Driving Efficiency, Security, and Passenger-Centric
+Innovation
+
+Understanding the Vision
+
+Public transport authorities around the world are embracing a bold, transformative vision which is
+to modernise transit systems, reduce operational inefficiencies, protect revenue streams, and
+enhance the passenger experience all through the adoption of technology that is future-proof,
+scalable, and data-driven.
+
+This vision aligns with Macrocomm’s mission: to empower public transport stakeholders with
+integrated, intelligent platforms that streamline operations, safeguard infrastructure, and deliver
+measurable impact both operationally and financially.
+
+Our solution goes beyond system deployment. It serves as a strategic enablement platform that
+redefines how an entire transit ecosystem functions from passenger onboarding to fleet
+optimisation and regulatory compliance.
+
+Integrated Operational Intelligence
+
+Public transport systems often face deep operational challenges, especially when multiple
+operators are dispersed across wide geographic regions. Without a centralised approach,
+authorities struggle to manage services holistically. Disparate systems, manual dispatching, and
+the absence of real-time data create operational silos limiting coordination, delaying incident
+response, and undermining service accountability.
+
+The lack of a unified view into fleet movements, route compliance, and driver performance leads
+to rising operational costs, inconsistent service delivery, and passenger dissatisfaction. Planning
+and scheduling are typically static and disconnected from live operations, while delayed or missing
+feedback from the field makes proactive decision-making nearly impossible.
+
+Addressing these issues requires the adoption of modern, intelligent technologies that shift
+operations from reactive to real-time, data-driven management. This means consolidating all
+transport functions planning, dispatch, tracking, reporting into a single, integrated system that
+enables live coordination, predictive insights, and full visibility across the transport ecosystem.
+
+Macrocomm has developed an Intelligent Transport System, that is designed precisely for this
+purpose. By combining Automated Fare Collection with a future-ready Public Transport
+Management System, it creates a dynamic, digital environment that responds to real-world
+conditions. Whether you're a control room operator, regional supervisor, driver, or analyst, the
+platform equips every role with the tools and dashboards needed to act confidently and
+effectively.
+
+This solution introduces:
+
+e Acloud-based ITS platform that integrates fare collection, schedule adherence,
+dispatching, and monitoring across all public transit vehicles.
+Waterfall Point Business Park, Building 1, Cnr of Woodmead & Waterfall Drive, Midrand
+Telephone: +27 (010) 493 6871 | Registration Number 2012/030907/07
+Directors: Sivi Moodley (CEO) | Yakshini Naidoo
+www.macrocomm.co.za
+
+macro
+
+SMART MADE SIMPLE
+
+e Centralised command capabilities supported by high-resolution control monitors across
+
+operational centres for unified situational awareness.
+
+e Web and mobile dashboards tailored to administrative, operational, and supervisory roles,
+
+offering live tracking, alerts, and analytics.
+
+e Ascalable, standards-compliant digital infrastructure that unifies an entire transport
+
+operation into one responsive network.
+
+The result is a transport system that can be measured, managed, and continuously improved —
+delivering faster response times, minimising cost leakage, enhancing commuter Satisfaction, and
+enabling authorities to lead decisively rather than reactively.
+
+Component
+Cloud-Based
+Scheduling
+
+Driver Console
+
+Dispatch Module
+
+GIS Operations
+Dashboard
+
+Real-Time Alerts
+
+Digital Scheduling
+Engine (Route &
+Time Planning)
+
+Key Technical Highlights
+
+Description
+Central engine for route and trip
+planning
+Live route, fare, and alert interface
+View and control fleet movements
+
+Visual monitoring for officials
+
+Trip deviation or missed trip alerts
+
+Relevance
+Enables real-time updates,
+transparent scheduling
+
+Keeps drivers aligned and
+accountable
+
+Improves service reliability and
+responsiveness
+
+Supports planning, intervention,
+and compliance tracking
+
+Ensures rapid resolution and
+audit readiness
+
+How It Works: Operational Backbone of the ITS
+
+Operators submit weekly/monthly
+route schedules into the cloud-
+based control platform.
+
+e Each schedule includes route
+ID, stop sequence, expected
+dwell times, and assigned
+vehicle and driver.
+
+e Schedules are validated for
+overlaps, conflicts, and depot
+capacity constraints.
+
+The system pushes approved
+schedules to:
+
+e Driver consoles onboard each
+vehicle
+
+Unifies planning between
+departments, operators, and
+passengers, reducing missed
+trips and over-serviced routes.
+
+2|Page
+
+Live Dispatch
+Module (Fleet
+Deployment &
+Oversight)
+
+Driver Console
+Integration (Human-
+System Sync)
+
+Operations
+Dashboard (District
++ Centralised
+Oversight)
+
+macro
+
+SMART MADE SIMPLE
+
+How It Works: Operational Backbone of the ITS
+
+e Dispatch management view in
+each district
+
+e Passenger-facing mobile apps
+
+When buses depart from depots,
+their telematics units and driver
+consoles activate live tracking.
+
+e The control room sees vehicle
+locations in real-time overlaid
+with route adherence.
+
+e Ifa bus deviates or is delayed,
+alerts are triggered with the
+reason code (e.g., congestion,
+breakdown, operator delay).
+
+Controllers can issue reroutes or
+trip cancellations directly from the
+system
+
+Each bus includes a driver console
+(tablet or embedded screen),
+connected to:
+
+e Assigned schedule and route
+map
+
+e Messages and alerts from the
+control centre
+
+e Fare validation summary
+(number of boardings,
+exceptions)
+
+e Incident reporting tools (e.g.,
+traffic, passenger issues,
+breakdowns)
+
+Department employees at HQ and
+
+in the various districts each have
+role-based access to monitor:
+
+e Vehicles in motion
+
+e Operator schedule adherence
+
+e Missed trips or service
+anomalies
+
+e Driver behaviour or vehicle
+faults impacting service
+delivery
+
+Enables real-time responses to
+service disruptions, improving
+reliability and passenger trust.
+
+Keeps drivers informed and
+responsive, and gives the
+Department insight into trip-level
+disruptions.
+
+Transforms departments from a
+passive monitor into an active
+orchestrator of public mobility.
+
+3|Page
+
+macro
+
+SMART MADE SIMPLE
+
+How It Works: Operational Backbone of the ITS
+The interface supports:
+
+e GlS-based views, filtering by
+operator, time, or status
+
+e Reporting of service disruptions
+or interventions
+
+e Downloadable route audit logs
+
+Improve Fare Collection & Eliminate Revenue Leakage
+
+In a subsidised public transport environment, fare collection is more than a transactional process,
+it is the backbone of operational sustainability, financial accountability, and public trust. However,
+many transit systems still rely on outdated methods such as manual ticketing, cash-based
+transactions, and disjointed inspection practices.
+
+These legacy systems open the door to serious challenges: revenue leakage, fare evasion, inflated
+subsidy claims, and fraud. Such issues compromise the authority's ability to budget effectively,
+verify service delivery, and ensure fair compensation for transport operators. The complexity is
+often compounded in multi-operator environments where control structures differ in maturity and
+data is fragmented, making real-time validation difficult.
+
+To overcome these vulnerabilities, fare collection must shift from a loosely managed backend
+function to a secure, digital-first revenue assurance system. This system must embed identity
+verification, transaction transparency, and enforceable controls at every touchpoint.
+
+Macrocomm’'s solution offers a comprehensive fare collection ecosystem built on biometric
+authentication, diverse digital payment options, and live inspection capabilities. At the heart of this
+system is facial recognition technology that confirms passenger identity at boarding, links fares to
+verified profiles, and syncs all transactions with a centralised fare engine. Complementary tools,
+such as handheld validators for inspectors and automated subsidy claim generators, ensure that
+every payment is traceable, every operator claim is auditable, and every disbursement is
+defensible.
+
+In doing so, transit authorities gain far more than a modern payment platform, they gain a robust
+revenue assurance system that supports clean, compliant subsidy disbursement and strengthens
+financial governance across the public transport ecosystem.
+
+Key Technical Highlights
+
+Component Description Relevance
+Facial ID Matching On-device + server-based Reduces fare evasion, verifies ID without
+validation physical cards
+Central Fare Real-time sync with Enables transparent reporting and
+Database validators and app reconciliation
+Interoperable QR, EMV, MiFare, Face ID Accommodates all user groups and tech
+Validators maturity levels
+
+4|Page
+
+Component
+Digital Form D
+Engine
+
+Role-Based Access
+
+macro
+
+SMART MADE SIMPLE
+
+Key Technical Highlights
+
+Description
+Auto-generates claims and
+reports
+
+Operators only access their
+data
+
+Relevance
+Streamlines monthly payments, reduces
+disputes
+
+Complies with POPIA, supports multi-
+vendor operations
+
+How it Works: Fare Collection & Eliminate Revenue Leakage
+
+Passenger
+Identity &
+Payment Linking
+(Biometric Wallet
+Creation)
+
+Fare Purchase
+via Kiosk or App
+(Multi-Channel
+Ticketing Engine)
+
+Onboard Fare
+Validation (Bus
+
+Facial recognition template
+(not full images) is stored
+for identification.
+
+Linked to multiple
+payment methods: bank
+card (EMV), mobile wallet,
+or prepaid transport
+credits.
+
+If desired, account is also
+associated with demographic
+metadata (age, location,
+student/senior discounts) for
+reporting and subsidies.
+
+Use self-service kiosks with
+face scan or card tap to
+top up their transport
+wallet.
+
+Purchase a digital ticket via
+the mobile app (linked to
+their facial ID).
+
+Use NFC cards or QR codes
+for quick validation if not
+registered biometrically.
+
+All purchases are immediately
+written to the central fare
+
+database, including:
+
+Trip ID
+
+Time of purchase
+
+Fare value and type
+Payment method and
+passenger identity hash
+
+A facial recognition camera
+at the bus door validates
+
+During a one-time registration process,
+either at a smart kiosk, mobile app, or
+operator office, a passenger creates a
+secure, encrypted identity profile. This
+ensures that every fare is uniquely
+attributable to a person, preventing card
+cloning or identity abuse, while enabling
+subsidy tiering (e.g., learners or
+pensioners).
+
+This eliminates paper-based ticketing and
+reduces transaction time at stations and
+on buses, lowering boarding delays and
+human error.
+
+Provides a frictionless boarding experience
+that reduces operator-passenger conflict,
+
+5|Page
+
+Entry Validation
+Loop)
+
+AS passengers
+board:
+
+Fare
+Enforcement
+(Field Inspection
+& Reconciliation)
+
+macro
+
+How it Works: Fare Collection & Eliminate Revenue Leakage
+
+SMART MADE SIMPLE
+
+the individual against the enforces payment discipline, and ensures
+
+fare system in under 1 real-time fare confirmation.
+
+second.
+
+e Alternatively, passengers
+scan a QR or NFC card at
+the validator (equipped
+with barcode and
+contactless readers).
+
+The system immediately
+checks whether:
+
+e Fare was pre-purchased.
+
+e Identity and subsidy class
+match.
+
+e Bus route and boarding
+time are valid for this
+ticket.
+
+Validation outcomes are
+pushed in real time to the
+control centre and stored on
+the bus's local system (in case
+of signal loss), then synced.
+
+Portable handheld Field teams are empowered with up-to-
+validators carried by date fare data, no guesswork or paper
+inspectors can scan faces
+or QR/NFC cards on the
+bus or at stations.
+
+forms and subsidy leakage through
+unvalidated trips is significantly reduced.
+
+The system checks central
+records for recent fare
+purchase and boarding
+validation.
+
+Non-compliant passengers
+are flagged with geo-
+location and timestamp,
+and optional image
+evidence is captured for
+audit records.
+
+Enforcement rates, violations,
+
+and action outcomes are
+
+reported per operator and
+district.
+
+6|Page
+
+macro
+
+SMART MADE SIMPLE
+
+How it Works: Fare Collection & Eliminate Revenue Leakage
+
+Back-End e Route-by-route revenue Gives full transparency into how every
+
+Reconciliation maps rand of fare revenue flows, is collected,
+
+(Digital FormD& ° Daily subsidy claim and can be claimed; reducing fraud,
+validation via Form D
+
+improving accuracy, and enabling
+confident financial planning.
+
+Analytics Layer)
+All fare and validation
+data flows into the
+
+automation
+e Operator-level compliance
+scores and fare collection
+
+central revenue :
+engine, which summaries
+generates: Exception reports for missing
+
+validations or unusual patterns
+(e.g., many free rides, ghost
+boardings, etc.)
+
+Enhancing Passenger Experience to Rebuild Public Trust in Mobility
+
+A public transport system is only as effective as the confidence and willingness of its passengers to
+use it. Yet, in many regions, commuters face journeys that are unpredictable, inconvenient, and
+disconnected from their day-to-day needs. Whether it’s rural communities with limited access to
+travel information or urban riders frustrated by long queues, poor communication, and complex
+payment methods, the passenger experience often remains a key barrier to adoption and
+satisfaction.
+
+Macrocomm’s approach puts the commuter at the heart of the system's design. Instead of
+outdated, provider-centric models, we implement a passenger-first ecosystem that integrates real-
+time information, seamless payment options, and reliable boarding into one connected
+experience. The goal is not only to modernise transport but to humanise it, ensuring it is inclusive,
+transparent, and efficient for people across all demographics.
+
+We achieve this transformation through a twofold strategy:
+
+e Digital empowerment, delivered through intuitive mobile applications and multilingual
+kiosks that make it easy to plan routes, purchase tickets, and board vehicles.
+
+e Predictive visibility, allowing passengers to track vehicles live, receive service alerts, and
+make informed decisions about their commute in real time.
+
+Whether it's a first time user in a remote location or a regular city commuter, the system offers a
+consistent and dignified experience, reducing wait times, removing uncertainty, and letting
+passengers focus on their journey, not the logistics of getting there.
+
+By modernising the passenger experience in this way, transport authorities can grow ridership,
+reduce fare evasion, and build lasting trust in public transport as a safe, accessible, and
+dependable service.
+
+Key Technical Highlights
+Component Description Relevance
+Smart Kiosks Biometric registration + ticketing Onboards users without smartphones
+
+7|Page
+
+macro
+
+SMART MADE SIMPLE
+
+Passenger App _ Ticket purchase + bus tracking Supports convenience, planning, and
+accountability
+
+Smart Boarding Face/QR-based validation Cuts boarding time, increases
+auditability
+Live Journey Info Real-time alerts & ETA updates Improves commuter satisfaction and
+
+service perception
+
+How It Works: Seamless End-to-End Journey Support
+
+Self-Service Located at high-volume bus Ensures inclusivity for elderly, rural,
+Kiosks (Inclusive | terminals, our kiosks allow and low-literacy users.
+
+Registration & passengers to:
+
+Purchase)
+
+e Register their facial identity
+once
+
+e Link payment methods (bank
+card, mobile wallet, prepaid)
+
+e Top up their travel balance or
+buy tickets
+
+e Review past trips and
+transaction history
+
+Designed with multilingual support,
+large-touch interfaces, and
+accessibility in mind.
+
+Mobile For mobile-enabled users, our app § Empowers urban and younger
+Application offers: commuters to travel smarter,
+(Real-Time e Live bus tracking by route, reducing confusion and uncertainty.
+Journey vehicle, or stop
+
+Companion) e Ticket purchase via mobile
+
+money, card, or credits
+e QRcode-based boarding
+e Trip history, alerts, and contact
+centre support
+Smart Boarding At the bus door: Reduces congestion at boarding
+(Frictionless points, increases service speed, and
+
+e Facial recognition automatically fi ; Iti
+validates identity and fare verifies passengers in real time.
+
+Entry) payment
+e Or passenger scans their app-
+generated QR code
+e Boarding time and GPS location
+are captured for reporting
+
+Passenger
+
+8|Page
+
+macro
+
+SMART MADE SIMPLE
+
+How It Works: Seamless End-to-End Journey Support
+This process takes <1 second per
+passenger, even during peak hours.
+
+Dynamic Passengers receive: Keeps passengers informed, reduces
+Journey anxiety, and enables proactive
+
+e Service alerts for delays, . ;
+Updates (Trust- . decision-making.
+cancellations, or detours
+
+Building e Arrival time estimates at nearby
+Communication) stops
+
+e Notifications if their ticket or
+registration is invalid
+These are pushed via mobile app,
+
+kiosk display, and control room
+SMS broadcasts.
+
+Optimising Fleet and Yard Management for Safer, More Reliable Transport
+
+Behind every dependable public transport service is a well-managed fleet and overseeing a large,
+multi-operator network is no small task. Many transport authorities face significant visibility gaps
+when it comes to how vehicles are maintained, dispatched, and operated. Unplanned breakdowns,
+undocumented servicing, and limited oversight of driver behaviour can lead to cascading failures:
+missed schedules, inflated operating costs, and compromised passenger safety.
+
+The problem is often worsened by paper-based recordkeeping, fragmented operator data, and
+reactive maintenance practices. Without centralised, real-time oversight, it becomes difficult to
+predict issues, enforce standards, or make timely operational decisions.
+
+To solve this, authorities must shift from basic fleet oversight to a model of fleet intelligence,
+where every vehicle, trip, and component is monitored, analysed, and optimised in real time. This
+evolution goes beyond tracking location data; it’s about understanding each vehicle's condition,
+anticipating mechanical failures, and ensuring every driver and bus is compliant before leaving the
+depot.
+
+Macrocomm's Smart Fleet platform enables this transformation. It integrates vehicle diagnostics,
+driver behaviour analytics, digital maintenance logs, and compliance workflows into a unified,
+cloud-based control system giving transport departments full operational visibility, from the head
+office to every depot floor.
+
+Key capabilities include:
+
+e Predictive maintenance that reduces breakdowns and extends vehicle lifespan.
+
+e Real-time monitoring of driver performance to improve safety and fuel efficiency.
+
+e Digital service planning that ensures licenses, permits, and inspections are always up to
+date.
+
+e Cross-operator fleet visibility, empowering authorities to measure performance, reduce
+waste, and enforce yard discipline.
+
+9|Page
+
+macro
+
+SMART MADE SIMPLE
+
+By digitising and interconnecting the entire vehicle lifecycle, public transport operations can move
+
+from reactive fixes to proactive optimisation cutting downtime, boosting commuter confidence,
+
+and achieving sustainable cost savings through smarter fleet management.
+
+Component
+Yard Departure
+Workflow
+
+Telematics
+Integration
+
+Driver Scoring Engine
+
+Lifecycle Cost
+Tracking
+
+Multi-Operator
+Visibility
+
+Smart Yard
+Deployment (Daily
+Start-of-Service
+Control)
+
+CANBUS &
+Telematics
+Integration (Real-
+Time Health
+Monitoring)
+
+Driver Behaviour
+Analytics
+
+Key Technical Highlights
+
+Description
+Checklist + driver login + route
+sync
+
+Real-time engine data and
+health alerts
+
+Al-driven behaviour analytics
+
+TCO per vehicle with predictive
+maintenance
+
+Fleet data per operator with
+department oversight
+
+Relevance
+
+Ensures compliance and traceability from
+
+first mile
+
+Reduces downtime, prevents costly
+
+breakdowns
+
+Supports performance-based operator
+
+contracts
+
+Informs budgeting, procurement, and
+
+policy decisions
+
+Aligns incentives while protecting
+
+operator autonomy
+
+How It Works: Digitised Fleet Oversight Platform
+
+e As buses leave the depot,
+driver logs into the console
+and authenticates via PIN or
+biometric.
+
+e Vehicle checklist and
+license/permit compliance
+verified (e.g. PDP,
+roadworthy, service history).
+
+e Dispatch data (planned
+route, expected trip count) is
+synced to the IPTMS and
+control centre.
+
+e Data from onboard
+telematics (engine load,
+braking, coolant temp, fuel
+use) is continuously
+streamed to the cloud.
+
+e Maintenance thresholds are
+set for each metric (e.g. oil
+change, excessive idling).
+
+e Automated alerts are sent to
+fleet managers and the ICC
+when thresholds are
+breached.
+
+e Al-driven algorithms assess
+acceleration, braking,
+speeding, harsh cornering,
+and idle time.
+
+Prevents non-compliant vehicles from
+
+entering service and ensures every trip
+
+is traceable.
+
+Enables predictive maintenance before
+
+failure, reduces breakdowns, and
+
+improves uptime.
+
+Reduces fuel waste, improves passenger
+
+safety, and supports performance-
+
+based management.
+
+10|Page
+
+(Operational
+Efficiency & Safety)
+
+Service Scheduling &
+Lifecycle Tracking
+(TCO Management)
+
+Driver profiles are built over
+time, scoring risk, fuel
+efficiency, and safety.
+Reports are shared with
+both the operator and
+Department for coaching
+and compliance.
+
+Each vehicle has a digital
+maintenance log, capturing
+service intervals, parts used,
+downtime, and costs.
+Lifecycle reports estimate
+remaining useful life (RUL)
+and guide procurement
+planning.
+
+Dashboard gives centralised
+visibility into entire fleet's
+current service status.
+
+macro
+
+How It Works: Digitised Fleet Oversight Platform
+
+SMART MADE SIMPLE
+
+Eliminates manual logs, prevents
+
+redundant service, and improves
+
+budgeting accuracy.
+
+Enhancing Transport Safety and Compliance Through Intelligent Oversight
+
+Safety and compliance form the moral and operational foundation of any public transport system,
+
+essential not only for protecting passengers and operators, but for maintaining public confidence
+in the institutions that deliver these services. In environments where thousands of commuters rely
+
+on public transport daily, even isolated incidents of misconduct, fraud, or mechanical failure can
+
+lead to devastating consequences both in terms of human cost and reputational harm.
+
+Yet in many transport systems, the current oversight mechanisms fall short. Manual inspections,
+
+paper-based logs, and inconsistent accountability across operators lead to a reactive model, where
+
+risks are only addressed after incidents occur, instead of being proactively prevented.
+
+To truly modernise public transport, safety and compliance must be embedded into the daily
+fabric of operations. These principles need to be visible, automated, and enforceable transforming
+
+transport culture into one where standards are followed not out of obligation, but because the
+
+systems demand it, and non-compliance becomes the exception.
+
+Macrocomm’s solution delivers this through a multi-layered safety architecture that integrates:
+
+e = Al-driven surveillance
+
+e Real-time driver authentication
+
+e Environmental risk monitoring (e.g. alcohol detection)
+
+e Centralised compliance tracking
+
+With this approach, every vehicle becomes a mobile compliance unit, and every trip a fully
+
+auditable journey.
+
+This enables authorities to:
+
+11|Page
+
+macro
+
+SMART MADE SIMPLE
+
+e Monitor buses live via a control centre, with real-time video feeds and alerts for safety
+breaches
+
+e Enforce sobriety protocols using integrated alcohol detection systems that prevent
+ignition if limits are exceeded
+
+e Authenticate driver identity and validate documentation before a shift begins
+
+e Digitally track and audit service compliance, automatically flagging policy violations,
+route deviations, or missed service levels
+
+This is not just surveillance but preventative governance. It empowers transport authorities to
+protect lives, enforce accountability, and foster a culture of respect, safety, and operational
+discipline throughout the public mobility ecosystem.
+
+Key Technical Highlights
+Component Description Relevance
+HD Cameras Minimum two per bus with ICC | Improves passenger and driver safety
+access
+
+Driver Alcohol Test = Engine immobilisation upon fail Prevents accidents, enforces
+
+compliance
+PDP & License Document scanning at login Ensures only legal drivers operate
+Capture subsidized buses
+Live Alerts & Review Real-time surveillance feeds Enhances Department's supervision
+Tools and event logs and responsiveness
+
+How It Works: Safety-First & Driver Monitoring System
+
+Surveillance e Each bus is equipped with Enables evidence-backed incident
+
+Cameras on Buses two or more HD surveillance — resolution and deters unsafe or
+cameras, recording both
+passenger area and driver
+cabin.
+
+e Video is continuously
+recorded, with real-time
+streaming during incidents.
+
+e Data is stored locally and
+synced to the ICC for
+incident review.
+
+Alcohol Detection A built-in Breathalyzer is Enforces driver sobriety, reduces
+
+and Vehicle required to be used bythe — accident risk, and introduces
+driver at start of shift.
+
+e If alcohol is detected above
+a set threshold, the vehicle
+will not start.
+
+e Alerts are triggered and sent
+to the operator and ICC with
+timestamp and location.
+
+(Visual Monitoring abusive behaviour.
+
+& Evidence)
+
+Immobilisation accountability.
+
+12|Page
+
+macro
+
+SMART MADE SIMPLE
+
+How It Works: Safety-First & Driver Monitoring System
+
+Driver ID e Atlog-in, drivers must Ensures only licensed, eligible drivers
+Verification & present a PDP, license disk, —_ are operating buses.
+Compliance Check and proof of service.
+
+e The system scans or
+captures this data and links
+it to trip ID and driver
+performance metrics.
+
+e If documents are expired or
+missing, trip is flagged as
+non-compliant.
+
+Live Incident ICC receives automatic alerts Enables swift responses,
+Monitoring & for: accountability, and rapid
+Alerts at Control investigations.
+
+SOS button activation
+
+Centre
+e Route deviation with
+passenger onboard
+
+e Overload detection
+
+e Sudden fuel loss or
+critical fault
+
+Operators can pull live video
+feeds or review pre/post-
+incident clips.
+
+Turning Transport Data into Actionable Intelligence and Transparent
+Oversight
+
+As public transport systems grow in scale and complexity, the ability to make timely, evidence-
+based decisions becomes essential and not optional. Transport authorities have been hamstrung
+by fragmented data sources, delayed reporting, and a lack of consistent, real-time visibility across
+operators, routes, and service levels. Without a unified lens on operations, even well-intentioned
+policies struggle to deliver their full impact.
+
+To meet its strategic transport goals, transport departments need more than systems that collect
+data and it needs a platform that interprets it, validates it, and turns it into decisive action. From
+auditing subsidy claims to designing better routes, every decision the Department makes must be
+anchored in transparent, auditable, and timely information.
+
+Macrocomm's analytics suite transforms Intelligent Transport Systems into an active intelligence
+framework, where every touchpoint whether a fare transaction, boarding scan, or route deviation
+
+13|Page
+
+macro
+
+SMART MADE SIMPLE
+
+feeds a central data engine capable of generating high-resolution insights. These insights empower
+
+the Department to:
+
+e Monitor revenue, ridership patterns, and operator performance in real time.
+e Validate contractor claims through fully digitised and automatically reconciled Form D
+
+and Form 1 processes.
+
+e Benchmark service delivery across districts with consistent performance scoring.
+e Plan smarter services by understanding demographics, peak-hour usage, and fleet
+
+utilisation.
+
+Dashboards and reports will become governance tools. Our platform supports PDF, Excel, and CSV
+exports for audit readiness and policy briefings, while offering live dashboards that reduce
+
+decision lag from weeks to minutes.
+
+This level of insight gives transport departments total visibility, financial accountability, and
+operational control ensuring not only compliance today but smart, proactive transport
+
+development for the future.
+
+Key Technical Highlights
+
+Component Description
+
+Central Analytics Normalised multi-source data
+
+Engine layer
+
+Custom Dashboards Real-time KPIs and alerts
+
+Automated Form D System-driven subsidy
+
+reconciliation
+
+Mobile-based audits and
+reviews
+
+Digital Forms &
+Inspections
+
+Pattern recognition and
+forecasting
+
+Predictive Reporting
+
+Relevance
+Informs policy and improves
+transparency
+
+Supports proactive governance
+
+Reduces disputes, delays, and
+manual effort
+
+Increases accuracy and oversight
+
+Enables future-oriented planning
+
+How It Works: Unified Intelligence and Reporting Layer
+
+Central Data Lake e
+Architecture
+
+Data from AFC, IPTMS,
+cameras, driver consoles,
+and apps flow into a
+structured analytics layer.
+e Data is normalised,
+timestamped, geotagged,
+and linked to operator
+and trip ID.
+e Access is role-based for
+Departments, operators,
+and inspectors.
+
+Creates a single source of truth for
+operational, financial, and service
+data.
+
+14|Page
+
+macro
+
+How It Works: Unified Intelligence and Reporting Layer
+
+Custom Dashboards & e Real-time dashboards
+Reports show KPIs for:
+
+e Trip adherence
+e Fare revenue
+e Passenger
+volumes
+e Violations or
+exceptions
+e Reports are customisable
+
+by time, route, operator,
+
+or district.
+Automated Payment e System auto-generates
+Certificates (Form D) Form D using fare
+
+validation data, trip
+records, and passenger
+count.
+
+e Includes digital
+signatures, approval
+routing, and archiving.
+
+e Eliminates delays in
+monthly subsidy
+payments and disputes.
+
+Digitalised Compliance e¢ Inspectors capture Form
+
+Forms (Form 1 & DTCS 1 data and DTCS results
+via mobile tablets.
+
+e Submissions are
+validated automatically
+and linked to operator
+profile.
+
+e Real-time analytics show
+compliance trends and
+red flags.
+
+Inspections)
+
+Digital Command Centre Capabilities
+
+Empowers evidence-based
+
+management and budget
+accountability.
+
+SMART MADE SIMPLE
+
+Speeds up the subsidy process,
+reduces admin, and improves
+
+operator cash flow.
+
+Removes paperwork, increases
+compliance oversight, and builds
+
+audit trails.
+
+With a large fleet spread across multiple regions and numerous independent operators,
+
+operational coordination cannot be achieved through fragmented systems or isolated oversight.
+
+The reality is that even the most advanced fare collection or fleet tracking tools are ineffective
+
+without a central, real-time coordination layer capable of transforming raw data into decisive
+
+action. Delays in responding to route deviations, fare disputes, or safety incidents don't just affect
+
+performance metrics, they directly impact passenger safety, public confidence, and the transport
+
+authority's ability to govern with authority.
+
+15|Page
+
+macro
+
+SMART MADE SIMPLE
+
+That's why a fully integrated Internet Control Centre is not just a technical requirement, it is a
+strategic imperative. It serves as the digital command hub, where every route, vehicle, ticket, and
+compliance event converge into a unified view, giving authorities the power to monitor, manage,
+and optimise the system in real-time.
+
+This is more than surveillance; it’s strategic orchestration. The ICC acts as the central nervous
+system of the Intelligent Transport System, with capabilities that enable:
+
+e Live visualisation of fleet movement across all operators and regions.
+
+e Immediate incident detection and escalation, including safety breaches and route
+disruptions.
+
+e Centralised compliance dashboards to monitor driver behaviour, licensing, and service
+adherence.
+
+e Integrated live video feeds for passenger safety and enforcement coordination.
+
+e Change and incident management tools to track, assign, and resolve system-wide issues
+with full traceability.
+
+What transport authorities gain is a control room where they don’t just observe what's happening
+on the ground but can predict risks, dispatch support, enforce rules, and verify claims with data-
+driven confidence.
+
+This level of real-time situational awareness allows a shift from reactive oversight to proactive,
+strategic governance, setting a new standard for transport control and management.
+
+Key Technical Highlights
+
+Component Description Relevance
+
+ICC Infrastructure Smart monitors and analytics Centralises supervision and escalation
+feeds
+
+Role-Based Access Tiered system access and Ensures POPIA compliance and data
+security integrity
+
+Alerts & Real-time incident response Supports continuous service
+
+Interventions tools improvement
+
+Audit Trails Action logging and review Improves transparency and governance
+history
+
+How It Works: Integrated Nerve Centre for Public Transport
+
+High-Resolution e 15smart monitors (5 at Enables central and decentralised
+Monitors and War HQ, 2 per district) show: oversight at once.
+Room Display
+
+e Live bus tracking
+
+e Fare compliance
+
+e Incident flags
+
+e Operator
+performance
+
+16|Page
+
+Live Alerts &
+Communication
+Portal
+
+Role-Based Access
+Control & Audit
+Trail
+
+Supervisors receive live
+alerts on missed trips,
+breakdowns, fare
+violations, and safety
+issues.
+
+System enables SMS, app,
+or radio messages to be
+sent to:
+
+e Drivers
+e Inspectors
+e Passengers
+
+All ICC actions including
+intervention decisions,
+route edits, and approvals
+are logged.
+
+Access is tiered based on
+job role, district, or
+operator.
+
+‘macro
+
+SMART MADE SIMPLE
+
+Makes the ICC a proactive command
+
+centre, nota passive observer.
+
+Enables secure operations,
+
+accountability, and audit readiness.
+
+17|Page

@@ -1,0 +1,20 @@
+appId: com.macrocomm.assistant
+productName: Macrocomm Assistant
+files:
+  - desktop-wrapper/**/*
+
+directories:
+  output: dist
+
+win:
+  target:
+    - nsis
+  icon: desktop-wrapper/assets/app.ico
+
+nsis:
+  oneClick: false
+  perMachine: true
+  allowElevation: true
+  runAfterFinish: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true

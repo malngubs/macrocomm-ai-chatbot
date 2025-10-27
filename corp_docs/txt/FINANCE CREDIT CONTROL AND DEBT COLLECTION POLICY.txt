@@ -1,0 +1,940 @@
+[ Document Name _ | MG-FIN-POL-CRC-DCL 202508.02
+
+| Previous Name, if changed | :
+MG FINANCE CREDIT CONTROL DEBT
+
+Description | COLLECTION POLICY | macrocomm
+
+SMART MADE SIMPLE
+
+Ss)
+
+Revision No | 02 - _
+| Date of Revision | 15 AUGUST 2025 |
+
+Date of Next Revision | 15 AUGUST 2027 | ;
+
+Author | Charlene van Onselen | Approved by | Kamal Bhimma
+
+MACROCOMM GROUP
+CREDIT CONTROL AND
+DEBT COLLECTION POLICY
+
+Document Name: Author:
+MG-FIN-POL-CRC-DCL 20256764 Charlene van Onselen
+Date: Version:
+
+18 August 2025 ot
+
+MG-FIN-POL-CRC-DCL 202508.02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY PageO | 15
+
+[_ Document Name MG-FIN-POL-CRC-DCL 202508.02
+
+|
+t
+|
+
+Previous Name, if changed 7
+a MG FINANCE CREDIT CONTROL DEBT
+
+Description COLLECTION POLICY | Ghacrocomm
+| Revision No [02 7 | SMART MADE SIMPLE
+|_Date of Revision 15 AUGUST 2025 _
+
+Date of Next Revision | 15 AUGUST 2027 _ _ 7 _
+
+Author | Charlene van Onselen Approved by | Kamal Bhimma
+DOCUMENT CONTROL
+
+This provides information on the document version control and sign-off
+
+DOCUMENT HISTORY
+
+DOCUMENT NAME VERSION DATE
+_MG-FIN-POL-CRC-DCL 202507.00 | 00 | 29JUL 2025
+MG-FIN-POL-CRC-DCL 202508.01 : | 01 ; | 13 AUG 2025 |
+| MG-FIN-POL-CRC-DCL 202508.01 | 02 . 18 AUG 2025
+DOCUMENT APPROVAL
+
+DOCUMENT NAME.VERSION
+
+MG-FIN-POL-CRC-DCL 202508.02 |
+
+Clause Amendments
+
+STAKEHOLDER NAME AND DESIGNATION
+
+Sivi Moodley (Macrocomm Group Chief
+| Executive Officer - 16.1)
+
+Elton Chettiar (Macrocomm Group Chief
+| Operating Officer - 16.2)
+
+Kamal Bhimma (Macrocomm Group Legal
+and Risk Officer)
+
+Kumaran Govender (Macrocomm Group
+Financial Manager)
+
+Ashok Sooklall (Macrocomm Group General &
+| Procurement Manager)
+
+eek
+
+Sean Hardman (Macrocomm Group - Fleet o> / 62% >
+| Analytics MD) Co OF OS |
+
+MG-FIN-POL-CRC-DCL 202508.02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY Page 1 | 15
+
+[ Document Name MG-FIN-POL-CRC-DCL 202508.02 _
+Previous Name, if changed _| a aw
+MG FINANCE CREDIT CONTROL DEBT nN
+
+| Description COLLECTION POLICY macrocomm
+Revision No | 02 - — a“ SMART MADE SIMPLE
+Date of Revision | 15 AUGUST 2025 - |
+[ Date of Next Revision 15 AUGUST 2027 [
+Author Charlene van Onselen _ Approved by | Kamal Bhimma
+TABLE OF CONTENTS
+1 INTRODUCTION................ccccccccsssssssseecccccccencenccsceceoeessenseescccccsecessnssssenscevensesesscecsanscccsesssnesesonse 3
+2 OBJECTIVES OF THE POLICY............ccscssssssscscccccccccccccccccessesseccccccccuseseccaccencccscnsscscsssssccenseserees 3
+3 PRINCIPLES. .............sssssssccccccccssevessscccececceerecnccessesccacssvsenensccccsccesesessesccsnescssseossssocseececssecveesescees 3
+4 DEFINITIONG...........seccsccssccccsecvsccecccersrersrensnenscscsccccccscccesscevsssssscessessaccesecosscscossseceseneeececaesssssers 4
+5 CREDIT CONTROL AND DEBT COLLECTION TIMELINE. ................ccssssscccccccssssssssseccerronesescees 6
+6 DUTIES AND FUNCTIONG...............ccscccccccccrescccccccoceesssessssvecccesensssessecccsuvesansessssovseccnecesesseecesses 6
+6.1 DUTIES, FUNCTIONS AND RESPONSIBILITIES OF THE FINANCIAL MANAGER ......csccccsssseccccecscecssceseessans 6
+6.2. DUTIES, FUNCTIONS AND RESPONSIBILITIES OF THE SUBSIDIARY OPERATIONAL MANAGER.......--ceeeeeee 7
+6.3 CUSTOMER CARE ......seccceessessessensecscsecceeveeecvenseussccsevscensasceesessessdssucnsassnssaaseesaesaeevenssceserenensavacaceas 8
+7 TERMINATION OF SERVICES. ............cccscssssssecccsssecccscvcccccccccsccecscsccsessenscscessnscesesssucssssseesosesecses 9
+8 RECOVERY OF ADDITIONS COSTGL..............-ccscccccccccsssccccsccccccsccsesecsscceacssscesevssseseesesnreccessoccsses 9
+9 PAYMENT FOR ALL MANAGEMENT AND ANALYTIC PLATFORM, VALUE ADDED AND
+DEVICE SERVICES PROVIDED.................scccccssssccssssssccscccrescccesssccceescsccccecncesesosecseesscusrssssnsccenees 9
+9.1. FULL AND FINAL SETTLEMENT ‘OF AN AMOUNT .......csessccceseseccsecscssecerscesesessesesseeveersseessassasseneneaceans 10
+9.2 PAY POINTS AND PAYMENT METHODS ...........cccsccsessssseccocesssssccecevensevensaesevsceeeseavsceensaseceesnaasacecees 10
+10 ACCOUNTS AND BILLING .................cscsccscccccccsssssccsscecccscscccersccssccescecceeeesenecssenssecesessansevenanee 10
+11 DISPUTES, QUERIES AND COMPAINTG........ccccccccccossccccsssseccecsccsscssssesssesecersccanccscssscscescocessnes 10
+11.1 PROCEDURES TO BE FOLLOWED?........cccsssssccessscecsseessscsssessacsesscsccssaescesssesecssesesssneesconscesevenauersessees 11
+17.7.1 — BY THE CUSTOIMES ...eeesesererersrssorerevscsvscscsscscsesesesssscssssasasacatsssssenenenssenesssenencscsesevssaseevars 17
+17.1.2 BY MQCFOCOIMIM wiesesesssesesssesssnsessnvessvsssssesasanssssvessssesavessisssssucssssesssucesssessssecssesssssesseseseee 17
+12  ARREARG ............sssscccccccsssceesccesscsseuavecssecsssecccccsecccssesscecsceccccecssecessecssccccssscssscescsesssessenenssseceoes 12
+12.1 PRE-LEGAL......ccscccsessecscsssevscnsescsssessesensssssusassassccssanssecessessusccesecccesecsacssenscesesenacavevsasseracauesseessens 12
+13 RESTORATION OF SERVICES .............csssssscsssssscssssscccscccvssccsccesccccussssecceevevccsovovscescevecssssensesans 13
+14 LISTING OF DEBTOR WITH CREDIT BUREAU.............cccccccccccscccccsccccccccccsesconcenssesssessceccassvece 13
+15 TERMINATION, LIMITATION AND DISCONTINUATION OF SERVICESERROR! BOOKMARK
+NOT DEFINED.
+16 NOTICES AND DOCUMENTATION ...........ccccccccccsssscsccrscssccccccccceccecccsvecesusnsnescesseceecseccssanscsens 13
+17 IRRECOVERABLE DEBT ............cccccccccssssssssssscccscsseececcccccecsscessuscnsesssssseseccnsccacsnssscscseececsseeceoes 13
+17.1 DEBT WILL BE REGARDED AS IRRECOVERABLE IF! ...ccsssscccssccsssccecccccssessssssseccevsssaceeseersvatceusesevsrsensease 13
+17.2 AUTHORISATION ......:ccccscccssscersecscrscseesessescsrscveecesserecascssnssssasesevsnsessssesaesesacessseesssecanecenseceraasenanes 14
+
+MG-FIN-POL-CRC-DCL 202508.02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY Page2 | 15
+
+Document Name | MG-FIN-POL-CRC-DCL 202508,02
+
+Previous Name, if changed _ o)
+| eas | MG FINANCE CREDIT CONTROL DEBT in
+
+Description COLLECTION POLICY macrocom€!,®
+Revision No 02 | 4 SMART MADE SIMPLE
+Date of Revision | 15 AUGUST 2025 _
+
+|_ Date of Next Revision 15 AUGUST 2027 |
+
+| Author _| Charlene van Onselen _ Approved by | Kamal Bhimma
+
+CREDIT CONTROL AND
+DEBT COLLECTION POLICY
+
+1 INTRODUCTION
+
+This purpose of this policy is to set out the Macrocomm Group's credit control and debt
+collection policy that is applicable across Macrocomm Group incorporating subsidiaries:
+Fleet Analytics and Smart loT Solutions.
+
+2 OBJECTIVES OF THE POLICY
+
+The objectives of this policy are to:
+
+1. define a framework within Macrocomm Group (“Macrocomm’”) can develop
+an effective procedure to bill Customers and collect payments (income) due;
+
+2. — ensure that all monies due and payable to the Macrocomm are collected in
+full;
+3. enable the implementation of this policy
+
+4. effectively and efficiently deal with defaulters in accordance with the terms
+and conditions of this policy;
+
+5. promote a culture of payment and instil a sense of responsibility towards the
+payment of accounts and reduction of debt defaulters
+
+3 PRINCIPLES
+
+1. The administrative integrity of Macrocomm must be maintained at all times
+
+2. All Customers must complete a Customer application form, requesting to
+take out a 36-month contract for a device or for devices, and/or access to the
+Fleet Analytics Platform.
+
+3. All Customer application forms include the Terms of Conditions, the POPIA
+and Privacy Polices.
+
+Billing is to be accurate, timeous and understandable
+
+The Customer is entitled to reasonable access to invoices and statements
+
+6. The Customer is entitled to an efficient, effective and reasonable response to
+queries, and should suffer no disadvantage during the processing of a
+reasonable query regarding their account and/or an invoice or statement.
+
+7. Enforcement of payment must be prompt, consistent and effective.
+
+8. Customer debt must arise out of a legal framework and must be legally
+
+collectable.
+
+wo #
+
+MG- FIN- POL-CRC- DCL 202508.02 MG | FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY Page3|15
+
+Document Name [_MG-FIN-POL-CRC-DCL 202508.02
+
+Previous Name, if changed | | m~)
+i MG FINANCE CREDIT CONTROL DEBT On
+
+Description COLLECTION POLICY macrocomm!”
+I Revision No | 02 ~ a” SMART MADE SIMPLE
+Date of Revision | 15 AUGUST 2025 _
+Date of Next Revision 15 AUGUST 2027
+T T
+Author Charlene van Onselen | Approved by | Kamal Bhimma _
+
+9. Debtors may be referred to third party debt collection agencies and may be
+placed on the National Credit Bureau.
+
+10. The Financial Manager shall on a regular basis report to the Macrocomm
+Executive on the progress made in implementing the policy.
+
+11. Macrocomm shall not provide any services to any Customer with arrear
+accounts except as provided for in policy, nor will any refunds or credits be
+made to any debtor who is in arrears with their Macrocomm account.
+
+4 DEFINITIONS
+
+account means a notification by means of an invoice or statement of
+account to a debtor or Customer who is liable for payments of
+any amount to Macrocomm regarding any Services
+
+agreement means a contractual relationship between Macrocomm and a
+Customer that arises as a result of a written application for
+services.
+
+arrears means any amount that is due, owing and payable by a
+
+Customer in respect of the Services provided to such Customer
+that has not been paid on or before the due date reflected on
+an account rendered in respect thereof;
+
+arrangement means a written agreement or acknowledgement of debt in
+terms of which a Macrocomm agrees to the payment over a
+period of time of a debt that is outstanding;
+
+billing refers to the process of charging for Services provided by
+issuing accounts:
+
+credit control refers to the action/s required to manage credit extended to
+customers including suspension, re-instatement, cancellation,
+and follow-up procedures and data integrity.
+
+credit control and debt is the function relating to the effective collection of any monies
+collection due and payable to Macrocomm;
+customer debt refers to the non-payment or late payment by Customers
+
+regarding their account and includes any amounts considered
+as irrecoverable;
+
+customer means a person with whom Macrocomm has concluded or is
+deemed to have concluded an agreement for the provision of a
+Services;
+
+continuous service means the supply for consideration of a Macrocomm Service
+
+with the intent that as long as the agreement to supply the
+Service remains, Macrocomm will make the Service
+
+Page4|15
+
+MG-FIN-POL-CRC-DCL 202508.02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY
+
+Document Name
+
+| MG-FIN-POL-CRC-DCL 202508.02
+
+Previous Name, if changed
+
+| MG FINANCE CREDIT CONTROL DEBT
+
+@racrocomm
+
+Description | COLLECTION POLICY
+ro 1 - SMART MADE SIMPLE
+|_ Revision No | 02
+|_ Date of Revision | 15 AUGUST 2025
+Date of Next Revision | 15 AUGUST 2027 | :
+Author | Charlene van Onselen ___| Approved by | Kamal Bhimma _
+
+defaulter
+
+due date
+
+debt collection
+
+debt collection action
+
+Financial Manager
+
+prescribed debt
+
+principle debt
+
+letter of demand
+
+legal status
+
+notice of suspension
+letter
+
+notice of cancellation
+letter
+
+payment
+
+person and/or
+Customer
+
+pre-legal
+
+continuously available to be used by the Customer from time to
+time as determined by the Customer,
+
+means a Customer who is in arrears;
+
+means the date on which an amount payable in respect of an
+account becomes due, owing and payable by a Customer,
+which date shall not be more than 30 days after the date on
+which the account has been sent to the Customer concerned:
+
+refers to the debt recovery process and includes sanctions(
+suspension and/or cancellation) to be applied in the event of
+non-payment of accounts;
+
+will be instituted promptly, consistently, and effectively without
+exception and with the intention of proceeding until the debt is
+collected;
+
+means the Macrocomm employee responsible for the collection
+of monies owed to the Macrocomm and/ or any other staff
+member to whom he/she has delegated duties and
+responsibilities in terms of this policy; NOTE: it remains the
+FM’s responsibility, he may delegate it.
+
+Means debt that becomes extinguished by prescription in
+terms of the Prescription Act68 of 1969;
+
+means a debt that is owed to Macrocomm in respect of
+Services;
+
+means a notice sent prior to the legal process commencing and
+includes notices sent as part of the monthly statement;
+
+means that the Customer is in arrears for 60 days, their
+services have been cancelled and their account has been
+handed over to a debt collector.
+
+means a notice sent to the Customer advising them that all the
+services will be suspended unless full payment is received.
+
+means a notice sent to the Customer advising them that all
+services will be cancelled unless full payment is received
+
+refers to any form of redemption acceptable to Macrocomm
+from time to time towards the balance owing on an account:
+
+means any person, whether natural or juristic, and includes but
+is not limited to a company or close corporation incorporated
+under any law, a body of persons whether incorporated or not
+a statutory body, public utility body, voluntary association or
+trust;
+
+means any Customer who has not paid their account and is in
+arrears for 45 days.
+
+MG-FIN-POL-CRC-DCL 202508.02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY Page 5 | 15
+
+Document Name | MG-FIN-POL-CRC-DCL 202508,02 _|
+Previous Name, if changed | | m)\
+| MG FINANCE CREDIT CONTROL DEBT oN
+
+| Description | COLLECTION POLICY macrocornm
+[ Revision No | 92 ~ a SMART MADE SIMPLE
+Date of Revision | 15 AUGUST 2025
+| Date of Next Revision |. 15 AUGUST 2027 a |
+| Author _ | Charlene van Onselen | Approved by _| Kamal Bhimma
+service means a service rendered by the Macrocomm Group such as a
+
+device, access to SaaS Analytics Platform, data or other
+
+5 Credit Control and Debt Collection Timeline
+
+The following timeline shows the 60-day period in which a customer moves from being
+in arrears to being in legal within Macrocomm.
+
+Arrears Pre Legal Legal
+* Day 1 to 21 * Day 22-45 * Day 46 >
+30 of the Month 30° of the Month
+| Issue Customer invoices | Issue Customer invoices
+| 15" of the Month | 22°¢ of the Month 15% of the Month
+e Check Bank Accountfor j|« Send Notice of *« Check Bank Account for
+Payment Suspension Payment
+« No Payment Received « No Payment Received
+e Send Email Requesting |e Advise Operations
+Payment of Account Manager
+« Send Notice of
+Cancellation Letter
+| Check on 21 (7 days | Check on 28" Day (7 days | Check on 224 (8 days
+| later) if payment received | later for payment) later) for payment
+|e No Payment Received e No Payment Received e No Payment Received
+|* Update Debtor's analysis |* Suspend Services e Cancel Services
+
+¢ Handover to Legal for
+Debt Collection
+
+and forward to
+Subsidiary Operational
+Manager to Collect Debt
+
+6 DUTIES AND FUNCTIONS
+6.1 Duties, Functions and Responsibilities of the Financial Manager
+
+It is acknowledged that the Financial Manager may delegate some of his duties/functions
+to his team, for example the Finance Administrator or the Group Accountant. However,
+even though these are delegated, he still remains responsible to ensure these are
+
+fulfilled.
+
+MG-FIN-POL-CRC-DCL 202508.02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY Page 6 | 15
+
+Document Name MG-FIN-POL-CRC-DCL 202508.02
+
+Previous Name, if changed — m)
+[ MG FINANCE CREDIT CONTROL DEBT on
+
+Description COLLECTION POLICY mMacrocomm®m
+Revision No | 02 | a SMART MADE SIMPLE
+Date of Revision | 15 AUGUST 2025
+
+Date of Next Revision _15 AUGUST 2027 _ | 7
+
+Author | Charlene van Onselen ___| Approved by | Kamal Bhimma _
+
+1. To provide a monthly debtor analysis for Macrocomm Group and the
+subsidiaries incorporated in this policy.
+
+2. To provide for a bad debt provision, in line with the payment record of
+Macrocomm’'s debtor's book.
+
+3. To send monthly invoices and statements to Customers requesting payment
+
+4. Tosend a payment reminder email with a contact us letter, if no payment is
+received by the 15" of the month.
+
+5. To notify the subsidiary operational manager and the respective salesperson
+of payments received and of non-payments on the 15" of the month.
+
+6. To work with the respective salesperson who must ensure that the Customer
+is notified and reminded of the arrears on their account.
+
+7. To check the bank account 7 (seven) working days later (i.e. 21° of the
+month) for payment, if no payment has been received then to hand
+Customer over to the Subsidiary Operations manager to contact the
+Customer and request payment.
+
+8. Toupdate pastel and record all payments received from Customer on the
+financial system.
+
+9.  Toset an improvement target for debt collection, in line with acceptable
+accounting ratios.
+
+10. To approve a reporting framework for credit control and debt collection.
+
+11. To approve an attorney that will act for Macrocomm Group in all legal
+matters relating to debt collection.
+
+12. To provide a monthly report noting the amount owing for all legal status
+Customers for debt collection.
+
+13. To provide the minimum amount owing for which debt collection will be
+effected and the immediate amounts that will be written off.
+
+14. To provide the time period for which it is viable to pursue bad debt recovery
+prior to write-off.
+
+15. To blacklist all legal Customers at the Credit Bureau(s).
+
+6.2 Duties, Functions and Responsibilities of the Subsidiary Operational
+
+Manager
+
+1. To ensure that the targets for debt collection are met.
+
+2. The normal credit control procedures shall apply to any arrear account of a
+Customer.
+
+3. | Manage the debtor's analysis book.
+
+4. To work with the respective salesperson who must ensure that the Customer
+
+MG-FIN-POL-CRC-DCL 202508.02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY
+
+is notified and reminded of the arrears on their account
+
+“Page7{15_
+
+Document Name | MG-FIN-POL-CRC-DCL 202508.02 |
+| Previous Name, if changed 7 | aw
+MG FINANCE CREDIT CONTROL DEBT &
+
+_ Description | COLLECTION POLICY macrocomm
+l Revision No | 02 ] a“ SMART MADE SIMPLE
+| Date of Revision | 15AUGUST2025 0
+
+|_Date of Next Revision _15 AUGUST 2027 -
+
+| Author | Charlene van Onselen Approved by Kamal Bhimma ___
+
+5. Suspend services (soft lock) until the Customer has paid up arrear amounts
+is no payment has been received within the first 21 days after the Customer
+was sent his invoice.
+
+6. Send the Customer a notice of suspension letter and request payment of the
+arrears amount. The Financial Manager to be copied:on this email.
+
+7. The Operations Manager to follow up with the Financial Manager to check
+the bank account 8 days after the notice of suspension was to the Customer.
+
+8. If the Customer has still not paid to suspend all services to the Customer (a
+soft lock). These services include for Fleet Analytics: Telematics
+Management and Analytics Platforms and the device SIM Card, as well as
+their Stolen Vehicle Recovery value-add service. For other services by other
+subsidiaries, it will be the SIM Card in the device.
+
+9. To check the debtor's analysis report each month to see which Customers
+have paid their account and which have not.
+
+10. Ifan account has been in arrears for 45 days, and is suspended, a notice of
+canceilation letter must be sent to the Customer.
+
+11. To confirm with the Financial Manager if payment has been received after 45
+days from the Customer.
+
+12, If the Customer has not effected any payment after 45 days, nor made any
+contact with Macrocomm to discuss a payment plan then the services must
+be cancelled: access fully revoked and the removal of the Customer profile,
+the SIM Card in the device to be cancelled with Vodacom and any value
+added service (e.g. the SVR Value Add with Afrisist) to be cancelled in writing
+for this Customer.
+
+13. The Operations Manager to work with the Financial Manager to initiate the
+
+debt collection process if the Customer is in arrears regardless of the
+amount owing.
+
+6.3 Customer Care
+
+1.
+
+All Customers will have direct access to the subsidiary operational manager
+to discuss any complaints or concerns they may have.
+
+Macrocomm will establish a sound Customer management system that aims
+to create a positive and reciprocal relationship between the company and its
+Customers.
+
+Macrocomm will take reasonable steps to ensure that all Customers are
+informed of the costs involved for the Service(s) they have applied for and
+the payment process.
+
+Where the usage of Services are measured, take reasonable steps to ensure
+that such usage is easily accessible and provide accurate reports.
+
+MG-FIN-POL-CRC-DCL 202508.02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY Page8|15
+
+Document Name |_MG-FIN-POL-CRC-DCL 202508.02
+
+Previous Name, if changed | m~)\
+MG FINANCE CREDIT CONTROL DEBT ny
+
+| ° escription COLLECTION POLICY macroconmm®
+Revision No | 02 a SMART MADE SIMPLE
+| Date of Revision | 15 AUGUST 2025
+Date of Next Revision 15 AUGUST 2027 a
+Author Charlene van Onselen | Approved by | Kamal Bhimma
+
+5. Ensure that all Services are connected and active to allow for effective
+monitoring.
+
+6. Ensure that Customers liable for payments receive regular and accurate
+accounts and indicate the amounts due each month.
+
+7. Provide accessible mechanisms for those persons to query or verify their
+accounts and Service reports.
+
+8. Provide alternative payment mechanisms such as debit orders, stop-orders
+and electronic payments (e.g. EFTS).
+
+7 TERMINATION OF SERVICES
+
+1. It is the responsibility of the Customer to notify Macrocomm in writing if they
+which to cancel their contract be it term or month-to-month.
+
+2. Failure to comply with the provision of paragraph 10.1 below renders the
+Customer liable for all costs related to their term contract or month-to-
+month subscription.
+
+3. A Customer may terminate a term contract agreement after 12 months, and
+a month-to-month contract in writing giving 30 day's notice.
+
+4. | Macrocomm may terminate services if no payment is received after 60 days
+of non-payment for all services provided.
+
+5.  ACustomer shall remain liable for all arrears and applicable charges that are
+payable for all services rendered prior to the termination of an agreement.
+
+8 RECOVERY OF ADDITIONS COSTS
+
+The Macrocomm may, in addition to any charge, or payment of any kind referred to in
+this policy, recover from a Customer any reasonable costs incurred by it in this policy,
+including but not limited to all legal costs, including attorney and client costs incurred in
+the recovery of arrears which shall be debited against such Customer as arrears in his
+account.
+
+9 PAYMENT FOR ALL MANAGEMENT AND ANALYTIC PLATFORM,
+VALUE ADDED AND DEVICE SERVICES PROVIDED
+
+A Customer shall be responsible for the payment of their accounts for all services
+rendered to him/her from the commencement date of the agreement until the account
+has been paid in full. Macrocomm shall be entitled to recover all payments due to it from
+the Customer concerned.
+
+MG-FIN-POL-CRC-DCL 202508.02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY
+
+Page] 15
+
+| Document Name | MG-FIN-POL-CRC-DCL 202508.02
+| Previous Name, if changed | _ | m2)
+| MG FINANCE CREDIT CONTROL DEBT On
+
+“ti fy
+| Description COLLECTION POLICY Macrocomm
+[ Revision No | 02 ~ : a SMART MADE SIMPLE
+_Date of Revision 15 AUGUST 2025 Z
+
+[ Date of Next Revision _| 15 AUGUST 2027 _ { _
+
+| Author ___| Charlene van Onseien | Approved by | Kamal Bhimma
+
+9.1 Full and Final Settlement of an Amount
+
+Where an account is not settled in full, any lesser amount tendered to and accepted by
+the Macrocomm shall not constitute a full and final settlement of such an account despite
+the fact that the payment was tendered in full and final settlement unless the Financial
+Manager expressly accepts such payment in writing as being in full and final settlement
+of the amount reflected on the relevant account.
+
+9.2 Pay Points and Payment Methods
+
+A Customer must pay his account either as agreed by means of debit order, stop order
+or electronic payments (e.g. EFT).
+
+10 ACCOUNTS AND BILLING
+
+1. | Macrocomm shall provide every Customer liable to pay for Services
+purchased with balance of term and/or a monthly account in respect of
+every service for which that Customer is liable and all services rendered in
+respect of agreement signed.
+
+2. Failure by Macrocomm to render an account does not relieve the Customer
+of the obligation to pay any amount due and payable. The onus shall be on
+the Customer to obtain a copy of the account before the due date.
+
+3. Payments shall be deemed to be late unless received on or before the due
+date by Macrocomm. Electronic payments and debit order / stop order
+payments must be received by the close of business on the due date.
+
+11 DISPUTES,QUERIES AND COMPAINTS
+
+Dispute refers to when a Customer questions his account rendered by Macrocomm. A
+Customer may lodge a query or a complaint in respect of any amount that is due and
+payable by him before or on the due date for payment specified in the account concerned
+or as soon as reasonable possible thereafter.
+
+The lodging of a dispute by a customer shall not relieve the aggrieved person of the
+responsibility to settle his or her account.
+
+In the event that there is a query/dispute:
+1. The customer must continue servicing the account on services that that are not
+affected by the query.
+2. The customer must continue to pay the reasonable estimate of the queried service
+
+at the lodging of the dispute/ query and should continue to pay such reasonable
+amount until the query is concluded and then pay the actual billed amount for the
+
+MG-FIN-POL-CRC-DCL 202508,02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY Page 10] 15
+
+| Document Name MG-FIN-POL-CRC-DCL 202508.02 _
+
+Previous Name, if changed | | m2)
+wae MG FINANCE CREDIT CONTROL DEBT fe,
+| Description” COLLECTION POLICY CMacr ocornm®®m
+Revision No To2 a” SMART MADE SIMPLE
+{Bee of Revision ‘| 15 AUGUST 2025 |
+Date of Next Revision 15 AUGUST 2027 | 7
+| Author | Charlene van Onselen _ ] Approved by | Kamal Bhimma |
+
+service thereafter or be granted a refund if after the outcome it is determined the
+customer dispute is valid and correct.
+
+11.1 Procedures to be Followed:
+
+In order for a dispute to be registered with Macrocomm, the following procedures must
+be followed:
+
+11.1.1 By The Customer
+
+1,
+
+The Customer must submit the dispute in writing to the Operational
+Manager of the subsidiary or the Financial Manager before or on the due
+date for payment specified in the account concerned or as soon as
+reasonably possible thereafter.
+
+No dispute will be registered verbally whether in person or over the
+telephone.
+
+The Customer must furnish his full personal particulars including in the
+correspondence referred to above.
+
+The onus will be on the Customer to ensure that he receives a written
+acknowledgement of receipt from Macrocomm.
+
+11.1.2 By Macrocomm
+
+On receipt of the dispute, the following actions are to be taken:
+
+1. The Operational Manager and/or Financial Manager must register the query or
+
+complaint and provide the Customer with a reference number.
+2.
+
+The Operational Manager will keep custody of this register and conduct a
+
+daily or weekly check or follow-up on all disputes as yet unresolved.
+
+The following information should be entered into the register:
+
+fe) Customer ‘s Account Number.
+
+Customer's name.
+
+Customer's address.
+
+Full particulars of the dispute.
+
+Name of the Macrocomm Representative to whom the dispute was
+
+emailed.
+
+Actions that have been/were taken to resolve the dispute.
+
+Signature of the Macrocomm Representative.
+
+o  Awritten acknowledgement of receipt of the dispute must be provided
+to the Customer.
+
+Macrocomm should not institute enforcement proceedings against the
+Customer for an amount or an account entry that is in dispute until it has
+
+Oo O 0 0
+
+[e)
+
+MG-FIN-POL-CRC-DCL 202508.02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY Page 11] 15
+
+| Document Name | MG-FIN-POL-CRC-DCL 202508.02
+
+| Previous Name, if changed | __ _ | m~)
+| MG FINANCE CREDIT CONTROL DEBT ON
+
+Description | COLLECTION POLICY macrocomm
+Revision No 02 : a SMART MADE SIMPLE
+Date of Revision | 15 AUGUST 2025 «|
+
+| Date of Next Revision | 15 AUGUST 2027 — -
+
+_Author _ | Charlene van Onselen : Approved by | Kamal Bhimma
+
+resolved the dispute. This includes any suspension or cancellation of
+services.
+
+5.  Allinvestigations regarding disputed amounts must be concluded by
+Financial Manager within 21(twenty-one) calendar days from receipt thereof.
+
+6. The Customer shall be advised in writing of the findings.
+
+12 ARREARS
+
+A Customer must pay all and any monies owed to Macrocomm within the period or
+before the due date that is indicated on the invoice of his account.
+
+If a Customer fails to pay the amount/s due and payable on or before the final date for
+payment, the unpaid amount is deemed to be an arrears amount then a notice of
+suspension letter may be emailed to the Customer after 21 days if no payment is
+received.
+
+The notice to suspension notice must contain the following statements:
+
+° The amount in arrears and any interest payable;
+
+° The Customer may conclude an agreement with Macrocomm for payment of
+the arrear amount in instalments within 5 (five) days of the date of such notice.
+
+° lf no payment is received and no such agreement is entered into within the
+stated period, services to the Customer will be suspended and that legal action
+may be instituted against such Customer for the recovery of any amounts
+owing in accordance with the policy contained herein.
+
+12.1 Pre-Legal
+
+The notice of cancellation must contain the following statements:
+
+° The amount in arrears and any interest payable.
+
+e The Customer may conclude an agreement with Macrocomm for payment of
+the arrear amount in instalments within 5 (five) days of the date of such notice.
+
+e That, if no payments is received and no such agreement is entered into within
+the stated period, services to the Customer will be cancelled and that legal
+action may be instituted against such Customer for the recovery of any
+amounts owing in accordance with the policy contained herein.
+
+e That the Customer’s name may be listed with a credit bureau or any other
+equivalent body as defaulter.
+
+° That the account may be handed over to a debt collector for collection.
+
+MG-FIN-POL-CRC-DCL 202508.02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY Page 12 | 15
+
+| Document Name | MG-FIN-POL-CRC-DCL 202508.02
+
+Previous Name, if changed _ _| o\
+
+ae MG FINANCE CREDIT CONTROL DEBT “s
+
+Description | COLLECTION POLICY | Grhacrocomm
+| Revision No Q2 a ] a“ SMART MADE SIMPLE
+| Date of Revision | 15 AUGUST 2025 :
+| Date of Next Revision _15 AUGUST 2027 | _
+
+Author | Charlene van Onselen Approved by Kamal Bhimma
+
+13 RESTORATION OF SERVICES
+
+After a Customer settles arrear (providing the Customer is not deemed a legal account)
+amounts owing to Macrocomm following continuance of service, the discontinued service
+will be restored within 7(seven) working days according to the type of service the
+Customer elected in terms of the agreement for the provision of services.
+
+14 LISTING OF DEBTOR WITH CREDIT BUREAU
+
+Where an account rendered to a Customer remains outstanding for more than 90 (ninety)
+days:
+° The defaulting Customer's name may, at the discretion of Macrocomm, be
+
+listed with a credit bureau of any other equivalent body as defaulter, provided
+that the agreement for the provision of services provide; therefore, and
+
+° May be handed over to a debt collector or an attorney for collection.
+
+15 NOTICES AND DOCUMENTATION
+
+Any notice other document served on a Customer by Macrocomm in terms of any other
+legislation is regarded as having been served the notice to him personally or to his duly
+authorised agent: y email or registered mail:
+
+° to a postal/physical address for legal purposes as nominated by the Customer;
+or
+
+° to an email address given by the Customer in his application of services, where
+no postal/physical address has been nominated for legal purposes, or
+
+° by sending it by pre-paid registered or certified post addresses to his last
+known address.
+
+16 IRRECOVERABLE DEBT
+
+16.1 Debt will be regarded as irrecoverable if:
+
+° All reasonable notifications and cost-effective measures to recover a specific
+outstanding amount have been exhausted, or
+
+° If the amount to be recovered is too small to warrant further endeavours to
+collect it, or
+
+° The cost to recover the debt does not warrant further action.
+
+° The amount outstanding is the residue after payment of a dividend in the
+Rand from an insolvent estate, or
+
+° A deceased estate has no liquid assets to cover the outstanding amount, or
+
+MG-FIN-POL-CRC-DCL 202508.02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY
+
+Page 13 | 15
+
+| Document Name | MG-FIN-POL-CRC-DCL 202508.02 |
+| Previous Name, if changed _| Z _| ~~)
+MG FINANCE CREDIT CONTROL DEBT on
+
+Description | COLLECTION POLICY macrocemnm
+| Revision No | 02 ~ a SMART MADE SIMPLE
+Date of Revision 15 AUGUST 2025
+Date of Next Revision | 15 AUGUST 2027 : :
+|_ Author 7 Charlene van Onselen 7 | Approvedby | Kamal Bhimma
+° It has been proven that the debt has prescribed, or
+
+° The Customer is untraceable or cannot be identified so as to proceed with
+further action, or
+
+° It is impossible to prove the debt outstanding, or
+
+e the outstanding amount is due to an administrative error by Macrocomm.
+
+16.2 Authorisation
+
+° When accounts in arrears are deemed to be recoverable in all instances, all
+requests to write off debt must be presented as individual items to the
+Financial Manager.
+
+° In respect of other debt, schedules indicating the Customer account number,
+the Customer's name, the physical address in respect of which the debt was
+raised, as well as the steps taken to recover a debt and a reason to write off
+the amount, must be compiled and submitted to the Financial Manager for
+consideration with a view to writing off such debt as irrecoverable.
+
+° The Financial Manager must compile a consolidated report of all debt write-
+off requests to the Macrocomm Board for their approval.
+
+° Notwithstanding the above, Macrocomm will be under no obligation to write
+off any particular debt and will always have the sole discretion to do so.
+
+MG-FIN-POL-CRC-DCL 202508.02 MG FINANCE CREDIT CONTROL AND DEBT COLLECTION POLICY Page 14] 15

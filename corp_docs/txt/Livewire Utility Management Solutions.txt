@@ -1,0 +1,494 @@
+“Manage your utilities smarter”
+Smart Metering / Pre-Paid Vending / Utility Accounting / Engineering
+SMART UTILITIES
+Revenue Recovery Solutions
+
+EXAMPLE SYSTEM DESIGN
+Livewire (MDMS) 
+Meter Data Management System
+Livewire Analysis and Reporting 
+Software As A Service (SAAS)
+Data Analysis and 
+Reporting
+Livemopay Property Wallet 
+Platform
+On Site Hardware
+Site Electricity intakes and sub meter
+Thin-prepaid Utility Wallet 
+System
+2 x Common
+17 x Kasada
+Grid 
+Generator
+64 x Ingenuity
+62 x Apartments 
+62 x Apartments
+Kamstrup 1 PH direct 
+meter with 
+disconnect breaker , 
+M2M GSM modem, 
+M2M tariff module 
+hardwired to the 
+M2M receiver at the 
+relevant DB 
+Kamstrup 3 PH 
+direct/CT meters 
+with M2M GSM 
+modem
+Kamstrup 3 PH 
+direct/CT meters 
+with M2M GSM 
+modem
+Kamstrup 3 PH 
+direct/CT meters 
+with M2M GSM 
+modem
+Kamstrup 3 PH CT 
+meters with M2M 
+GSM modem, 
+M2M Tariff 
+module 
+transmitter and 
+Lora antenna
+Kamstrup 3 PH CT 
+meters with M2M 
+GSM modem
+Kamstrup MC21 
+20mm Ultra-Sonic water 
+meters with wireless 
+communication to any 
+modem with W-Mbus 
+concentrator  
+Bulk water meters 
+Kamstrup FlowIQ 
+32-150mm Ultra-Sonic water 
+meters with wireless 
+communication to any 
+modem with W-Mbus 
+concentrator
+Kamstrup Multical 302
+20mm Ultra-Sonic heat meter 
+(KL and kWh) with wireless 
+communication to any 
+modem with W-Mbus 
+concentrator  
+11 x DB’s with and 
+M2M Tariff 
+module receiver 
+and Lora antenna
+
+BUSINESS 
+INTRODUCTION
+ITAICT
+AWARD
+BCX
+TOP
+6
+•
+MACROCOMM IS A LEVEL 1 BBBEE 100% black woman-owned organisation
+•
+Livewire is 65.4% owned by Macrocomm Group with 40+ staff full-time in 
+LIVEWIRE IS ALSO A LEVEL 1 BBBEE company
+•
+Macrocomm was ESTABLISHED in 2005 and Livewire in 2006
+ 
+•
+Founded on the values of INTEGRITY AND PROFFESIONALISM. 
+•
+The company has a strong focus on understanding its customer needs and 
+designing and building BESPOKE SOLUTION to address the key challenges facing 
+our customers.
+•
+We are able to offer turnkey solutions deployed by our team of EXPERTS ACROSS 
+SOUTH AFRICA AND AFRICA
+•
+Through our partner ecosystem, we build solutions to create a unique offering in 
+Smart City Management, Energy Management, Smart Industry Management, 
+Utility Management and RENEVUE RECOVERY SOLUTIONS (with in-house 
+developed Unified Meter Data Management Platform).
+•
+Macrocomm prioritises job creation through meaningful ECONIMIC 
+TRANSFORMATION AND INCLUSIVE GROWTH
+•
+We have created a number of NQF level 4 jobs and have upskilled a number of 
+government employees through our TRAINING AND SKILLS TRANSFER 
+PROGRAMS
+
+BUSINESS ECOSYSTEM
+ITAICT
+AWARD
+BCX
+TOP
+6
+MacrocommSmart Water and Electricity Monitor
+ 
+MacrocommSmart Logistics and Fleet Analytics 
+MacrocommSmart Asset Management 
+MacrocommSmart Infrastructure  
+MacrocommSmart Revenue & Enhancement
+USE CASES
+
+Livewire is a utility 
+management company that 
+harness smart technologies 
+and knowledge to deliver 
+solutions to our clients that 
+maximize and sustain utility 
+recoveries, savings and 
+efficiency across all types of 
+utilities
+ABOUT 
+LIVEWIRE
+Smart Metering / Pre-paid Vending / Utility Accounting / Engineering
+
+PROGRAM 
+GOALS
+“How can we help you 
+manage your utilities 
+smarter?”
+•
+Verify utility ACCOUNT ACCURACY and secure any over billing refunds
+•
+Ensure that all utilities are always on the most COST EFFECTIVE TARIFFS available 
+•
+Establish and track against a proper UTILITY BUDGET
+•
+Identify, measure and understand all high UTILITY COST CONTRIBUTION AREAS
+•
+Implement EFFICIENCY SOLUTIONS to reduce and control utility costs
+•
+Implement SUSTAINABLE ENERGY AND WATER SOURCES to reduce cost and 
+secure supply
+•
+Optimise and ensure accurate TENANT RECOVERIES with best in class metering 
+solutions
+•
+Accelerate the holistic program delivery with FINANCE, FUNDING AND AVAILIBLE 
+TAX INCENTIVES to realise and sustain maximum savings
+
+Revenue 
+Recovery 
+Program
+Smart 
+Metering 
+FDM
+MDMS
+Livemopay
+Support
+Liveview
+SAP
+Group 
+Reporting
+Consulting
+Finance
+SMART METERING INFRASTRUCTURE (Electricity, Water, Gas and Environmental)
+FIELD DATA MANAGEMENT system facilitates 
+all installations via our mobile app and tracks 
+performance with a comprehensive 
+dashboard
+METER DATA MANAGEMENT SYSTEM 
+collects data from all field devices, 
+warehouse all data, ensure data integrity, 
+enable proactive notifications, ensure 
+backup and asset health
+LIVEVIEW is our Software-as-a-Service (SaaS) online utility 
+management reporting platform that offers a comprehensive range 
+of easy to use reports and dashboards to ensure optimal efficiency 
+and accurate billing
+Custom group specific UTILITY 
+MANAGEMENT DASHBOARDS deliver 
+benchmarking and performance reports 
+via Power BI 
+SAP UTILITY ACCOUNTING software 
+provides a consolidated view of your 
+property portfolio, utility accounts and 
+tracking against budgets
+LIVEMOPAY is a mobile application available 
+on all platforms that facilitate utility 
+recoveries from tenants via STS prepaid 
+services or E-wallet services
+HELP DESK operating from 7 AM to 10 PM 
+(7 days a week) to ensure efficient user 
+and system support
+ 
+VALUE PROPOSITION 
+Livewire offers VALUE ADDED 
+CONSULTING services related to account 
+disputes, tariff analysis, sustainable 
+energy and water production, efficiency 
+and funding
+Livewire offers FINANCE OPTIONS to 
+accelerate holistic program delivery and 
+savings
+
+ 
+SYSTEM ARCHITECTURE OVERVIEW
+LIVEWIRE Meter Data Management (MDM) Platform linked to IoT Hub for Energy Data Analytics, Accounting and Reporting
+Tier 1 – Metering and Edge Devices
+Tier 2 – Connectivity and MQTT
+Tier 3 – Meter Data Management 
+and Visualization Console
+Tier 4 – Data Analytics and Reporting
+Tier 5 – Utility Accounting and Tariff Optimization 
+Integrated Property / Financial Accounting 
+Power Meter Devices
+Water Meter Devices
+Cooling / Heating Meter Devices
+IoT Controller Devices
+Integrated Utility Reporting and Dashboard Display
+
+ 
+MDMS AND UTILITY MANAGEMENT TOOLS - OVERVIEW
+LIVEWIRE Meter Data Management (MDM) Platform linked to IoT Hub for Energy Data Analytics, Accounting and Reporting
+Tier 1 – Metering and Edge Devices
+Tier 2 – Connectivity and MQTT
+Tier 3 – Meter Data Management 
+and Visualization Console
+Tier 4 – Data Analytics and Reporting
+Power Meter Devices
+Water Meter Devices
+Cooling / Heating Meter Devices
+IoT Controller Devices
+Integrated Utility Reporting and Dashboard Display
+
+LIVEVIEW ONLINE UTILITY MANAGEMENT SOFTWARE – OPTIONAL
+SOLUTION
+FUNCTIONALITY
+Utility Bill Comparison & Tariff Analysis
+•
+Identify over and under billing
+•
+Ensure that you are on the most cost effective tariff available to you
+Cost allocation Summary & Cost 
+allocation slips
+•
+Accurate cost allocation to all tenants and sub meters
+Dashboard displays 
+•
+TV displays
+•
+Group and Management views
+•
+We cater for all your needs
+Group Summary and Benchmark 
+Reporting
+•
+We can compare different sites with multiple tariffs costing & usage
+•
+Detailed report on energy or water performance to monitor current data and 
+historical data
+SANS 204 1 2008 Energy Efficiency in 
+Buildings
+•
+Group and facility performance compared to SANS standard to identify 
+inefficiency building management
+DATA import / Exports
+•
+We can export any format and layout for your importing needs to your financial 
+system
+•
+Flat files "CSV“ 
+•
+SOAP Interface for easy data exports
+Custom BI Dashboard
+•
+Our team can design and develop custom industry / company specific 
+dashboards that integrate data from multiple sources
+Photovoltaic Solar Reporting
+•
+Solar billing reports with Grid demand saving calculations
+Custom Report Development
+•
+Lets take care of your existing report and make life easy
+https://youtu.be/UVhXiiPY8Dc 
+
+LIVEVIEW DASHBOARD – CONSUMPTION POINTS EXAMPLE
+Demo property
+Demo
+Demo
+Demo
+Demo
+Demo
+Demo
+Demo
+Demo
+
+SMARTWIRE UTILITY MANAGEMENT  APPLICATION
+Tools
+Functionality
+Utility Book
+•
+Smart meter load profiles
+•
+Smart prepaid load profiles and purchases
+•
+Prepaid purchases and usage
+•
+Conventional meter readings and usage statistics
+Competition Book
+•
+Leaderboard scoring per defined category e.g. Consumption 
+per Occupancy
+•
+Total Cost per Occupancy
+•
+Time-of-Use Cost per Occupancy
+General
+•
+Messages – Push notifications
+•
+User Profile
+
+ 
+THIN-PREPAID / LIVEMOPAY UTILITY WALLET - OVERVIEW
+Tier 5 – Utility Accounting and Tariff Optimization 
+Integrated Property / Financial Accounting 
+Integrated Utility Reporting and Dashboard Display
+
+LIVEMOPAY MOBILE APPLICATION (UTILITY WALLET)
+The problem
+Challenge
+Inaccurate billing, data errors, ease of use
+Negatives
+Low customer satisfaction due to no transparency
+The solution
+One unified platform that takes data from all sources of revenue combined 
+with GIS data to be able to accurately determine revenue and to enhance 
+revenue collection.
+
+LIVEMOPAY MOBILE APPLICATION (CLIPS)
+Registration
+Wallet top-up
+
+MOBILE APPLICATION (SCREENSHOTS)
+
+MOBILE APPLICATION (SCREENSHOTS)
+
+PAYMENT OPTIONS
+• EFT TRANSFERS:
+•
+Payments reflect instantly on receipt of the 
+automated proof of payment (as setup 
+when creating a new beneficiary)
+•
+No card fees transaction fees or third-party 
+vending fees relevant to the user
+• CARD PURCHASES:
+•
+Debit Card/Credit card purchases on the 
+Livemopay application
+•
+Card transaction fees will be deducted from 
+the user on purchase
+• THIRD PARTY VENDORS:
+•
+Available at ATM's, Online banking channels, 
+Garages and stores
+•
+Third party vending fees will be deducted 
+from the User on purchase
+Automated EFT Solution
+An automated EFT solution is available 24/7 and there is no third 
+party charge applicable at all. This functionality is available 24/7 
+and has advanced automated reconciliation and verification 
+methods in place to ensure no duplicate vends occur. All major 
+banks are supported.
+STS Tokens are delivered to the customer via the following 
+channels
+•
+SMS
+•
+E-Mail
+•
+Push notification on mobile application
+This channel is unmanned and automated and  is available 24/7
+
+ELECTRICITY
+Daily Service Fee
+R/kWh
+WATER
+Daily Service Fee
+Consumption @ R/KL
+Sanitation @ R/KL
+GAS
+Daily Service Fee
+R/kg
+E-WALLET/STS 
+PURCHASES
+LIVEMOPAY
+PRE-PAID VENDING 
+PLATFORM
+* All tenant tariff’s applied are 
+based on the local utility 
+supplier’s tariff brochure
+MONTLY UTILITY COST 
+ACCOUNTIG REPORT:
+ 
+INCOME
+•
+Vending Sales
+ 
+minus EXPENCES
+•
+Bulk electrical accounts
+•
+Bulk water accounts
+•
+Bulk gas account
+•
+Metering finance cost (if 
+applicable)
+•
+Maintenance incl.
+•
+SAAS fees incl.
+•
+Phase 1 deliverables
+•
+Vending and service fees
+ 
+BALANCE / SURPLUS
+•
+To be paid into client account
+LIVEWIRE 
+VENDING ACCOUNT
+Electricity 
+Suppliers 
+Water Suppliers
+Gas Supplier
+Metering 
+finance
+Vending and 
+service fees 
+Client Surplus
+Monthly Pay-outs 
+managed by Livewire
+TYPICAL RECOVERY MODEL – THIN PRE-PAID SOLUTION
+
+LIVEWIRE UTILITY ACCOUNTING SERVICES - OPTIONAL
+FUNCTIONALITY
+•
+Manage utilities account more on behalf of the client
+•
+Ensure that each property and tenant is on the most cost effective tariff
+•
+Linking all municipal bills and utility supplier to a property and billable area
+•
+Full reporting on different levels for each parties' requirements
+•
+Quick and easy access to data per billing period/month for all utilities
+•
+Asset management per meter with location setup in MRI / MDA
+•
+Full mapping of all buildings and billable areas
+•
+Deliver a monthly cost allocation report, statement and pay any surplus into 
+the clients account
+
+CONTACT US
+066 240 9757
+q@macrocomm.co.za
+www.livewire.co.za
+Tygerberg House, 2nd Floor, Tygerberg 
+Office Park, 163 Uys Krige Drive, 
+Plattekloof 1, 7500, Cape Town

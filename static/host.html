@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Macrocomm Widget Host</title>
+
+  <!-- Clean canvas for Electron (no scrollbars, transparent background) -->
+  <style>
+    /* Hide any internal “close” elements inside the bubble */
+    [aria-label*="close" i],
+    [aria-label*="dismiss" i],
+    [title*="close" i],
+    [title*="dismiss" i],
+    [role="button"][aria-label*="close" i],
+    .widget-close, .chatbot-close, .close, .mcw-close, .macrocomm-close,
+    [id*="close" i], [id*="dismiss" i]{
+      display:none !important;
+      visibility:hidden !important;
+      pointer-events:none !important;
+    }
+    html, body{
+      margin:0 !important;
+      padding:0 !important;
+      background:transparent !important;
+      overflow:hidden !important;
+    }
+  </style>
+
+  <!-- Open Sans brand font -->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <!-- Optional host-level close (Electron can wire this) -->
+  <button id="close-btn" style="position:absolute;top:10px;right:10px;display:none">&#10005;</button>
+
+  <!-- Widget -->
+  <script src="/static/macrocomm-widget.js?v=3" defer></script>
+  <link rel="stylesheet" href="/static/brand-macrocomm.css" />
+
+  <script>
+    // Open the bubble as soon as the widget renders.
+    (function () {
+      function clickLauncher(doc) {
+        let el = doc.querySelector('[aria-label*="open" i], [aria-label*="toggle" i], [aria-label*="launcher" i]');
+        if (el) { el.click(); return true; }
+        el = doc.querySelector('.mc-launcher, .macrocomm-launcher, .widget-launcher');
+        if (el) { el.click(); return true; }
+        for (const b of doc.querySelectorAll('button,[role="button"]')) {
+          const t = (b.innerText || b.textContent || '').trim();
+          if (/ask macro-?bot|open chat|open bot|ask macrocomm/i.test(t)) { b.click(); return true; }
+        }
+        return false;
+      }
+      function tryOpen(){
+        const ok = clickLauncher(document);
+        if (!ok) setTimeout(() => clickLauncher(document), 600);
+        if (!ok) setTimeout(() => clickLauncher(document), 1200);
+      }
+      if (document.readyState === 'loading'){
+        document.addEventListener('DOMContentLoaded', tryOpen);
+      } else {
+        tryOpen();
+      }
+    })();
+  </script>
+</body>
+</html>
+
+
+
