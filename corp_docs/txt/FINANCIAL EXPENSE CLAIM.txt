@@ -1,167 +1,67 @@
-Date of Revision
-07-Feb-25
-Date of Next Revision
-07-Feb-26
-Author
-CHARLENE VAN ONSELEN
- Approver 
-ELTON CHETTIAR
-Macrocomm Company
-Business Unit
-Other
-City and Route
-Date
-Hour
-Date
-Hour
-( + parking lot, highway, 
-miscellaneous)
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
-Amount
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
-Description
-Revision No
-MG-DCTRL-INDEX
-MG-FIN-FRM-ECF 202502.03
-MG-FIN-FRM-ECF 202502.02
-MG FINANCE EXPENSE CLAIM FORM
-03
-Template Name (If Applicable)
-Document Name
-Previous Name, if changed
-EXPENSE CLAIM FORM
-Claim Currency/ies 
-(Delete those which do not apply)
-ZAR   EUR  USD  GBP 
-Total Travel Expenses
-Date
-Nature of Claim (provide a description of the claim)
-Total General Expenses
-Employee Full Name
-Date of Claim
-Travel Purpose
-2- GENERAL (Including Client Entertainment)
-1- TRAVEL EXPENSES
-Departure
-Return
-Transport 
-used
-Rate
-Amount
-Km's
-NOTE:  All expenses must be accompanied by originals of documentary evidences of all expenses (e.g. till slips) except bank statements.  Kindly attach all these to this expense claim when submitting it
-Expense Claim
-2025/10/14
-Page 1
+_
+a,
 
-Accomodation
-Date
-Hour
-Date
-Hour
-(Hotel + City)
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                
--
-R                                                                              
--
-R                    
--
-R                
--
-R                
-Macrocomm Company
-Business Unit
-Signature
-MG-FIN-FRM-ECF-202502.03 MG FINANCIAL EXPENSE CLAIM FORM  Rev03 Date: 07/02/025
-All printed copies of this form are deemed uncontrolled copies
-FINANCE - OFFICE USE
-Financial Manager Name
-Date of Payment to Employee
-Yes   |  No
-If no - why, noted below
-All receipts received and accepted
-Amounts(s) Not Approved & Reasons - note below
-Manager Full Name
-Designation
-Approved Date
-Amount Approved
-TOTAL ACCOMMODATION - MEALS EXPENSES
- TRAVEL REASONS | DESCRIPTION | GENERAL COMMENTS
-AMOUNT DUE TO THE EMPLOYEE APPROVED
-3- ACCOMMODATION - MEALS (per day necessarily).
-Meals
-(Hotel + City)
-Total Travel + General + Accommodation + Meals
-Departure
-Return
-Amount
-Amount
-Total 
-Amount
+macrocomm
+Sn v SMART MADE SIMPLE
+
 EXPENSE CLAIM FORM
-Expense Claim
-2025/10/14
-Page 2
+
+Employee Full Name Macrocomm Company
+
+Date of Claim Business Unit | |
+Claim Currency/ies |
+
+ZAR 1) EUR 2 USD (1) GBP Other
+
+(Delete those which do not apply)
+
+NOTE: All expenses must be accompanied by originals of documentary evidences of all expenses (e.g. till slips) except bank statements. Kindly attach all these to this expense claim when submitting it
+
+1- TRAVEL EXPENSES
+
+Departure City and Route
+(+ parking lot, highway, Travel Purpose
+miscellaneous)
+
+Transport
+used
+
+Di aD)|D aD) VDD DDD
+
+2- GENERAL (Including Client Entertainment)
+
+Nature of Claim (provide a description of the claim) Amount
+
+Total General Expenses R -
+
+Expense Claim 2025/10/14 Page 1
+
+EXPENSE CLAIM FORM
+
+3- ACCOMMODATION - MEALS (per day necessarily).
+
+Departure Return Accomodation Meals Total
+
+Amount Amount
+(Hotel + City) (Hotel + City) Amount
+
+Total Travel + General + Accommodation + Meals R - |
+TRAVEL REASONS | DESCRIPTION | GENERAL COMMENTS
+
+AMOUNT DUE TO THE EMPLOYEE APPROVED
+MonagerFullName—SSCdSCS*~“‘*~“~*~*“‘“~*S*S*S*SSSC*dMrocomm Compa —SSSSCSC~=~idtCS*C“‘NNOOCOCSCSCSCSSS
+Designation SSCS~S~—SSSSSSSSSSS se
+
+Amounts(s) Not Approved & Reasons - note below
+
+FINANCE - OFFICE USE
+
+Financial Manager Name All receipts received and accepted
+
+Date of Payment to Employee If no - why, noted below
+
+MG-FIN-FRM-ECF-202502.03 MG FINANCIAL EXPENSE CLAIM FORM Rev03 Date: 07/02/025
+
+All printed copies of this form are deemed uncontrolled copies
+
+Expense Claim 2025/10/14 Page 2

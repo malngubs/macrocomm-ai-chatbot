@@ -1,475 +1,396 @@
-Document Name 
-MG-FIN-PRO-CI 202509.00 
- 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT CUSTOMER INVOICE 
-PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT  
-CUSTOMER INVOICE PROCEDURE 
-Pg 1 of 8 
- 
-MACROCOMM GROUP (PTY) LTD 
-FINANCE PROCEDURE 
-CUSTOMER INVOICE PROCESS 
-Document Name: 
-MG-FIN-PRO-CI 202508.00 
-Version: 
-03 
-Date: 
-12 SEPTEMBER 2025 
-Author: 
-KAILAN MOODLEY 
- 
- 
+Document Name
 
-Document Name 
-MG-FIN-PRO-CI 202509.00 
- 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT CUSTOMER INVOICE 
-PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT  
-CUSTOMER INVOICE PROCEDURE 
-Pg 2 of 8 
- 
-Document Control 
-Name 
-Version 
-Date 
-Changes 
-MG-FIN-PRO 202508.00 
-00 
-08/08/25 
- 
-MG-FIN-PRO 202508.00 
-01 
-11/08/25 
- 
-MG-FIN-PRO-CI 202508.00 
-02 
-19/08/25 
- 
-MG-FIN-PRO-CI 202509.00 
-03 
-12/09/25 
- 
- 
- 
- 
- 
-Document Sign-Off / Approval 
-This is the formal sign-off for the Customer Invoice procedure. 
-Name 
-Designation 
-Date 
-Signature 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+MG-FIN-PRO-Cl 202509.00
 
-Document Name 
-MG-FIN-PRO-CI 202509.00 
- 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT CUSTOMER INVOICE 
-PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT  
-CUSTOMER INVOICE PROCEDURE 
-Pg 3 of 8 
- 
- 
-TABLE OF CONTENTS 
-1 
-PROCEDURE DESCRIPTION AND PURPOSE ........................................................................... 4 
-1.1 
-DESCRIPTION ................................................................................................................................ 4 
-1.2 
-BENEFITS ...................................................................................................................................... 4 
-1.3 
-AREAS OF RESPONSIBILITY .............................................................................................................. 4 
-1.4 
-RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ................................ 4 
-2 
-FINANCE MANAGEMENT PROCEDURE .................................................................................. 5 
-2.1 
-PROCEDURE OBJECTIVES AND METRICS ............................................................................................ 5 
-2.2 
-PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S) ........................................................................... 5 
-3 
-TYPICAL PROCEDURE INPUTS ................................................................................................ 5 
-3.1 
-INFORMATION OR DOCUMENTS NEEDED .......................................................................................... 5 
-3.2 
-RESOURCES NEEDED ...................................................................................................................... 5 
-3.3 
-PERSONNEL NEEDED ..................................................................................................................... 6 
-3.4 
-PRECEDING PROCESSES/PROCEDURES ............................................................................................. 6 
-4 
-TYPICAL PROCEDURE OUTPUTS ............................................................................................. 6 
-4.1 
-TYPICAL OUTPUT ARE ..................................................................................................................... 6 
-4.2 
-TECHNICAL OR SYSTEM USED ........................................................................................................... 6 
-4.3 
-DOCUMENTS ................................................................................................................................. 6 
-4.4 
-ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS ......................................................... 6 
-5 
-THE CUSTOMER INVOICE PROCEDURE .................................................................................. 6 
-6 
-RISKS AND OPPORTUNITIES .................................................................................................. 7 
-6.1 
-RISKS ........................................................................................................................................... 7 
-6.2 
-OPPORTUNITIES ............................................................................................................................ 8 
-7 
-SUPPORT ................................................................................................................................. 8 
- 
- 
- 
- 
+Previous Name, if changed
 
-Document Name 
-MG-FIN-PRO-CI 202509.00 
- 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT CUSTOMER INVOICE 
-PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT  
-CUSTOMER INVOICE PROCEDURE 
-Pg 4 of 8 
- 
-1 Procedure Description and Purpose 
-The purpose of this Customer Invoice procedure is to enable the Finance, Sales and 
-Procurement departments to effectively work hand in hand in generating a customer 
-invoice. 
-1.1 Description 
-This is the standard procedure for the Finance and Sales departments to follow so that 
-there will be consistency which will maintain quality in the services provided; this will in 
-turn enhance customer satisfaction. 
-1.2 Benefits 
-The benefits of this procedure are:  
-• 
-It will streamline the process 
-• 
-Finance and Sales departments will utilise this procedure as a reference to guide 
-them whenever there is an invoice to be issued to a customer. 
-• 
-It will ensure that the teams deliver exceptional customer services in a consistent 
-and professional manner. 
-1.3 Areas of Responsibility 
-The Salesperson is responsible for generating the quotation and Profit & Loss on excel. 
-The Finance administrator/Accountant (s) is responsible for the quotation and PROFIT & 
-LOSS for each sale. 
- All 
-above-mentioned 
-documents 
-(soft 
-copies) 
-are 
-sent 
-to 
-the 
-Finance 
-Administrator/accountant (s). 
- 
- 
-1.4 Relationship between this Procedure and other 
-Procedures/Processes 
-This procedure has a direct relationship with the Sales department. Sales have the 
-responsibility of sharing accurate data as this has an impact on the Finance process that 
-follows (Bank Statement Reconciliation). 
+N/A
 
-Document Name 
-MG-FIN-PRO-CI 202509.00 
- 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT CUSTOMER INVOICE 
-PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT  
-CUSTOMER INVOICE PROCEDURE 
-Pg 5 of 8 
- 
-2 Finance Management Procedure 
-2.1 Procedure Objectives and Metrics 
-2.1.1 Procedure objective: 
-• 
-Send the correct invoice to the customer timeously  
-• 
-Ensure that all customers are invoiced 
-2.1.2 Procedure Metrics: 
-Each objective of this procedure is measured according to the: 
-• 
-Customer sales 
-• 
-Quotation and Profit & Loss Statement  
- 
-2.2 Procedure Owner(s) and Key Stakeholder(s) 
-2.2.1 Procedure Owner 
-The procedure owners are the Finance, and Sales Heads. 
-2.2.2 Key Stakeholders 
-The key stakeholders are the Finance Administrators, Sales and Procurement teams 
-3 Typical Procedure Inputs 
-The typical procedure inputs are: 
-3.1 Information or Documents Needed 
-The following information or documents are necessary for effective measuring and 
-enabling of the Customer Invoice procedure: 
-• 
-Signed Quotation 
-• 
-Profit and Loss statement 
-• 
-Signed Purchase Order from customer 
-3.2 Resources Needed 
-The following resources are needed to support this procedure: 
+MG FINANCIAL DEPARTMENT CUSTOMER INVOICE
 
-Document Name 
-MG-FIN-PRO-CI 202509.00 
- 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT CUSTOMER INVOICE 
-PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT  
-CUSTOMER INVOICE PROCEDURE 
-Pg 6 of 8 
- 
-3.3 Personnel Needed 
-The Finance and Sales teams are the personnel needed for the effectiveness of the 
-customer invoice process. 
-3.4 Preceding Processes/Procedures 
-Purchase Order Generation process, Generic Ordering process, Generic Stock-in process, 
-Generic Stock-out process, Delivery Upliftment process, Customer Returns (and 
-replacements) process to Manufacturer, Delivery Rejection process, Generic Supplier 
-Invoice Loading process, and Payment Scheduling and Processing process. 
-4 Typical Procedure Outputs 
-The following outputs: 
-4.1 Typical Output are 
-• 
-Customer Invoice 
-4.2 Technical or system used 
-• 
-Sage 
-• 
-Excel 
-• 
-Quotation Tool 
-4.3 Documents 
-• Customer invoice (soft and hard copy) 
-4.4 Enablement or Operationalisation of Another Process 
-The Sales team must ensure that they share accurate quotation, Profit and Loss 
-statement. 
-5 The Customer Invoice procedure 
-5.1 Submission of Quotation 
+Description PROCEDURE
+Revision No 03
 
-Document Name 
-MG-FIN-PRO-CI 202509.00 
- 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT CUSTOMER INVOICE 
-PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT  
-CUSTOMER INVOICE PROCEDURE 
-Pg 7 of 8 
- 
-• 
-As part of the customer order, the Sales Department submits a signed quotation. 
-The quotation specifies the quantity of goods and/or services ordered as well as 
-the agreed unit price. This document serves as the basis for Finance to prepare 
-the customer invoice. 
-5.2 Invoice Processing 
-• 
-The Accountant/Finance Administrator logs into Pastel, selects the “Process 
-Customer Invoice” option, and captures the details of the order, including the 
-goods/services, quantities, and pricing. 
-• 
-If applicable, a purchase order (PO) number provided by the customer may be 
-included in the invoice description. 
-5.3 System Update and Backup 
-• 
-Once the invoice has been processed, the Accountant/Finance Administrator 
-updates the invoice on Pastel and ensures that a backup of the Pastel file is 
-created and securely stored on the Pastel saver.  
-5.4 Customer Communication 
-• 
-The completed invoice, along with the latest customer statement, is then 
-forwarded to the customer for their records and payment processing. 
- 
-6 Risks and Opportunities 
-6.1 Risks 
-The following risks have been identified: 
-RISK 
-BUSINESS IMPACT 
-MITIGATION ACTIONS 
-Inaccurate invoices to 
-customers 
-• 
-Cash-flow implications due to 
-customers not paying on 
-time/paying incorrect 
-amount 
-• 
-Reputational damage 
-Ensure 
-procedures 
-is 
-intricately followed by the 
-respective department. 
- 
+Date of Revision 12 SEPTEMBER 2025
+Date of Next Revision 12 SEPTEMBER 2027
 
-Document Name 
-MG-FIN-PRO-CI 202509.00 
- 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT CUSTOMER INVOICE 
-PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT  
-CUSTOMER INVOICE PROCEDURE 
-Pg 8 of 8 
- 
-6.2 Opportunities 
-The following opportunities table will used to help improve the procedure and 
-processes to for greater finance efficacies. 
-OPPORTUNITY 
-BUSINESS IMPACT 
-PROCESS/PROCEDURE AMENDMENT, 
-TRAINING REQUIREMENT  
- 
- 
- 
- 
-7 Support 
-If there are any queries or problems regarding the Customer Invoice procedure, contact 
+Author
+
+KAILAN MOODLEY
+
+Approver
+
+KUMARAN GOVENDER
+
+Ymacro
+
+SMART MADE SIMPLE
+
+MACROCOMM GROUP (PTY) LTD
+FINANCE PROCEDURE
+
+CUSTOMER INVOICE PROCESS
+
+Document Name:
+
+Date:
+12 SEPTEMBER 2025
+
+MG-FIN-PRO-Cl 202508.00
+
+Version:
+
+03
+
+Author:
+KAILAN MOODLEY
+
+MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT
+
+CUSTOMER INVOICE PROCEDURE
+
+Pg 1 of 8
+
+Document Name MG-FIN-PRO-Cl 202509.00
+
+Previous Name, if changed N/A
+
+pescriotion MG FINANCIAL DEPARTMENT CUSTOMER INVOICE m~)
+P PROCEDURE on
+
+Revision No 03 macroconmm
+
+Date of Revision 12 SEPTEMBER 2025 “ SMART MADE SIMPLE
+
+Date of Next Revision 12 SEPTEMBER 2027
+
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+
+Document Control
+
+Version Date Changes
+MG-FIN-PRO 202508.00 00 08/08/25
+MG-FIN-PRO 202508.00 01 11/08/25
+
+MG-FIN-PRO-CI 202508.00 02 19/08/25
+
+MG-FIN-PRO-CI 202509.00 03 12/09/25
+
+Document Sign-Off / Approval
+
+This is the formal sign-off for the Customer Invoice procedure.
+
+Designation Signature
+
+MG-FIN-PRO-Cl 202509.03 MG FINANCIAL DEPARTMENT
+CUSTOMER INVOICE PROCEDURE Pg 2 of 8
+
+Document Name MG-FIN-PRO-Cl 202509.00
+Previous Name, if changed N/A :
+Description Meee DURE DEPARTMENT CUSTOMER INVOICE ( an\ \
+Revision No 03 \mMacroc giana
+Date of Revision 12 SEPTEMBER 2025 al SMART MADE SIMPLE
+Date of Next Revision 12 SEPTEMBER 2027
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+TABLE OF CONTENTS
+1 PROCEDURE DESCRIPTION AND PURPOSE .................ssccccccccsssscceecccccsssssssccccessssessccccessssesseees 4
+1.1 DESCRIPTION ....csscsssscsceccscssescseeseneescscescseseseeacsessesceeesenessceecacaeeassesaesesacaeesaesaeseeasaesssaeaeseeesaeeeeacees 4
+1.2 BENEFITS vo. sseescecescscesceescseesesceccscesesesccscnescsesscuescuecscsesacseseaesacscsaeseeasseeeeaeeaeseeesaeeeeaceeeaeeesaseeasets 4
+1.3. AREAS OF RESPONSIBILITY ......csssccssssessescscecesceecsceeescseescsenscsecsenesacsceecsesseseseeseuaescesaeeeeaceeeaseesaeeetacees 4
+1.4. RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES......sssssessesseseseeseeteees 4
+2 FINANCE MANAGEMENT PROCEDURE. ....................cccsssccceccccssssscescccccsscssssccccssssssscceceesssssseees 5
+2.1 PROCEDURE OBJECTIVES AND METRICS. .....ssssssssscsssseseescsceesceecscecescsessesesacseescaesaeseeasaesscaenaeseesseeeeaeees 5
+2.2 | PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S) ...s.cscescescscesccsceseeseeseecsessessesseeeeeeeessnessesseeseeasrenees 5
+3 = TYPICAL PROCEDURE INPUTS ...........eccccccctcerrstsssscssssssscscssssssceccecesesssccscecssssssccccsssssssssssseeees 5
+3.1 INFORMATION OR DOCUMENTS NEEDED......csssscsssseseescseeesceecscscescseesesesacaeecaesaesesesaesenesaeseeesseeesaeees 5
+3.2 RESOURCES NEEDED... sesceccesscesscssscescesscesscssscescesseesseessecssecssesssesesesesecesssesesesssessseseecsusceseceasonaasea 5
+3.3 PERSONNEL NEEDED uo... ceccescesscessccscescessecsscessceseeessecssecssecssesssecesesesesesssesssesssessseseecsuecsueceascnaacea 6
+3.4 PRECEDING PROCESSES/PROCEDURES ......ssssecsssseseeseseseescseesensesescacsessesceeescseacsesaceeesenesaceesaceeeaseeeases 6
+4 TYPICAL PROCEDURE OUTPUTS. ...............ccccsccccccsccscsssssssssssssssccesessssssssccccccsssssccssscssssssssssseeees 6
+4.1 TYPICAL OUTPUT ARE .s..seccesscesscsscsescesscesscessessseesseesseesuscssecssecssecesesesssesssesssesssesssessseseecsueceueceuaceaased 6
+4.2 TECHNICAL OR SYSTEM USED....s.sscesescsesscsecseseesescccscesesceccsesevaceesseeceassesesesacaeessneeasaesesseeasaeeesseeesaeeees 6
+4.3 DOCUMENTS... ssesesescssesceecssecescseescscescseesesesaescsecsesaesceessenesceesseeeeacueeacsesacaesasnesacaesaeaesasaeeaeseeesaeeees 6
+4.4 ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS .....cssssesscssesseseeseesesescesecseeseesesseeeeseears 6
+5 THE CUSTOMER INVOICE PROCEDURE ................c:ccccssssccesccccssssscssccccsssssssccccssssssssccecesssesseees 6
+6 RISKS AND OPPORTUNITIES ...........ceecscssssccccsssesccccsssssssssssscsscesceesesssesssccccccsssssseccsscsssssssseseeees 7
+6.1 RISKS v.sscsssscssesescescncesesceecsescescseeseueaceeescsesseseeacsesseseeeesenescsesscacaesesaesenasaesasaeeaesceesaeeaeaceesaesesaeeeeacee® 7
+6.2 OPPORTUNITIES ..s.cessccssccsscesscesscesseessesssesesesssessseseseseseseseseseeeseseseecseecsaecsaecsuecsuecsascessseaseesseesseeseeenees 8
+7 — SUPPORT ...........ssssssssssssccsscsssseesscccssessssessssesssessscesscsesssseessessssesscsesssssseescssssssssssesssseesssessseeseses 8
+
+MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT
+CUSTOMER INVOICE PROCEDURE Pg 3 0f 8
+
+Document Name MG-FIN-PRO-Cl 202509.00
+Previous Name, if changed N/A
+Description MG FINANCIAL DEPARTMENT CUSTOMER INVOICE ~
+PROCEDURE —~ F47,.|
+Revision No 03 ) Macro TU |
+Date of Revision 12 SEPTEMBER 2025 7 SMART MADE SIMPLE
+Date of Next Revision 12 SEPTEMBER 2027
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+
+1 Procedure Description and Purpose
+
+The purpose of this Customer Invoice procedure is to enable the Finance, Sales and
+Procurement departments to effectively work hand in hand in generating a customer
+invoice.
+
+1.1 Description
+
+This is the standard procedure for the Finance and Sales departments to follow so that
+there will be consistency which will maintain quality in the services provided; this will in
+turn enhance customer satisfaction.
+
+1.2 Benefits
+
+The benefits of this procedure are:
+e It will streamline the process
+
+e Finance and Sales departments will utilise this procedure as a reference to guide
+them whenever there is an invoice to be issued to a customer.
+
+e It will ensure that the teams deliver exceptional customer services in a consistent
+and professional manner.
+
+1.3 Areas of Responsibility
+
+The Salesperson is responsible for generating the quotation and Profit & Loss on excel.
+
+The Finance administrator/Accountant (s) is responsible for the quotation and PROFIT &
+LOSS for each sale.
+
+All above-mentioned documents (soft copies) are sent to the Finance
+Administrator/accountant (s).
+
+1.4 Relationship between this Procedure and other
+Procedures/Processes
+
+This procedure has a direct relationship with the Sales department. Sales have the
+responsibility of sharing accurate data as this has an impact on the Finance process that
+follows (Bank Statement Reconciliation).
+
+MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT
+
+CUSTOMER INVOICE PROCEDURE Pg 4of8
+
+Document Name MG-FIN-PRO-Cl 202509.00
+
+Previous Name, if changed N/A
+
+Description MG FINANCIAL DEPARTMENT CUSTOMER INVOICE
+PROCEDURE
+
+Revision No 03
+
+Date of Revision 12 SEPTEMBER 2025
+
+Date of Next Revision 12 SEPTEMBER 2027
+
+Author KAILAN MOODLEY
+
+Approver KUMARAN GOVENDER
+
+2 Finance Management Procedure
+
+2.1 Procedure Objectives and Metrics
+
+2.1.1 Procedure objective:
+
+e Send the correct invoice to the customer timeously
+e Ensure that all customers are invoiced
+
+2.1.2 Procedure Metrics:
+Each objective of this procedure is measured according to the:
+
+e Customer sales
+e Quotation and Profit & Loss Statement
+
+2.2 Procedure Owner(s) and Key Stakeholder(s)
+
+2.2.1. Procedure Owner
+
+The procedure owners are the Finance, and Sales Heads.
+
+2.2.2 Key Stakeholders
+
+The key stakeholders are the Finance Administrators, Sales and Procurement teams
+
+3 Typical Procedure Inputs
+The typical procedure inputs are:
+3.1. Information or Documents Needed
+
+The following information or documents are necessary for effective measuring and
+enabling of the Customer Invoice procedure:
+
+e Signed Quotation
+e Profit and Loss statement
+e Signed Purchase Order from customer
+
+3.2 Resources Needed
+
+The following resources are needed to support this procedure:
+
+MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT
+CUSTOMER INVOICE PROCEDURE Pg 50f8
+
+Document Name
+
+MG-FIN-PRO-Cl 202509.00
+
+Previous Name, if changed
+
+N/A
+
+MG FINANCIAL DEPARTMENT CUSTOMER INVOICE
+
+Description PROCEDURE
+Revision No 03
+
+Date of Revision 12 SEPTEMBER 2025
+Date of Next Revision 12 SEPTEMBER 2027
+
+Author
+
+KAILAN MOODLEY
+
+Approver
+
+KUMARAN GOVENDER
+
+3.3 Personnel Needed
+
+‘Ymacro
+
+SMART MADE SIMPLE
+
+The Finance and Sales teams are the personnel needed for the effectiveness of the
+customer invoice process.
+
+3.4 Preceding Processes/Procedures
+
+Purchase Order Generation process, Generic Ordering process, Generic Stock-in process,
+Generic Stock-out process, Delivery Upliftment process, Customer Returns (and
+replacements) process to Manufacturer, Delivery Rejection process, Generic Supplier
+Invoice Loading process, and Payment Scheduling and Processing process.
+
+4 Typical Procedure Outputs
+
+The following outputs:
+
+4.1 Typical Output are
+
+e Customer Invoice
+
+4.2 Technical or system used
+
+e Sage
+
+e Excel
+
+e Quotation Tool
+
+4.3 Documents
+
+e Customer invoice (soft and hard copy)
+
+4.4 Enablement or Operationalisation of Another Process
+
+The Sales team must ensure that they share accurate quotation, Profit and Loss
+
+statement.
+
+5 The Customer Invoice procedure
+
+5.1 Submission of Quotation
+
+MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT
+
+CUSTOMER INVOICE PROCEDURE
+
+Pg 60f 8
+
+Document Name
+Previous Name, if changed N/A —
+Description MG FINANCIAL DEPARTMENT CUSTOMER INVOICE \)
+PROCEDURE as
+Gavan Ns m “macrocomm
+Date of Next Revision 12 SEPTEMBER 2027
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+
+e As part of the customer order, the Sales Department submits a signed quotation.
+The quotation specifies the quantity of goods and/or services ordered as well as
+the agreed unit price. This document serves as the basis for Finance to prepare
+the customer invoice.
+
+5.2 Invoice Processing
+
+e The Accountant/Finance Administrator logs into Pastel, selects the “Process
+Customer Invoice” option, and captures the details of the order, including the
+goods/services, quantities, and pricing.
+
+e If applicable, a purchase order (PO) number provided by the customer may be
+included in the invoice description.
+
+5.3 System Update and Backup
+
+e Once the invoice has been processed, the Accountant/Finance Administrator
+updates the invoice on Pastel and ensures that a backup of the Pastel file is
+created and securely stored on the Pastel saver.
+
+5.4 Customer Communication
+
+e The completed invoice, along with the latest customer statement, is then
+forwarded to the customer for their records and payment processing.
+
+6 Risks and Opportunities
+
+6.1 Risks
+
+The following risks have been identified:
+
+BUSINESS IMPACT MITIGATION ACTIONS
+
+Inaccurate invoices to Cash-flow implications due to | Ensure procedures is
+
+customers customers not paying on intricately followed by the
+time/paying incorrect respective department.
+amount
+
+Reputational damage
+
+MG-FIN-PRO-CI 202509.03 MG FINANCIAL DEPARTMENT
+CUSTOMER INVOICE PROCEDURE Pg 7 of 8
+
+Document Name MG-FIN-PRO-Cl 202509.00
+
+Previous Name, if changed N/A
+Description MG FINANCIAL DEPARTMENT CUSTOMER INVOICE m~)
+
+PROCEDURE é
+Revision No 03 “macrocomm
+Date of Revision 12 SEPTEMBER 2025 a SMART MADE SIMPLE
+Date of Next Revision
+
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+
+6.2 Opportunities
+The following opportunities table will used to help improve the procedure and
+processes to for greater finance efficacies.
+
+PROCESS/PROCEDURE AMENDMENT,
+TRAINING REQUIREMENT
+
+OPPORTUNITY BUSINESS IMPACT
+
+7 Support
+
+If there are any queries or problems regarding the Customer Invoice procedure, contact
 the Finance Head, Finance Administrator (s), or Sales team.
+
+MG-FIN-PRO-Cl 202509.03 MG FINANCIAL DEPARTMENT
+CUSTOMER INVOICE PROCEDURE Pg 8 of 8

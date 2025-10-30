@@ -1,80 +1,90 @@
 @echo off
-setlocal enableextensions enabledelayedexpansion
+setlocal EnableExtensions EnableDelayedExpansion
 
-REM ======================================================================
-REM Macrocomm autostart (single-source, main repo)
-REM ======================================================================
+REM =============================================================================
+REM Macrocomm Desktop Chatbot launcher (single source of truth)
+REM - Starts local FastAPI backend (uvicorn) in the repo's /server
+REM - Starts Electron desktop bubble from /desktop-wrapper
+REM - Reads/sets MACROCOMM_URL (default to local http://127.0.0.1:8000)
+REM - Designed to be called directly or via start_bot_hidden.vbs (hidden window)
+REM =============================================================================
 
-REM Log to %TEMP% so we always see if the task fired
-set "BOOT_LOG=%TEMP%\macrocomm_bootstrap.log"
-echo.>>"%BOOT_LOG%"
-echo =========================================================>>"%BOOT_LOG%"
-echo [%date% %time%] START start_bot.bat >> "%BOOT_LOG%"
-echo [%date% %time%] CWD=%CD% >> "%BOOT_LOG%"
+REM --- 0) Resolve repo root from THIS script's location (portable, no hardcoded paths) ---
+set "SCRIPT_DIR=%~dp0"
+pushd "%SCRIPT_DIR%\.." 1>nul 2>nul
+set "REPO_ROOT=%CD%"
+popd 1>nul 2>nul
 
-REM -------- REPO ROOT (your canonical codebase) --------
-set "REPO_ROOT=C:\Users\Malusi\OneDrive - MACROCOMM\Desktop\macrocomm-ai-chatbot"
-
-REM Derived folders
 set "STARTUP_DIR=%REPO_ROOT%\startup"
 set "BACKEND_DIR=%REPO_ROOT%\server"
 set "ELECTRON_DIR=%REPO_ROOT%\desktop-wrapper"
-
-REM -------- Conda + API config --------
-set "CONDA_DIR=%USERPROFILE%\anaconda3"
-set "CONDA_ENV=macrocomm-rag"
-set "UVICORN_APP=server.api_server:app"
-set "API_HOST=127.0.0.1"
-set "API_PORT=8000"
-
-REM Logs next to this script
 set "LOG_DIR=%STARTUP_DIR%\logs"
-set "API_WAIT_SECONDS=6"
+if not exist "%LOG_DIR%" mkdir "%LOG_DIR%" 1>nul 2>nul
 
-if not exist "%LOG_DIR%" mkdir "%LOG_DIR%" 2>nul
-echo.>>"%LOG_DIR%\startup.log"
-echo =========================================================>>"%LOG_DIR%\startup.log"
-echo [%date% %time%] start_bot.bat invoked. REPO_ROOT=%REPO_ROOT% >> "%LOG_DIR%\startup.log"
+set "BOOT_LOG=%LOG_DIR%\macrocomm_bootstrap.log"
+echo.>>"%BOOT_LOG%"
+echo [%date% %time%] ==== LAUNCH START ==== >>"%BOOT_LOG%"
+echo [%date% %time%] REPO_ROOT=%REPO_ROOT% >>"%BOOT_LOG%"
 
-REM -------- Activate conda --------
-if not exist "%CONDA_DIR%\Scripts\activate.bat" (
-  echo [%date% %time%] ERROR: Missing %CONDA_DIR%\Scripts\activate.bat >> "%BOOT_LOG%"
-  echo [%date% %time%] ERROR: Missing conda activate >> "%LOG_DIR%\startup.log"
-  goto :EOF
+REM --- 1) Backend URL target ----------------------------------------------
+REM Choose where you want the UI to point:
+REM    - Local dev backend on this machine:
+set "MACROCOMM_URL=http://127.0.0.1:8000"
+REM    - Or your shared server (uncomment & adjust if needed):
+REM set "MACROCOMM_URL=http://10.0.0.5:8000"
+REM    - Or HTTPS reverse-proxy DNS name:
+REM set "MACROCOMM_URL=https://bot.macrocomm.local"
+
+echo [%date% %time%] MACROCOMM_URL=%MACROCOMM_URL% >>"%BOOT_LOG%"
+
+REM --- 2) Activate Python env (conda preferred; fallback to venv if present) ----------
+set "CONDA_HOOK=%USERPROFILE%\anaconda3\condabin\conda.bat"
+if exist "%CONDA_HOOK%" (
+  call "%CONDA_HOOK%" activate macrocomm-rag  1>>"%BOOT_LOG%" 2>&1
+) else (
+  if exist "%REPO_ROOT%\.venv\Scripts\activate.bat" (
+    call "%REPO_ROOT%\.venv\Scripts\activate.bat"  1>>"%BOOT_LOG%" 2>&1
+  ) else (
+    echo [%date% %time%] WARN: No conda or .venv activation found. >>"%BOOT_LOG%"
+  )
 )
-call "%CONDA_DIR%\Scripts\activate.bat" "%CONDA_ENV%"
-if errorlevel 1 (
-  echo [%date% %time%] ERROR: Failed to activate env %CONDA_ENV% >> "%BOOT_LOG%"
-  echo [%date% %time%] ERROR: Failed to activate env %CONDA_ENV% >> "%LOG_DIR%\startup.log"
-  goto :EOF
+
+REM --- 3) Start/ensure backend (uvicorn) on 127.0.0.1:8000 --------------------------
+REM If you want to use the shared server instead, skip this block.
+REM We check whether 8000 is already listened to; if not, we start uvicorn.
+for /f "tokens=5" %%P in ('netstat -ano ^| findstr /r /c:":8000 .*LISTENING"') do (
+  set "UVICORN_PID=%%P"
 )
-echo [%date% %time%] Conda env "%CONDA_ENV%" activated. >> "%LOG_DIR%\startup.log"
 
-REM -------- Start FastAPI (detached/minimized) --------
-if not exist "%BACKEND_DIR%" (
-  echo [%date% %time%] ERROR: BACKEND_DIR not found: %BACKEND_DIR% >> "%LOG_DIR%\startup.log"
-  goto :EOF
-)
-pushd "%BACKEND_DIR%"
-echo [%date% %time%] Starting API: %UVICORN_APP% on %API_HOST%:%API_PORT% >> "%LOG_DIR%\startup.log"
-start "" /MIN cmd /c ^
-  "python -m uvicorn %UVICORN_APP% --host %API_HOST% --port %API_PORT% >> \"%LOG_DIR%\api.log\" 2>&1"
-popd
-
-REM -------- Wait for API to bind --------
-set /a _pings=%API_WAIT_SECONDS%+1
-ping 127.0.0.1 -n %_pings% >nul
-
-REM -------- Start Electron from desktop-wrapper --------
-if exist "%ELECTRON_DIR%\package.json" (
-  pushd "%ELECTRON_DIR%"
-  echo [%date% %time%] Launching Electron (dev) from %ELECTRON_DIR% >> "%LOG_DIR%\startup.log"
-  start "" /MIN cmd /c ^
-    "npx --yes electron . >> \"%LOG_DIR%\electron.log\" 2>&1"
+if not defined UVICORN_PID (
+  echo [%date% %time%] Starting uvicorn... >>"%BOOT_LOG%"
+  pushd "%BACKEND_DIR%"
+  REM Start in a minimized console so it doesn’t steal focus
+  start "macrocomm_api" /min cmd /c ^
+    uvicorn server.api_server:app --host 127.0.0.1 --port 8000 --reload 1>>"%BOOT_LOG%" 2>&1
   popd
 ) else (
-  echo [%date% %time%] ERROR: No package.json in %ELECTRON_DIR% >> "%LOG_DIR%\startup.log"
+  echo [%date% %time%] uvicorn already listening on :8000 (PID !UVICORN_PID!) >>"%BOOT_LOG%"
 )
 
-echo [%date% %time%] DONE start_bot.bat >> "%LOG_DIR%\startup.log"
+REM --- 4) Start Electron desktop bubble -------------------------------------------
+pushd "%ELECTRON_DIR%"
+
+REM First run? install dependencies (safe to run once)
+if not exist "node_modules" (
+  echo [%date% %time%] npm install (desktop-wrapper)... >>"%BOOT_LOG%"
+  call npm install 1>>"%BOOT_LOG%" 2>&1
+)
+
+REM Pass MACROCOMM_URL to the Electron app (only for this process tree)
+set "MACROCOMM_URL=%MACROCOMM_URL%"
+
+REM Start Electron minimized; only the bubble (always-on-top) will appear
+REM (package.json: "start": "electron .")
+echo [%date% %time%] starting Electron... >>"%BOOT_LOG%"
+start "macrocomm_ui" /min cmd /c npm run start 1>>"%BOOT_LOG%" 2>&1
+
+popd
+
+echo [%date% %time%] ==== LAUNCH END ==== >>"%BOOT_LOG%"
 exit /b 0

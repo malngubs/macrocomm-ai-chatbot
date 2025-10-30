@@ -1,11 +1,20 @@
 {
   "name": "macrocomm-desktop-wrapper",
   "version": "1.0.0",
+  "private": true,
+
+ 
   "main": "main.js",
+
   "scripts": {
+    "//": "Use cross-env scripts so env vars work on Windows/macOS/Linux",
+    "start:local":  "cross-env MACROCOMM_URL=http://127.0.0.1:8000 electron .",
+    "start:server": "cross-env MACROCOMM_URL=http://10.0.0.5:8000 electron .",
     "start": "electron ."
   },
-  "dependencies": {
-    "electron": "^31.7.7"  
+
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "electron": "^30.0.0"
   }
 }

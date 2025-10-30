@@ -1,144 +1,175 @@
 MACROCOMM GROUP
-COMPLAINT PROCESS – ROUTING OF COMPLAINT
-AUTHOR
-CHARLENE VAN ONSELEN
-AUTHOR
-CHARLENE VAN ONSELEN
-PROCESS FILE
-MG-PRO-CMS 202402.00
-PROCESS FILE
-MG-PRO-CMS 202402.00
-PROCESS NAME
-MG PROCESS COMPLAINT MANAGEMENT
-PROCESS NAME
-MG PROCESS COMPLAINT MANAGEMENT
-VERSION
-00 ORIGINAL
-VERSION
-00 ORIGINAL
-AUTHOR
-CHARLENE VAN ONSELEN
-PROCESS FILE
-MG-PRO-CMS 202402.00
-PROCESS NAME
-MG PROCESS COMPLAINT MANAGEMENT
-VERSION
-00 ORIGINAL
-AUTHOR
-CHARLENE VAN ONSELEN
-PROCESS FILE
-MG-PRO-CMS 202402.00
-PROCESS NAME
-MG PROCESS COMPLAINT MANAGEMENT
-VERSION
-00 ORIGINAL
+
+COMPLAINT PROCESS - ROUTING OF COMPLAINT
+
+MARKETING AND
+
+=
+a5
+Nn
+2
+Oo
+S
+rr
+[a
+(a)
+2
+<x
+7a)
+Ww
+a
+<
+ve)
+
 CUSTOMER
-Submits Complaint
-SALES AND RELATIONSHIP 
-MANAGEMENT
-DATE
-28 FEBRUARY 2024
-DATE
-28 FEBRUARY 2024
-DATE
-28 FEBRUARY 2024
+
 PROCUREMENT
-Macrocomm Landline
-Cellphone Direct to Sales Person 
-or Relationship Manager
-Email Direct to Sales Person or 
-Relationship Manager
-Email – info@macrocomm.co.za
-Receptionist Takes Message and 
-Contact Information
-Returns Faulty Product
-Procurement General Manager 
-Receives the Complaint
-Sales Person or Relationship 
-Manager Receives Complaint
-MARKETING AND 
-GROUP 
+
+ke
+a
+uw
+=
+ui
+oO
+<=
+2
+<x
+=
+
 COMMUNICATIONS
-Complaint Emailed On
-Procurement Department Takes 
+
+Submits Complaint 7
+
+PROCESS FILE
+PROCESS NAME
+VERSION
+
+AUTHOR
+
+MG PROCESS COMPLAINT MANAGEMENT
+
+MG-PRO-CMS 202402.00
+m)
+
+coo acrocomim
+a“ SMART MADE SIMPLE
+
+Receptionist Takes Message and
+
+Macrocomm Landline
+
+Cellphone Direct to Sales Person
+or Relationship Manager
+
+Email Direct to Sales Person or
+Relationship Manager
+
+Email - info@macrocomm.co.za
+
+8 \ .
+
+|
+Procurement Department Takes
+
 Delivery
 
+Complaint Emailed On
+
+Sales Person or Relationship
+Manager Receives Complaint
+
+Contact Information
+
+Procurement General Manager
+
+Receives the Complaint
+
+28 FEBRUARY 2024
+
 MACROCOMM GROUP
-COMPLAINT PROCESS – COMPLAINT HANDLING
-AUTHOR
-CHARLENE VAN ONSELEN
-AUTHOR
-CHARLENE VAN ONSELEN
-PROCESS FILE
-MG-PRO-CMS 202402.00
-PROCESS FILE
-MG-PRO-CMS 202402.00
-PROCESS NAME
-MG PROCESS COMPLAINT MANAGEMENT
-PROCESS NAME
-MG PROCESS COMPLAINT MANAGEMENT
-VERSION
-00 ORIGINAL
-VERSION
-00 ORIGINAL
-AUTHOR
-CHARLENE VAN ONSELEN
-PROCESS FILE
-MG-PRO-CMS 202402.00
-PROCESS NAME
-MG PROCESS COMPLAINT MANAGEMENT
-VERSION
-00 ORIGINAL
-AUTHOR
-CHARLENE VAN ONSELEN
-PROCESS FILE
-MG-PRO-CMS 202402.00
-PROCESS NAME
-MG PROCESS COMPLAINT MANAGEMENT
-VERSION
-00 ORIGINAL
-SALES OR RELATIONSHIP MANAGER
+COMPLAINT PROCESS - COMPLAINT HANDLING
+
+»| Investigate
+
 FINANCE
-DATE
-28 FEBRUARY 2024
-DATE
-28 FEBRUARY 2024
-DATE
-28 FEBRUARY 2024
-PROCUREMENT
-CUSTOMER
-ROUTING OF 
-COMPLAINT
-Complaint Assessment
-Invoice and/or 
+
+Resolve
+
+PROCESS FILE MG-PRO-CMS 202402.00
+m)
+
+PROCESS NAME MG PROCESS COMPLAINT MANAGEMENT
+ta
+VERSION 00 ORIGINAL
+
+Mmacrocomm
+
+“ SMART MADE SIMPLE
+AUTHOR CHARLENE VAN ONSELEN
+
+Invoice and/or
 Account
-Delivery (late, 
-address, other)
-Stock (product, 
-quantity, other)
-Quality, Service, 
+
+Log Complaint in
+Register
+
+Update Complaint
+Register
+
+Close Complaint on
+Register
+
+ROUTING OF Complaint Assessment
+COMPLAINT ,
+
+Delivery (late, Stock (product,
+address, other) quantity, other)
+
+cc
+Ww
+\o)
+<=
+2
+<
+=
+es
+<=
+w
+Zz
+ie)
+=
+Ss
+Ww
+cc
+cc
+[e)
+rm)
+Ww
+ea)
+<
+,)
+
+Investigate
+e Internally,
+e Externally with Suppliers
+
+Resolve
+
+PROCUREMENT
+
+CUSTOMER
+
+Quality, Service,
 Support
-Investigate
-Resolve
-Investigate
-Resolve
-• 
-Internally,
-• 
-Externally with Suppliers
-Communicate Status to 
+
+Communicate Status to
 Customer
-Log Complaint in 
-Register
-Liaise with Identified 
+
+Liaise with Identified
 Investigator
-Update Complaint 
-Register
-Close Complaint on 
-Register
-Customer 
-Complaint 
-Feedback
-Customer 
-Complaint 
-Resolved
+
+Customer Customer
+Complaint ; Complaint
+Feedback Resolved
+
+DATE 28 FEBRUARY 2024

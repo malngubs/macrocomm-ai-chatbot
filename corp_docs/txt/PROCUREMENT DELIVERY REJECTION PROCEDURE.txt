@@ -1,500 +1,486 @@
-Document Name 
-MG-PRM-PRO-DLRJ 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-DLRJ 202508.01 
-Description 
-MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Pg 1 of 9 
- 
-MACROCOMM GROUP (PTY) LTD 
-PROCUREMENT 
- 
-DELIVERY REJECTION PROCEDURE 
-Document Name: 
-MG-PRM-PRO-DLRJ 202509.02 
-Version: 
-02 
-Date: 
-10 SEPTEMBER 2025 
-Author: 
-TSHEGOFATSO NAKEDI 
- 
- 
+Document Name MG-PRM-PRO-DLR} 202509.02
 
-Document Name 
-MG-PRM-PRO-DLRJ 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-DLRJ 202508.01 
-Description 
-MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Pg 2 of 9 
- 
-Document Control 
-Name 
-Version 
-Date 
-Changes 
-MG-PRC-PRO-DLRJ 202507.00 
-00 
-16/07/2025 
-Processes 
-MG-PRC-PRO-DLRJ 202508.01 
-01 
-25/08/2025 
-Author 
-MG-PRC-PRO-DLRJ 202509.02 
-02 
-10/09/2025 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Document Sign-Off / Approval 
-This is the formal sign-off for the Delivery Rejection Procedure. 
-Name 
-Designation 
-Date 
-Signature 
-Ashok Sooklall 
-General Manager – MG 
- 
- 
-Elton Chettiar 
-Chief Operating Officer 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Previous Name, if changed MG-PRC-PRO-DLR] 202508.01
 
-Document Name 
-MG-PRM-PRO-DLRJ 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-DLRJ 202508.01 
-Description 
-MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Pg 3 of 9 
- 
- 
-TABLE OF CONTENTS 
- 
-1 
-PROCEDURE DESCRIPTION AND PURPOSE ............................................................................ 4 
-1.1 
-DESCRIPTION ................................................................................................................................... 4 
-1.2 
-BENEFITS ......................................................................................................................................... 4 
-1.3 
-AREAS OF RESPONSIBILITY ................................................................................................................ 4 
-1.4 
-RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ................................ 4 
-2 
-DELIVERY REJECTION PROCEDURE MANAGEMENT .............................................................. 4 
-2.1 
-PROCEDURE OBJECTIVES AND METRICS .............................................................................................. 4 
-2.2 
-PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S) ............................................................................. 5 
-3 
-TYPICAL PROCEDURE INPUTS................................................................................................. 5 
-3.1 
-INFORMATION OR DOCUMENTS NEEDED ........................................................................................... 5 
-3.2 
-RESOURCES NEEDED ........................................................................................................................ 5 
-3.3 
-PERSONNEL NEEDED ........................................................................................................................ 5 
-3.4 
-PRECEDING PROCESSES/PROCEDURES ............................................................................................... 6 
-4 
-TYPICAL PROCEDURE OUTPUTS ............................................................................................. 6 
-4.1 
-TYPICAL OUTPUTS ARE: ..................................................................................................................... 6 
-4.2 
-TECHNICAL OR SYSTEM ..................................................................................................................... 6 
-4.3 
-DOCUMENTS ................................................................................................................................... 6 
-4.4 
-ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS .......................................................... 6 
-5 
-THE GENERIC DELIVERY REJECTION PROCESS ....................................................................... 6 
-5.1 
-SUB-PROCESS: STOCK INSPECTION AND REJECTION ............................................................................ 6 
-5.2 
-SUB-PROCESS: SUPPLIER NOTIFICATION AND REPLACEMENT STOCK..................................................... 7 
-5.3 
-SUB-PROCESS: SUPPLIER COMMUNICATION FOR STOCK REPLACEMENT OR RESOLUTION OF ISSUE ......... 8 
-6 
-RISKS AND OPPORTUNITIES ................................................................................................... 8 
-6.1 
-RISKS .............................................................................................................................................. 8 
-6.2 
-OPPORTUNITIES ............................................................................................................................... 8 
-7 
-PROCESSES ............................................................................................................................... 9 
-8 
-SUPPORT .................................................................................................................................. 9 
- 
- 
+Description MG PROCUREMENT DELIVERY REJECTION PROCEDURE —
 
-Document Name 
-MG-PRM-PRO-DLRJ 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-DLRJ 202508.01 
-Description 
-MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Pg 4 of 9 
- 
-1 Procedure Description and Purpose 
-The purpose of this Generic Delivery Rejection Process details why and how stock order 
-deliveries are rejected and returned to the Supplier. 
-Macrocomm Group Procurement does not have a centralised warehouse for storage, it 
-keeps safety/buffer stock on hand to keep lead time at a minimum to satisfy customer 
-demand in a timeous manner. 
-1.1 Description 
-This is the procedure of how to reject and record stock orders from Suppliers where the 
-stock is damaged, incorrect or other. 
-1.2 Benefits 
-This procedure provides the procurement team with the guidelines and a standardised 
-way of how to reject order deliveries and record this. It helps the Procurement 
-department have a record of all rejected orders returned to Suppliers. 
-1.3 Areas of Responsibility 
-The General Manager/Procurement Officer is responsible for notifying the supplier of 
-the rejected stock. 
-The procurement Officer ensures that the Supplier receives the rejected stock and that 
-we receive replacement stock. 
-1.4 Relationship between this Procedure and other 
-Procedures/Processes 
-This procedure has a direct relationship with the Stock In process after the Procurement 
-team receives damaged stock, incorrect stock or other 
-This procedure documents the key steps of the Delivery Rejection Process of stock 
-orders to fulfil a customer’s order.  It directly impacts the Sales’ order fulfilment process. 
-2 Delivery Rejection Procedure Management 
-2.1 Procedure Objectives and Metrics 
-2.1.1 Procedure Objectives: 
-• 
-Reject stock  
-• 
-Receive credit note from Supplier 
+Revision No 02 o~ \
 
-Document Name 
-MG-PRM-PRO-DLRJ 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-DLRJ 202508.01 
-Description 
-MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Pg 5 of 9 
- 
-2.1.2 Procedure Metrics: 
-Each objective of this procedure is measured according to the: 
-• 
-Purchase order issued to the Supplier 
-• 
-Determining if it is the correct stock ordered, the quality of the stock delivered and if 
-it is the correct quantity 
-• 
-Delivery Note from the Supplier 
-2.2 Procedure Owner(s) and Key Stakeholder(s) 
-2.2.1 Procedure Owner 
-The General Manager is responsible for managing this process and ensuring that all 
-stakeholders follow the steps outlined for effective procurement.   
-The person performing this task is the Procurement Officer and is the delegated 
-responsible person. 
-2.2.2 Key Stakeholders 
-The key stakeholders are the Supplier, Sales Team and Finance. 
-3 Typical Procedure Inputs 
-The typical procedure inputs are noted below: 
-3.1 Information or Documents Needed 
-The following information or documents are necessary for effective measuring and 
-enabling of the Generic Delivery Rejection Procedure: 
-• 
-Purchase Order issued to Supplier 
-• 
-Supplier Delivery Note 
-• 
-Stock rejection reason 
-3.2 Resources Needed 
-The following resources are needed to support this procedure: 
-• 
-Stock rejection sheet 
-3.3 Personnel Needed 
-The Procurement Officer is the person who inspects the stock received upon arrival. The 
-Sales team informs the customer of new lead time for delivery of stock. 
+Date of Revision 10 SEPTEMBER 2025 Las)
 
-Document Name 
-MG-PRM-PRO-DLRJ 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-DLRJ 202508.01 
-Description 
-MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Pg 6 of 9 
- 
-3.4 Preceding Processes/Procedures 
-The preceding process is the Generic Ordering Process performed by the Procurement 
-Officer. 
-4 Typical Procedure Outputs 
-The following outputs: 
-4.1 Typical outputs are: 
-• 
-Rejection of Stock 
-• 
-Rejection letter of stock 
-• 
-Updated stock rejection sheet 
-4.2 Technical or System 
-• 
-Excel 
-4.3 Documents 
-• 
-Delivery Note 
-• 
-Rejection letter 
-• 
-Credit note from Supplier 
-4.4 Enablement or Operationalisation of Another Process 
-This Generic Delivery Rejection Procedure enables the monitoring of the customer’s 
-order fulfilment process and ability to give the customer updates. It also enables the 
-Stock In process once the supplier replaces the rejected stock. 
-5 The Generic Delivery Rejection Process 
-The Delivery Rejection Procedure is important as it enables quality products and the 
-correct products to be taken into stock for delivery of quality goods to customers 
-whether local, regional or international. 
-5.1 Sub-process: Stock Inspection and Rejection 
-The key steps are noted below: 
+Date of Next Revision 10 SEPTEMBER 2027 (MacCrocG mmn
+Author TSHEGOFATSO NAKEDI Ay SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
 
-Document Name 
-MG-PRM-PRO-DLRJ 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-DLRJ 202508.01 
-Description 
-MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Pg 7 of 9 
- 
-5.1.1 The Receptionist alerts the Procurement Officer that there is a delivery of stock 
-from a supplier 
-5.1.2 The Procurement Officer uses the Purchase Order issued to the Supplier to 
-check the stock. 
-5.1.3 If the stock is in good order and meets the requirements as per the Purchase 
-Order, it is signed for, accepted and recorded as per the Stock In Process and 
-Procedure. 
-5.1.4 If the stock is not in good order and fails to meet the requirements as per the 
-Purchase due to: 
-5.1.4.1 The stock being damaged and/or defective 
-5.1.4.2 The stock quantity shipped is incorrect 
-5.1.4.3 The stock has quality issues, or other 
-5.1.5 The Procurement Officer rejects the delivery and either: 
-5.1.5.1 returns it to the Supplier with the Supplier’s delivery person or,  
-5.1.5.2 If delivered by Courier, then it will be signed for and recorded in the 
-Stock Control Sheet as stock that has been rejected. 
-5.1.6 The Salesperson is made aware of the rejection of the stock for him to advise the 
-client of the change in the lead time for fulfilment of the order. 
-5.2 Sub-process: Supplier Notification and Replacement Stock 
-The key steps are noted below: 
-5.2.1 The Supplier is immediately notified and sent a Delivery Rejection letter, via 
-email, noting the reason for the rejection and the requested action required by 
-the Supplier (e.g. replacement, credit note, refund or other). 
-5.2.2 Arrangements are made with the Supplier to arrange for the return of the 
-rejected stock, at the Supplier’s cost. 
-5.2.2.1 The stock is packaged for return to the Supplier 
-5.2.2.2 The Courier is arranged, as per the Generic Courier (Delivery Upliftment) 
-Procedure, with the cost for the Supplier 
-5.2.2.3 The stock is returned to the Supplier 
-5.2.2.4 The stock control report is updated accordingly to reflect this. 
+MACROCOMM GROUP (PTY) LTD
+PROCUREMENT
 
-Document Name 
-MG-PRM-PRO-DLRJ 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-DLRJ 202508.01 
-Description 
-MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Pg 8 of 9 
- 
-5.2.3 Arrangements are made with the Supplier to arrange for the replacement or for 
-resolution as per the agreement with the Supplier. 
-5.3 Sub-process: Supplier Communication for Stock Replacement or 
-Resolution of Issue 
-The key steps are noted below: 
-5.3.1 The Procurement Officer continually monitors the status of the order with the 
-Supplier either telephonically or via email. 
-5.3.2 When the replacement stock arrives and is in good order or the matter is 
-effectively resolved, the Salesperson is advised as is the Supplier.   
-5.3.3 The stock In process is then followed prior to the stock-out process. 
-6 Risks and Opportunities 
-6.1 Risks 
-The following risks have been identified: 
-RISK 
-BUSINESS IMPACT 
-MITIGATION ACTIONS 
-Inventory Inaccuracy 
-Leads to errors in 
-planning or fulfilling 
-customer orders 
-Use Electronic Data Interchange (EDI) to 
-alert supplier in real-time so the 
-replacements can be received in time. 
-Customer satisfaction 
-impact 
-It causes delays and 
-customer satisfaction 
-suffers 
-Have open communication with 
-customers so they understand the 
-changes in lead time. 
-6.2 Opportunities 
-The following opportunities table will used to help improve the procedure and 
-processes for greater efficiencies. 
-OPPORTUNITY 
-BUSINESS IMPACT 
-PROCESS/PROCEDURE AMENDMENT, 
-TRAINING REQUIREMENT  
- 
- 
- 
- 
- 
- 
+DELIVERY REJECTION PROCEDURE
 
-Document Name 
-MG-PRM-PRO-DLRJ 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-DLRJ 202508.01 
-Description 
-MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE 
-Pg 9 of 9 
- 
- 
- 
-7 Processes 
-The processes mapped below is for Delivery Rejections. 
- 
-8 Support 
-If there are any queries or problems regarding the Generic Delivery Rejection Procedure 
+Document Name: Version:
+MG-PRM-PRO-DLR] 202509.02 02
+
+Date: Author:
+
+10 SEPTEMBER 2025 TSHEGOFATSO NAKEDI
+
+7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE Pg 1 of 9
+
+Document Name MG-PRM-PRO-DLR} 202509.02
+
+Previous Name, if changed MG-PRC-PRO-DLR] 202508.01
+
+Description MG PROCUREMENT DELIVERY REJECTION PROCEDURE
+
+Revision No 02 m2)
+
+Date of Revision 10 SEPTEMBER 2025 Eé
+
+Date of Next Revision 10 SEPTEMBER 2027 mMacrocom”
+Author TSHEGOFATSO NAKEDI ra SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+Document Control
+
+Name Version Date Changes
+MG-PRC-PRO-DLR] 202507.00 00 16/07/2025 | Processes
+MG-PRC-PRO-DLR] 202508.01 01 25/08/2025 | Author
+MG-PRC-PRO-DLR] 202509.02 02 10/09/2025
+
+Document Sign-Off / Approval
+
+This is the formal sign-off for the Delivery Rejection Procedure.
+
+Name Designation Date Signature
+Ashok Sooklall General Manager - MG
+Elton Chettiar Chief Operating Officer
+
+7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE Pg 20f9
+
+Document Name MG-PRM-PRO-DLR} 202509.02
+Previous Name, if changed MG-PRC-PRO-DLR] 202508.01
+Description MG PROCUREMENT DELIVERY REJECTION PROCEDURE —
+Revision No 02 o~ \
+Date of Revision 10 SEPTEMBER 2025 Cig
+
+Date of Next Revision 10 SEPTEMBER 2027 (macroco mmn
+
+Author TSHEGOFATSO NAKEDI 7, MART MADE SIMPLE
+
+Approver ASHOK SOOKLALL
+
+TABLE OF CONTENTS
+
+1 PROCEDURE DESCRIPTION AND PURPOSE ..................c:csssssssccecccccsssssseescccssccsssssssssecsssccessseees
+1.1 DESCRIPTION ...sesssssscsesesessesesessesesesesuesesesecuesesesesuesesesesesesesesesuenenesesuenesesesueneaeseseaeaesesneasaesesneneaesesnens
+1.2 BENEFITS .c.sessscsscsesessssesesescsesesesscsesesesuenesesesuesesesecuesesesesuesesesesuasesesesuesesesesesueneaeseseneaesesneaeaeseeneneneeees
+1.3 AREAS OF RESPONSIBILITY .....cssssssssesesessesesesessesesesuesesesesuesesesesuesesesescsenesesesneaeneseseseaesestensaesesneneneeees
+1.4. RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES .....ssssssesesseseseeessesesees
+
+2 DELIVERY REJECTION PROCEDURE MANAGEMENT ...................:ssssssscccscccccscssssscsescecssecessseees
+2.1 PROCEDURE OBJECTIVES AND METRICS..c.scsssscsesesessesesesessesesesesesenesesenesesesueseneseseneaesesneaeaesesneneaesesnens
+2.2 PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S)....cssssessssesesescsesucsesucscseseesessceneucsnsassneasensaesnenseneaees
+
+3 TYPICAL PROCEDURE INPUTS. .................cccccsccssssssssscccccccccsssssscceccccccesssscssccsssccssssessseessseeesssoees
+3.1 INFORMATION OR DOCUMENTS NEEDED .....secscsesessesesesessesesesesescnesesuenesesesueseneseseneaesesnensaesestensaeseanens
+3.2 RESOURCES NEEDED .o.sssssssessesessssesesessesesesessesesessuesesessuenesecussesesesesueuesesesuenesesesueneneseseeneaeaeeneneaeaeenees
+3.3. PERSONNEL NEEDED.u...ssscsessesessssesesessesesesessesesesusuesesesusuenesecusuescaesesuenesesesueneseseseneaeseseeueaeaesneneaeaeenees
+
+3.4 PRECEDING PROCESSES/PROCEDURES.........sscsseceseeeseeeseeeseessaeeeaeesaeesaeeeaeeeseeeaeesaeesaeesaeesaeesaeesseeeaeenaeenas
+
+4.1 TYPICAL OUTPUTS ARE? ..sssssssssesessesessssesessescsesecsssecsessssessseeseecsensesssecsenessesessenseessenesseneseensnessenesseneseeny 6
+4.2 TECHNICAL OR SYSTEM.....scscssesssessesessesesssessesssscseecsesecsesessesseeesessesssesssecsenessenessensseesenecsenessenseeeneneegs
+4.3 DOCUMENTS ....ccssescsessesesseseseesesesesenssecseecsessssensecseeessesesssecsenessenessenssecsenessenessenseeesenecsenessensneeneneegs
+4.4. ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS w.sssssssssessssesesscsesscsesscsssssssessssssasssasseees
+5 THE GENERIC DELIVERY REJECTION PROCES. .............ccssccsssssssssseesssceessecessseesssseessseeesssessssees
+5.1 SUB-PROCESS: STOCK INSPECTION AND REJECTION .....csssscssssessssesessssenssscsecsessescsesecsenesseneseesseesenesseness
+
+5.2 SUB-PROCESS: SUPPLIER NOTIFICATION AND REPLACEMENT STOCK.....c.ccsssccsssseessseesseceeseeeesaeeesaeeenseeees
+
+5.3. SUB-PROCESS: SUPPLIER COMMUNICATION FOR STOCK REPLACEMENT OR RESOLUTION OF ISSUE.........
+6 RISKS AND OPPORTUNITIEG..............ccsecccssssessscessseeessscessseeessseeessseeesseseessnecsssceesseesesseeesssseesaes
+6.1 RISKS w.cscssssessssessesescesesensescseeesesssseseseeseesseneseesssesseessenseeeseseeseseeseseeeenesseneseeneeeesenesseneseenenesnenesseneseeney
+6.2 — OPPORTUNITIES.....csssccssesescssssessssessesesessesenssecsesscseeesensseesesseneseessnecsenessenessensneesenesseneseensnesnenesseneeeney
+7 — PROCESSEG.............ssccsssscsssecsssecessecesssecessseeessecessseeessseeesssceessneesssnecesseeesseceesseecesseeessnesessneessaseesaes
+8 —_ SUPPORT...........ssecccssscsssccssccessecesssesessseeesseeessseeesseeeesseeeesseeessseeesseeessaeseesanecssseeessnesesaneessaseesaes
+
+7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE Pg 30f9
+
+Document Name MG-PRM-PRO-DLR} 202509.02
+
+Previous Name, if changed MG-PRC-PRO-DLR] 202508.01
+
+Description MG PROCUREMENT DELIVERY REJECTION PROCEDURE 7
+Revision No 02 rw \
+
+Date of Revision 10 SEPTEMBER 2025 Lg)
+
+Date of Next Revision 10 SEPTEMBER 2027 ) macro \ aiaa
+Author TSHEGOFATSO NAKEDI v4 SMART MADE SIMPLE
+ASHOK SOOKLALL
+
+1 Procedure Description and Purpose
+The purpose of this Generic Delivery Rejection Process details why and how stock order
+deliveries are rejected and returned to the Supplier.
+
+Macrocomm Group Procurement does not have a centralised warehouse for storage, it
+keeps safety/buffer stock on hand to keep lead time at a minimum to satisfy customer
+demand in a timeous manner.
+
+1.1 Description
+
+This is the procedure of how to reject and record stock orders from Suppliers where the
+stock is damaged, incorrect or other.
+
+1.2 Benefits
+
+This procedure provides the procurement team with the guidelines and a standardised
+way of how to reject order deliveries and record this. It helps the Procurement
+department have a record of all rejected orders returned to Suppliers.
+
+1.3 Areas of Responsibility
+The General Manager/Procurement Officer is responsible for notifying the supplier of
+the rejected stock.
+
+The procurement Officer ensures that the Supplier receives the rejected stock and that
+we receive replacement stock.
+
+1.4 Relationship between this Procedure and other
+Procedures/Processes
+
+This procedure has a direct relationship with the Stock In process after the Procurement
+team receives damaged stock, incorrect stock or other
+
+This procedure documents the key steps of the Delivery Rejection Process of stock
+orders to fulfil a customer's order. It directly impacts the Sales’ order fulfilment process.
+
+2 Delivery Rejection Procedure Management
+
+2.1 Procedure Objectives and Metrics
+
+2.1.1 Procedure Objectives:
+
+e Reject stock
+e Receive credit note from Supplier
+
+7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE Pg 4of9
+
+Document Name MG-PRM-PRO-DLR} 202509.02
+
+Previous Name, if changed MG-PRC-PRO-DLR] 202508.01
+
+Description MG PROCUREMENT DELIVERY REJECTION PROCEDURE ——
+
+Revision No 02 ~~ \
+
+Date of Revision 10 SEPTEMBER 2025 “macro rr. mM rv)
+Date of Next Revision 10 SEPTEMBER 2027 t C Corti ii
+Author TSHEGOFATSO NAKEDI Wy Wrtatr tr sim PLE
+Approver ASHOK SOOKLALL
+
+2.1.2 Procedure Metrics:
+Each objective of this procedure is measured according to the:
+
+e Purchase order issued to the Supplier
+
+e Determining if it is the correct stock ordered, the quality of the stock delivered and if
+it is the correct quantity
+
+e Delivery Note from the Supplier
+
+2.2 Procedure Owner(s) and Key Stakeholder(s)
+
+2.2.1. Procedure Owner
+
+The General Manager is responsible for managing this process and ensuring that all
+stakeholders follow the steps outlined for effective procurement.
+
+The person performing this task is the Procurement Officer and is the delegated
+responsible person.
+
+2.2.2 Key Stakeholders
+
+The key stakeholders are the Supplier, Sales Team and Finance.
+
+3 Typical Procedure Inputs
+The typical procedure inputs are noted below:
+
+3.1 Information or Documents Needed
+
+The following information or documents are necessary for effective measuring and
+enabling of the Generic Delivery Rejection Procedure:
+
+e Purchase Order issued to Supplier
+e Supplier Delivery Note
+e Stock rejection reason
+
+3.2 Resources Needed
+
+The following resources are needed to support this procedure:
+
+e Stock rejection sheet
+3.3 Personnel Needed
+
+The Procurement Officer is the person who inspects the stock received upon arrival. The
+Sales team informs the customer of new lead time for delivery of stock.
+
+7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE Pg 5 of 9
+
+3.4 Preceding Processes/Procedures
+
+Document Name MG-PRM-PRO-DLR} 202509.02
+
+Previous Name, if changed MG-PRC-PRO-DLR] 202508.01
+
+Description MG PROCUREMENT DELIVERY REJECTION PROCEDURE
+Revision No 02
+
+Date of Revision 10 SEPTEMBER 2025
+
+Date of Next Revision 10 SEPTEMBER 2027
+
+Author TSHEGOFATSO NAKEDI
+
+Approver ASHOK SOOKLALL
+
+4
+—
+
+\macro¢
+
+Ma
+SMART MADE SIMPLE
+
+The preceding process is the Generic Ordering Process performed by the Procurement
+
+Officer.
+
+4 Typical Procedure Outputs
+
+The following outputs:
+
+4.1 Typical outputs are:
+
+e Rejection of Stock
+e Rejection letter of stock
+
+e Updated stock rejection sheet
+4.2 Technical or System
+
+e Excel
+4.3 Documents
+
+e Delivery Note
+e Rejection letter
+e Credit note from Supplier
+
+4.4 Enablement or Operationalisation of Another Process
+
+This Generic Delivery Rejection Procedure enables the monitoring of the customer's
+order fulfilment process and ability to give the customer updates. It also enables the
+Stock In process once the supplier replaces the rejected stock.
+
+5 The Generic Delivery Rejection Process
+
+The Delivery Rejection Procedure is important as it enables quality products and the
+correct products to be taken into stock for delivery of quality goods to customers
+
+whether local, regional or international.
+
+5.1 Sub-process: Stock Inspection and Rejection
+
+The key steps are noted below:
+
+7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE
+
+Pg 60f 9
+
+Document Name MG-PRM-PRO-DLR} 202509.02
+
+Previous Name, if changed MG-PRC-PRO-DLR] 202508.01
+
+Description MG PROCUREMENT DELIVERY REJECTION PROCEDURE ;
+
+Revision No 02 r~~ NV
+
+Date of Revision 10 SEPTEMBER 2025 C ™M rox =
+Date of Next Revision 10 SEPTEMBER 2027 ) C iil
+Author TSHEGOFATSO NAKEDI Wy acroe MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+5.1.1. The Receptionist alerts the Procurement Officer that there is a delivery of stock
+from a supplier
+
+5.1.2 The Procurement Officer uses the Purchase Order issued to the Supplier to
+check the stock.
+
+5.1.3 If the stock is in good order and meets the requirements as per the Purchase
+Order, it is signed for, accepted and recorded as per the Stock In Process and
+Procedure.
+
+5.1.4 If the stock is not in good order and fails to meet the requirements as per the
+Purchase due to:
+5.1.4.1 The stock being damaged and/or defective
+5.1.4.2 The stock quantity shipped is incorrect
+5.1.4.3. The stock has quality issues, or other
+
+5.1.5 The Procurement Officer rejects the delivery and either:
+5.1.5.1 returns it to the Supplier with the Supplier’s delivery person or,
+5.1.5.2 If delivered by Courier, then it will be signed for and recorded in the
+
+Stock Control Sheet as stock that has been rejected.
+
+5.1.6 The Salesperson is made aware of the rejection of the stock for him to advise the
+client of the change in the lead time for fulfilment of the order.
+
+5.2 Sub-process: Supplier Notification and Replacement Stock
+The key steps are noted below:
+
+5.2.1. The Supplier is immediately notified and sent a Delivery Rejection letter, via
+email, noting the reason for the rejection and the requested action required by
+the Supplier (e.g. replacement, credit note, refund or other).
+
+5.2.2 Arrangements are made with the Supplier to arrange for the return of the
+rejected stock, at the Supplier’s cost.
+5.2.2.1 The stock is packaged for return to the Supplier
+
+5.2.2.2 The Courier is arranged, as per the Generic Courier (Delivery Upliftment)
+Procedure, with the cost for the Supplier
+
+5.2.2.3 The stock is returned to the Supplier
+5.2.2.4 The stock control report is updated accordingly to reflect this.
+
+7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE Pg 7 of 9
+
+Document Name MG-PRM-PRO-DLR} 202509.02
+
+Previous Name, if changed MG-PRC-PRO-DLR] 202508.01
+
+Description MG PROCUREMENT DELIVERY REJECTION PROCEDURE
+
+Revision No 02 ~)
+
+Date of Revision 10 SEPTEMBER 2025 E
+
+Date of Next Revision 10 SEPTEMBER 2027 mMacrocom”
+Author TSHEGOFATSO NAKEDI “ SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+5.2.3 Arrangements are made with the Supplier to arrange for the replacement or for
+resolution as per the agreement with the Supplier.
+
+5.3 Sub-process: Supplier Communication for Stock Replacement or
+Resolution of Issue
+
+The key steps are noted below:
+
+5.3.1 The Procurement Officer continually monitors the status of the order with the
+Supplier either telephonically or via email.
+
+5.3.2. When the replacement stock arrives and is in good order or the matter is
+effectively resolved, the Salesperson is advised as is the Supplier.
+
+5.3.3. The stock In process is then followed prior to the stock-out process.
+6 Risks and Opportunities
+
+6.1 Risks
+
+The following risks have been identified:
+
+BUSINESS IMPACT MITIGATION ACTIONS
+Inventory Inaccuracy | Leads to errors in Use Electronic Data Interchange (EDI) to
+planning or fulfilling alert supplier in real-time so the
+customer orders replacements can be received in time.
+Customer satisfaction | It causes delays and Have open communication with
+impact customer satisfaction customers so they understand the
+suffers changes in lead time.
+
+6.2 Opportunities
+
+The following opportunities table will used to help improve the procedure and
+processes for greater efficiencies.
+
+PROCESS/PROCEDURE AMENDMENT,
+
+OPPORTUNITY BUSINESS IMPACT TRAINING REQUIREMENT
+
+7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE Pg 8 of 9
+
+Document Name
+
+Previous Name, if changed
+Description
+
+Revision No
+
+Date of Revision
+
+Date of Next Revision
+Author
+
+Approver
+
+7 Processes
+
+The processes mapped below is for Delivery Rejections.
+
+MG-PRM-PRO-DLR] 202509.02
+
+MG-PRC-PRO-DLR] 202508.01
+
+MG PROCUREMENT DELIVERY REJECTION PROCEDURE
+02
+
+10 SEPTEMBER 2025
+
+10 SEPTEMBER 2027
+
+TSHEGOFATSO NAKEDI
+
+ASHOK SOOKLALL
+
+Ccrocomm
+
+SMART MADE SIMPLE
+
+Generic Ordering Process
+
+Inform MFA/MSS Sales
+
+Procurement Officer
+
+Contro- —>
+eet
+
+Inform Supplier
+
+Update Stock Control Sheet
+
+To
+Reflect Rejection OF Order Deliver
+
+ed
+
+8 Support
+
+v
+
+Receive Rejected Stock
+
+v
+
+Package Replace
+Delivery
+
+‘placement Order
+
+Arrange For New Delivery
+> And Callection Of Rejected
+Order
+
+If there are any queries or problems regarding the Generic Delivery Rejection Procedure
 contact either the General Manager or the Procurement Officer.
+
+7- MG-PRM-PRO-DLRJ 202509.02 MG PROCUREMENT DELIVERY REJECTION PROCEDURE
+
+Pg 9 of 9

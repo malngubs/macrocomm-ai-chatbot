@@ -1,512 +1,428 @@
-Document Name 
-MG-PRC-PRO-POG 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-POG 202508.01 
-Description 
-MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Pg 1 of 9 
- 
-MACROCOMM GROUP (PTY) LTD 
-PROCUREMENT 
- 
-PURCHASE ORDER GENERATION 
-Document Name: 
-MG-PRC-PRO-POG 202509.02 
-Version: 
-02 
-Date: 
-10 SEPTEMBER 2025 
-Author: 
-TSHEGOFATSO NAKEDI 
- 
- 
+Document Name MG-PRC-PRO-POG 202509.02
 
-Document Name 
-MG-PRC-PRO-POG 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-POG 202508.01 
-Description 
-MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Pg 2 of 9 
- 
-Document Control 
-Name 
-Version 
-Date 
-Changes 
-MG-PRC-PRO-POG 202507.00 
-00 
-16/07/2025 
-Processes 
-MG-PRC-PRO-POG 202508.01 
-01 
-25/08/2025 
-Authors 
-MG-PRC-PRO-POG 202509.02 
-02 
-10/09/2025 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Document Sign-Off / Approval 
-This is the formal sign-off for this Purchase Order Generation procedure. 
-Name 
-Designation 
-Date 
-Signature 
-Ashok Sooklall 
-General Manager – MG 
- 
- 
-Elton Chettiar 
-Chief Operating Officer 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Previous Name, if changed MG-PRC-PRO-POG 202508.01
 
-Document Name 
-MG-PRC-PRO-POG 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-POG 202508.01 
-Description 
-MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Pg 3 of 9 
- 
- 
-TABLE OF CONTENTS 
- 
-1 
-PROCEDURE DESCRIPTION AND PURPOSE ............................................................................ 4 
-1.1 
-DESCRIPTION ................................................................................................................................... 4 
-1.2 
-BENEFITS ......................................................................................................................................... 4 
-1.3 
-AREAS OF RESPONSIBILITY ................................................................................................................ 4 
-1.4 
-RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ................................ 4 
-2 
-PURCHASE ORDER GENERATION PROCEDURE MANAGEMENT ........................................... 4 
-2.1 
-PROCEDURE OBJECTIVES AND METRICS .............................................................................................. 4 
-2.2 
-PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S) ............................................................................. 5 
-3 
-TYPICAL PROCEDURE INPUTS................................................................................................. 5 
-3.1 
-INFORMATION OR DOCUMENTS NEEDED ........................................................................................... 5 
-3.2 
-RESOURCES NEEDED ........................................................................................................................ 5 
-3.3 
-PERSONNEL NEEDED ........................................................................................................................ 5 
-3.4 
-PRECEDING PROCESSES/PROCEDURES ............................................................................................... 6 
-4 
-TYPICAL PROCEDURE OUTPUTS ............................................................................................. 6 
-4.1 
-TYPICAL OUTPUTS ARE: ..................................................................................................................... 6 
-4.2 
-TECHNICAL OR SYSTEM ..................................................................................................................... 6 
-4.3 
-DOCUMENTS ................................................................................................................................... 6 
-4.4 
-ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS .......................................................... 6 
-5 
-THE PURCHASE ORDERING GENERATION PROCESS ............................................................. 6 
-5.1 
-SUB-PROCESS: NO STOCK AVAILABLE ................................................................................................ 6 
-5.2 
-SUB-PROCESS: THE PURCHASE ORDER TEMPLATE IN EXCEL ................................................................. 6 
-6 
-RISKS AND OPPORTUNITIES ................................................................................................... 8 
-6.1 
-RISKS .............................................................................................................................................. 8 
-6.2 
-OPPORTUNITIES ............................................................................................................................... 8 
-7 
-PROCESSES ............................................................................................................................... 9 
-8 
-SUPPORT .................................................................................................................................. 9 
+Description MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE oe
 
-Document Name 
-MG-PRC-PRO-POG 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-POG 202508.01 
-Description 
-MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Pg 4 of 9 
- 
-1 Procedure Description and Purpose 
-The purpose of this Generic Purchase Order Generation Procedure is to detail why and 
-how a purchase order is generated to a supplier. 
-Macrocomm Group Procurement does not have a centralised warehouse for storage, it 
-keeps safety/buffer stock on hand to keep lead time at a minimum to satisfy customer 
-demand in a timeous manner. 
-1.1 Description 
-This is the procedure of how to generate a purchase order and send it to a supplier to 
-fulfil a Macrocomm Group order. 
-1.2 Benefits 
-This procedure provides the procurement team with the guidelines of how to go about 
-generating a purchase order as it aids to have a record of all goods ordered from 
-suppliers 
-1.3 Areas of Responsibility 
-The General Manager is accountable for signing off a Purchase Order generated by the 
-Procurement Officer. 
-The Procurement Officer is responsible for generating a Purchase Order after the 
-quotation has been approved by the General Manager. 
-1.4 Relationship between this Procedure and other 
-Procedures/Processes 
-This follows on from the Sales’ Customer Ordering procedure and forms part of the 
-Procurement Generic Ordering procedure. 
-This procedure has a direct relationship with the Finance Department’s Generic Supplier 
-Invoice Loading procedure and Payment Scheduling and Processing processes. 
-2 Purchase Order Generation Procedure Management 
-2.1 Procedure Objectives and Metrics 
-2.1.1 Procedure Objectives: 
-• 
-To generate a purchase order to enable stock orders from a supplier 
+Revision No 02 ~_N
 
-Document Name 
-MG-PRC-PRO-POG 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-POG 202508.01 
-Description 
-MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Pg 5 of 9 
- 
-2.1.2 Procedure Metrics: 
-Each objective of this procedure is measured according to the: 
-• 
-The customer quotation 
-• 
-The level of stock on-hand, if any 
-2.2 Procedure Owner(s) and Key Stakeholder(s) 
-2.2.1 Procedure Owner 
-The General Manager is responsible for managing this process and ensuring that all 
-stakeholders follow the steps outlined for effective procurement.   
-The person performing this task is the Procurement Officer and is the delegated 
-responsible person. 
-2.2.2 Key Stakeholders 
-The key stakeholders are Procurement, the Manufacturer (Supplier); Sales and Finance 
-Teams. 
-3 Typical Procedure Inputs 
-The typical procedure inputs are noted below: 
-3.1 Information or Documents Needed 
-The following information or documents are necessary for effective measuring and 
-enabling of the Generic Purchase Ordering Generation Procedure: 
-• 
-Quotation to the supplier  
-3.2 Resources Needed 
-The following resources are needed to support this procedure: 
-• 
-Stock control sheet 
-• 
-Purchase Order template 
-3.3 Personnel Needed 
-The Procurement Officer, General Manager, and the Finance Administrator/Accountant(s) 
+Date of Revision 10 SEPTEMBER 2025 CAN)
 
-Document Name 
-MG-PRC-PRO-POG 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-POG 202508.01 
-Description 
-MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Pg 6 of 9 
- 
-3.4 Preceding Processes/Procedures 
-The preceding process is the Sales’ Customer Ordering process.  The Generic Ordering 
-Process if there is not enough stock/no stock to satisfy customer demand. 
-4 Typical Procedure Outputs 
-The following outputs: 
-4.1 Typical outputs are: 
-• 
-A signed purchase order given to the Supplier (Manufacturer) 
-4.2 Technical or System 
-• 
-Excel 
-4.3 Documents 
-• 
-Signed Purchase Order  
-4.4 Enablement or Operationalisation of Another Process 
-This Process enables the Stock In process and the Finance’s Generic Supplier Invoice 
-Loading and Payment Scheduling and Processing processes. 
-5 The Purchase Ordering Generation Process 
-The Purchase Order generation process in enabled when the re is no stock available for 
-subsidiaries or office stock – stationery, etc.. 
-5.1 Sub-process: No stock Available 
-5.1.1 The Procurement confirms that there is no stock available with the Salesperson 
-and sends a quotation from the supplier to the General manager to approve it. 
-5.2 Sub-process: The Purchase Order template in Excel  
-• 
-Document: MG-FIN-PO 20230601.02 Purchasing Order Template 090623. 
-5.2.1 The Procurement Officer then generates the Purchase Order by capturing the 
-following information: 
-• 
-Date of purchase order 
+Date of Next Revision 10 SEPTEMBER 2027 mMacrocenm”
+Author TSHEGOFATSO NAKED! We SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
 
-Document Name 
-MG-PRC-PRO-POG 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-POG 202508.01 
-Description 
-MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Pg 7 of 9 
- 
-• 
-Supplier details 
-o 
-Company name 
-o 
-Physical address 
-o 
-Telephone number 
-o 
-Contact person full name 
-o 
-Company registration number 
-o 
-VAT number 
-o 
-Quotation number 
-o 
-Our Account Number 
-o 
-Email Address 
-o 
-Website 
-• 
-Order details 
-o 
-Quantity of stock 
-o 
-Stock type and description 
-o 
-Price Ex VAT 
-o 
-VAT 
-o 
-Total Price 
-5.2.2 The Procurement Officer confirms that the purchase order information is correct 
-and then gives it the correct number using the format:  DDMMYYNumber (e.g. 
-01012501) 
-5.2.2.1 The number relates to the sequence of Purchase Orders that the 
-Procurement does for that day (e.g. the first PO done will have the 
-following format – 01012501) 
-5.2.3 The purchase order is then saved using the Purchase Order number and the 
-supplier’s name. 
-5.2.4 The purchase is printed and given to the General Manager to sign it or it can be 
-approved via email. 
-5.2.5 The Purchase Order is emailed to the Supplier for order placement 
-5.2.6 The supplier acknowledges receipt of the order. 
-5.2.7 The Procurement Officer informs the Salesperson that the stock has been 
-ordered via email. 
-5.2.7.1 The Salesperson advises the customer and provides lead time for stock 
-delivery to them via email. 
- 
+MACROCOMM GROUP (PTY) LTD
+PROCUREMENT
 
-Document Name 
-MG-PRC-PRO-POG 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-POG 202508.01 
-Description 
-MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Pg 8 of 9 
- 
-6 Risks and Opportunities 
-6.1 Risks 
-The following risks have been identified: 
-RISK 
-BUSINESS IMPACT 
-MITIGATION ACTIONS 
-Errors and 
-inaccuracies  
-Incorrect stock ordered 
-for customer (wrong stock 
-or wrong quantity) 
-Ensure that the correct information is 
-captured to prevent mistakes in the 
-purchase order that may result in 
-delays, misunderstanding or financial 
-losses    
-Unauthorised 
-Purchases  
-Must affect returns to 
-suppliers and obtain 
-credit notes or refunds 
-Time 
-Ensure that all purchase orders are 
-signed off and approved by General 
-Manager to avoid unnecessary ordering 
-and wasteful spending 
-6.2 Opportunities 
-The following opportunities table will used to help improve the procedure and 
-processes for greater efficiencies. 
-OPPORTUNITY 
-BUSINESS IMPACT 
-PROCESS/PROCEDURE AMENDMENT, 
-TRAINING REQUIREMENT  
-Automate Purchase 
-Order process 
-Eliminates errors, and 
-makes the process 
-efficient 
-System training 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+PURCHASE ORDER GENERATION
 
-Document Name 
-MG-PRC-PRO-POG 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-POG 202508.01 
-Description 
-MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE 
-Pg 9 of 9 
- 
-7 Processes 
-The processes mapped below is for Purchase Order Generation. 
- 
-8 Support 
-If there are any queries or problems regarding the Generic Delivery Rejection Procedure 
+Document Name: Version:
+MG-PRC-PRO-POG 202509.02 02
+
+Date: Author:
+
+10 SEPTEMBER 2025 TSHEGOFATSO NAKEDI
+
+2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE Pg 1 of 9
+
+Document Name MG-PRC-PRO-POG 202509.02
+
+Previous Name, if changed MG-PRC-PRO-POG 202508.01
+
+Description MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE
+
+Revision No 02
+
+Date of Revision 10 SEPTEMBER 2025 a
+
+Date of Next Revision 10 SEPTEMBER 2027 Macroce mm
+Author TSHEGOFATSO NAKEDI 7 SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+Document Control
+
+Name Version Date Changes
+MG-PRC-PRO-POG 202507.00 00 16/07/2025 | Processes
+MG-PRC-PRO-POG 202508.01 01 25/08/2025 | Authors
+MG-PRC-PRO-POG 202509.02 02 10/09/2025
+
+Document Sign-Off / Approval
+
+This is the formal sign-off for this Purchase Order Generation procedure.
+
+Name Designation Date Signature
+Ashok Sooklall General Manager - MG
+Elton Chettiar Chief Operating Officer
+
+2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE Pg 2 of 9
+
+Document Name MG-PRC-PRO-POG 202509.02
+
+Previous Name, if changed MG-PRC-PRO-POG 202508.01
+
+Description MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE —
+Revision No 02 ro \
+Date of Revision 10 SEPTEMBER 2025 C
+
+~
+
+SE \ }
+Date of Next Revision 10 SEPTEMBER 2027 (I
+
+Author TSHEGOFATSO NAKEDI Macrocoe mm
+
+/ MART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+TABLE OF CONTENTS
+
+1 PROCEDURE DESCRIPTION AND PURPOSE ..................c:csssssssccecccccsssssseescccssccsssssssssecsssccessseees
+1.1 DESCRIPTION ...sesssssscsesesessesesessesesesesuesesesecuesesesesuesesesesesesesesesuenenesesuenesesesueneaeseseaeaesesneasaesesneneaesesnens
+1.2 BENEFITS .c.sessscsscsesessssesesescsesesesscsesesesuenesesesuesesesecuesesesesuesesesesuasesesesuesesesesesueneaeseseneaesesneaeaeseeneneneeees
+1.3 AREAS OF RESPONSIBILITY .....cssssssssesesessesesesessesesesuesesesesuesesesesuesesesescsenesesesneaeneseseseaesestensaesesneneneeees
+1.4. RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES .....ssssssesesseseseeessesesees
+
+2 PURCHASE ORDER GENERATION PROCEDURE MANAGEMENT ..................-ssssccseeccccsccsssseees
+2.1 PROCEDURE OBJECTIVES AND METRICS..c.scsssscsesesessesesesessesesesesesenesesenesesesueseneseseneaesesneaeaesesneneaesesnens
+2.2 PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S)....cssssessssesesescsesucsesucscseseesessceneucsnsassneasensaesnenseneaees
+
+3 TYPICAL PROCEDURE INPUTS. .................cccccsccssssssssscccccccccsssssscceccccccesssscssccsssccssssessseessseeesssoees
+3.1 INFORMATION OR DOCUMENTS NEEDED .....secscsesessesesesessesesesesescnesesuenesesesueseneseseneaesesnensaesestensaeseanens
+3.2 RESOURCES NEEDED .o.sssssssessesessssesesessesesesessesesessuesesessuenesecussesesesesueuesesesuenesesesueneneseseeneaeaeeneneaeaeenees
+3.3. PERSONNEL NEEDED.u...ssscsessesessssesesessesesesessesesesusuesesesusuenesecusuescaesesuenesesesueneseseseneaeseseeueaeaesneneaeaeenees
+
+3.4 PRECEDING PROCESSES/PROCEDURES.........sscsseceseeeseeeseeeseessaeeeaeesaeesaeeeaeeeseeeaeesaeesaeesaeesaeesaeesseeeaeenaeenas
+
+4.1 TYPICAL OUTPUTS ARE? ..sssssssssesessesessssesessescsesecsssecsessssessseeseecsensesssecsenessesessenseessenesseneseensnessenesseneseeny 6
+4.2 TECHNICAL OR SYSTEM.....scscssesssessesessesesssessesssscseecsesecsesessesseeesessesssesssecsenessenessensseesenecsenessenseeeneneegs
+4.3 DOCUMENTS ....ccssescsessesesseseseesesesesenssecseecsessssensecseeessesesssecsenessenessenssecsenessenessenseeesenecsenessensneeneneegs
+4.4. ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS w.sssssssssessssesesscsesscsesscsssssssessssssasssasseees
+5 THE PURCHASE ORDERING GENERATION PROCESS .............cccsssccsssssssseecesseecesseessseeessceseeees
+5.1 SUB-PROCESS: NO STOCK AVAILABLE ....sssscssssessssesessesensesenscsesessesssecsenecsensssessesessnecsenessenessensessenesseness
+5.2 SUB-PROCESS: THE PURCHASE ORDER TEMPLATE IN EXCEL .....sscssssssessesesssseseeesensesesenecsesessenseeesenesseness
+6 RISKS AND OPPORTUNITIEG..............ccsecccssssessscessseeessscessseeessseeessseeesseseessnecsssceesseesesseeesssseesaes
+6.1 RISKS w.cscssssessssessesescesesensescseeesesssseseseeseesseneseesssesseessenseeeseseeseseeseseeeenesseneseeneeeesenesseneseenenesnenesseneseeney
+6.2 — OPPORTUNITIES.....csssccssesescssssessssessesesessesenssecsesscseeesensseesesseneseessnecsenessenessensneesenesseneseensnesnenesseneeeney
+7 — PROCESSEG.............ssccsssscsssecsssecessecesssecessseeessecessseeessseeesssceessneesssnecesseeesseceesseecesseeessnesessneessaseesaes
+8 —_ SUPPORT...........ssecccssscsssccssccessecesssesessseeesseeessseeesseeeesseeeesseeessseeesseeessaeseesanecssseeessnesesaneessaseesaes
+
+2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE Pg 3 of 9
+
+Document Name MG-PRC-PRO-POG 202509.02
+
+Previous Name, if changed MG-PRC-PRO-POG 202508.01
+
+Description MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE
+
+Revision No 02 ~
+
+Date of Revision 10 SEPTEMBER 2025 _ ar.)
+
+Date of Next Revision 10 SEPTEMBER 2027 ‘mMacrocenn
+Author TSHEGOFATSO NAKEDI 4 SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+1 Procedure Description and Purpose
+The purpose of this Generic Purchase Order Generation Procedure is to detail why and
+how a purchase order is generated to a supplier.
+
+Macrocomm Group Procurement does not have a centralised warehouse for storage, it
+keeps safety/buffer stock on hand to keep lead time at a minimum to satisfy customer
+demand in a timeous manner.
+
+1.1 Description
+
+This is the procedure of how to generate a purchase order and send it to a supplier to
+fulfil a Macrocomm Group order.
+
+1.2 Benefits
+
+This procedure provides the procurement team with the guidelines of how to go about
+generating a purchase order as it aids to have a record of all goods ordered from
+suppliers
+
+1.3 Areas of Responsibility
+
+The General Manager is accountable for signing off a Purchase Order generated by the
+Procurement Officer.
+
+The Procurement Officer is responsible for generating a Purchase Order after the
+quotation has been approved by the General Manager.
+
+1.4 Relationship between this Procedure and other
+Procedures/Processes
+
+This follows on from the Sales’ Customer Ordering procedure and forms part of the
+Procurement Generic Ordering procedure.
+
+This procedure has a direct relationship with the Finance Department's Generic Supplier
+Invoice Loading procedure and Payment Scheduling and Processing processes.
+
+2 Purchase Order Generation Procedure Management
+
+2.1 Procedure Objectives and Metrics
+
+2.1.1 Procedure Objectives:
+
+e To generate a purchase order to enable stock orders from a supplier
+
+2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE Pg4 of 9
+
+Document Name MG-PRC-PRO-POG 202509.02
+
+Previous Name, if changed MG-PRC-PRO-POG 202508.01
+
+Description MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE oe
+
+Revision No 02 ~_N
+
+Date of Revision 10 SEPTEMBER 2025 CAN)
+
+Date of Next Revision 10 SEPTEMBER 2027 mMacrocenm”
+Author TSHEGOFATSO NAKED! We SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+2.1.2 Procedure Metrics:
+Each objective of this procedure is measured according to the:
+
+e The customer quotation
+e The level of stock on-hand, if any
+
+2.2 Procedure Owner(s) and Key Stakeholder(s)
+
+2.2.1. Procedure Owner
+
+The General Manager is responsible for managing this process and ensuring that all
+stakeholders follow the steps outlined for effective procurement.
+
+The person performing this task is the Procurement Officer and is the delegated
+responsible person.
+
+2.2.2 Key Stakeholders
+
+The key stakeholders are Procurement, the Manufacturer (Supplier); Sales and Finance
+Teams.
+
+3 Typical Procedure Inputs
+The typical procedure inputs are noted below:
+3.1 Information or Documents Needed
+
+The following information or documents are necessary for effective measuring and
+enabling of the Generic Purchase Ordering Generation Procedure:
+
+e Quotation to the supplier
+3.2 Resources Needed
+
+The following resources are needed to support this procedure:
+
+e Stock control sheet
+e Purchase Order template
+
+3.3 Personnel Needed
+
+The Procurement Officer, General Manager, and the Finance Administrator/Accountant(s)
+
+2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE Pg5 of 9
+
+Document Name MG-PRC-PRO-POG 202509.02
+
+Previous Name, if changed MG-PRC-PRO-POG 202508.01
+
+Description MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE
+
+Revision No 02 ~
+
+Date of Revision 10 SEPTEMBER 2025 _ ar.)
+
+Date of Next Revision 10 SEPTEMBER 2027 ‘mMacrocenn
+Author TSHEGOFATSO NAKEDI 4 SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+3.4 Preceding Processes/Procedures
+
+The preceding process is the Sales’ Customer Ordering process. The Generic Ordering
+Process if there is not enough stock/no stock to satisfy customer demand.
+
+4 Typical Procedure Outputs
+The following outputs:
+4.1 Typical outputs are:
+e Asigned purchase order given to the Supplier (Manufacturer)
+4.2 Technical or System
+e Excel
+4.3 Documents
+e Signed Purchase Order
+4.4 Enablement or Operationalisation of Another Process
+
+This Process enables the Stock In process and the Finance’s Generic Supplier Invoice
+Loading and Payment Scheduling and Processing processes.
+
+5 The Purchase Ordering Generation Process
+
+The Purchase Order generation process in enabled when the re is no stock available for
+subsidiaries or office stock - stationery, etc..
+
+5.1 Sub-process: No stock Available
+
+5.1.1. The Procurement confirms that there is no stock available with the Salesperson
+and sends a quotation from the supplier to the General manager to approve it.
+
+5.2 Sub-process: The Purchase Order template in Excel
+e Document: MG-FIN-PO 20230601.02 Purchasing Order Template 090623.
+
+5.2.1 The Procurement Officer then generates the Purchase Order by capturing the
+following information:
+
+e Date of purchase order
+
+2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE Pg 6 of 9
+
+Document Name MG-PRC-PRO-POG 202509.02
+
+Previous Name, if changed MG-PRC-PRO-POG 202508.01
+
+Description MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE —
+
+Revision No 02 ~~
+
+Date of Revision 10 SEPTEMBER 2025 C_N\
+
+Date of Next Revision 10 SEPTEMBER 2027 \macrocomm
+Author TSHEGOFATSO NAKEDI / SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+e Supplier details
+
+o Company name
+Physical address
+Telephone number
+Contact person full name
+Company registration number
+VAT number
+Quotation number
+Our Account Number
+Email Address
+Website
+e Order details
+
+o Quantity of stock
+Stock type and description
+Price Ex VAT
+VAT
+Total Price
+
+Oo Oo 0 0 0 0 0 CO O
+
+Oo OO OO O
+
+5.2.2 The Procurement Officer confirms that the purchase order information is correct
+and then gives it the correct number using the format: DDMMYYNumber (e.g.
+01012501)
+
+5.2.2.1 The number relates to the sequence of Purchase Orders that the
+Procurement does for that day (e.g. the first PO done will have the
+following format - 01012501)
+
+5.2.3 The purchase order is then saved using the Purchase Order number and the
+supplier's name.
+
+5.2.4 The purchase is printed and given to the General Manager to sign it or it can be
+approved via email.
+
+5.2.5 The Purchase Order is emailed to the Supplier for order placement
+5.2.6 The supplier acknowledges receipt of the order.
+
+5.2.7. The Procurement Officer informs the Salesperson that the stock has been
+ordered via email.
+
+5.2.7.1 The Salesperson advises the customer and provides lead time for stock
+delivery to them via email.
+
+2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE Pg7 of 9
+
+Document Name MG-PRC-PRO-POG 202509.02
+
+Previous Name, if changed MG-PRC-PRO-POG 202508.01
+
+Description MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE
+
+Revision No 02
+
+Date of Revision 10 SEPTEMBER 2025 a
+
+Date of Next Revision 10 SEPTEMBER 2027 mMacrocom”
+Author TSHEGOFATSO NAKEDI 7 SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+6 Risks and Opportunities
+
+6.1 Risks
+
+The following risks have been identified:
+
+BUSINESS IMPACT MITIGATION ACTIONS
+Errors and Incorrect stock ordered Ensure that the correct information is
+inaccuracies for customer (wrong stock | captured to prevent mistakes in the
+or wrong quantity) purchase order that may result in
+delays, misunderstanding or financial
+losses
+Unauthorised Must affect returns to Ensure that all purchase orders are
+Purchases suppliers and obtain signed off and approved by General
+credit notes or refunds Manager to avoid unnecessary ordering
+Time and wasteful spending
+
+6.2 Opportunities
+
+The following opportunities table will used to help improve the procedure and
+processes for greater efficiencies.
+
+PROCESS/PROCEDURE AMENDMENT,
+
+OPPORTUNITY BUSINESS IMPACT TRAINING REQUIREMENT
+Automate Purchase Eliminates errors, and System training
+Order process makes the process
+
+efficient
+
+2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE Pg 8 of 9
+
+Document Name MG-PRC-PRO-POG 202509.02
+
+Previous Name, if changed MG-PRC-PRO-POG 202508.01
+
+Description MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE —
+
+Revision No 02
+
+Date of Revision 10 SEPTEMBER 2025 AN
+
+Date of Next Revision 10 SEPTEMBER 2027 mMacrocoenmm”™
+Author TSHEGOFATSO NAKEDI 4 SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+7 Processes
+
+The processes mapped below is for Purchase Order Generation.
+
+MACROCOMM GROUP PROCUREMENT DEPARTMENT
+=
+
+a
+PURCHASE ORDER GENERATION PROCESS a
+
+Generic Ordering Process (No
+“Stock (units) available/Othice:
+Ps Generic Order Process
+> 1 smber > °
+*
+¥
+’
+Payment Schedule and
+Processing
+
+8 Support
+
+If there are any queries or problems regarding the Generic Delivery Rejection Procedure
 contact either the General Manager or the Procurement Officer.
+
+2-MG-PRM-PRO-POG 202509.02 MG PROCUREMENT PURCHASE ORDER GENERATION PROCEDURE Pg9 of 9

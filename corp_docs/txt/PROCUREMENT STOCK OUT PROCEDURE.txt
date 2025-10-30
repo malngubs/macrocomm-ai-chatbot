@@ -1,571 +1,510 @@
-Document Name 
-MG-PRM-PRO-SO 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-SOP 202508.01 
-Description 
-MG PROCUREMENT STOCK-OUT PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE 
-Pg 1 of 10 
- 
-MACROCOMM GROUP (PTY) LTD 
-PROCUREMENT 
- 
-STOCK-OUT PROCEDURE 
-Document Name: 
-MG-PRM-PRO-SO 202509.02 
-Version: 
-02 
-Date: 
-10 SEPTEMBER 2025 
-Author: 
-TSHEGOFATSO NAKEDI 
- 
- 
+Document Name
+Previous Name, if changed
 
-Document Name 
-MG-PRM-PRO-SO 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-SOP 202508.01 
-Description 
-MG PROCUREMENT STOCK-OUT PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE 
-Pg 2 of 10 
- 
-Document Control 
-Name 
-Version 
-Date 
-Changes 
-MG-PRC-PRO-SOTP 202507.00 
-00 
-16/07/2025 
- 
-MG-PRC-PRO-SOP 202508.01 
-01 
-25/08/2025 
- 
-MG-PRC-PRO-SOP 202509.02 
-02 
-10/09/2025 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Document Sign-Off / Approval 
-This is the formal sign-off for the Stock-Out Procedure. 
-Name 
-Designation 
-Date 
-Signature 
-Ashok Sooklall 
-General Manager – MG 
- 
- 
-Elton Chettiar 
-Chief Operating Officer 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+MG-PRM-PRO-SO 202509.02
+MG-PRC-PRO-SOP 202508.01
 
-Document Name 
-MG-PRM-PRO-SO 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-SOP 202508.01 
-Description 
-MG PROCUREMENT STOCK-OUT PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE 
-Pg 3 of 10 
- 
- 
-TABLE OF CONTENTS 
-1 
-PROCEDURE DESCRIPTION AND PURPOSE ............................................................................ 4 
-1.1 
-DESCRIPTION ................................................................................................................................... 4 
-1.2 
-BENEFITS ......................................................................................................................................... 4 
-1.3 
-AREAS OF RESPONSIBILITY ................................................................................................................ 4 
-1.4 
-RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ................................ 4 
-2 
-STOCK-OUT PROCEDURE MANAGEMENT .............................................................................. 5 
-2.1 
-PROCEDURE OBJECTIVES AND METRICS .............................................................................................. 5 
-2.2 
-PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S) ............................................................................. 5 
-3 
-TYPICAL PROCEDURE INPUTS................................................................................................. 5 
-3.1 
-INFORMATION OR DOCUMENTS NEEDED ........................................................................................... 6 
-3.2 
-RESOURCES NEEDED ........................................................................................................................ 6 
-3.3 
-PERSONNEL NEEDED ........................................................................................................................ 6 
-3.4 
-PRECEDING PROCESSES/PROCEDURES ............................................................................................... 6 
-4 
-TYPICAL PROCEDURE OUTPUTS ............................................................................................. 6 
-4.1 
-TYPICAL OUTPUTS ARE: ..................................................................................................................... 6 
-4.2 
-TECHNICAL OR SYSTEM ..................................................................................................................... 7 
-4.3 
-DOCUMENTS ................................................................................................................................... 7 
-4.4 
-ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS .......................................................... 7 
-5 
-THE GENERIC STOCK-OUT PROCESS ....................................................................................... 7 
-5.1 
-SUB-PROCESS: STOCK AVAILABLE ...................................................................................................... 7 
-5.2 
-SUB-PROCESS: STOCK DISPATCHING ................................................................................................. 8 
-5.3 
-SUB-PROCESS: DISPATCH NOTE ........................................................................................................ 8 
-5.4 
-SUB-PROCESS: DELIVERY CONFIRMATION .......................................................................................... 9 
-6 
-RISKS AND OPPORTUNITIES ................................................................................................... 9 
-6.1 
-RISKS .............................................................................................................................................. 9 
-6.2 
-OPPORTUNITIES ............................................................................................................................... 9 
-7 
-PROCESSES ............................................................................................................................. 10 
-8 
-SUPPORT ................................................................................................................................ 10 
- 
- 
+Description MG PROCUREMENT STOCK-OUT PROCEDURE
+Revision No 02
 
-Document Name 
-MG-PRM-PRO-SO 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-SOP 202508.01 
-Description 
-MG PROCUREMENT STOCK-OUT PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE 
-Pg 4 of 10 
- 
-1 Procedure Description and Purpose 
-The purpose of this Generic Stock-Out Procedure is to enable the dispatching of stock 
-and the recording of such through the updating of the stock control sheet in the 
-Procurement Department. 
-Macrocomm Group Procurement does not have a centralised warehouse for storage, it 
-keeps safety/buffer stock on hand to keep lead time at a minimum to satisfy customer 
-demand in a timeous manner. 
-Macrocomm Group uses the Salespersons and/or couriers to ensure fulfilment for the 
-customer; some customers use their own couriers to collect ordered stock from the 
-head office. 
-1.1 Description 
-This is the procedure of how to record all dispatched stock and the different channels 
-used to dispatch. 
-1.2 Benefits 
-This procedure provides the Procurement team with the guidelines of how to record all 
-stock dispatched to Customers to allow for fulfilment of customer orders. 
-1.3 Areas of Responsibility 
-The General Manager is responsible for signing off the invoicing checklist once the 
-required quantity has been dispatched to the respective Group Subsidiary. 
-The Procurement Officer is responsible for the stock-out process. 
-1.4 Relationship between this Procedure and other 
-Procedures/Processes 
-This procedure informs the process for arranging for the delivery of stock to customers 
-and recording of this in the stock control sheet.  This follows on from the Generic Stock-
-In Process. 
-This procedure documents the key steps of the Generic Stock-Out Process which affects 
-the fulfilment of the customer’s order. 
+Date of Revision 10 SEPTEMBER 2025
 
-Document Name 
-MG-PRM-PRO-SO 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-SOP 202508.01 
-Description 
-MG PROCUREMENT STOCK-OUT PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE 
-Pg 5 of 10 
- 
-2 Stock-Out Procedure Management 
-2.1 Procedure Objectives and Metrics 
-2.1.1 Procedure Objectives: 
-• 
-Confirmation of what is dispatched against the customer purchase order 
-• 
-Accurate recording of all dispatched stock to customers 
-• 
-Promote accurate reconciliation by the Finance Team against invoices and purchase 
-orders 
-• 
-Effectively dispatch stock to customer 
-2.1.2 Procedure Metrics: 
-Each objective of this procedure is measured according to the: 
-• 
-Purchase Order received from the Group Subsidiary 
-• 
-Confirmation of delivery method to be used 
-• 
-Invoice issued to Customer to effect payment 
-• 
-Leadtime to deliver the goods to the Customer 
-• 
-Dispatch note 
-• 
-Waybill 
-2.2 Procedure Owner(s) and Key Stakeholder(s) 
-2.2.1 Procedure Owner 
-The General Manager is responsible for managing this process and ensuring that all 
-stakeholders follow the steps outlined for effective procurement.   
-The person performing this task is the Procurement Officer and is the delegated 
-responsible person. 
-2.2.2 Key Stakeholders 
-The key stakeholders are Procurement, Sales Team, Customers, appointed or selected 
-Courier Company and Finance. 
-3 Typical Procedure Inputs 
-The typical procedure inputs are noted below: 
+Date of Next Revision 10 SEPTEMBER 2027
 
-Document Name 
-MG-PRM-PRO-SO 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-SOP 202508.01 
-Description 
-MG PROCUREMENT STOCK-OUT PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE 
-Pg 6 of 10 
- 
-3.1 Information or Documents Needed 
-The following information or documents are necessary for effective measuring and 
-enabling of the Generic Stock-Out Procedure: 
-• 
-Purchase order from Subsidiary 
-• 
-Email from Salesperson confirming the customer delivery address 
-• 
-Delivery method to be used 
-• 
-Customer Invoice 
-• 
-Procurement delivery note(s) to customer 
-3.2 Resources Needed 
-The following resources are needed to support this procedure: 
-• 
-Stock control sheet 
-• 
-Finance and/or Procurement Checklist 
-• 
-Inventory Dispatch Note 
-3.3 Personnel Needed 
-The Procurement Officer is the person who arranges for the dispatching of the goods to 
-the customer and records this on the stock control sheet. 
-The Salesperson to confirm the customer delivery address. 
-The Courier that is responsible for effectively delivering the stock to the customer. 
-3.4 Preceding Processes/Procedures 
-The preceding processes are Generic Ordering (available stock), Generic Stock-In (no 
-stock/not enough stock to fulfil customer demand) processes performed by the 
-Procurement Officer. 
-4 Typical Procedure Outputs 
-The following outputs: 
-4.1 Typical outputs are: 
-• 
-Stock is dispatched 
-• 
-Stock is packaged 
-• 
-The stock control sheet is updated 
-• 
-The courier company is booked 
+Author TSHEGOFATSO NAKEDI
 
-Document Name 
-MG-PRM-PRO-SO 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-SOP 202508.01 
-Description 
-MG PROCUREMENT STOCK-OUT PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE 
-Pg 7 of 10 
- 
-• 
-Waybill issued for customer to sign, should a courier be used 
-• 
-Inventory dispatch note is signed by Group subsidiary if they are going to deliver 
-stock 
-• 
-The customer invoice is issued 
-• 
-Customer order is fulfilled. 
-4.2 Technical or System 
-• 
-Excel 
-• 
-Courier Website 
-4.3 Documents 
-• 
-Stock Control Sheet 
-• 
-Delivery Note 
-• 
-Finance / Procurement Checklist 
-• 
-Courier waybill (if applicable) 
-• 
-Confirmation of Receipt email from customer (courier waybill) 
-4.4 Enablement or Operationalisation of Another Process 
-This Generic Stock-Out Procedure enables the Procurement department’s delivery 
-upliftment process, and Finance’s Customer Invoicing and Bank Statement 
-Reconciliation processes. 
-5 The Generic Stock-Out Process 
-The Generic Stock-Out Procedure is important as it provides a record of all stock 
-dispatched to customers. 
-5.1 Sub-process: Stock Available 
-This sub-procedure starts with there being stock on-hand for dispatching.  The key steps 
-are noted below: 
+Approver ASHOK SOOKLALL
 
-Document Name 
-MG-PRM-PRO-SO 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-SOP 202508.01 
-Description 
-MG PROCUREMENT STOCK-OUT PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE 
-Pg 8 of 10 
- 
-5.1.1.1 Finance Administrator reviews all Documentation received from 
-MFA/MSS Sales and informs Procurement Officer to proceed with 
-Procurement processes. 
-5.1.1.2 The Procurement Officer to confirm the delivery method of the stock for 
-the customer with the Salesperson. 
-5.1.1.3 The Salesperson to email confirmation of the delivery information to the 
-Procurement Officer, see 5.2.1 below. 
-5.2 Sub-process: Stock Dispatching 
-This sub procedure is relevant for stock on-hand and stock that has been ordered and 
-delivered for dispatching.  The key steps are noted below: 
-5.2.1 The Salesperson confirms the following by email with the Procurement Officer: 
-5.2.1.1 The customer’s name(s) 
-5.2.1.2 Delivery method 
-5.2.1.3 Delivery address 
-5.2.1.4 Contact Person Name and Details 
-The Procurement Officer will complete the Finance/Procurement checklist – ISO15.1.0 
-MG-FIN-PRC-CKL 20231100.01 – to confirm that all the necessary information and 
-documentation is on-hand. 
-5.2.2 The Finance/Procurement checklist is signed by both the Procurement Officer 
-and General Manager. 
-5.3 Sub-process: Dispatch Note 
-5.3.1.1 Dispatch the stock either by: 
-5.3.1.1.1 Customer to collect stock from Head Office 
-5.3.1.1.2 Giving the stock to the Salesperson to deliver 
-5.3.1.1.3 Arranging the courier to collect the stock to deliver to the 
-customer. 
-• 
-The delivery method will be selected based upon the customer’s choice, or what is 
-best practically.   
-5.3.2 Update the stock control sheet to reflect the quantity and product dispatched to 
-ensure accurate inventory measures. 
+“macrocomm
 
-Document Name 
-MG-PRM-PRO-SO 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-SOP 202508.01 
-Description 
-MG PROCUREMENT STOCK-OUT PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE 
-Pg 9 of 10 
- 
-5.3.3 The inventory dispatch note is signed by all parties (Procurement Officer and 
-Sales/Fleet consultant) involved if the stock has been dispatched to the 
-Salesperson to deliver. 
-5.3.4 The inventory dispatch note is signed by all parties (Procurement Officer and 
-Customer) involved if the stock has been collected by the customer from the MG 
-head office. 
-5.4 Sub-process: Delivery Confirmation 
-5.4.1 The Procurement Officer to obtain an email from the courier personnel 
-confirming receipt of the stock, if the good were delivered by Courier. 
-5.4.2 Request the waybill confirmation from the Courier company. 
-5.4.3 File this confirmation received. 
- 
-6 Risks and Opportunities 
-6.1 Risks 
-The following risks have been identified: 
-RISK 
-BUSINESS IMPACT 
-MITIGATION ACTIONS 
-Losing stock 
-Revenue loss, poor 
-customer experience and 
-fulfilment of order, 
-reputational damage 
-Receiving confirmation email of 
-received stock to ensure that the stock 
-has been delivered to the customer, or 
-the confirmation of delivery from the 
-Courier company. 
-Stock sent to wrong 
-customer 
-Poor turnaround, 
-reputational risk, 
-unnecessary costs to 
-retrieve such goods. 
-Receiving confirmation of customer 
-quotation and delivery address from the 
-Salesperson prior to dispatching. 
- 
- 
- 
-6.2 Opportunities 
-The following opportunities table will used to help improve the procedure and 
-processes for greater efficiencies. 
-OPPORTUNITY 
-BUSINESS IMPACT 
-PROCESS/PROCEDURE AMENDMENT, 
-TRAINING REQUIREMENT  
+SMART MADE SIMPLE
 
-Document Name 
-MG-PRM-PRO-SO 202509.02 
- 
-Previous Name, if changed 
-MG-PRC-PRO-SOP 202508.01 
-Description 
-MG PROCUREMENT STOCK-OUT PROCEDURE 
-Revision No 
-02 
-Date of Revision 
-10 SEPTEMBER 2025 
-Date of Next Revision 
-10 SEPTEMBER 2027 
-Author 
-TSHEGOFATSO NAKEDI 
-Approver 
-ASHOK SOOKLALL 
- 
-4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE 
-Pg 10 of 10 
- 
- 
- 
- 
- 
-7 Processes 
-The processes mapped below support this procedure. 
- 
-8 Support 
-If there are any queries or problems regarding the Stock-Out Procedure contact either 
+MACROCOMM GROUP (PTY) LTD
+PROCUREMENT
+
+STOCK-OUT PROCEDURE
+Document Name: Version:
+MG-PRM-PRO-SO 202509.02 02
+Date: Author:
+10 SEPTEMBER 2025 TSHEGOFATSO NAKEDI
+
+4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE Pg 1 of 10
+
+Document Name MG-PRM-PRO-SO 202509.02
+Previous Name, if changed MG-PRC-PRO-SOP 202508.01
+
+Description MG PROCUREMENT STOCK-OUT PROCEDURE A)
+
+Revision No 02
+
+Date of Revision 10 SEPTEMBER 2025 E
+
+Date of Next Revision 10 SEPTEMBER 2027 “rhacroco omm
+Author TSHEGOFATSO NAKEDI “ SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+Document Control
+
+Name Version Date Changes
+MG-PRC-PRO-SOTP 202507.00 00 16/07/2025
+MG-PRC-PRO-SOP 202508.01 01 25/08/2025
+MG-PRC-PRO-SOP 202509.02 02 10/09/2025
+
+Document Sign-Off / Approval
+This is the formal sign-off for the Stock-Out Procedure.
+
+Name Designation Date Signature
+Ashok Sooklall General Manager - MG
+Elton Chettiar Chief Operating Officer
+
+4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE Pg 2 of 10
+
+Document Name MG-PRM-PRO-SO 202509.02
+Previous Name, if changed MG-PRC-PRO-SOP 202508.01
+Description MG PROCUREMENT STOCK-OUT PROCEDURE —.
+sate of Revision 7 SEPTEMBER 2025 CA \ = -
+Date of Next Revision 10 SEPTEMBER 2027 ‘(Macro CO mm
+Author TSHEGOFATSO NAKEDI SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+TABLE OF CONTENTS
+1 PROCEDURE DESCRIPTION AND PURPOSE................:ssssssssssssssssssssssssssesssssssssssssssssssssssssseseess 4
+1.1 DESCRIPTION......esssssssccssecescecescesecescecesceesscssscescoessceeacsescaeeesacseseescuecseeesacsceacseeeeaceesassesesaeeesaeeeaesesesaes 4
+1.2 BENEFITS... eeeeceseecssecesceeescsssccscseescecscseccsescesceesacsssacssseesesessceeacucsceseseesessessecsceesaeeeeacsesesaceesaseeasaees 4
+1.3. AREAS OF RESPONSIBILITY .......ssssssecescessecsesceseeceseeeeccssscesceeesceesscsescesesscseacseuecsceesaceeacseseeaceesaceeeasaees 4
+1.4 RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ....ssssssssseseseeseseeresesees 4
+2 STOCK-OUT PROCEDURE MANAGEMENT ............ccsscccccccsssccscccccccccccccccccccccccccecccccccceceseseseeeeees 5
+2.1 PROCEDURE OBJECTIVES AND METRICS........sssccssscsscesesessecesecscseeeesceecsceesscseecsceeesceesacsenesaceeeaceesasseseeaes 5
+2.2 PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S).......sccccesssssscccceccceessesssssceessccesessessseesssccsessensaeeesseess 5
+3 TYPICAL PROCEDURE INPUTS. .............ccssccscccsccssesessceescsscsssssseesessseesssssescceceecceescccecceececesesseseees 5
+3.1 INFORMATION OR DOCUMENTS NEEDED ........ccsssesssecescsseceseeetsceeesceeeseeeescseecseeesaeeeacsesesseeeeaseesaeseseeaes 6
+3.2 RESOURCES NEEDED «uu... sssessecsseceseeeescessceseecessecescsseccseseesseceacsecaceesseeesacsesesaceesassesacsesecaceesaeaesasaeeeeaes 6
+3.3. PERSONNEL NEEDED........sssesscsseceseeeesceseceseecesseeescsssccssseescecescsesaceecacuesscsesessceesaceeacaesesaceessenesasaeeeeaes 6
+3.4 — PRECEDING PROCESSES/PROCEDURES.......sscssssessssesessesesseceseesenescesesecseseeseseseeseneeseseesesesaeseeecseeeesesesasaes 6
+4 TYPICAL PROCEDURE OUTPUTS ..............cccccscssssssesssessssssssssessssssssssssssssssssssssssssssssssssssssssessees 6
+4.1 TYPICAL OUTPUTS ARE! ....eesscessscseecescecescsseccscecessecescssscessscesesesacsseaceeeseeeacseuecaceeeaciesacaeuesaceesaceeasaeeeeaes 6
+4.2. TECHNICAL OR SYSTEM....cseesscecssceeccscecescecsscscccssecesceeescsssccssecesesaeseseeseeecaceesacseeassceesaceeeacaeeacseeeeaeeeeas 7
+4.3 DOCUMENTS «0... seceescssscesseeesecescseeccsscescecsscseccsesceseeeesesecscseaceeacsesacseueeaceesacsesasacsesaceesacseacseeeeaeeeeas 7
+4.4 ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS .....ssscssessesesseseseseeseseeesenceseaceseseeeseeeeas 7
+5 THE GENERIC STOCK-OUT PROCESS.............ccsccccssccccssscsceccccccccccccecccccceeccccccccccceecscescecesesseseeeees 7
+5.1 SUB-PROCESS: STOCK AVAILABLE ......-sscessecsssceseeceseeesscseeseeceacscsacsesecaceesaceeeacsenecsceesacaeacaeesaceesaceeaeaees 7
+5.2  SUB-PROCESS: STOCK DISPATCHING ......ssseessseesseseecesseesseseesceeeseecacseeeescuesacseacseuesaceesaceesecaeeesaeeeeasiees 8
+5.3 SUB-PROCESS: DISPATCH NOTE.......sscssscesseceseeeeseseecesceesscssscessecesceesesescesesseaeacsesesaceesaceeeeeasesaeeesacaees 8
+5.4. SUB-PROCESS: DELIVERY CONFIRMATION .....sscesesessesesseeesessesesecseseeseseeesesecseseesesesecseeecseseeseseeesenesseaees 9
+6 RISKS AND OPPORTUNITIES..............cccccccsssssssssssssssssscccccccccccccccsececececccssssssssssssssssssssssssssssssssees 9
+6.1 RISKS ...csssecssscescessscsseccsecesceeescsscesceeeseeesacsscesesessceeacssscessseesceesacseeceseescseecseeesaceeacsesesseeeeaseesaesesesaes 9
+6.2 OPPORTUNITIES ......sseesssecsscsssccsseceseeeescessccsescesseeescsssecseneesesacsesecsceessceesscseecsceeeasaeacaesecaeeesseeesesseseeaes 9
+7 — PROCESSEG..............scssssssssscesssesssscesssceessscesssseensscessssseesscsesssscesssseesscsesescesasssesscsesescesasseesssessase 10
+8 —-_ SUPPORT ............sssssssssessssccssscesssscesssceessscesssceessscesssseesssseessscssssseessscesssseessasseesscsesescesasseessosesass 10
+
+4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE Pg 3 of 10
+
+Document Name MG-PRM-PRO-SO 202509.02
+Previous Name, if changed MG-PRC-PRO-SOP 202508.01
+
+Description MG PROCUREMENT STOCK-OUT PROCEDURE
+
+Revision No 02 ~
+
+Date of Revision 10 SEPTEMBER 2025 AN)
+
+Date of Next Revision 10 SEPTEMBER 2027 ‘ macro bas Yad |
+Author TSHEGOFATSO NAKEDI a SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+1 Procedure Description and Purpose
+
+The purpose of this Generic Stock-Out Procedure is to enable the dispatching of stock
+and the recording of such through the updating of the stock control sheet in the
+Procurement Department.
+
+Macrocomm Group Procurement does not have a centralised warehouse for storage, it
+keeps safety/buffer stock on hand to keep lead time at a minimum to satisfy customer
+demand in a timeous manner.
+
+Macrocomm Group uses the Salespersons and/or couriers to ensure fulfilment for the
+customer; some customers use their own couriers to collect ordered stock from the
+head office.
+
+1.1 Description
+
+This is the procedure of how to record all dispatched stock and the different channels
+used to dispatch.
+
+1.2 Benefits
+
+This procedure provides the Procurement team with the guidelines of how to record all
+stock dispatched to Customers to allow for fulfilment of customer orders.
+
+1.3 Areas of Responsibility
+The General Manager is responsible for signing off the invoicing checklist once the
+required quantity has been dispatched to the respective Group Subsidiary.
+
+The Procurement Officer is responsible for the stock-out process.
+
+1.4 Relationship between this Procedure and other
+Procedures/Processes
+
+This procedure informs the process for arranging for the delivery of stock to customers
+and recording of this in the stock control sheet. This follows on from the Generic Stock-
+In Process.
+
+This procedure documents the key steps of the Generic Stock-Out Process which affects
+the fulfilment of the customer's order.
+
+4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE Pg 4 of 10
+
+Document Name MG-PRM-PRO-SO 202509.02
+Previous Name, if changed MG-PRC-PRO-SOP 202508.01
+
+Description MG PROCUREMENT STOCK-OUT PROCEDURE
+
+Revision No 02 ~
+
+Date of Revision 10 SEPTEMBER 2025 AN)
+
+Date of Next Revision 10 SEPTEMBER 2027 ‘ macro bas Yad |
+Author TSHEGOFATSO NAKEDI a SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+2 Stock-Out Procedure Management
+
+2.1 Procedure Objectives and Metrics
+
+2.1.1 Procedure Objectives:
+
+e Confirmation of what is dispatched against the customer purchase order
+e Accurate recording of all dispatched stock to customers
+
+e Promote accurate reconciliation by the Finance Team against invoices and purchase
+orders
+
+e Effectively dispatch stock to customer
+2.1.2 Procedure Metrics:
+Each objective of this procedure is measured according to the:
+
+e Purchase Order received from the Group Subsidiary
+e Confirmation of delivery method to be used
+
+e Invoice issued to Customer to effect payment
+
+e Leadtime to deliver the goods to the Customer
+
+e Dispatch note
+
+e Waybill
+
+2.2 Procedure Owner(s) and Key Stakeholder(s)
+
+2.2.1. Procedure Owner
+
+The General Manager is responsible for managing this process and ensuring that all
+stakeholders follow the steps outlined for effective procurement.
+
+The person performing this task is the Procurement Officer and is the delegated
+responsible person.
+
+2.2.2 Key Stakeholders
+
+The key stakeholders are Procurement, Sales Team, Customers, appointed or selected
+Courier Company and Finance.
+
+3 Typical Procedure Inputs
+
+The typical procedure inputs are noted below:
+
+4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE Pg 5 of 10
+
+Document Name MG-PRM-PRO-SO 202509.02
+Previous Name, if changed MG-PRC-PRO-SOP 202508.01
+
+Description MG PROCUREMENT STOCK-OUT PROCEDURE
+
+Revision No 02 ~
+
+Date of Revision 10 SEPTEMBER 2025 AN)
+
+Date of Next Revision 10 SEPTEMBER 2027 ‘ macro AS |
+Author TSHEGOFATSO NAKEDI a SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+3.1 Information or Documents Needed
+The following information or documents are necessary for effective measuring and
+enabling of the Generic Stock-Out Procedure:
+
+e Purchase order from Subsidiary
+
+e Email from Salesperson confirming the customer delivery address
+e Delivery method to be used
+
+e Customer Invoice
+
+e Procurement delivery note(s) to customer
+
+3.2 Resources Needed
+
+The following resources are needed to support this procedure:
+
+e Stock control sheet
+e Finance and/or Procurement Checklist
+e Inventory Dispatch Note
+
+3.3 Personnel Needed
+
+The Procurement Officer is the person who arranges for the dispatching of the goods to
+the customer and records this on the stock control sheet.
+The Salesperson to confirm the customer delivery address.
+
+The Courier that is responsible for effectively delivering the stock to the customer.
+
+3.4 Preceding Processes/Procedures
+
+The preceding processes are Generic Ordering (available stock), Generic Stock-In (no
+stock/not enough stock to fulfil customer demand) processes performed by the
+Procurement Officer.
+
+4 Typical Procedure Outputs
+
+The following outputs:
+
+4.1 Typical outputs are:
+
+e Stock is dispatched
+
+e Stock is packaged
+
+e The stock control sheet is updated
+e The courier company is booked
+
+4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE Pg 6 of 10
+
+Document Name MG-PRM-PRO-SO 202509.02
+
+Previous Name, if changed MG-PRC-PRO-SOP 202508.01
+
+Description MG PROCUREMENT STOCK-OUT PROCEDURE
+
+Revision No 02 rr \
+
+Date of Revision 10 SEPTEMBER 2025 WZ \) . —
+Date of Next Revision 10 SEPTEMBER 2027 4 Macro - eain. |
+Author TSHEGOFATSO NAKEDI we SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+e Waybill issued for customer to sign, should a courier be used
+
+e Inventory dispatch note is signed by Group subsidiary if they are going to deliver
+stock
+
+e The customer invoice is issued
+e Customer order is fulfilled.
+
+4.2 Technical or System
+
+e Excel
+e Courier Website
+
+4.33 Documents
+
+e Stock Control Sheet
+
+e Delivery Note
+
+e Finance / Procurement Checklist
+
+e Courier waybill (if applicable)
+
+e Confirmation of Receipt email from customer (courier waybill)
+
+4.4 Enablement or Operationalisation of Another Process
+
+This Generic Stock-Out Procedure enables the Procurement department's delivery
+upliftment process, and Finance’s Customer Invoicing and Bank Statement
+Reconciliation processes.
+
+5 The Generic Stock-Out Process
+
+The Generic Stock-Out Procedure is important as it provides a record of all stock
+dispatched to customers.
+
+5.1 Sub-process: Stock Available
+
+This sub-procedure starts with there being stock on-hand for dispatching. The key steps
+are noted below:
+
+4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE Pg 7 of 10
+
+Document Name MG-PRM-PRO-SO 202509.02
+
+Previous Name, if changed MG-PRC-PRO-SOP 202508.01
+
+Description MG PROCUREMENT STOCK-OUT PROCEDURE -
+
+Revision No 02 rp
+
+Date of Revision 10 SEPTEMBER 2025 WF I
+
+Date of Next Revision 10 SEPTEMBER 2027 f macro - Seaeae
+Author TSHEGOFATSO NAKEDI a SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+5.1.1.1. Finance Administrator reviews all Documentation received from
+MFA/MSS Sales and informs Procurement Officer to proceed with
+Procurement processes.
+
+5.1.1.2 The Procurement Officer to confirm the delivery method of the stock for
+the customer with the Salesperson.
+
+5.1.1.3. The Salesperson to email confirmation of the delivery information to the
+Procurement Officer, see 5.2.1 below.
+
+5.2 Sub-process: Stock Dispatching
+
+This sub procedure is relevant for stock on-hand and stock that has been ordered and
+delivered for dispatching. The key steps are noted below:
+5.2.1 The Salesperson confirms the following by email with the Procurement Officer:
+5.2.1.1 The customer's name(s)
+5.2.1.2 Delivery method
+5.2.1.3 Delivery address
+5.2.1.4 Contact Person Name and Details
+
+The Procurement Officer will complete the Finance/Procurement checklist - 1SO15.1.0
+MG-FIN-PRC-CKL 20231100.01 - to confirm that all the necessary information and
+documentation is on-hand.
+
+5.2.2 The Finance/Procurement checklist is signed by both the Procurement Officer
+and General Manager.
+
+5.3 Sub-process: Dispatch Note
+
+5.3.1.1. Dispatch the stock either by:
+5.3.1.1.1 Customer to collect stock from Head Office
+5.3.1.1.2 Giving the stock to the Salesperson to deliver
+
+5.3.1.1.3 Arranging the courier to collect the stock to deliver to the
+customer.
+
+e The delivery method will be selected based upon the customer’s choice, or what is
+best practically.
+
+5.3.2 Update the stock control sheet to reflect the quantity and product dispatched to
+ensure accurate inventory measures.
+
+4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE Pg 8 of 10
+
+Document Name MG-PRM-PRO-SO 202509.02
+
+Previous Name, if changed MG-PRC-PRO-SOP 202508.01
+
+Description MG PROCUREMENT STOCK-OUT PROCEDURE
+
+Revision No 02 ~)
+
+Date of Revision 10 SEPTEMBER 2025 EE
+
+Date of Next Revision 10 SEPTEMBER 2027 Cmacrocomm
+Author TSHEGOFATSO NAKEDI “ SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+5.3.3. The inventory dispatch note is signed by all parties (Procurement Officer and
+Sales/Fleet consultant) involved if the stock has been dispatched to the
+Salesperson to deliver.
+
+5.3.4 The inventory dispatch note is signed by all parties (Procurement Officer and
+Customer) involved if the stock has been collected by the customer from the MG
+head office.
+
+5.4 Sub-process: Delivery Confirmation
+
+5.4.1. The Procurement Officer to obtain an email from the courier personnel
+confirming receipt of the stock, if the good were delivered by Courier.
+
+5.4.2 Request the waybill confirmation from the Courier company.
+
+5.4.3 File this confirmation received.
+
+6 Risks and Opportunities
+
+6.1 Risks
+
+The following risks have been identified:
+
+BUSINESS IMPACT MITIGATION ACTIONS
+
+Losing stock Revenue loss, poor Receiving confirmation email of
+customer experience and_ | received stock to ensure that the stock
+fulfilment of order, has been delivered to the customer, or
+reputational damage the confirmation of delivery from the
+
+Courier company.
+
+Stock sent to wrong Poor turnaround, Receiving confirmation of customer
+
+customer reputational risk, quotation and delivery address from the
+unnecessary costs to Salesperson prior to dispatching.
+
+retrieve such goods.
+
+6.2 Opportunities
+
+The following opportunities table will used to help improve the procedure and
+processes for greater efficiencies.
+
+PROCESS/PROCEDURE AMENDMENT,
+
+OPPORTUNITY BUSINESS IMPACT TRAINING REQUIREMENT
+
+4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE Pg 9 of 10
+
+Document Name MG-PRM-PRO-SO 202509.02
+
+Previous Name, if changed MG-PRC-PRO-SOP 202508.01
+
+Description MG PROCUREMENT STOCK-OUT PROCEDURE
+
+Revision No 02
+
+Date of Revision 10 SEPTEMBER 2025
+
+Date of Next Revision 10 SEPTEMBER 2027 jacrocomm
+Author TSHEGOFATSO NAKEDI SMART MADE SIMPLE
+Approver ASHOK SOOKLALL
+
+es
+
+7 Processes
+
+The processes mapped below support this procedure.
+
+Juwsow eC
+
+STOCK OUT PROCESS CC
+
+MACROCOMM GROUP PROCUREMENT DEPARTMENT -
+\macrocomm
+THARP MADE SIMPLE
+
+Generic Ordering ‘Stock in
+
+¥
+
+Finance Admin all Documentation
+wed rom MEAMMS Sales,
+
+No
+
+‘Generic Courier (Delivery/ Procurement Officer signs inventory > Update Stock contro! sheet accordingly
+Inform MFA/MSS Sales to “upifnent) dispatch note, and fies 1
+make amendment 4 +
+
+Couriered Collected by Customer Detivered by Subsidiary Salesperson
+
+’
+Couriered, collected, or
+delrvered by subsidiary
+
+8 Support
+
+If there are any queries or problems regarding the Stock-Out Procedure contact either
 the General Manager or the Procurement Officer.
+
+4- MG-PRM-PRO-SO 202509.02 MG PROCUREMENT STOCK OUT PROCEDURE Pg 10 of 10

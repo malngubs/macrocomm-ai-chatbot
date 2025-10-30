@@ -1,54 +1,68 @@
-MG-HR-HAA-COM 202505.03 MG HUMAN RESOURCES RESPONSIBLE INTERNET USAGE 040925 
-DEPARTMENT: HUMAN RESOURCES  
-D A TE :  4 T H SE PT EMB E R 20 25   
-O F F IC E AD D R E S S :  WA T E RF A LL  P O IN T  O F F I CE  PA R K ,  
-B U I LD IN G  1 , CN R W A T E R F A LL & W O OD ME A D  D R IV E .  M ID RA N D .  
- 
-T O : A L L ST A F F  
- 
-INTERNAL COMMUNICATION 
-  
- 
-SUBJE CT: MI SUSE OF IN TERNE T AN D DAT A – ZERO TOLERANCE REMINDER  
- 
-D ear team, 
-This is a formal reminder about the company’s expectations regarding the 
-responsible use of internet and dig ital resources.  
- 
-From a recent IT risk assessment done, w e’ve noticed increasing concerns  of: 
-• 
-Abuse of internet during work hours : Browsing unrelated sites reduces 
-produc tivity and distrac ts from our core responsibilities.  
-• 
-Accessing external websites : Many sites pose security risks, exposing our 
-systems to malware, phishing , or data breaches.  
-• 
-Sharing com pany inform ation on unstable or unauthorized platforms : 
-This c reates vulnerabilities that could compromise sensitive data and 
-damag e our reputation.  
-Specific ally, the re has been ex cessive use of site s like Disney Plus, Netflix, 
-AppleTV, Tiktok, RTCP, Snapchat, Facebook , DSTV and Youtube.  
- 
-These prac tic es are unacc eptable.  They affect bandwidth for business-critical 
-activities and platforms.  They reduc e productivity, expose the company to security 
-risks, and put sensitive data at risk.  
- 
-We ask all staff to: 
-1. Use the internet primarily for work -related purposes. 
-2. Be mindful of the sec urity risks when accessing external platforms.  
-3. A void sharing  c ompany data on personal or insecure channels.  
-4. Stay foc used on being produc tive and professional during work hours and 
-when working  remotely . 
-5. D ata provided  by the c ompany for remote work needs to be used for that 
-purpose only.  
- 
-Althoug h we have the option to drill down into individual us age, we are choosing 
-not to  for now . We hope that this c ommunication will serve as a warning around 
-responsible usage.  Going  forward, n on-compliance will be treated as a serious 
-breac h of c ompany policy and may result in disciplinary action.   
- 
-Thank you for your c ooperation.  
- 
-Best reg ards, 
-Yakshini N aidoo  
-MANAGI N G E XE CUTI VE : CORPORATE SERVICES
+macro
+
+SMART MADE SIMPLE
+
+DATE: 474 SEPTEMBER 2025
+OFFICE ADDRESS: WATERFALL POINT OFFICE PARK,
+BUILDING 1, CNR WATERFALL & WOODMEAD DRIVE. MIDRAND.
+
+TO: ALL STAFF
+
+INTERNAL COMMUNICATION
+
+SUBJECT: MISUSE OF INTERNET AND DATA - ZERO TOLERANCE REMINDER
+
+Dear team,
+
+This is a formal reminder about the company’s expectations regarding the
+responsible use of internet and digital resources.
+
+From a recent IT risk assessment done, we've noticed increasing concerns of:
+
+e Abuse of internet during work hours: Browsing unrelated sites reduces
+productivity and distracts from our core responsibilities.
+
+e Accessing external websites: Many sites pose security risks, exposing our
+systems to malware, phishing, or data breaches.
+
+e Sharing company information on unstable or unauthorized platforms:
+This creates vulnerabilities that could compromise sensitive data and
+damage our reputation.
+
+Specifically, there has been excessive use of sites like Disney Plus, Netflix,
+AppleTV, Tiktok, RTCP, Snapchat, Facebook, DSTV and Youtube.
+
+These practices are unacceptable. They affect bandwidth for business-critical
+
+activities and platforms. They reduce productivity, expose the company to security
+risks, and put sensitive data at risk.
+
+We ask all staff to:
+
+Use the internet primarily for work-related purposes.
+
+Be mindful of the security risks when accessing external platforms.
+
+Avoid sharing company data on personal or insecure channels.
+
+Stay focused on being productive and professional during work hours and
+
+when working remotely.
+
+5. Data provided by the company for remote work needs to be used for that
+purpose only.
+
+BWN
+
+Although we have the option to drill down into individual usage, we are choosing
+not to for now. We hope that this communication will serve as a warning around
+responsible usage. Going forward, non-compliance will be treated as a serious
+breach of company policy and may result in disciplinary action.
+
+Thank you for your cooperation.
+Best regards,
+
+Yakshini Naidoo
+MANAGING EXECUTIVE: CORPORATE SERVICES
+
+MG-HR-HAA-COM 202505.03 MG HUMAN RESOURCES RESPONSIBLE INTERNET USAGE 040925

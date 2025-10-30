@@ -1,164 +1,301 @@
-TEMPLATE NAME 
-MG-NDA-LPR 202305.01.00 
- 
-DOCUMENT NAME 
-NON-DISCLOSURE AGREEMENT PROCEDURE 
-DATE OF TEMPLATE AND VERSION 
-24 MAY 2023 VERSION ORIGINAL 
-TEMPLATE AUTHOR 
-MACROCOMM LEGAL DEPARTMENT 
- 
-01.MG-NDA-LPR 20230501.00 NDA LEGAL PROCEDURE 
-1 | Page 
-Original Document 24/05/23 
-All printed copies are deemed uncontrolled versions of this policy 
- 
-NON- DISCLOSURE AND CONFIDENTIALITY AGREEMENT 
-(“AGREEMENT”) POLICY PROCEDURE 
-Date of Policy 
-24 May 2023 
-Legal Policy Number and Name 
-01.MG-NDA-LPR 20230501.00 NDA LEGAL 
-PROCEDURE 
-Supercede Notification 
-This is the original NDA Policy Procedure document 
-Office of Origin 
-Macrocomm Group Legal Department 
-Policy Approval Authority 
-Head of Macrocomm Group Legal Department: Kamal 
-Bhimma 
-Date Policy Approved with 
-Signature 
- 
- 
-TABLE OF CONTENTS 
-1 
-OVERVIEW/PROCEDURE DESCRIPTION ......................................................................................................... 2 
-2 
-AREAS OF RESPONSIBILITY .............................................................................................................................. 2 
-3 
-PROCEDURE DETAILS ........................................................................................................................................ 2 
-3.1 
-MACROCOMM NON-DISCLOSURE AGREEMENT REQUEST ............................................................................................. 2 
-3.2 
-REVIEW REQUEST OF AN EXTERNAL NON-DISCLOSURE AGREEMENT.............................................................................. 3 
-4 
-REFERENCES ........................................................................................................................................................ 4 
-5 
-SUPPORT .............................................................................................................................................................. 4 
- 
- 
- 
- 
+TEMPLATE NAME MG-NDA-LPR 202305.01.00 . .)
 
-TEMPLATE NAME 
-MG-NDA-LPR 202305.01.00 
- 
-DOCUMENT NAME 
-NON-DISCLOSURE AGREEMENT PROCEDURE 
-DATE OF TEMPLATE AND VERSION 
-24 MAY 2023 VERSION ORIGINAL 
-TEMPLATE AUTHOR 
-MACROCOMM LEGAL DEPARTMENT 
- 
-01.MG-NDA-LPR 20230501.00 NDA LEGAL PROCEDURE 
-2 | Page 
-Original Document 24/05/23 
-All printed copies are deemed uncontrolled versions of this policy 
- 
-1 
-Overview/Procedure Description 
-The purpose of this NDA procedure is to enable the legal department to support business in their pursuit of 
-strategic objectives and business opportunities in a streamlined manner.  This procedure informs the lead 
-times required by the Legal Department to effectively support business. 
-The policy this procedure supports is the NDA Policy [MG-NDA-LP 202305.01.00 NDA LEGAL POLICY] 
-2 
-Areas of responsibility 
-The Head of the Legal Department is responsible to ensure that the policy and procedure regarding the 
-Non-Disclosure Agreement is adhered to by business. 
-All business unit heads and subsidiary managing executives are responsible for ensuring that their teams 
-and staff adhere to the policy and procedure for requesting the drafting of a Non-Disclosure Agreement or 
-for the review, acceptance and signature of an external non-disclosure agreement. 
+DOCUMENT NAME NON-DISCLOSURE AGREEMENT PROCEDURE “mnacrocomm
+DATE OF TEMPLATE AND VERSION | 24 MAY 2023 VERSION ORIGINAL : oman mane simone
+TEMPLATE AUTHOR MACROCOMM LEGAL DEPARTMENT
+
+NON- DISCLOSURE AND CONFIDENTIALITY AGREEMENT
+(“AGREEMENT”) POLICY PROCEDURE
+
+Date of Policy 24 May 2023
+Legal Policy Number and Name 01.MG-NDA-LPR 20230501.00 NDA LEGAL
+PROCEDURE
+Supercede Notification This is the original NDA Policy Procedure document
+Office of Origin Macrocomm Group Legal Department
+Policy Approval Authority Head of Macrocomm Group Legal Department: Kamal
+Bhimma
+Date Policy Approved with
+Signature
+TABLE OF CONTENTS
+1. OVERVIEW/PROCEDURE DESCRIPTION..............csssssssssssssssssosscsssssssscsssssossssssesssssscsesessssssssesosssscssssssssesesesoeees
+2 AREAS OF RESPONSIBILITY...............ssscssssssssssssssssssssssssssssssssssesssssssssessssssssssesssssscsesossssssesesssssscsesessssssesesossssnsons
+3 PROCEDURE DETAILG..................sssssssssssssssssssssssssssssssssssssssesssssscssssossssssssososscsesossssesosessssssesesosssscsssessssssesessesesess
+
+3.1 MACROCOMM NON-DISCLOSURE AGREEMENT REQUEST .sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssesssssssssesssssssss
+3.2 REVIEW REQUEST OF AN EXTERNAL NON-DISCLOSURE AGREEMENT
+
+A —_EREFERENCEG...........ssssssssnscssssssssssssssnsenssnssnssnesnsncensenssussnssusnscnseussussnssusssessenessensensenesnensenseasenseneeaseneaseneneeneseensensenes
+5 —-_ SUPPORT.........sscsssssssssssssessessssssnesssnsensenssnssnssnsssensensensenssucousnseneesecusansnuenscnenssasensensenseneonensesussseaeenesnensensensensenesnesaees
+01.MG-NDA-LPR 20230501.00 NDA LEGAL PROCEDURE 1 | Page
+
+Original Document 24/05/23
+All printed copies are deemed uncontrolled versions of this policy
+
+TEMPLATE NAME MG-NDA-LPR 202305.01.00
+
+DOCUMENT NAME NON-DISCLOSURE AGREEMENT PROCEDURE Ymacrocomm
+DATE OF TEMPLATE AND VERSION | 24 MAY 2023 VERSION ORIGINAL SMART MADE SIME
+TEMPLATE AUTHOR MACROCOMM LEGAL DEPARTMENT
+
+1 Overview/Procedure Description
+
+The purpose of this NDA procedure is to enable the legal department to support business in their pursuit of
+strategic objectives and business opportunities in a streamlined manner. This procedure informs the lead
+times required by the Legal Department to effectively support business.
+
+The policy this procedure supports is the NDA Policy [MG-NDA-LP 202305.01.00 NDA LEGAL POLICY]
+
+2 Areas of responsibility
+
+The Head of the Legal Department is responsible to ensure that the policy and procedure regarding the
+Non-Disclosure Agreement is adhered to by business.
+
+All business unit heads and subsidiary managing executives are responsible for ensuring that their teams
+and staff adhere to the policy and procedure for requesting the drafting of a Non-Disclosure Agreement or
+for the review, acceptance and signature of an external non-disclosure agreement.
+
 Each staff member within the Macrocomm Group has a responsibility to know the process regarding Non-
-Disclosure Agreements, as they are expected to refer to the operational manual to determine the processes 
-of the group. 
- 
-3 
-Procedure Details 
-The procedure to obtain a non-disclosure agreement for a prospective partner or customer, or review of an 
-external non-disclosure agreement is noted below. 
-3.1 Macrocomm Non-Disclosure Agreement Request 
-The process for an internal NDA is noted below: 
-1. The staff member/business requestor must complete the request form: MG-NDA-LR 20230501.00 
-and submit this by email to the legal department using their email address: 
-legal@macrocomm.co.za. 
-2. The legal department will assign this request to the relevant legal representative who will draft the 
-NDA based upon the request.  If there are any queries regarding this NDA, the legal representative 
-will discuss this with the business requestor. 
-3. The legal department representative will open a new file for the prospective partner / customer and 
-email the NDA to the staff member/business requestor. 
-4. The staff member /business requestor will email the NDA to the prospective partner or customer to 
-sign, scan and send back to Macrocomm.  On receipt of the signed NDA from the prospective 
-partner or customer, the NDA must be emailed to the legal department. 
-5. On receipt of the signed NDA, the legal department will add this to the file that was opened on 
-drafting. 
-This procedure is documented in the process diagram on Page3. 
+Disclosure Agreements, as they are expected to refer to the operational manual to determine the processes
+of the group.
 
-TEMPLATE NAME 
-MG-NDA-LPR 202305.01.00 
- 
-DOCUMENT NAME 
-NON-DISCLOSURE AGREEMENT PROCEDURE 
-DATE OF TEMPLATE AND VERSION 
-24 MAY 2023 VERSION ORIGINAL 
-TEMPLATE AUTHOR 
-MACROCOMM LEGAL DEPARTMENT 
- 
-01.MG-NDA-LPR 20230501.00 NDA LEGAL PROCEDURE 
-3 | Page 
-Original Document 24/05/23 
-All printed copies are deemed uncontrolled versions of this policy 
- 
- 
-3.2 Review Request of an External Non-Disclosure Agreement 
-The process for an externa NDA to be reviewed is noted below: 
-1. The staff member/business requestor must complete the request form: MG-NDA-LER 20230501.00 
-and submit this by email to the legal department using their email address: 
-legal@macrocomm.co.za. 
-2. The legal department will assign this request to the relevant legal representative who will draft the 
-NDA based upon the request.  If there are any queries regarding this NDA, the legal representative 
-will discuss this with the business requestor. 
-3. The legal department representative will open a new file for the prospective partner / customer and 
-email the NDA to the staff member/business requestor. 
-4. The legal department representative who has mandate to sign the NDA on behalf of Macrocomm 
-Group will sign it and email the scanned copy to the staff member / business requestor. 
-5. The staff member /business requestor will email the  signed NDA to the prospective partner or 
-customer 
-This procedure is documented in the process diagram on Page4. 
+3 Procedure Details
 
-TEMPLATE NAME 
-MG-NDA-LPR 202305.01.00 
- 
-DOCUMENT NAME 
-NON-DISCLOSURE AGREEMENT PROCEDURE 
-DATE OF TEMPLATE AND VERSION 
-24 MAY 2023 VERSION ORIGINAL 
-TEMPLATE AUTHOR 
-MACROCOMM LEGAL DEPARTMENT 
- 
-01.MG-NDA-LPR 20230501.00 NDA LEGAL PROCEDURE 
-4 | Page 
-Original Document 24/05/23 
-All printed copies are deemed uncontrolled versions of this policy 
- 
- 
- 
-4 
-References 
-The NDA Policy document cross references this procedure document. 
-All the documents supporting this procedure can be found on the server under the folder: 11. Legal> 11.1. 
-NDA 
-5 
-Support 
-If there are any queries or problems regarding the NDA procedure, these are to be addressed with the Head 
+The procedure to obtain a non-disclosure agreement for a prospective partner or customer, or review of an
+external non-disclosure agreement is noted below.
+
+3.1 Macrocomm Non-Disclosure Agreement Request
+
+The process for an internal NDA is noted below:
+
+1. The staff member/business requestor must complete the request form: MG-NDA-LR 20230501 .00
+and submit this by email to the legal department using their email address:
+legal@macrocomm.co.za.
+
+2. The legal department will assign this request to the relevant legal representative who will draft the
+NDA based upon the request. If there are any queries regarding this NDA, the legal representative
+will discuss this with the business requestor.
+
+3. The legal department representative will open a new file for the prospective partner / customer and
+email the NDA to the staff member/business requestor.
+
+4, The staff member /business requestor will email the NDA to the prospective partner or customer to
+sign, scan and send back to Macrocomm. On receipt of the signed NDA from the prospective
+partner or customer, the NDA must be emailed to the legal department.
+
+5. Onreceipt of the signed NDA, the legal department will add this to the file that was opened on
+drafting.
+
+This procedure is documented in the process diagram on Page3.
+
+01.MG-NDA-LPR 20230501 .00 NDA LEGAL PROCEDURE 2 | Page
+Original Document 24/05/23
+All printed copies are deemed uncontrolled versions of this policy
+
+TEMPLATE NAME MG-NDA-LPR 202305.01.00
+
+DOCUMENT NAME NON-DISCLOSURE AGREEMENT PROCEDURE
+DATE OF TEMPLATE AND VERSION | 24 MAY 2023 VERSION ORIGINAL
+
+TEMPLATE AUTHOR MACROCOMM LEGAL DEPARTMENT
+
+macrocomm
+
+SMART MADE SIMPLE
+
+TEMPLATE NAME
+MACROCOMM GROUP LEGAL DEPARTMENT voavuae wee
+NON-DISCLOSURE AGREEMENT REQUEST FOR PARTNER / CLIENT VERSION
+
+AUTHOR
+
+SMART MADE SIMPLE
+
+Cy)
+—_ Ymacrocomm
+
+Business Opportuntiy
+Requiring an NDA;
+Agrees to sign an
+
+NDA
+
+PROSPECTIVE
+PARTNER/CLIENT
+
+|
+
+Agreement with
+Partner/Customer to
+sign an NDA
+
+Complete Form: MG-
+NDA-LR NDA
+REQUEST FORM
+
+NDA REQUESTOR
+
+Email to Legal
+
+Legal Acknowledges
+Receipt of Email
+Request
+
+LEGAL
+
+Email Opened
+
+Request Form
+Opened
+
+Receives Email
+
+Access LEGAL NDA
+Forms Folder
+
+NDA Emailed to
+NDA Partner / Customer
+Received to sign and return to
+Macrocomm
+
+New Partner/Customer
+NDA Drafted using
+Template: MG-NDA-LA
+
+NDA emailed to requestor
+
+New Legal File Opened for Prospective
+Partner/Customer
+
+Signs and Scans NDA
+
+Emails Signed NDA to
+Macrocomm
+
+Acknowledges
+Receipt of Signed
+
+NDA Pursues Further
+
+Engagement with
+Prospective Partner /
+
+Emails Signed NDA to Customer
+
+Legal
+
+Legal Acknowledges
+Receipt of Signed
+NDA
+
+Legal Files Signed NDAin
+Partner/Customer File
+
+3.2 Review Request of an External Non-Disclosure Agreement
+
+The process for an externa NDA to be reviewed is noted below:
+
+1. The staff member/business requestor must complete the request form: MG-NDA-LER 20230501.00
+and submit this by email to the legal department using their email address:
+legal@macrocomm.co.za.
+
+2. The legal department will assign this request to the relevant legal representative who will draft the
+NDA based upon the request. If there are any queries regarding this NDA, the legal representative
+will discuss this with the business requestor.
+
+3. The legal department representative will open a new file for the prospective partner / customer and
+email the NDA to the staff member/business requestor.
+
+4. The legal department representative who has mandate to sign the NDA on behalf of Macrocomm
+Group will sign it and email the scanned copy to the staff member / business requestor.
+
+5. The staff member /business requestor will email the signed NDA to the prospective partner or
+
+customer
+
+This procedure is documented in the process diagram on Page4.
+
+01.MG-NDA-LPR 20230501 .00 NDA LEGAL PROCEDURE
+
+Original Document 24/05/23
+
+All printed copies are deemed uncontrolled versions of this policy
+
+3 | Page
+
+TEMPLATE NAME MG-NDA-LPR 202305.01.00 - \\
+DOCUMENT NAME NON-DISCLOSURE AGREEMENT PROCEDURE “fnacrocomm
+DATE OF TEMPLATE AND VERSION | 24 MAY 2023 VERSION ORIGINAL “ smart MADE simere
+TEMPLATE AUTHOR MACROCOMM LEGAL DEPARTMENT
+‘TEMPLATE NAME MG NDA-LPP 2023050100 |
+MACROCOMM GROUP LEGAL DEPARTMENT Soa EE ,
+NON-DISCLOSURE AGREEMENT REVIEW REQUEST WITH PARTNER / CLIENT “"" a Cmacrocomm
+b
+Ss & Business Opportuntiy
+5 J Requiring Emails Macrocomm
+wu Py Macrocomm to signa NDA Receives Signed NDA
+as NDA
+ee
+raed
+a
+
+x
+
+o
+
+o Macrocomm
+
+et Receives NDA
+
+oO
+
+Fg
+
+=
+
+Pd Completes Form MG-
+
+a NDA-LAR
+
+202305.01.00 Pursues Further
+
+a ° Engagement with )
+
+< NDA Emailed to comnenneiinl
+
+a Partner / Customer
+
+= Meeting with to sign and return to
+
+a Email to Legal Legal Macrocomm
+
+a
+
+Legal Acknowled
+“ReceiptofEmail Reviews Meets with Legal Si NDA Emails NDA to
+Request NDA “Icons Eg Oiens Business
+
+=
+
+<=
+
+a Email Opened New Legal File Opened for
+
+Prospective Partner/Customer
+Request Form
+Open
+DATE f 25 MAY 2023
+
+4 _ References
+The NDA Policy document cross references this procedure document.
+
+All the documents supporting this procedure can be found on the server under the folder: 11. Legal> 11.1.
+NDA
+
+5 Support
+
+If there are any queries or problems regarding the NDA procedure, these are to be addressed with the Head
 of the Legal Department (legal@macrocomm.co.za).
+
+01.MG-NDA-LPR 20230501 .00 NDA LEGAL PROCEDURE 4 | Page
+Original Document 24/05/23
+All printed copies are deemed uncontrolled versions of this policy

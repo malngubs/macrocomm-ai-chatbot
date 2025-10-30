@@ -1,414 +1,355 @@
-Document -  
-MG-HR-LA-NS 202406.00 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG HR LEAVE APPLICATION PROCESS 
-Revision No 
-02 
-Date of Revision 
-12 JUNE 2024 
-Date of Next Revision 
-12 JUNE 2026 
-Approved by 
-Yakshini Naidoo 
-Date of Approval 
- 
- 
-MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE 
-Page 0 | 7 
- 
- 
- 
-Document Name: 
-MG-HR-PRO-LA 202406.00 
-Updated on: 
-12 JUNE 2024 
-Version: 
-00 
-Author: 
-Yakshini Naidoo 
-MACROCOMM 
-GROUP HR  
-LEAVE APPLICATION 
-PROCEDURE 
- 
+Document - MG-HR-LA-NS 202406.00
 
-Document -  
-MG-HR-LA-NS 202406.00 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG HR LEAVE APPLICATION PROCESS 
-Revision No 
-02 
-Date of Revision 
-12 JUNE 2024 
-Date of Next Revision 
-12 JUNE 2026 
-Approved by 
-Yakshini Naidoo 
-Date of Approval 
- 
- 
-MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE 
-Page 1 | 7 
- 
-DOCUMENT CONTROL 
-This provides information on the document version control and sign-off  
-DOCUMENT HISTORY 
-DOCUMENT NAME 
-VERSION 
-DATE 
-MG-HR-PRO-LA 202406.00 
-00 
-12 JUNE 2024 
- 
- 
- 
-DOCUMENT APPROVAL 
-DOCUMENT NAME.VERSION 
-MG-HR-PRO-LA 202406.00 
-CHANGES MADE 
-Aligned to ISO template 
-Removed process map  
-Refined key stakeholders in process 
-STAKEHOLDER NAME AND DESIGNATION 
-SIGNATURE 
-DATE 
-Sivi 
-Moodley 
-(Macrocomm 
-Group Chief 
-Executive Officer) 
- 
- 
-Elton Chettiar (Macrocomm Group Chief 
-Operating Officer) 
- 
- 
-Yakshini 
-Naidoo 
-(Managing 
-Executive: 
-Corporate Services and Compliance) 
- 
- 
-Charlene Van Onselen (Business Optimisation 
-Executive) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Previous Name, if changed N/A
 
-Document -  
-MG-HR-LA-NS 202406.00 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG HR LEAVE APPLICATION PROCESS 
-Revision No 
-02 
-Date of Revision 
-12 JUNE 2024 
-Date of Next Revision 
-12 JUNE 2026 
-Approved by 
-Yakshini Naidoo 
-Date of Approval 
- 
- 
-MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE 
-Page 2 | 7 
- 
-TABLE OF CONTENTS 
-1 
-INTRODUCTION ......................................................................................................................... 3 
-2 
-PURPOSE OR BACKGROUND .................................................................................................... 3 
-3 
-DEFINITIONS / ABBREVIATIONS USED IN THE DOCUMENT .................................................. 3 
-4 
-LEAVE APPLICATION .................................................................................................................. 3 
-4.1 
-OBJECTIVE ........................................................................................................................................ 3 
-4.2 
-DESCRIPTION (HIGH-LEVEL) ............................................................................................................... 3 
-4.3 
-BENEFITS ......................................................................................................................................... 3 
-4.4 
-KEY STAKEHOLDERS AND PERSONNEL................................................................................................ 4 
-4.5 
-KEY INPUTS ...................................................................................................................................... 4 
-4.6 
-KNOWLEDGE AND SKILLS REQUIRED TO PERFORM THIS TASK .............................................................. 4 
-5 
-PROCESS / PROCEDURE STEPS .................................................................................................. 4 
-5.1 
-PROCEDURE BY STEP ........................................................................................................................ 6 
-6 
-RISKS AND CONTROLS IDENTIFIED.......................................................................................... 6 
- 
- 
- 
+Description MG HR LEAVE APPLICATION PROCESS
 
-Document -  
-MG-HR-LA-NS 202406.00 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG HR LEAVE APPLICATION PROCESS 
-Revision No 
-02 
-Date of Revision 
-12 JUNE 2024 
-Date of Next Revision 
-12 JUNE 2026 
-Approved by 
-Yakshini Naidoo 
-Date of Approval 
- 
- 
-MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE 
-Page 3 | 7 
- 
-1 
-Introduction 
-This document serves to provide the procedure for applying for leave and 
-managing the associated administration thereof.  
-2 
-Purpose or Background 
-The purpose of this procedure is to ensure that the leave process is managed 
-centrally, with the relevant input to the payroll process.  
-3 
-Definitions / Abbreviations Used in the Document 
-Definition Term or Abbreviation 
-Define Term or Abbreviation 
-Leave  
-Any days off taken by the employee as part of the 
-labour 
-legislative 
-requirements 
-afforded 
-to 
-employees (sick leave, annual leave, study leave, 
-compassionate leave, family responsibility leave, 
-parental and maternity leave) 
-4 
-LEAVE APPLICATION  
-4.1 Objective 
-The objective of this process is to document the process for applying for leave 
-with the organisation as well as the administrative process related to the 
-capturing of the leave, and administration with payroll thereof.  
-4.2 Description (high-level) 
-This is the standard procedure to ensure that staff members apply for leave 
-through the correct channel and that leave forms are sent through to payroll for 
-application on the payroll system.  
-4.3 Benefits 
-The benefit of this procedure is the assurance of a professional and effective way 
-of leave management. 
- 
+Revision No 02 7
 
-Document -  
-MG-HR-LA-NS 202406.00 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG HR LEAVE APPLICATION PROCESS 
-Revision No 
-02 
-Date of Revision 
-12 JUNE 2024 
-Date of Next Revision 
-12 JUNE 2026 
-Approved by 
-Yakshini Naidoo 
-Date of Approval 
- 
- 
-MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE 
-Page 4 | 7 
- 
-4.4 Key Stakeholders and Personnel 
-Who are the key stakeholders in the process?   
-• 
-Custodian of process – HR 
-• 
-Input – Employees  
-• 
-Input - Line managers 
-• 
-Tundra – payroll service 
-4.5 Key Inputs 
-The following key inputs are required: 
-Input Type 
-Description and Detail 
-Technical   
-Sage Payroll System 
-Resources 
-Tundra payroll administration 
-Input Documents 
-Macrocomm leave form 
- 
- 
-4.6 Typical Outputs 
-The following are typical outputs: 
-• 
-Updating of the leave days available for the employee 
-• 
-Updating of the payslip information 
-• 
-Approved and Signed-off leave application form 
-4.7 Knowledge and Skills Required to Perform this Task 
-Payroll administration 
-Leave – legislative requirements 
- 
-5 
-Process / Procedure Steps 
-The following key procedural steps are required to be followed by the HR 
-department: 
-Step # 
-Step Task Description 
-Document Name and 
-Number and Version 
+Date of Revision 12 JUNE 2024 macro
 
-Document -  
-MG-HR-LA-NS 202406.00 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG HR LEAVE APPLICATION PROCESS 
-Revision No 
-02 
-Date of Revision 
-12 JUNE 2024 
-Date of Next Revision 
-12 JUNE 2026 
-Approved by 
-Yakshini Naidoo 
-Date of Approval 
- 
- 
-MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE 
-Page 5 | 7 
- 
-Step 1: 
-Employee requests leave by completing the 
-Macrocomm Leave application form  
-Macrocomm leave 
-application form  
-Step 2: 
-Manager signs off leave form   
- 
-Step 3: 
-Either the manager or employee submits the 
-signed off leave form to the HR department 
- 
-Step 4: 
-HR captures leave requests for the month on 
-the leave schedule (excel)   
-Working document 
-Step 5: 
-At month end, HR sends all leave forms to the 
-payroll administrators for capturing    
- 
-Step 6: 
-Payroll captures leave requests on the payroll 
-system, and generates a payslip report  
- 
-Step 7: 
-HR validates that all leave requests have been 
-captured and confirms with payroll prior to 
-payments.  
- 
-Step 8:  
-On employee resignation, HR calculates 
-amount due to employee on final leave 
-balance and submits to payroll for processing.  
- 
-Step 9: 
-Reversal of leave is managed through an 
-email request to Tundra to pull back leave 
-request 
- 
+Date of Next Revision 12 JUNE 2026 SMART MADE SIMPLE
+Approved by Yakshini Naidoo
 
-Document -  
-MG-HR-LA-NS 202406.00 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG HR LEAVE APPLICATION PROCESS 
-Revision No 
-02 
-Date of Revision 
-12 JUNE 2024 
-Date of Next Revision 
-12 JUNE 2026 
-Approved by 
-Yakshini Naidoo 
-Date of Approval 
- 
- 
-MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE 
-Page 6 | 7 
- 
-5.1 Procedure by Step 
- 
-6 
-Risks and Controls Identified 
-The following risks have been identified and the controls to mitigate these are: 
-Risk description 
-Control objective 
-Control Activity 
-Process 
-Reference 
-Unauthorised 
-leave 
-Non submission of forms 
-has a financial impact on 
-the business in terms  
-Regular communication and 
-reminders around submission 
-of leave forms  
-N/A 
- 
+Date of Approval
+
+Normmons0co | MACROCOMM
+Updated on GROUP HR
+
+version LEAVE APPLICATION
+AUN PROCEDURE
+
+MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE Page 0 | 7
+
+Document - MG-HR-LA-NS 202406.00
+
+Previous Name, if changed N/A
+
+Description MG HR LEAVE APPLICATION PROCESS
+
+Revision No 02 7
+
+Date of Revision 12 JUNE 2024 macro
+
+Date of Next Revision 12 JUNE 2026 SMART MADE SIMPLE
+Approved by Yakshini Naidoo
+
+Date of Approval
+
+DOCUMENT CONTROL
+This provides information on the document version control and sign-off
+
+DOCUMENT HISTORY
+
+DOCUMENT NAME VERSION DATE
+MG-HR-PRO-LA 202406.00 00 12 JUNE 2024
+DOCUMENT APPROVAL
+
+MG-HR-PRO-LA 202406.00
+
+DOCUMENT NAME.VERSION
+
+CHANGES MADE
+
+Aligned to ISO template
+
+Removed process map
+
+Refined key stakeholders in process
+
+STAKEHOLDER NAME AND DESIGNATION SIGNATURE DATE
+
+Sivi Moodley (Macrocomm Group Chief
+Executive Officer)
+
+Elton Chettiar (Macrocomm Group Chief
+Operating Officer)
+
+Yakshini Naidoo (Managing Executive:
+Corporate Services and Compliance)
+
+Charlene Van Onselen (Business Optimisation
+Executive)
+
+MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE Page 1 | 7
+
+Document - MG-HR-LA-NS 202406.00
+
+Previous Name, if changed N/A
+
+Description MG HR LEAVE APPLICATION PROCESS
+
+Revision No 02 Z
+
+Date of Revision 12 JUNE 2024 macro ;
+
+Date of Next Revision 12 JUNE 2026 SMART MADE SIMPLE
+Approved by Yakshini Naidoo
+
+Date of Approval
+
+TABLE OF CONTENTS
+
+—_
+
+INTRODUCTION ...........ccscssssssssesssscsscessssecsssssscessssecsscssenseesseecsscssensensseecsscssensesssassenssessescusessonsees
+PURPOSE OR BACKGROUND .............cccsscsssssssessssecssctsssersseecsscssensensssecescesesseessessescsssnseessesenscens
+DEFINITIONS / ABBREVIATIONS USED IN THE DOCUMENT..................ccssssscssssercssseessssseeeees
+LEAVE APPLICATION.............scssssssssssssssccsscsssscessssecsscsssssessscecesceseseessessascesecaeessessnsccessaseusessonsees
+
+kh WwW N
+
+41 OBJECTIVE ssssscescsscscscscsssscscscscsesssscsvsesssssscscsssssssscssssssvevscsussssssuscsssssesscsesssssesscsseusssevsseususesavsseususessseses
+4.2 DESCRIPTION (HIGH-LEVEL) ..scscssscscssscscscscscscscscscscscscscsescsescscscscscscscscscscscscscscscsescssscacscscscssscssesscssesseaes
+4.3 BENEFITS ..scsccscscscscsssscscssscsssssecsssssssscecsssssscsvsssssssevscsusssevscsesssssecsssssssssecsesssecsvscsusssecsseseususasssessnseseseses
+4.4 KEY STAKEHOLDERS AND PERSONNEL. u.ssssssssssssscsssssessscsessssssssssssssssssssssssssssssvssssesesessscsssessacsesssssseases
+4.5 KEY INPUTS vccscsccsssssscscscscsssssecscsssscscessssssscsvscsssssevsvsssusevscsesssssessssssusssessesssussvsssusssacaseseususasssessusevaseees
+4.6 KNOWLEDGE AND SKILLS REQUIRED TO PERFORM THIS TASK....ccccscessssesececessecsrscessesevscacececeacaceceesevaees
+5 PROCESS / PROCEDURE STEP...............cccsssscccccssssceccccssscccccsssscecccesssceccccesccscecssscescecesscesccsessceces
+5.1 PROCEDURE BY STEP
+
+6 RISKS AND CONTROLS IDENTIFIED................csssscssssssssssecsssssecsssssesssseesssssesessseecsssseessseseesees
+
+MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE Page 2 | 7
+
+Document - MG-HR-LA-NS 202406.00
+
+Previous Name, if changed N/A
+
+Description MG HR LEAVE APPLICATION PROCESS ~
+
+Revision No 02 \\
+
+Date of Revision 12 JUNE 2024 MmMacroconm®
+Date of Next Revision 12 JUNE 2026 “ SMART MADE SIMPLE
+Approved by Yakshini Naidoo
+
+Date of Approval
+
+1 Introduction
+
+This document serves to provide the procedure for applying for leave and
+managing the associated administration thereof.
+
+2 Purpose or Background
+
+The purpose of this procedure is to ensure that the leave process is managed
+centrally, with the relevant input to the payroll process.
+
+3 Definitions / Abbreviations Used in the Document
+
+Definition Term or Abbreviation Define Term or Abbreviation
+
+Leave Any days off taken by the employee as part of the
+labour legislative requirements afforded to
+employees (sick leave, annual leave, study leave,
+compassionate leave, family responsibility leave,
+parental and maternity leave)
+
+4 LEAVE APPLICATION
+
+4.1 Objective
+
+The objective of this process is to document the process for applying for leave
+with the organisation as well as the administrative process related to the
+capturing of the leave, and administration with payroll thereof.
+
+4.2 Description (high-level)
+
+This is the standard procedure to ensure that staff members apply for leave
+through the correct channel and that leave forms are sent through to payroll for
+application on the payroll system.
+
+4.3 Benefits
+
+The benefit of this procedure is the assurance of a professional and effective way
+of leave management.
+
+MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE Page 3 | 7
+
+Document - MG-HR-LA-NS 202406.00
+
+Previous Name, if changed N/A
+
+Description MG HR LEAVE APPLICATION PROCESS
+
+Revision No 02
+
+Date of Revision 12 JUNE 2024 an Macroconm”
+Date of Next Revision 12 JUNE 2026 SMART MADE SIMPLE
+Approved by Yakshini Naidoo
+
+Date of Approval
+
+4.4 Key Stakeholders and Personnel
+
+Who are the key stakeholders in the process?
+
+e — Custodian of process - HR
+° Input - Employees
+
+e Input - Line managers
+
+e Tundra - payroll service
+
+4.5 Key Inputs
+
+The following key inputs are required:
+
+Input Type | Description and Detail
+
+Technical Sage Payroll System
+Resources Tundra payroll administration
+Input Documents Macrocomm leave form
+
+4.6 Typical Outputs
+
+The following are typical outputs:
+
+° Updating of the leave days available for the employee
+° Updating of the payslip information
+e Approved and Signed-off leave application form
+
+4.7 Knowledge and Skills Required to Perform this Task
+
+Payroll administration
+
+Leave - legislative requirements
+
+5 Process / Procedure Steps
+
+The following key procedural steps are required to be followed by the HR
+department:
+
+Document Name and
+
+Step Task Description Number and Version
+
+MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE Page 4 | 7
+
+macro
+
+Document - MG-HR-LA-NS 202406.00
+
+Previous Name, if changed N/A
+
+Description MG HR LEAVE APPLICATION PROCESS
+Revision No 02
+
+Date of Revision 12 JUNE 2024
+
+Date of Next Revision 12 JUNE 2026
+
+SMART MADE SIMPLE
+
+Approved by
+
+Yakshini Naidoo
+
+Date of Approval
+
+Step 1: Employee requests leave by completing the | Macrocomm leave
+Macrocomm Leave application form application form
+Step 2: Manager signs off leave form
+Step 3: Either the manager or employee submits the
+signed off leave form to the HR department
+Step 4: HR captures leave requests for the month on | Working document
+the leave schedule (excel)
+Step 5: At month end, HR sends all leave forms to the
+payroll administrators for capturing
+Step 6: Payroll captures leave requests on the payroll
+system, and generates a payslip report
+Step 7: HR validates that all leave requests have been
+captured and confirms with payroll prior to
+payments.
+Step 8: On employee resignation, HR calculates
+amount due to employee on final leave
+balance and submits to payroll for processing.
+Step 9: Reversal of leave is managed through an
+
+email request to Tundra to pull back leave
+request
+
+MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE
+
+Page5 | 7
+
+Document -
+
+MG-HR-LA-NS 202406.00
+
+Previous Name, if changed N/A
+
+Description MG HR LEAVE APPLICATION PROCESS
+Revision No 02
+
+Date of Revision 12 JUNE 2024
+
+Date of Next Revision 12 JUNE 2026
+
+Approved by
+
+Yakshini Naidoo
+
+Date of Approval
+
+5.1 Procedure by Step
+
 1
-• Employee completes Leave 
+
++ Employee completes Leave
 application form
+
 2
-• Manager signs leave application 
+
+* Manager signs leave application
 form
+
+Giacrocomm
+
+ra SMART MADE SIMPLE
+
 3
-• Leave request is submitted to HR
+
+* Leave request is submitted to HR
+
 4
-• HR captures on the leave 
+
+* HR captures on the leave
+
 schedule
+
 5
-• HR submits leave forms to 
+
+* HR submits leave forms to
 payroll at month end
+
 6
-• Payroll captures leave requests 
+
+* Payroll captures leave requests
 and submits a payslip report
+
 7
-HR validates leave requests and 
-confirms with payroll for final 
-processing
-8
-Leave reversals are made via 
-email instruction
+
+HR validates leave requests and 8
+
+confirms with payroll for final Leave reversals are made via
+processing email instruction
+
 9
-Final leave calculations are done 
-by HR and sent to payroll for 
+
+Final leave calculations are done
+by HR and sent to payroll for
 employees exiting the business
+
+6 Risks and Controls Identified
+
+The following risks have been identified and the controls to mitigate these are:
+
+Process
+Risk description Control objective Control Activity Reference
+Unauthorised Non submission of forms | Regular communication and N/A
+leave has a financial impact on | reminders around submission
+the business in terms of leave forms
+
+MG-HR-PRO-LA 202406.00 MG HR LEAVE APPLICATION PROCEDURE Page 6 | 7

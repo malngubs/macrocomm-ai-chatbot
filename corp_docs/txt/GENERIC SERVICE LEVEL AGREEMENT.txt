@@ -1,610 +1,693 @@
-Ref: MG-LGL-SERVICE PROVIDER-SLA-TEM 202504.02 
- 
-SERVICES AGREEMENT 
-Between 
-(“SERVICE PROVIDER”) 
-MACROCOMM GROUP (PTY) LTD 
-(Hereinafter referred to as "Macrocomm Fleet Analytics") 
-(Registration Number 2018/061135/07) 
-of 
-Building 1, Waterfall Point Office Park, 
-Cnr Woodmead and Waterfall Drive, 
-Midrand, 
-1682 
-And 
-(“THE CLIENT”) 
-________________________________________________ 
-(Hereinafter referred to as “______________”) 
- 
-(Registration Number: ____________________) 
-of 
-Address: ____________________________ 
+macro
 
- 
-Ref: MG-LGL-SERVICE PROVIDER-SLA-TEM 202504.02 
- 
-CLIENT DETAILS 
-Client: 
-  
-Telephone: 
- 
-Fax: 
- 
-Cell: 
- 
-E-mail: 
- 
-Physical Address: 
- 
-Postal Address: 
- 
-Contact person: 
- 
-1 
-RECORDAL 
-1.1 
-This Agreement shall operate as a Master Agreement and shall apply as a severable 
-and distinct Agreement in respect to the services set out in clause 3. 
-1.2 
-The Service Provider agrees to render the Services as specified in the Scope of Service 
-for the Client who agrees to remunerate the Service Provider for this service, upon the 
-terms and conditions set out in this Agreement. 
-1.3 
-The commencement date of this agreement shall be ____________________. The agreement 
-shall be for a period of ___________ months. 
-1.4 
-The service is as defined in the Annexure A. 
-1.5 
-The services contract cost is based on the Service Fees payable and invoiced on a    
-monthly basis in accordance with the Scope of Service. 
-2 
-  INTERPRETATION 
-2.1 
-The terms set out below will bear the meanings assigned to them below when used in 
-this agreement or any Annexure hereto. 
-2.1.1 
-Agreement – means this Agreement unless otherwise stipulated. 
-2.1.2 
-API – means Application Programming Interface 
-2.1.3 
-Business Days – means any day that is not a Saturday, Sunday, or public 
-holiday 
-2.1.4 
-Contract Term – means the start date and end date on which the Service 
-Provider delivers the Services as agreed with the Client. 
-2.1.5 
-csv – means a text comma separated values file 
-2.1.6 
-Data ingestion – means the process of collecting and loading data from various 
-sources into the SaaS system for storage, processing, and analysis 
-2.1.7 
-Downtime – means the SaaS Software is unavailable due to unplanned 
-incidents due to network outages or other which are beyond reasonable 
-control of SERVICE PROVIDER 
-2.1.8 
-Received Data – means a third-party tracking company device information 
-2.1.9 
-SaaS – means Software as a Service 
-2.1.10 
-Services – means deliverables as per the scope of service agreed and signed 
-off with the Client. 
+SERVICES AGREEMENT
+Between
+(“SERVICE PROVIDER”)
+MACROCOMM GROUP (PTY) LTD
+(Hereinafter referred to as "Macrocomm Fleet Analytics")
 
- 
- 
-2 
-MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date. 
-2.1.11 
-Service Fees – means the actual fees to be paid for the Services specified in 
-Clause 3 Scope of Service and defined in Annexure A. 
-2.1.12 
-Scheduled Downtime – means scheduled time per month when maintenance 
-is done on the SaaS Software Platform 
-2.1.13 
-SFTP – means Secure File Transfer Protocol 
-2.1.14 
-Support – means the technical support that will be provided to all Users 
-2.1.15 
-Uptime – Means the SaaS Software is available for the user to access and utilise 
-2.1.16 
-Users – means the company employees will have access to the SaaS Platform 
-2.1.17 
-xlsx – means MS Office Excel Open XML (extendable mark-up language) 
-Spreadsheet; a zip-compressed XML based format 
-2.2 
-In this Agreement, unless the context requires otherwise. 
-2.2.1 
-The singular will include the plural and vice versa. 
-2.2.2 
-Words indicating one gender will import and include the other genders. 
-2.2.3 
-Words indicating natural persons will import and include juristic and other 
-persons and vice versa. 
-3 
-SCOPE OF SERVICE 
-This Agreement sets forth the terms and conditions under which Service Provider agrees to 
-provide access of the Service Provider SaaS and provide all other services necessary for 
-productive use of such software including customisation/integration, user identification 
-and password change management, data import/export, monitoring, technical support, 
-maintenance, training, backup and recovery, and change management (the “Services”) to 
-the Client and the Client’s customers.  The Agreement shall remain in effect unless 
-terminated as provided for herein. 
-3.1 
-The Service Provider shall provide the following services to the Client. 
-3.1.1 
-Data Analytics Services 
-This service comprises of the following: 
-3.1.1.1 Daily ingestion and processing of trip and event data collected via API 
-from XXXXX’s existing fleet management system. 
-3.1.1.2 Ingestion of cost data related to fleet operation, delivered by XXXX via 
-one of the following mechanisms: 
-• 
-API Delivery 
-• 
-Push to SFTP 
-• 
-Email attachment, in either a csv or xlsx format, to a designated 
-Service Provider mailbox. 
+(Registration Number 2018/061135/07)
+of
 
- 
- 
-3 
-MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date. 
-3.1.2 
-Analytics Outputs 
-3.1.2.1 This comprises of processed data used to generate and deliver 
-analytics including: 
-• 
-Total Cost of Ownership (TCO) 
-• 
-Fleet Utilisation metrics 
-• 
-Driving style scores and event-based scoring 
-• 
-Insights into costs attributed to sub-optimal driving behaviours 
-3.1.3 
-Dashboard Access 
-3.1.4 
-Analytics and insights will be accessible via a secure, web-based dashboard 
-maintained by Service Provider. 
-3.1.5 
-Service Delivery Parameters 
-3.1.5.1 Data Ingestion and Processing 
-• 
-Trip and driving event data are harvested once every 24 (twenty-
-four) hours. 
-• 
-Cost data is ingested upon receipt through any supported method 
-within the 24 (twenty-four) hour ingestion window 
-• 
-Data processing occurs once daily, triggered by the successful trip 
-data API pull and incorporating any costs data received in the 
-preceding 24 (twenty-four) hour period. 
-3.1.5.2 Uptime Commitment 
-• 
-The SaaS dashboard and supporting services shall maintain a 99% 
-monthly uptime, excluding scheduled maintenance 
-3.1.5.3 Support 
-• 
-Support queries can be logged via email or an online support 
-portal (details provided separately) 
-• 
-Service Provider will respond to support queries within 1 (one) 
-business day. 
-3.1.5.4 Scheduled Maintenance 
-• 
-Pre-planned maintenance that is performed on a set schedule to 
-prevent failures, prevent downtime, and ensure optimal 
-performance. This includes key scheduled activities that include 
-software updates, security patching, infrastructure upgrades, and 
-performance optimisation. 
-4 
-SERVICE PROVIDER RESPONSIBILITIES 
-4.1 
-Service Provider shall be responsible for providing access and maintaining the SaaS 
-Platform: 
-4.1.1 
-Provide secure access to the analytics dashboard 
+Building 1, Waterfall Point Office Park,
+Cnr Woodmead and Waterfall Drive,
+Midrand,
 
- 
- 
-4 
-MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date. 
-4.1.2 
-Ensure daily processing of received data 
-4.1.3 
-Maintain systems availability and safeguard data integrity on its infrastructure 
-4.1.4 
-Provide a designated mailbox and SFTP location for data ingestion 
-4.1.5 
-Set-up a Username and Password for each Client authorised employee who 
-can access the SaaS within 5 (five) working days of receiving such written 
-notice.  Confirmation of such access being available for each authorised 
-employee will be provided to the designated Client representative by email, 
-and each authorised employee respectively. 
-5 
-CLIENT RESPONSIBILITIES 
-5.1 
-Client shall be responsible for the following: 
-5.1.1 
-Ensure the accuracy, completeness, and timely delivery of cost data 
-5.1.2 
-Ensure availability of trip data from its fleet management platform for daily API 
-harvesting 
-5.1.3 
-Notify the Service Provider of any expected data delivery delays or changes in 
-delivery methods. 
-5.1.4 
-For the SaaS activation, the Client must provide the following information:  
-5.1.4.1 Name of each authorised employee who can access the SaaS 
-5.1.4.2 Email Address of each authorised employee 
-5.1.4.3 Notification of any and all changes in authorised employees who can 
-access the SaaS in writing within 5 (five) business days of such change 
-6 
-SERVICE PERFORMANCE DISCLAIMER 
-Due to the reliance on third-party platforms and data supplied directly by the Client, the 
-Service Provider will provide its services on a best-effort basis.  The Service Provider is not 
-responsible for: 
-6.1 
-Inaccurate or incomplete data supplied by the Client 
-6.2 
-Downtime or unavailability of the Client’s telematics API 
-6.3 
-Delays in processing resulting from delayed or malformed data deliverables 
-7 
-PAYMENT 
-7.1 
-Payment for all service fees and charges relative to this Agreement shall be billed via 
-invoice sent to the Client from the Service Provider.  
-7.2 
-The Client will make payments to the Service Provider using a payment method 
-mutually agreed to by both parties. The Service Provider will provide the Client with the 
-name of its bankers, the branch code number and its Bank account number to facilitate 
-such payment.  
-7.3 
-The service fees, contract term and all charges are set out in Annexure A.  
-8 
-PENALTIES 
-8.1 
-Late Delivery 
+1682
 
- 
- 
-5 
-MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date. 
-8.1.1 
-The Client reserves the right to apply a penalty for late delivery of services as 
-provided for in Clause 3 and 4 for all services delivered later than agreed in 
-writing between the parties. 
-8.1.2 
-This penalty Clause must be read in conjunction with 14.1 of this agreement 
-where the late delivery constitutes a material breach of this agreement. 
-9 
-CESSIONS AND DELEGATION 
-9.1 
-Neither Party will be entitled to cede any of its rights or to delegate any of its   
-obligations in terms of this Agreement without the prior written consent of the other, 
-for which consent may not be unreasonably withheld. 
-10   SUB-CONTRACTORS 
-10.1 The Service Provider shall not be entitled to appoint any sub-contractor or any other 
-third-party to perform any of its obligations in terms of this Agreement without the 
-prior written consent of the Client, which shall not be unreasonably withheld or 
-delayed. 
-11 SECURITY AND CONFIDENTIALITY 
-11.1 The Parties shall not, and shall procure that their employees, contractors and   assigns 
-shall not, disclose to any third-party other than their respective employees or 
-professional advisors in their capacities as such, any information relating to the terms 
-and conditions of this Agreement except: 
-11.1.1 
-To the extent necessary to comply with any law, valid court order or the 
-requirements of a recognized Stock Exchange; or 
-11.1.2 
- as part of the normal reporting or review procedures to its auditors or its 
-attorneys. 
-11.2 The Parties shall not, and shall procure that their employees, contractors and assigns 
-shall not, disclose at any time during or after the termination of this Agreement, to any 
-person whatsoever any information relating to the other party, the other party’s 
-customers or any of the business or trade secrets of the other Party to which they have 
-or may become privy to during the term of this Agreement. 
-11.3 Unless otherwise provided for herein, the Parties shall not at any time, during or after 
-the termination of this Agreement, release any statement to the press, or make any 
-other public statement of any nature which could reasonably be expected to be 
-published in any media regarding the relationship or the subject matter of this 
-Agreement without the prior written consent of the other party, which consent shall 
-not be unreasonably withheld. 
-11.4 The Parties shall ensure that all data transmissions are encrypted and handled in a 
-secure manner, the Service Provider shall not disclose the Client’s data to any third-
-party unless required by law or with prior written consent provided by the Client. 
-12 USE OF TRADEMARKS 
-12.1 Neither Party will use or permit or procure the use of any names, devices, logos or 
-trademarks or any combination of such names, devices, logos or trademarks which are 
-proprietary to the other whether or not such names, devices, logos or trademarks are 
-registered or not, in any press release, press or public statement, information, leaflet, 
+And
 
- 
- 
-6 
-MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date. 
-advertisement or any other public document without the prior written consent of the 
-other party, which consent such Party shall be entitled in its sole discretion to withhold. 
-12.2 The Service Provider shall not copy, use or exploit any work, system or technique 
-developed by any member of the Client’s staff either alone or together with others in 
-the course of the work performed by such member whilst hired by the Client 
-13 LIMITATION OF LIABILITY 
-13.1 Neither Party shall have any claim against the other in respect of any loss, claim, action, 
-damage or expense suffered or sustained by the other pursuant to a breach by that 
-Party of its obligations under this Agreement, unless such loss, claim, action, damage 
-or expense arises out of a grossly negligent or act or grossly omission on the part of 
-the other party. 
-13.2 The Service Provider indemnifies the Client against any damage and any cost arising 
-from any claim or action, made or brought against the Client regarding the 
-infringement of any existing patent, copyright, trademarks or other intellectual 
-property right in relation to the service. The Service Provider undertakes to notify the 
-Client of any claim suit or proceedings made or brought against the Client, promptly. 
-The defense of any such action and all negotiations for the settlement or compromise 
-thereof will be controlled by the Service Provider and the Client jointly. 
-13.3 Neither Party will have any claim of any nature whatsoever against the other for the 
-failure of the other to carry out any of its obligations in terms of this Agreement and 
-which failure arises from a force of nature, which will be included but not be limited to 
-any strike, lockout, network outage, shortage of labour or materials, delays in 
-transport, riot, political or civil disturbances, rebellion, terrorism or any act of any State 
-of Government or any other authority which is beyond the reasonable control of that 
-party. 
-14 DISPUTE RESOLUTION 
-14.1 Any dispute arising from or in connection with this Contract shall be finally resolved in 
-accordance with the Rules of the Arbitration Foundation of Southern Africa (“AFSA”), by 
-an arbitrator who is agreed to between the Parties or failing agreement within 7 (seven) 
-days of the dispute arising, an arbitrator or arbitrators appointed by the president of 
-AFSA. 
-14.2 Nothing in this clause shall prevent any Party from obtaining interdict relief in the 
-courts pending the outcome of the arbitration. 
-15 BREACHES AND TERMINATION 
-15.1 If either Party commits a material breach of its obligations in terms of this Agreement 
-then the aggrieved Party may give written notice to the breaching Party to remedy such 
-breach within 15 (fifteen) days of receipt of the written Notice, or at the option of the 
-aggrieved Party such other period as may be agreed to between the Parties as being 
-reasonable in the circumstances, and if the breaching Party fails to remedy the breach 
-within the aforesaid period then the aggrieved Party will be entitled to cancel this 
-Agreement forthwith on written notice to the other without prejudice to its rights in 
-law. Any outstanding moneys owed to the Service Provider when the Service Provider 
-is in breach and the Client has served a written notice for the cancellation of the 
+(“THE CLIENT”)
 
- 
- 
-7 
-MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date. 
-Agreement, after due process as provided for in this Agreement has been followed, will 
-become null- and-void. 
-15.2 Notwithstanding anything to the contrary contained herein, either Party shall be 
-entitled to terminate this Agreement at any time if the other party: 
-15.2.1 
-Takes steps to place itself, or is placed in liquidation, whether voluntary or 
-compulsory or under judicial management in either case whether provisionally 
-or finally; or 
-15.2.2 
-Takes steps to deregister it or is deregistered. 
-15.2.3 
-Commits an act which would be an act of insolvency as defined by the 
-Insolvency Act of 1936 as amended from time to time if committed by a natural 
-person; or 
-15.2.4 
-fails to satisfy a judgment entered against itself within 21 (twenty-one) days 
-after it becomes aware of the judgment, except if it provides evidence on an 
-ongoing basis to the reasonable satisfaction of the other Party that steps have 
-been initiated within the 21  (twenty-one) days to appeal review or rescind a 
-judgment and to procure suspension of execution of the judgment and that 
-such steps are being expeditiously pursued, the period of 21  (twenty-one) 
-days shall run from the date  on  which  the  judgment  becomes final,   or   the   
-date   on   which   the   attempt   to   procure   the suspension of the execution 
-fails. 
-15.3 If a Party is in default and the default is of a continuing nature, or if the Party is in 
-breach of any material provision of this Agreement and has been given written notice 
-to remedy the breach, the aggrieved Party may: 
-15.3.1 
-Suspend performance of the aggrieved party’s obligations during the default 
-or breach; 
-15.3.2 
-Are entitled to a reasonable additional period of time for the performance of 
-the aggrieved party’s obligations. 
-16 POSTAL ADDRESS 
-16.1 Any written notice in connection with this Agreement may be addressed: 
-In the case of the Client to: 
-The Client: 
- 
-Telephone: 
- 
-Fax: 
- 
-Cell: 
- 
-E-mail: 
- 
-Physical Address: 
- 
-Postal Address: 
- 
-Marked for the attention of:  
- 
-In the case of the Service Provider to:  
+(Hereinafter referred to as “ ")
+(Registration Number: )
+of
 
- 
- 
-8 
-MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date. 
-The Service Provider : 
-  
-Telephone: 
-010 493 6871 
-Fax: 
- 
-Cell: 
- 
-E-mail: 
- 
-Physical Address: 
- 
-Postal Address: 
- 
-Marked for the attention of: 
- 
-16.2  The notice shall be deemed to have been duly given: 
-16.2.1 
-7 (seven) days after posting, if posted by registered post to the party’s address 
-in terms of this sub-clause; 
-16.2.2 
-on delivery, if delivered to the party’s physical address in terms of either this 
-sub-clause or the next sub-clause being the   service of legal documents. 
-16.2.3 
-on dispatch, if sent to the Parties then telefax number or email and confirmed 
-by registered letter post not later than the next business day. 
-16.3 Either Party may change that party’s address for this purpose by notice in writing to the 
-other party.   No notice shall be necessary in respect of a new or changed telefax 
-number. 
-17 ADDRESS FOR SERVICE OF LEGAL DOCUMENTS 
-17.1 The Parties choose the following physical addresses at which documents in legal 
-proceedings in connection with this Agreement may be served (i.e. their domicile 
-citandi et executandi): 
-In the case of the Client to:  
-The Client: 
- 
-Telephone: 
- 
-Fax: 
- 
-Cell: 
- 
-E-mail: 
- 
-Physical Address: 
- 
-Postal Address: 
- 
-Marked for the attention of:  
- 
-In the case of the Service Provider to:  
-The Service Provider : 
- 
-Telephone: 
- 
-Fax: 
- 
-Cell: 
- 
-E-mail: 
- 
+Address:
 
- 
- 
-9 
-MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date. 
-Physical Address: 
- 
-Postal Address: 
- 
-Marked for the attention of: 
- 
-17.2 A Party may change that party’s address for this purpose to another physical address 
-in the Republic of South Africa by notice in writing to the other party. 
-18 INDULGENCES 
-18.1 No indulgence, extension of time, relaxation or latitudes which any Party may show, 
-grant or allow to the other party, shall constitute a waiver by that Party of any of its 
-rights, and it shall not, thereby, be prejudiced or stopped from exercising any of its 
-rights against the other Party which may have then already arisen or which may 
-thereafter arise. 
-19 ENTIRE CONTRACT 
-19.1 This Agreement contains all the express provisions agreed on by the Parties in regard 
-to the subject matter of the Agreement, and the Parties waive their right to rely on any 
-alleged expressed provision not contained in the Agreement. 
-19.2 The term of this Agreement shall commence on the Effective/Commencement Date (as 
-defined in Annexure A) and shall continue unless terminated or cancelled by either 
-party as per Clause 21. 
-20 NO REPRESENTATIONS 
-20.1 Neither Party may rely on any representation, which allegedly induced that Party to 
-enter into this Agreement, unless the representation is recorded in this Agreement. 
-21 VARIATIONS, CANCELLATION AND WAIVER 
-21.1 No contract varying, adding to, deleting from or cancelling this Agreement, and no 
-waiver of any right under this Agreement shall be effective unless reduced to writing 
-and signed by or on behalf of the parties with 30 (thirty) days written notice. 
-21.2 The Service Provider reserves the right to suspend services if there is a material breach 
-of data provision responsibilities by the Client, or non-payment of fees. 
-22 APPLICABLE LAW 
-22.1 This Agreement shall be interpreted and implemented in accordance with the laws of 
-the Republic of South Africa. 
-23 JURISDICTION 
-23.1 Either Party shall be entitled but not obliged to institute any proceedings arising out of, 
-or in connection with this Agreement in the Magistrate’s Court. However, should a Party 
-elect to institute proceedings in the High Court, the parties’ consent to the jurisdiction 
-of the Johannesburg Local Division. 
-24 COSTS 
-24.1 Any cost, including Attorney and own client costs incurred by either Party arising out of 
-the breach by the other Party of any of the provisions of this agreement, shall be borne 
-by the Party in breach. 
+Ref: MG-LGL-SERVICE PROVIDER-SLA-TEM 202504.02
 
- 
- 
-10 
-MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date. 
-24.2 Each Party shall bear that party’s own legal costs of, and incidental to, the negotiation 
-preparation, settling, signing and implementation of this Agreement.  
-25 SEVERANCE 
-25.1 Any clause in this Agreement, which may be invalid in terms of any statute, will be 
-severed from this Agreement without in any way affecting the rest of this Agreement 
-provide that   the essentials for the existence of a Purchase Agreement still exist after 
-its severance 
- 
- 
- 
-THE SERVICES PROVIDER 
- 
- 
- 
-THE CLIENT 
- 
-Date: 
- 
- 
-Place:  
- 
- 
-For: 
- 
- 
-Signed: 
- 
- 
-Name: 
- 
- 
-Designation: 
- 
- 
- 
-Duly authorized hereto 
-Duly authorized hereto 
-Witnesses: 
-1. 
-1. 
- 
-2. 
-2. 
+macro
 
- 
- 
-11 
-MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date. 
-Annexure A 
-The effective date of this contract, the duration and billing frequency is set out below: 
-Product and/or Service 
- 
-Effective Date 
- 
-Contract Term 
-In months 
-Monthly Subscription Fee 
- _____________ per user 
-______________ for contract 
-Number of Client Users 
- 
-Billing Frequency 
-Monthly in advance 
-Payment Terms 
+CLIENT DETAILS
+
+Client:
+
+Telephone:
+
+Fax:
+Cell:
+
+E-mail:
+
+Physical Address:
+
+Postal Address:
+
+Contact person:
+
+1 RECORDAL
+
+1.1. This Agreement shall operate as a Master Agreement and shall apply as a severable
+and distinct Agreement in respect to the services set out in clause 3.
+
+1.2 The Service Provider agrees to render the Services as specified in the Scope of Service
+for the Client who agrees to remunerate the Service Provider for this service, upon the
+terms and conditions set out in this Agreement.
+
+1.3. The commencement date of this agreement shall be . The agreement
+shall be for a period of months.
+
+1.4 The service is as defined in the Annexure A.
+
+1.5 The services contract cost is based on the Service Fees payable and invoiced on a
+monthly basis in accordance with the Scope of Service.
+
+2 INTERPRETATION
+
+2.1 The terms set out below will bear the meanings assigned to them below when used in
+this agreement or any Annexure hereto.
+
+2.1.1 Agreement - means this Agreement unless otherwise stipulated.
+2.1.2. API - means Application Programming Interface
+
+2.1.3. Business Days - means any day that is not a Saturday, Sunday, or public
+holiday
+
+2.1.4. Contract Term - means the start date and end date on which the Service
+Provider delivers the Services as agreed with the Client.
+
+2.1.5 csv- means a text comma separated values file
+
+2.1.6 Data ingestion - means the process of collecting and loading data from various
+sources into the SaaS system for storage, processing, and analysis
+
+2.1.7. Downtime - means the SaaS Software is unavailable due to unplanned
+incidents due to network outages or other which are beyond reasonable
+control of SERVICE PROVIDER
+
+2.1.8 Received Data - means a third-party tracking company device information
+2.1.9 SaaS - means Software as a Service
+
+2.1.10 Services - means deliverables as per the scope of service agreed and signed
+off with the Client.
+
+Ref: MG-LGL-SERVICE PROVIDER-SLA-TEM 202504.02
+
+2.1.11
+
+2.1.12
+
+2.1.13
+2.1.14
+2.1.15
+2.1.16
+2.1.17
+
+\macro
+
+Service Fees - means the actual fees to be paid for the Services specified in
+Clause 3 Scope of Service and defined in Annexure A.
+
+Scheduled Downtime - means scheduled time per month when maintenance
+is done on the SaaS Software Platform
+
+SFTP - means Secure File Transfer Protocol
+
+Support - means the technical support that will be provided to all Users
+Uptime - Means the Saa&S Software is available for the user to access and utilise
+Users - means the company employees will have access to the SaaS Platform
+
+xlsx - means MS Office Excel Open XML (extendable mark-up language)
+Spreadsheet; a zip-compressed XML based format
+
+2.2  Inthis Agreement, unless the context requires otherwise.
+
+2.2.1
+2.2.2
+2.2.3
+
+The singular will include the plural and vice versa.
+Words indicating one gender will import and include the other genders.
+
+Words indicating natural persons will import and include juristic and other
+persons and vice versa.
+
+3 SCOPE OF SERVICE
+
+This Agreement sets forth the terms and conditions under which Service Provider agrees to
+provide access of the Service Provider SaaS and provide all other services necessary for
+productive use of such software including customisation/integration, user identification
+and password change management, data import/export, monitoring, technical support,
+maintenance, training, backup and recovery, and change management (the “Services”) to
+the Client and the Client's customers. The Agreement shall remain in effect unless
+terminated as provided for herein.
+
+3.1. The Service Provider shall provide the following services to the Client.
+
+3.1.1
+
+Data Analytics Services
+This service comprises of the following:
+
+3.1.1.1 Daily ingestion and processing of trip and event data collected via API
+from XXXXX’s existing fleet management system.
+
+3.1.1.2 Ingestion of cost data related to fleet operation, delivered by XXXxX via
+one of the following mechanisms:
+
+e API Delivery
+e Push to SFTP
+
+e Email attachment, in either a csv or xlsx format, to a designated
+Service Provider mailbox.
+
+MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date.
+
+\macro
+
+3.1.2. Analytics Outputs
+
+3.1.2.1. This comprises of processed data used to generate and deliver
+analytics including:
+
+e Total Cost of Ownership (TCO)
+
+e Fleet Utilisation metrics
+
+e Driving style scores and event-based scoring
+
+e Insights into costs attributed to sub-optimal driving behaviours
+3.1.3. Dashboard Access
+
+3.1.4 Analytics and insights will be accessible via a secure, web-based dashboard
+maintained by Service Provider.
+
+3.1.5 Service Delivery Parameters
+3.1.5.1 Data Ingestion and Processing
+
+e Trip and driving event data are harvested once every 24 (twenty-
+four) hours.
+
+e Cost data is ingested upon receipt through any supported method
+within the 24 (twenty-four) hour ingestion window
+
+e Data processing occurs once daily, triggered by the successful trip
+data API pull and incorporating any costs data received in the
+preceding 24 (twenty-four) hour period.
+
+3.1.5.2 Uptime Commitment
+
+e The SaaS dashboard and supporting services shall maintain a 99%
+monthly uptime, excluding scheduled maintenance
+
+3.1.5.3 Support
+
+e Support queries can be logged via email or an online support
+portal (details provided separately)
+
+e Service Provider will respond to support queries within 1 (one)
+business day.
+
+3.1.5.4 Scheduled Maintenance
+
+e Pre-planned maintenance that is performed on a set schedule to
+prevent failures, prevent downtime, and ensure optimal
+performance. This includes key scheduled activities that include
+software updates, security patching, infrastructure upgrades, and
+performance optimisation.
+
+4 SERVICE PROVIDER RESPONSIBILITIES
+
+4.1 Service Provider shall be responsible for providing access and maintaining the SaaS
+Platform:
+
+4.1.1. Provide secure access to the analytics dashboard
+
+SSS
+MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date. fs
+
+4.1.2
+4.1.3
+4.1.4
+4.1.5
+
+macro
+
+Ensure daily processing of received data
+Maintain systems availability and safeguard data integrity on its infrastructure
+Provide a designated mailbox and SFTP location for data ingestion
+
+Set-up a Username and Password for each Client authorised employee who
+can access the SaaS within 5 (five) working days of receiving such written
+notice. Confirmation of such access being available for each authorised
+employee will be provided to the designated Client representative by email,
+and each authorised employee respectively.
+
+5 CLIENT RESPONSIBILITIES
+
+5.1 Client shall be responsible for the following:
+
+5.1.1
+5.1.2
+
+5.1.3
+
+Ensure the accuracy, completeness, and timely delivery of cost data
+
+Ensure availability of trip data from its fleet management platform for daily API
+harvesting
+
+Notify the Service Provider of any expected data delivery delays or changes in
+delivery methods.
+
+For the SaaS activation, the Client must provide the following information:
+5.1.4.1 Name of each authorised employee who can access the SaaS
+5.1.4.2 Email Address of each authorised employee
+
+5.1.4.3. Notification of any and all changes in authorised employees who can
+access the SaaS in writing within 5 (five) business days of such change
+
+6 SERVICE PERFORMANCE DISCLAIMER
+
+Due to the reliance on third-party platforms and data supplied directly by the Client, the
+Service Provider will provide its services on a best-effort basis. The Service Provider is not
+responsible for:
+
+6.1 Inaccurate or incomplete data supplied by the Client
+6.2 Downtime or unavailability of the Client’s telematics API
+6.3. Delays in processing resulting from delayed or malformed data deliverables
+
+7 PAYMENT
+
+7.1. Payment for all service fees and charges relative to this Agreement shall be billed via
+invoice sent to the Client from the Service Provider.
+
+7.2 The Client will make payments to the Service Provider using a payment method
+mutually agreed to by both parties. The Service Provider will provide the Client with the
+name of its bankers, the branch code number and its Bank account number to facilitate
+such payment.
+
+7.3. The service fees, contract term and all charges are set out in Annexure A.
+
+8 PENALTIES
+
+8.1 Late Delivery
+
+MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date.
+
+macro
+
+8.1.1 The Client reserves the right to apply a penalty for late delivery of services as
+provided for in Clause 3 and 4 for all services delivered later than agreed in
+writing between the parties.
+
+8.1.2. This penalty Clause must be read in conjunction with 14.1 of this agreement
+where the late delivery constitutes a material breach of this agreement.
+
+9 CESSIONS AND DELEGATION
+
+9.1 Neither Party will be entitled to cede any of its rights or to delegate any of its
+obligations in terms of this Agreement without the prior written consent of the other,
+for which consent may not be unreasonably withheld.
+
+10 SUB-CONTRACTORS
+
+10.1 The Service Provider shall not be entitled to appoint any sub-contractor or any other
+third-party to perform any of its obligations in terms of this Agreement without the
+prior written consent of the Client, which shall not be unreasonably withheld or
+delayed.
+
+11 SECURITY AND CONFIDENTIALITY
+
+11.1 The Parties shall not, and shall procure that their employees, contractors and assigns
+shall not, disclose to any third-party other than their respective employees or
+professional advisors in their capacities as such, any information relating to the terms
+and conditions of this Agreement except:
+
+11.1.1 To the extent necessary to comply with any law, valid court order or the
+requirements of a recognized Stock Exchange; or
+
+11.1.2 as part of the normal reporting or review procedures to its auditors or its
+attorneys.
+
+11.2 The Parties shall not, and shall procure that their employees, contractors and assigns
+shall not, disclose at any time during or after the termination of this Agreement, to any
+person whatsoever any information relating to the other party, the other party's
+customers or any of the business or trade secrets of the other Party to which they have
+or may become privy to during the term of this Agreement.
+
+11.3 Unless otherwise provided for herein, the Parties shall not at any time, during or after
+the termination of this Agreement, release any statement to the press, or make any
+other public statement of any nature which could reasonably be expected to be
+published in any media regarding the relationship or the subject matter of this
+Agreement without the prior written consent of the other party, which consent shall
+not be unreasonably withheld.
+
+11.4 The Parties shall ensure that all data transmissions are encrypted and handled in a
+secure manner, the Service Provider shall not disclose the Client's data to any third-
+party unless required by law or with prior written consent provided by the Client.
+
+12 USE OF TRADEMARKS
+
+12.1 Neither Party will use or permit or procure the use of any names, devices, logos or
+trademarks or any combination of such names, devices, logos or trademarks which are
+proprietary to the other whether or not such names, devices, logos or trademarks are
+registered or not, in any press release, press or public statement, information, leaflet,
+
+SSS
+MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT | Click or tap to enter a date. fs
+
+macro
+
+advertisement or any other public document without the prior written consent of the
+other party, which consent such Party shall be entitled in its sole discretion to withhold.
+
+12.2 The Service Provider shall not copy, use or exploit any work, system or technique
+developed by any member of the Client's staff either alone or together with others in
+the course of the work performed by such member whilst hired by the Client
+
+13. LIMITATION OF LIABILITY
+
+13.1 Neither Party shall have any claim against the other in respect of any loss, claim, action,
+damage or expense suffered or sustained by the other pursuant to a breach by that
+Party of its obligations under this Agreement, unless such loss, claim, action, damage
+or expense arises out of a grossly negligent or act or grossly omission on the part of
+the other party.
+
+13.2 The Service Provider indemnifies the Client against any damage and any cost arising
+from any claim or action, made or brought against the Client regarding the
+infringement of any existing patent, copyright, trademarks or other intellectual
+property right in relation to the service. The Service Provider undertakes to notify the
+Client of any claim suit or proceedings made or brought against the Client, promptly.
+The defense of any such action and all negotiations for the settlement or compromise
+thereof will be controlled by the Service Provider and the Client jointly.
+
+13.3 Neither Party will have any claim of any nature whatsoever against the other for the
+failure of the other to carry out any of its obligations in terms of this Agreement and
+which failure arises from a force of nature, which will be included but not be limited to
+any strike, lockout, network outage, shortage of labour or materials, delays in
+transport, riot, political or civil disturbances, rebellion, terrorism or any act of any State
+of Government or any other authority which is beyond the reasonable control of that
+
+party.
+14 DISPUTE RESOLUTION
+
+14.1 Any dispute arising from or in connection with this Contract shall be finally resolved in
+accordance with the Rules of the Arbitration Foundation of Southern Africa (“AFSA”), by
+an arbitrator who is agreed to between the Parties or failing agreement within 7 (seven)
+days of the dispute arising, an arbitrator or arbitrators appointed by the president of
+AFSA.
+
+14.2 Nothing in this clause shall prevent any Party from obtaining interdict relief in the
+courts pending the outcome of the arbitration.
+
+15 BREACHES AND TERMINATION
+
+15.1 If either Party commits a material breach of its obligations in terms of this Agreement
+then the aggrieved Party may give written notice to the breaching Party to remedy such
+breach within 15 (fifteen) days of receipt of the written Notice, or at the option of the
+aggrieved Party such other period as may be agreed to between the Parties as being
+reasonable in the circumstances, and if the breaching Party fails to remedy the breach
+within the aforesaid period then the aggrieved Party will be entitled to cancel this
+Agreement forthwith on written notice to the other without prejudice to its rights in
+law. Any outstanding moneys owed to the Service Provider when the Service Provider
+is in breach and the Client has served a written notice for the cancellation of the
+
+SSS
+MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT | Click or tap to enter a date. fe
+
+\macro
+
+Agreement, after due process as provided for in this Agreement has been followed, will
+become null- and-void.
+
+15.2 Notwithstanding anything to the contrary contained herein, either Party shall be
+entitled to terminate this Agreement at any time if the other party:
+
+15.2.1
+
+15.2.2
+15.2.3
+
+15.2.4
+
+Takes steps to place itself, or is placed in liquidation, whether voluntary or
+compulsory or under judicial management in either case whether provisionally
+or finally; or
+
+Takes steps to deregister it or is deregistered.
+
+Commits an act which would be an act of insolvency as defined by the
+Insolvency Act of 1936 as amended from time to time if committed by a natural
+person; or
+
+fails to satisfy a judgment entered against itself within 21 (twenty-one) days
+after it becomes aware of the judgment, except if it provides evidence on an
+ongoing basis to the reasonable satisfaction of the other Party that steps have
+been initiated within the 21 (twenty-one) days to appeal review or rescind a
+judgment and to procure suspension of execution of the judgment and that
+such steps are being expeditiously pursued, the period of 21 (twenty-one)
+days shall run from the date on which the judgment becomes final, or the
+date on which the attempt to procure the suspension of the execution
+fails.
+
+15.3 If a Party is in default and the default is of a continuing nature, or if the Party is in
+breach of any material provision of this Agreement and has been given written notice
+to remedy the breach, the aggrieved Party may:
+
+15.3.1
+
+15.3.2
+
+Suspend performance of the aggrieved party's obligations during the default
+or breach;
+
+Are entitled to a reasonable additional period of time for the performance of
+the aggrieved party's obligations.
+
+16 POSTAL ADDRESS
+
+16.1 Any written notice in connection with this Agreement may be addressed:
+
+In the case of the Client to:
+
+The Client:
+
+Telephone:
+
+Fax:
+
+Cell:
+
+E-mail:
+
+Physical Address:
+
+Postal Address:
+
+Marked for the attention of:
+
+In the case of the Service Provider to:
+
+MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date.
+
+The Service Provider :
+
+“\macrocomm
+
+Telephone:
+
+Fax:
+
+010 493 6871
+
+Cell:
+
+E-mail:
+
+Physical Address:
+Postal Address:
+
+Marked for the attention of:
+
+16.2 The notice shall be deemed to have been duly given:
+
+16.2.1 7 (seven) days after posting, if posted by registered post to the party's address
+in terms of this sub-clause;
+
+16.2.2 on delivery, if delivered to the party's physical address in terms of either this
+sub-clause or the next sub-clause being the service of legal documents.
+
+16.2.3. on dispatch, if sent to the Parties then telefax number or email and confirmed
+by registered letter post not later than the next business day.
+
+16.3 Either Party may change that party's address for this purpose by notice in writing to the
+other party. No notice shall be necessary in respect of a new or changed telefax
+
+number.
+
+17. ADDRESS FOR SERVICE OF LEGAL DOCUMENTS
+
+17.1 The Parties choose the following physical addresses at which documents in legal
+proceedings in connection with this Agreement may be served (i.e. their domicile
+
+citandi et executandi):
+
+In the case of the Client to:
+
+The Client:
+
+Telephone:
+
+Fax:
+
+Cell:
+
+E-mail:
+
+Physical Address:
+
+Postal Address:
+
+Marked for the attention of:
+
+In the case of the Service Provider to:
+
+The Service Provider :
+
+Telephone:
+
+Fax:
+
+Cell:
+
+E-mail:
+
+MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date.
+
+macro
+
+Physical Address:
+
+Postal Address:
+
+Marked for the attention of:
+
+17.2 A Party may change that party's address for this purpose to another physical address
+in the Republic of South Africa by notice in writing to the other party.
+
+18 INDULGENCES
+
+18.1 No indulgence, extension of time, relaxation or latitudes which any Party may show,
+grant or allow to the other party, shall constitute a waiver by that Party of any of its
+rights, and it shall not, thereby, be prejudiced or stopped from exercising any of its
+rights against the other Party which may have then already arisen or which may
+thereafter arise.
+
+19 ENTIRE CONTRACT
+
+19.1 This Agreement contains all the express provisions agreed on by the Parties in regard
+to the subject matter of the Agreement, and the Parties waive their right to rely on any
+alleged expressed provision not contained in the Agreement.
+
+19.2 The term of this Agreement shall commence on the Effective/Commencement Date (as
+defined in Annexure A) and shall continue unless terminated or cancelled by either
+party as per Clause 21.
+
+20 NO REPRESENTATIONS
+
+20.1 Neither Party may rely on any representation, which allegedly induced that Party to
+enter into this Agreement, unless the representation is recorded in this Agreement.
+
+21 VARIATIONS, CANCELLATION AND WAIVER
+
+21.1 No contract varying, adding to, deleting from or cancelling this Agreement, and no
+waiver of any right under this Agreement shall be effective unless reduced to writing
+and signed by or on behalf of the parties with 30 (thirty) days written notice.
+
+21.2 The Service Provider reserves the right to suspend services if there is a material breach
+of data provision responsibilities by the Client, or non-payment of fees.
+
+22 APPLICABLE LAW
+
+22.1 This Agreement shall be interpreted and implemented in accordance with the laws of
+the Republic of South Africa.
+
+23 JURISDICTION
+
+23.1 Either Party shall be entitled but not obliged to institute any proceedings arising out of,
+or in connection with this Agreement in the Magistrate’s Court. However, should a Party
+elect to institute proceedings in the High Court, the parties’ consent to the jurisdiction
+of the Johannesburg Local Division.
+
+24 COSTS
+
+24.1 Any cost, including Attorney and own client costs incurred by either Party arising out of
+the breach by the other Party of any of the provisions of this agreement, shall be borne
+by the Party in breach.
+
+SSS
+MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date. fo
+
+“macrocomm
+
+24.2 Each Party shall bear that party's own legal costs of, and incidental to, the negotiation
+preparation, settling, signing and implementation of this Agreement.
+
+25 SEVERANCE
+
+25.1 Any clause in this Agreement, which may be invalid in terms of any statute, will be
+severed from this Agreement without in any way affecting the rest of this Agreement
+
+provide that the essentials for the existence of a Purchase Agreement still exist after
+its severance
+
+THE SERVICES PROVIDER THE CLIENT
+Date:
+
+Place:
+
+For:
+
+Signed:
+
+Name:
+
+Designation:
+
+Duly authorized hereto Duly authorized hereto
+
+Witnesses: 1. 1.
+
+MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT| Click or tap to enter a date. S10
+
+Annexure A
+
+macrocomm
+
+The effective date of this contract, the duration and billing frequency is set out below:
+
+Product and/or Service
+
+Effective Date
+Contract Term
+
+Monthly Subscription Fee
+
+Number of Client Users
+
+In months
+
+per user
+for contract
+
+Billing Frequency
+
+Payment Terms
+
+Monthly in advance
+
 30 days from invoice date
+
+MG-LGL-MFA-SLA-TEM 202504.04 MFA GENERIC SERVICE LEVEL AGREEMENT | Click or tap to enter a date.

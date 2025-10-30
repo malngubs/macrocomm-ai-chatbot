@@ -1,111 +1,116 @@
-Waterfall Point Business Park, Building 1, Cnr of Woodmead & Waterfall Drive, Midrand 
-Telephone: +27 (0) 10 493 6871 | Registration Number 2018/061135/07 
-Directors: Sivi Moodley | Sean Hardman 
-www.macrocomm.com 
-Form Ref: MG-MFA-FIN-FRM-DBO 202408.02 MG 
-DEBIT ORDER AUTHORITY 
-Given By (Account Holder) 
-Account Type 
- 
-Current 
- 
-Savings 
- 
-Transmission 
-Account Name 
- 
-Full Name & Surname 
- 
-Cellphone Number 
- 
-Bank 
- 
-Account Number 
- 
-Branch Code 
- 
-Branch Name 
- 
-Company Address 
- 
- 
- 
-Debit Order Amount  
-R 
- 
-- 
- 
-Debit Order Date 
- 
-To (Beneficiary Details) 
-Name 
- 
-Abbreviated Name 
- 
-Contact Number: 
- 
-Address: 
- 
- 
-This signed Authority and mandate refers to our contract dated __________________________ 
-I/We hereby authorise Macrocomm Fleet Management (Pty) Ltd (hereafter “Macrocomm 
-Fleet”) to issue and deliver payment instructions to its Banker for collection against my/our 
-above-mentioned account at my/our above-mentioned Bank (or any other bank or branch to 
-which I/we may transfer my/our account) on condition that the sum of such payment 
-instructions will never exceed my/our obligations as agreed to in the Agreement and 
-commencing on ___________________and continuing until this Authority and Mandate is 
-terminated by me/us by giving Macrocomm Fleet one calendar’s month notice in writing. 
+DEBIT ORDER AUTHORITY
 
- 
-Waterfall Point Business Park, Building 1, Cnr of Woodmead & Waterfall Drive, Midrand 
-Telephone: +27 (0) 10 493 6871 | Registration Number 2018/061135/07 
-Directors: Sivi Moodley | Sean Hardman 
-www.macrocomm.com 
-Form Ref: MG-MFA-FIN-FRM-DBO 202408.02 MG 
-The individual payment instructions so authorised to be issued must be issued and delivered 
-monthly (on the first day of every month). 
-In the event that the payment day falls on a Sunday, or recognised South African public 
-holiday, I/We consent to the payment day automatically being made the very next ordinary 
-business day.  
-I/We understand that the withdrawals hereby authorised will be processed through a 
-computerised system provided by the South African Banks. I also understand that details of 
-each withdrawal will be printed on my/our bank statement. Such payment instruction must 
-contain a reference number, which must be included in the said document and if provided to 
-me should enable me to identify the Agreement on which the payment in question is based. 
-This reference number must be added to this form in Section D before the issuing of any 
-payment instruction. 
-A. Mandate  
-I/We acknowledge that all payment instructions issued by Macrocomm Fleet shall be treated 
-by my/our abovementioned Bank as if the instructions have been issued by me/us personally. 
-B. Cancellation  
-I/We agree that although this Authority and Mandate may be cancelled by me/us, such 
-cancellation will not cancel the Agreement. I/We shall not be entitled to any refund of amounts 
-which Macrocomm Fleet has withdrawn while this Authority was in force, if such amounts 
-were legally owing to Macrocomm Fleet 
-C. Assignment  
-I/We acknowledge that this Authority may be ceded or assigned to a third party if the 
-Agreement is also ceded or assigned to that third party, but in the absence of such assignment 
-of the Agreement, this Authority and Mandate cannot be assigned to any third party. 
-D. Agreement Reference 
-The Agreement Reference 
- 
-Signed at ________________________________on this _________day of ______________________ 
-SIGNATURE OF ACCOUNT HOLDER 
- 
-Date 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-DAY 
- 
-MONTH 
- 
-YEAR
+Given By (Account Holder)
+
+“macrocomm
+
+FLEET ANALYTICS
+
+Account Type
+Account Name
+
+Full Name & Surname
+Cellphone Number
+Bank
+
+Account Number
+Branch Code
+
+Branch Name
+
+Company Address
+
+Debit Order Amount
+
+Debit Order Date
+
+a
+
+Current im
+
+Savings
+
+[1 | Transmission
+
+To (Beneficiary Details)
+
+Name
+
+Abbreviated Name
+
+Contact Number:
+
+Address:
+
+This signed Authority and mandate refers to our contract dated
+
+I/We hereby authorise Macrocomm Fleet Management (Pty) Ltd (hereafter “Macrocomm
+Fleet”) to issue and deliver payment instructions to its Banker for collection against my/our
+above-mentioned account at my/our above-mentioned Bank (or any other bank or branch to
+which I/we may transfer my/our account) on condition that the sum of such payment
+instructions will never exceed my/our obligations as agreed to in the Agreement and
+and continuing until this Authority and Mandate is
+terminated by me/us by giving Macrocomm Fleet one calendar’s month notice in writing.
+
+commencing on
+
+Waterfall Point Business Park, Building 1, Cnr of Woodmead & Waterfall Drive, Midrand
+Telephone: +27 (0) 10 493 6871 | Registration Number 2018/061135/07
+
+Directors: Sivi Moodley | Sean Hardman
+www.macrocomm.com
+
+macro
+
+FLEET ANALYTICS
+
+The individual payment instructions so authorised to be issued must be issued and delivered
+monthly (on the first day of every month).
+
+In the event that the payment day falls on a Sunday, or recognised South African public
+holiday, I/We consent to the payment day automatically being made the very next ordinary
+business day.
+
+I/We understand that the withdrawals hereby authorised will be processed through a
+computerised system provided by the South African Banks. | also understand that details of
+each withdrawal will be printed on my/our bank statement. Such payment instruction must
+contain a reference number, which must be included in the said document and if provided to
+me should enable me to identify the Agreement on which the payment in question is based.
+This reference number must be added to this form in Section D before the issuing of any
+payment instruction.
+
+A. Mandate
+
+I/We acknowledge that all payment instructions issued by Macrocomm Fleet shall be treated
+by my/our abovementioned Bank as if the instructions have been issued by me/us personally.
+
+B. Cancellation
+
+/We agree that although this Authority and Mandate may be cancelled by me/us, such
+cancellation will not cancel the Agreement. I/We shall not be entitled to any refund of amounts
+which Macrocomm Fleet has withdrawn while this Authority was in force, if such amounts
+were legally owing to Macrocomm Fleet
+
+C. Assignment
+
+I/We acknowledge that this Authority may be ceded or assigned to a third party if the
+Agreement is also ceded or assigned to that third party, but in the absence of such assignment
+of the Agreement, this Authority and Mandate cannot be assigned to any third party.
+
+D. Agreement Reference
+
+The Agreement Reference
+
+Signed at on this day of
+
+SIGNATURE OF ACCOUNT HOLDER
+
+Date
+
+DAY MONTH YEAR
+
+Waterfall Point Business Park, Building 1, Cnr of Woodmead & Waterfall Drive, Midrand
+Telephone: +27 (0) 10 493 6871 | Registration Number 2018/061135/07
+
+Directors: Sivi Moodley | Sean Hardman
+www.macrocomm.com

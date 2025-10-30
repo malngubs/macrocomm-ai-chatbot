@@ -1,534 +1,602 @@
-MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL 
-Page 0 | 11 
-version 01 | date 31/03/25 | author cvanonselen 
- 
- 
- 
- 
- 
- 
-MACROCOMM GROUP 
-LEARNER VERIFICATION 
-PROPOSAL 
-Limpopo Department of Education 
-Date: 26 August 2025 
+LIMPOPO or)
 
- 
-MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL 
-Page 1 | 11 
-version 01 | date 31/03/25 | author cvanonselen 
- 
-AI-Powered Attendance System for Transparent School Funding 
-Executive Summary 
-South Africa’s school funding system reportedly suffers significant losses each year. This 
-misrepresentation diverts critical resources from learners who need them most, leading 
-to inefficiencies, financial waste, and a lack of trust in the public education sector. 
-Traditional systems often fall short due to the need for human intervention and the lack 
-of real-time accuracy. This proposal presents an AI-powered camera-driven solution that 
-ensures secure, mobile, and non-invasive biometric authentication using facial 
-verification. 
-By leveraging AI-powered camera technology and advanced recognition software, the 
-system ensures: 
-• 
-Verifiable learner attendance linked to funding 
-• 
-Enhanced mobility for real-time attendance capture 
-• 
-Reduced fraud and improved trust 
-• 
-Scalable implementation across rural and urban schools 
-Some of the reasons South Africa’s school funding program suffers significant losses each 
-year is due to several factors, such as: 
-Cause of Financial Loss 
-Issue 
-Description 
-Inflated Enrolment Schools report more learners than present to receive excess funds. 
-Manual 
-Verification 
-Existing processes are error-prone and not conducted in real time. 
-Changes 
-Unreported 
-Schools fail to update enrolment records when learners leave the 
-school or are transferred. 
-Human Error & 
-Fraud 
-School-led manipulation of records is possible due to lack of 
-automation. 
-Addressing the Key Pain Points 
-This system is purpose-built to solve the most pressing challenges in learner attendance 
-reporting, fraud prevention, and resource allocation faced by schools and provincial 
-departments, both from an operational perspective, and technical perspective. 
- 
+AN
 
- 
-MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL 
-Page 2 | 11 
-version 01 | date 31/03/25 | author cvanonselen 
- 
-The Need for Reliable Connectivity 
-For suburban schools, robust terrestrial connectivity like fibre and cable provides the 
-necessary bandwidth for online learning platforms and resource access. Rural schools 
-however often lack this infrastructure. In these areas, VSAT technology becomes 
-essential, offering satellite-based internet that overcomes geographical limitations. This 
-dual approach, utilising terrestrial networks in developed areas and VSAT in remote 
-regions, ensures equitable access to digital education tools for all students. We also 
-recommend that schools in the suburbs consider using VSAT as backup so that real time 
-data is not interrupted by load shedding which may affect traditional terrestrial 
-connectivity. 
-The Need for Better Accountability 
-South Africa’s public schooling system relies on a tiered funding model that aligns 
-financial support with socio-economic realities. Central to this model is the Quintile 
-System, which categorises schools from Quintile 1 (most disadvantaged) to Quintile 5 
-(least disadvantaged), determining the level of state funding and expectations around 
-school fees. This funding structure, paired with policies such as per-learner allocations 
-and financial accountability requirements, aims to bridge inequality and ensure that 
-resources are distributed according to need. 
-Addressing Accountability in South African School Funding 
-A number of the key pain points have been identified, such as reliance on self-reported 
-enrolment numbers or the inability to detect discrepancies early, as well as, the potential 
-for manipulation of registers or lack of deterrent mechanisms that speak directly to the 
-need to strengthen accountability, or generating poor data points which lead to 
-misaligned funding, or the lack of data for target action. These are just some of the key 
-challenges the department face and therefor eliminating these challenges is a key focal 
-point of the solution. 
-The below table outlines the core policy elements shaping both funding structures and 
-technology considerations within South Africa’s public education framework. 
-Funding Structure and Attendance Technology Considerations 
-Policy Element 
-Description 
- 
-Quintile System 
-• 
-Schools are ranked by socio-economic status (Quintiles 1–
-5), with lower quintiles receiving higher per-learner grants. 
-• 
-Quintiles 1–3 are “no-fee” schools, fully state-funded, while 
-Quintiles 4–5 supplement grants with school fees. 
+DEPARTMENT OF SMART MADE SIMPLE
 
- 
-MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL 
-Page 3 | 11 
-version 01 | date 31/03/25 | author cvanonselen 
- 
-Per-Learner 
-Allocation 
-• 
-Provincial education departments disburse funds annually 
-based on enrolment numbers submitted by schools. 
-Accountability 
-Framework 
-• 
-Schools must submit audited financial reports. 
-• 
-Provincial departments conduct sporadic audits to verify 
-enrolment and spending. 
-Our AI-powered camera verification system presents a scalable solution to ensure 
-accurate learner enrolment and attendance reporting. Instead of relying on traditional 
-methods, the system is powered by fixed AI-powered cameras equipped with advanced 
-AI facial recognition software, linked to real-time communication tools, enabling instant 
-authentication and verification to ensure: 
-• 
-Accurate Attendance: Schools can receive funding that will be based on real, 
-verifiable attendance, preventing alleged fraudulent claims without any human 
-intervention. 
-• 
-Reduced Fraud and Misuse: AI-driven verification eliminates the possibility of false 
-reporting through identifying registered learners. 
-• 
-Enhanced Transparency and Trust: Real-time monitoring fosters accountability 
-within the education sector. 
-• 
-Improved Resource Distribution: Directs funds to schools based on actual needs, 
-ensuring learners receive the support they deserve. 
-• 
-National / Provincial Analysis Reporting: National / Provincial report on how many 
-learner anomalies based on lack of attendance. 
-• 
-Integration and Trend Reports: We will also provide statistics per region based on 
-attendance trends for learners, reporting on red flags based on your specified 
-business rules. 
-Key Challenges the Department Currently Faces 
-Challenge 
-System Response 
-Reliance 
-on 
-self-reported 
-enrolment 
-numbers 
-• 
-Real-time biometric verification 
-ensures only present learners are 
-counted. 
-• 
-Prevents ghost learners and 
-padding. 
+MACROCOMM GROUP
+LEARNER VERIFICATION
+PROPOSAL
 
- 
-MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL 
-Page 4 | 11 
-version 01 | date 31/03/25 | author cvanonselen 
- 
-Key Challenges the Department Currently Faces 
-Challenge 
-System Response 
-Inability to detect discrepancies early 
-• 
-Automated alerts highlight 
-sudden drops or irregularities in 
-attendance. 
-• 
-Enables early intervention. 
-Potential for manipulation of registers 
-• 
-Principals and SGBs cannot edit 
-or fabricate biometric logs. 
-• 
-Reduces need for costly manual 
-audits. 
-Lack of deterrent mechanisms 
-• 
-Encrypted, tamper-proof records 
-discourage fraudulent reporting. 
-• 
-Creates an environment of 
-integrity. 
-Misaligned funding due to poor data 
-• 
-Funds are disbursed based on 
-verifiable presence, not projected 
-enrolment. 
-• 
-Ensures resource fairness, 
-especially in lower-quintile 
-schools. 
-Lack of data for targeted action 
-• 
-Analytics highlight trends such as 
+Limpopo Department of Education
+
+Date: 26 August 2025
+
+MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL Page 0 | 11
+version 01 | date 31/03/25 | author cvanonselen
+
+eat LIMPOPO
+
+sel Pomnoncoverwe Macro
+
+DEPARTMENT OF SMART MADE SIMPLE
+EDUCATION
+
+Al-Powered Attendance System for Transparent School Funding
+Executive Summary
+
+South Africa’s school funding system reportedly suffers significant losses each year. This
+misrepresentation diverts critical resources from learners who need them most, leading
+to inefficiencies, financial waste, and a lack of trust in the public education sector.
+Traditional systems often fall short due to the need for human intervention and the lack
+of real-time accuracy. This proposal presents an Al-powered camera-driven solution that
+ensures secure, mobile, and non-invasive biometric authentication using facial
+verification.
+
+By leveraging Al-powered camera technology and advanced recognition software, the
+system ensures:
+
+e Verifiable learner attendance linked to funding
+
+e Enhanced mobility for real-time attendance capture
+
+e Reduced fraud and improved trust
+
+e Scalable implementation across rural and urban schools
+Some of the reasons South Africa's school funding program suffers significant losses each
+year is due to several factors, such as:
+
+Cause of Financial Loss
+
+Issue Description
+
+Inflated Enrolment Schools report more learners than present to receive excess funds.
+
+Manual
+
+oo. Existing processes are error-prone and not conducted in real time.
+Verification
+Changes Schools fail to update enrolment records when learners leave the
+Unreported school or are transferred.
+Human Error & School-led manipulation of records is possible due to lack of
+Fraud automation.
+
+Addressing the Key Pain Points
+
+This system is purpose-built to solve the most pressing challenges in learner attendance
+reporting, fraud prevention, and resource allocation faced by schools and provincial
+departments, both from an operational perspective, and technical perspective.
+
+MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL Page 1 | 11
+version 01 | date 31/03/25 | author cvanonselen
+
+eat LIMPOPO
+
+sel Pomnoncoverwe Macro
+
+DEPARTMENT OF SMART MADE SIMPLE
+EDUCATION
+
+The Need for Reliable Connectivity
+
+For suburban schools, robust terrestrial connectivity like fibre and cable provides the
+necessary bandwidth for online learning platforms and resource access. Rural schools
+however often lack this infrastructure. In these areas, VSAT technology becomes
+essential, offering satellite-based internet that overcomes geographical limitations. This
+dual approach, utilising terrestrial networks in developed areas and VSAT in remote
+regions, ensures equitable access to digital education tools for all students. We also
+recommend that schools in the suburbs consider using VSAT as backup so that real time
+data is not interrupted by load shedding which may affect traditional terrestrial
+connectivity.
+
+The Need for Better Accountability
+
+South Africa’s public schooling system relies on a tiered funding model that aligns
+financial support with socio-economic realities. Central to this model is the Quintile
+System, which categorises schools from Quintile 1 (most disadvantaged) to Quintile 5
+(least disadvantaged), determining the level of state funding and expectations around
+school fees. This funding structure, paired with policies such as per-learner allocations
+and financial accountability requirements, aims to bridge inequality and ensure that
+resources are distributed according to need.
+
+Addressing Accountability in South African School Funding
+
+A number of the key pain points have been identified, such as reliance on self-reported
+enrolment numbers or the inability to detect discrepancies early, as well as, the potential
+for manipulation of registers or lack of deterrent mechanisms that speak directly to the
+need to strengthen accountability, or generating poor data points which lead to
+misaligned funding, or the lack of data for target action. These are just some of the key
+challenges the department face and therefor eliminating these challenges is a key focal
+point of the solution.
+
+The below table outlines the core policy elements shaping both funding structures and
+technology considerations within South Africa’s public education framework.
+
+Funding Structure and Attendance Technology Considerations
+Policy Element Description
+
+Quintile System ° Schools are ranked by socio-economic status (Quintiles 1-
+5), with lower quintiles receiving higher per-learner grants.
+
+e Quintiles 1-3 are “no-fee” schools, fully state-funded, while
+Quintiles 4-5 supplement grants with school fees.
+
+MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL Page 2 | 11
+version 01 | date 31/03/25 | author cvanonselen
+
+fezt LIMPOPO 4g
+Se ON macro
+DEPARTMENT OF SMART MADE SIMPLE
+Per-Learner ° Provincial education departments disburse funds annually
+Allocation based on enrolment numbers submitted by schools.
+Accountability ° Schools must submit audited financial reports.
+Framework ° Provincial departments conduct sporadic audits to verify
+
+enrolment and spending.
+
+Our Al-powered camera verification system presents a scalable solution to ensure
+accurate learner enrolment and attendance reporting. Instead of relying on traditional
+methods, the system is powered by fixed Al-powered cameras equipped with advanced
+Al facial recognition software, linked to real-time communication tools, enabling instant
+authentication and verification to ensure:
+
+e Accurate Attendance: Schools can receive funding that will be based on real,
+verifiable attendance, preventing alleged fraudulent claims without any human
+intervention.
+
+e Reduced Fraud and Misuse: Al-driven verification eliminates the possibility of false
+reporting through identifying registered learners.
+
+e Enhanced Transparency and Trust: Real-time monitoring fosters accountability
+within the education sector.
+
+e Improved Resource Distribution: Directs funds to schools based on actual needs,
+ensuring learners receive the support they deserve.
+
+e National / Provincial Analysis Reporting: National / Provincial report on how many
+learner anomalies based on lack of attendance.
+
+e Integration and Trend Reports: We will also provide statistics per region based on
+attendance trends for learners, reporting on red flags based on your specified
+business rules.
+
+Key Challenges the Department Currently Faces
+
+Challenge System Response
+Reliance on_ self-reported enrolment ° Real-time biometric verification
+numbers ensures only present learners are
+counted.
+° Prevents ghost learners and
+padding.
+MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL Page 3 | 11
+
+version 01 | date 31/03/25 | author cvanonselen
+
+DEPARTMENT OF
+EDUCATION
+
+macro
+
+SMART MADE SIMPLE
+
+Key Challenges the Department Currently Faces
+
+Challenge
+
+Inability to detect discrepancies early
+
+Potential for manipulation of registers
+
+Lack of deterrent mechanisms
+
+Misaligned funding due to poor data
+
+Lack of data for targeted action
+
+Proposed Solution: Al-Powered Verification System
+
+Solution Overview
+
+System Response
+
+Automated alerts highlight
+sudden drops or irregularities in
+attendance.
+
+Enables early intervention.
+
+Principals and SGBs cannot edit
+or fabricate biometric logs.
+
+Reduces need for costly manual
+audits.
+
+Encrypted, tamper-proof records
+discourage fraudulent reporting.
+
+Creates an environment of
+integrity.
+
+Funds are disbursed based on
+verifiable presence, not projected
+enrolment.
+
+Ensures resource fairness,
+especially in lower-quintile
+schools.
+
+Analytics highlight trends such as
 chronic absenteeism or class-
-level disparities. 
-• 
-Enables tailored interventions. 
- 
-Proposed Solution: AI-Powered Verification System 
-Solution Overview 
-To improve the integrity of learner verification reporting and ensure government funding 
-is fairly and accurately distributed, we propose a fixed AI-powered camera verification 
-solution. This replaces unreliable manual methods with automated, real-time attendance 
-tracking at key school entry and learning points. 
+level disparities.
 
- 
-MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL 
-Page 5 | 11 
-version 01 | date 31/03/25 | author cvanonselen 
- 
-Our AI-powered camera system integrates facial recognition, real-time data analytics, and 
-centralised reporting to accurately verify learner enrolment, eliminate manual reporting, 
-prevent fraud, and ensure funds align with actual learner numbers. 
-This solution modernises how schools manage attendance while directly addressing 
-enrolment fraud, data integrity issues, and inequitable resource allocation. 
-The system is built around five key functional areas that enable accurate, secure, and 
-real-time attendance tracking while preserving school routines and ensuring ease of 
-implementation. 
-Operational Features of the AI-Powered Camera Attendance System 
-Function 
-Description 
-System Capabilities 
-Automated 
-Roll Call 
-Learners are automatically 
-verified as they pass AI-
-powered cameras at classroom 
-doors or school gates. 
-• 
-Ensures accurate initial 
-attendance.  
-• 
-Fully automated, non-
-intrusive process. 
-Real-Time or 
-Offline Sync 
-Data uploads in real-time via 
-4G/Wi-Fi or is stored and 
-synced later when connectivity 
-is restored. 
-• 
-Live data available to 
-principals, departments, 
-and auditors.  
-• 
-Generates daily, weekly, and 
-termly attendance reports.  
-• 
-Aligns with custom business 
-rules and school needs. 
-Tamper-
-Proof Logs 
-Each attendance scan is 
-GPS/time-stamped with 
-encrypted audit trails. 
-• 
-AI algorithms prevent 
-spoofing with photos or 
-masks.  
-• 
-Logs all interactions for 
-compliance.  
-• 
-Alerts administrators in real 
-time if cameras are 
-tampered with. 
-Central 
-Dashboard 
-All attendance data flows into a 
-secure web-based platform for 
-reporting and anomaly 
-detection. 
-• 
-Provides transparent 
-oversight to 
-provincial/national 
-authorities.  
+Enables tailored interventions.
 
- 
-MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL 
-Page 6 | 11 
-version 01 | date 31/03/25 | author cvanonselen 
- 
-Operational Features of the AI-Powered Camera Attendance System 
-Function 
-Description 
-System Capabilities 
-• 
-Offers trend analysis and 
-red-flag alerts based on 
-absence patterns.  
-• 
-Supports equitable funding 
-through verified data. 
-These capabilities ensure the system is accurate, secure, scalable, and usable in diverse 
-school environments from rural no-fee schools to larger urban campuses while 
-minimising administrative burden.  
-Implementation & Technological Considerations 
-As education systems explore the integration of technology to improve efficiency and 
-accountability, the choice of tools becomes critical, especially in resource-constrained 
-environments. AI-powered fixed camera attendance systems promise enhanced data 
-accuracy and learner tracking, but they require upfront planning in infrastructure, 
-connectivity, and security. 
-Challenge 
-Details 
-Installation Costs & Security Risks 
-Cameras require mounting, wiring, and 
-protection from vandalism. 
-Connectivity Dependency 
-Continuous power and data connections 
-are essential, though offline caching and 
-battery backups can be built in. 
-Privacy Concerns 
-Always-on cameras raise ethical 
-considerations about surveillance. 
-Despite these challenges, fixed AI cameras provide continuous, automated coverage 
-and minimal reliance on manual staff input, ensuring accuracy and scalability across 
-schools. 
-The comparison below highlights the key differences between handheld systems and 
-fixed AI Cameras, emphasising the operational and long term advantages of AI camera 
-solutions for a diverse range of school environments. 
+To improve the integrity of learner verification reporting and ensure government funding
+is fairly and accurately distributed, we propose a fixed Al-powered camera verification
+solution. This replaces unreliable manual methods with automated, real-time attendance
 
- 
-MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL 
-Page 7 | 11 
-version 01 | date 31/03/25 | author cvanonselen 
- 
-Comparison: Fixed AI Cameras vs. Handheld Devices 
-Challenge with Handheld Devices 
-Advantage of Fixed AI Cameras 
-Reliant on staff to physically operate 
-devices, causing delays and 
-inconsistency 
-Automated, passive verification with no staff 
-involvement, faster and more reliable 
-Limited coverage – can only scan one 
-learner at a time 
-Continuous monitoring at entry points or 
-classrooms verifies entire groups 
-simultaneously 
-Devices can be misplaced, damaged, or 
-underutilised 
-Permanently installed, secure, and tamper-
-resistant infrastructure 
-Requires frequent charging, transport, 
-and handling 
-Powered directly with UPS/solar backup for 
-uninterrupted operation 
-Dependent on operator training and 
-correct usage 
-Fully automated system requires minimal 
-human interaction 
-Potential for selective use (e.g., only on 
-certain days) undermines consistency 
-Always-on cameras ensure attendance is 
-tracked every school day without gaps 
-Harder to track large schools efficiently 
-due to manual scanning 
-Scales easily in both small and large schools by 
-placing cameras at strategic points 
-Data may be delayed if devices are not 
-synced immediately 
-Real-time data transmission direct to central 
-platform 
-Higher chance of human bias or error in 
-handling verification 
-Removes human involvement, ensures 
-impartial, standardised verification 
-While technology introduces tremendous benefits, its implementation must be sensitive 
-to legal, ethical, and practical considerations particularly around learner privacy and 
-compliance with South African data protection laws.  
-We have taken the required steps to ensure the system and solution being proposed and 
-presented, adheres to POPIA requirements and standards, ethical use standards and 
-delivered in such a way that we maintain the privacy of all learners. 
+tracking at key school entry and learning points.
 
- 
-MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL 
-Page 8 | 11 
-version 01 | date 31/03/25 | author cvanonselen 
- 
-Legal, Ethical and Practical Considerations 
-Safeguard 
-Details 
-Compliance with 
-POPIA 
-• 
-Full adherence to the Protection of Personal 
-Information Act. 
-• 
-Secure, encrypted data storage. 
-Ethical AI Use 
-• 
-System maintains a low bias rate (<0.3%) across race 
-and gender. 
-• 
-Learners identified via anonymised numeric IDs to 
-avoid storing facial images. 
-System Design for 
-Privacy 
-• 
-Minimal classroom disruption. 
-• 
-No visual displays of attendance or tracking. 
-• 
-Learners remain unaware of background data 
-processing. 
-Through these safeguards, we ensure the system is ethical, POPIA-compliant, and 
-respectful of learner dignity, creating a trustworthy foundation for long-term 
-implementation across provinces. 
- 
-Technical Implementation Plan and Framework 
-System Architecture Overview 
-The solution consists of three core components: 
-• 
-AI-Powered Cameras: Installed at school entrances, classrooms, or designated 
-roll-call areas with facial recognition capability, GPS timestamping, and 
-connectivity. 
-• 
-Secure Cloud Platform: Real-time syncing of attendance logs, encrypted storage, 
-and role-based access for educators, administrators, and policymakers. 
-• 
-Centralised Analytics Dashboard: Web-based portal for monitoring, anomaly 
-detection, and statistical analysis based on pre-defined business rules. 
- 
+MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL
 
- 
-MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL 
-Page 9 | 11 
-version 01 | date 31/03/25 | author cvanonselen 
- 
- 
- 
-Deployment Phases 
-Phase 
-Activities 
-Outputs 
-Phase 1: Pilot 
-and Calibration 
-Deploy 
-AI-powered 
-cameras 
-in 
-selected schools across all quintiles to 
-test accuracy, usability, and sync 
-reliability. 
-Refined 
-system 
-settings, 
-feedback-based iterations, and 
-finalisation of training materials. 
-Phase 
-2: 
-Provincial 
-Rollout 
-Scale across schools within each 
-province, prioritising Quintile 1–3 (no-
-fee) schools. 
-Learner biometric registration, 
-trained 
-school 
-staff, 
-full 
-dashboard activation. 
-Phase 
-3: 
-National 
-Integration 
-Integrate data with provincial and 
-national education departments and 
-funding models. 
-Live attendance data linked to 
-funding decisions and national 
-performance reports. 
- 
- 
- 
- 
- 
- 
+version 01 | date 31/03/25 | author cvanonselen
 
- 
-MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL 
-Page 10 | 11 
-version 01 | date 31/03/25 | author cvanonselen 
- 
-Technical Requirements 
-Component 
-Specification 
-Camera 
-Connectivity 
-4G-enabled with offline syncing and GPS time-stamping. 
-Power Source 
-Wired with UPS backup to handle load shedding. 
-Security 
-AES-256 encryption, biometric spoof detection, POPIA-compliant 
-storage. 
-Integration 
-API support for integration into education department systems. 
-Software Updates 
-Over-the-air 
-(OTA) 
-capability 
-for 
-firmware 
-and 
-AI 
-model 
-improvements. 
- 
-Data Governance and Protection 
-Governance 
-Pillar 
-Control Measures 
-Data Collection 
-Only necessary data (biometric template, anonymised learner ID, 
-timestamp) is collected. 
-Storage & Access Encrypted cloud storage with tiered access control (school, district, 
-province, national). 
-Compliance 
-Full alignment with the Protection of Personal Information Act 
+Page 4 | 11
+
+fee LIMPOPO A
+nN 2 PROVINCIAL GOVERNMENT if Y } ( . ( )
+DEPARTMENT OF SMART MADE SIMPLE
+EDUCATION
+
+Our Al-powered camera system integrates facial recognition, real-time data analytics, and
+centralised reporting to accurately verify learner enrolment, eliminate manual reporting,
+prevent fraud, and ensure funds align with actual learner numbers.
+
+This solution modernises how schools manage attendance while directly addressing
+enrolment fraud, data integrity issues, and inequitable resource allocation.
+
+The system is built around five key functional areas that enable accurate, secure, and
+real-time attendance tracking while preserving school routines and ensuring ease of
+implementation.
+
+Operational Features of the Al-Powered Camera Attendance System
+
+Function Description System Capabilities
+Automated Learners are automatically ° Ensures accurate initial
+Roll Call verified as they pass Al- attendance.
+
+powered cameras at classroom
+
+e Fully automated, non-
+doors or school gates.
+
+intrusive process.
+
+Real-Time or Data uploads in real-time via ° Live data available to
+
+Offline Sync 4G/Wi-Fi or is stored and principals, departments,
+synced later when connectivity and auditors.
+is restored. e Generates daily, weekly, and
+
+termly attendance reports.
+
+° Aligns with custom business
+rules and school needs.
+
+Tamper- Each attendance scan is ° Al algorithms prevent
+Proof Logs GPS/time-stamped with spoofing with photos or
+encrypted audit trails. masks.
+° Logs all interactions for
+compliance.
+° Alerts administrators in real
+
+time if cameras are
+tampered with.
+
+Central All attendance data flows into a ° Provides transparent
+Dashboard secure web-based platform for oversight to
+reporting and anomaly provincial/national
+detection. authorities.
+MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL Page 5 | 11
+
+version 01 | date 31/03/25 | author cvanonselen
+
+ft Lee 4
+
+DEPARTMENT OF SMART MADE SIMPLE
+EDUCATION
+
+Operational Features of the Al-Powered Camera Attendance System
+
+Function Description System Capabilities
+
+° Offers trend analysis and
+red-flag alerts based on
+absence patterns.
+
+° Supports equitable funding
+through verified data.
+
+These capabilities ensure the system is accurate, secure, scalable, and usable in diverse
+school environments from rural no-fee schools to larger urban campuses while
+minimising administrative burden.
+
+Implementation & Technological Considerations
+
+As education systems explore the integration of technology to improve efficiency and
+accountability, the choice of tools becomes critical, especially in resource-constrained
+environments. Al-powered fixed camera attendance systems promise enhanced data
+accuracy and learner tracking, but they require upfront planning in infrastructure,
+connectivity, and security.
+
+Challenge Details
+
+Installation Costs & Security Risks Cameras require mounting, wiring, and
+protection from vandalism.
+
+Connectivity Dependency Continuous power and data connections
+are essential, though offline caching and
+battery backups can be built in.
+
+Privacy Concerns Always-on cameras raise ethical
+considerations about surveillance.
+
+Despite these challenges, fixed Al cameras provide continuous, automated coverage
+and minimal reliance on manual staff input, ensuring accuracy and scalability across
+schools.
+
+The comparison below highlights the key differences between handheld systems and
+fixed Al Cameras, emphasising the operational and long term advantages of Al camera
+solutions for a diverse range of school environments.
+
+MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL Page 6 | 11
+version 01 | date 31/03/25 | author cvanonselen
+
+eat LIMPOPO
+
+EG
+ais PROVINCIAL GOVERNMENT mac YO
+DEPARTMENT OF SMART MADE SIMPLE
+
+EDUCATION
+
+Comparison: Fixed Al Cameras vs. Handheld Devices
+
+Challenge with Handheld Devices Advantage of Fixed Al Cameras
+Reliant on staff to physically operate Automated, passive verification with no staff
+devices, causing delays and involvement, faster and more reliable
+
+inconsistency
+
+Limited coverage - can only scan one Continuous monitoring at entry points or
+learner at atime classrooms verifies entire groups
+simultaneously
+
+Devices can be misplaced, damaged, or Permanently installed, secure, and tamper-
+
+underutilised resistant infrastructure
+
+Requires frequent charging, transport, Powered directly with UPS/solar backup for
+and handling uninterrupted operation
+
+Dependent on operator training and Fully automated system requires minimal
+correct usage human interaction
+
+Potential for selective use (e.g., only on Always-on cameras ensure attendance is
+certain days) undermines consistency tracked every school day without gaps
+
+Harder to track large schools efficiently | Scales easily in both small and large schools by
+due to manual scanning placing cameras at strategic points
+
+Data may be delayed if devices are not Real-time data transmission direct to central
+synced immediately platform
+
+Higher chance of human bias or error in Removes human involvement, ensures
+handling verification impartial, standardised verification
+
+While technology introduces tremendous benefits, its implementation must be sensitive
+to legal, ethical, and practical considerations particularly around learner privacy and
+compliance with South African data protection laws.
+
+We have taken the required steps to ensure the system and solution being proposed and
+presented, adheres to POPIA requirements and standards, ethical use standards and
+delivered in such a way that we maintain the privacy of all learners.
+
+MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL Page 7 | 11
+version 01 | date 31/03/25 | author cvanonselen
+
+LIMPOPO
+
+PROVINCIAL GOVERNMENT
+REPUBLIC OF SOUTH AFRICA
+
+@
+
+DEPARTMENT OF
+EDUCATION
+
+Safeguard
+
+Compliance with
+POPIA
+
+Ethical Al Use
+
+System Design for
+Privacy
+
+macro
+
+SMART MADE SIMPLE
+
+Legal, Ethical and Practical Considerations
+
+Details
+Full adherence to the Protection of Personal
+Information Act.
+Secure, encrypted data storage.
+System maintains a low bias rate (<0.3%) across race
+and gender.
+Learners identified via anonymised numeric IDs to
+avoid storing facial images.
+Minimal classroom disruption.
+No visual displays of attendance or tracking.
+
+Learners remain unaware of background data
+processing.
+
+Through these safeguards, we ensure the system is ethical, POPIA-compliant, and
+respectful of learner dignity, creating a trustworthy foundation for long-term
+
+implementation across provinces.
+
+Technical Implementation Plan and Framework
+
+System Architecture Overview
+
+The solution consists of three core components:
+
+e Al-Powered Cameras: Installed at school entrances, classrooms, or designated
+roll-call areas with facial recognition capability, GPS timestamping, and
+
+connectivity.
+
+e Secure Cloud Platform: Real-time syncing of attendance logs, encrypted storage,
+and role-based access for educators, administrators, and policymakers.
+
+e Centralised Analytics Dashboard: Web-based portal for monitoring, anomaly
+detection, and statistical analysis based on pre-defined business rules.
+
+MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL Page 8 | 11
+version 01 | date 31/03/25 | author cvanonselen
+
+LIMPOP
+
+tg
+
+DEPARTMENT OF
+EDUCATION
+
+Verified Learners
+
+Short Summary
+
+Al cameras verifies learners — Data sent via satellite/terrestrial connection — School & principal oversee >
+
+ey
+yY
+Ney,
+“On 4p
+
+Limpopo High School
+
+key
+
+Cloud Server
+
+Al Backed Camera Server connects to servers ,
+accesses database of learners , runs request and
+verifies learners
+
+Cloud processes data — HQ reviews reports — Grants disbursed.
+
+Phase
+
+Phase 1: Pilot
+and Calibration
+
+Phase 2:
+Provincial
+Rollout
+
+Phase 3:
+National
+Integration
+
+Deployment Phases
+Activities
+
+Deploy Al-powered cameras in
+selected schools across all quintiles to
+test accuracy, usability, and sync
+reliability.
+
+Scale across schools within each
+province, prioritising Quintile 1-3 (no-
+fee) schools.
+
+Integrate data with provincial and
+national education departments and
+funding models.
+
+“-
+
+Macro
+
+SMART MADE SIMPLE
+
+Grant Payout
+
+Principal
+
+[eo] v
+
+ele
+TAT
+
+Back Office / HQ gets a report of
+all verified learners from
+respective schools before grants
+are paid out
+
+Outputs
+
+Refined system settings,
+feedback-based iterations, and
+finalisation of training materials.
+
+Learner biometric registration,
+trained school — staff, — full
+dashboard activation.
+
+Live attendance data linked to
+funding decisions and national
+performance reports.
+
+MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL
+version 01 | date 31/03/25 | author cvanonselen
+
+Page 9 | 11
+
+fez LIMPOPO 4g
+ee POUCA SERIE macros
+DEPARTMENT OF SMART MADE SIMPLE
+Technical Requirements
+Component Specification
+Camera 4G-enabled with offline syncing and GPS time-stamping.
+Connectivity
+Power Source Wired with UPS backup to handle load shedding.
+Security AES-256 encryption, biometric spoof detection, POPIA-compliant
+storage.
+
+Integration API support for integration into education department systems.
+
+Software Updates Over-the-air (OTA) capability for firmware and Al model
+improvements.
+
+Data Governance and Protection
+
+Governance Control Measures
+Pillar
+
+Data Collection Only necessary data (biometric template, anonymised learner ID,
+timestamp) is collected.
+
+Storage &Access Encrypted cloud storage with tiered access control (school, district,
+province, national).
+
+Compliance Full alignment with the Protection of Personal Information Act
 (POPIA) and DBE policy frameworks.
+
+MG-SLS-MFA-PRP-LVR 202503.01 MG LEARNER VERIFICATION PROPOSAL Page 10 | 11
+version 01 | date 31/03/25 | author cvanonselen

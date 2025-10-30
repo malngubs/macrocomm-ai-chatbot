@@ -1,378 +1,274 @@
-Waterfall Point Business Park, Building 1, Cnr of Woodmead & Waterfall Drive, Midrand 
-Telephone: +27 (010) 493 6871 |  Registration Number 2012/030907/07 
-Directors: Sivi Moodley (CEO) | Yakshini Naidoo 
-www.macrocomm.co.za 
-Template Ref: MG-LET-TEM 20230601.03 
-Solution Overview Document 
-Introduction 
-This document provides an in-depth overview of various monitoring and metering systems, 
-including JoJo Tank Sensors, Electricity Meters, Water Meters, Diesel Monitoring, and Gas Meters. 
-Each of these systems is designed with speciﬁc capabilities to oﬀer monitoring, accurate reporting, 
-and eﬃcient resource management. By leveraging these technologies, businesses can optimise 
-their utility consumption, enhance operational eﬃciency, and ensure accurate billing and cost 
-allocation. 
-The integration of these systems into a uniﬁed platform enables seamless data collection, analysis, 
-and visualization, empowering users with insights for informed decision-making. This document 
-explores the features, functionalities, and interdependencies of these monitoring solutions to 
-provide a comprehensive understanding of their role in resource management. 
- 
-1. JoJo Tank Sensor 
-The JoJo Tank Sensor is a water level monitoring system designed to ensure eﬃcient water storage 
-and consumption management. By utilising ultrasonic sensing technology, it provides timely 
-insights into tank levels, helping users prevent shortages, optimise water use, and reduce wastage. 
-Key Features: 
- 
-Level Status Monitoring: Uses ultrasonic sensors to track water levels at set intervals. 
- 
-Threshold Alerts: Customisable triggers (e.g., low water level at 10%) sent via email or 
-SMS. 
- 
-Consumption Analysis: Tracks historical data to identify patterns and trends in water 
-usage. 
- 
-Integration Capabilities: Compatible with IoT platforms for centralised monitoring 
-and automation. 
-2. Electricity Meter 
-Electricity meters play a crucial role in tracking power usage and optimising energy consumption. 
-These meters provide real-time insights into electricity usage patterns, allowing users to adjust 
-consumption habits and manage costs eﬀectively. 
-Key Features: 
- 
-Time-of-Use (ToU) Analysis: Enables users to shift energy consumption to oﬀ-peak hours, 
-reducing costs (e.g., R0.50/kWh oﬀ-peak vs. R2.50/kWh peak). 
- 
-Billing & Cost Allocation: Automates cost distribution across tenants or departments with 
-detailed PDF reports and generates an Electricity bill. 
- 
-Real-Time Monitoring: Tracks electricity usage per circuit or device, identifying 
-ineﬃciencies. 
+“macro
 
- 
-2 | P a g e  
- 
-Template Ref: MG-LET-TEM 20230601.03 
- 
-Dashboard & Visualization: Provides Grafana-based visual analytics with anomaly 
-detection algorithms. 
- 
-Load Management: Helps prevent overloading by monitoring consumption limits. 
-3. Water Meter 
-Water meters facilitate accurate tracking of water consumption to promote eﬃcient usage and 
-conservation. These meters can be integrated with sewage monitoring systems for comprehensive 
-water management. 
-Key Features: 
- 
-Water Consumption Monitoring: Provides timely tracking of water usage. 
- 
-Threshold Alerts: Notiﬁes users when consumption exceeds predeﬁned limits. 
- 
-Optional Sewage Monitoring: Tracks wastewater levels and ensures compliance with 
-regulations. 
- 
-Tank Level Percentage Monitoring: Works alongside JoJo Tank Sensors to provide 
-comprehensive water management. 
- 
-Automated Reporting & Notiﬁcations: Sends detailed reports on water usage trends. 
- 
-Billing & Cost Allocation: Supports cost-sharing among tenants or departments and 
-generates water bills. 
-4. Diesel Monitoring System 
-Industries that rely on diesel-powered generators require eﬃcient fuel management to reduce 
-wastage and ensure optimal performance. The diesel monitoring system provides detailed insights 
-into fuel levels, usage patterns, and engine run hours. 
-Key Features: 
- 
-Fuel Status & Ignition Monitoring: Tracks real-time fuel levels and engine ignition status. 
- 
-Level Status & Engine Hours Tracking: Monitors diesel consumption and machinery 
-runtime. 
- 
-Leak Detection: Identiﬁes anomalies indicating fuel theft or leaks. 
- 
-Automated Reporting & Notiﬁcations: Generates consumption reports for better 
-tracking and cost management. 
- 
-Remote Monitoring: Accessible via web and mobile applications. 
-5. Gas Meter 
-Gas meters enable eﬃcient tracking of LPG consumption, ensuring optimal usage and proper cost 
-management. These meters play a vital role in energy monitoring for commercial kitchens. 
-Key Features: 
- 
-LPG Gas Consumption Monitoring: Provides timely insights into usage. 
- 
-Reporting & Notiﬁcations: Sends automated alerts and consumption reports. 
- 
-Platform Integration: Works with existing utility management platforms for seamless 
-tracking. 
- 
-Billing & Cost Allocation: Ensures fair distribution of gas usage costs. 
+SMART MADE SIMPLE
 
- 
-3 | P a g e  
- 
-Template Ref: MG-LET-TEM 20230601.03 
- 
-Leakage Alerts: Detects unusual gas consumption that may indicate leaks. 
-Workﬂow & Interdependencies 
-Each metering and monitoring system plays a distinct role, but together, they provide a holistic 
-view of resource management. Below is how these systems interconnect: 
-1. Water Meter & JoJo Tank Sensor 
- 
-Water Meter: Measures total consumption across a facility. 
- 
-JoJo Tank Sensor: Ensures adequate storage and prevents shortages or overﬂows. 
- 
-Synergy: The combination of both ensures eﬃcient water distribution and conservation, 
-reducing wastage. 
-2. Electricity Meter & Diesel Monitoring 
- 
-Electricity Meter: Tracks grid power usage and helps identify consumption patterns. 
- 
-Diesel Monitoring System: Ensures backup generators are fuelled and operating 
-eﬃciently. 
- 
-Synergy: By analysing electricity and diesel consumption together, businesses can 
-optimise energy usage by balancing grid power and backup generators, reducing 
-operational costs. 
-3. Gas Meter 
- 
-Gas Meter: Monitors LPG consumption and provides usage analytics. 
- 
-Supplier Bill Management: Ensures accurate cost allocation and ﬁnancial tracking. 
- 
-Synergy: This integration prevents billing discrepancies and helps optimise gas usage 
-based on demand trends. 
-4. Reporting & Platform Integration 
- 
-All monitoring systems feed into a uniﬁed data analytics platform. 
- 
-Provides centralised reporting, visualisation, and alerting. 
- 
-Enables informed decision-making through trend analysis and anomaly detection. 
-5. Overlap & Individual Importance 
-While these systems share reporting and integration capabilities, each is essential due to the 
-unique nature of utility consumption. Their combined use oﬀers a comprehensive approach to 
-resource management, maximising eﬃciency while ensuring sustainability. 
-Conclusion 
-By integrating these technologies, businesses can: 
- 
-Enhance operational eﬃciency. 
- 
-Reduce utility costs through smart consumption. 
- 
-Improve ﬁnancial management with automated billing. 
- 
-Ensure sustainability by minimising resource wastage. 
+Solution Overview Document
+Introduction
 
- 
-4 | P a g e  
- 
-Template Ref: MG-LET-TEM 20230601.03 
-With a uniﬁed reporting platform, users can leverage data-driven insights to make strategic 
-decisions, ultimately leading to improved eﬃciency and cost savings across water, electricity, 
-diesel, and gas utilities. 
-Feature Breakdown & Comparison 
-Feature 
-JoJo Tank 
-Sensor 
-Water Meter 
-Electricity 
-Meter 
-Diesel 
-Monitoring 
-System 
-Gas Meter 
-Primary 
-Function 
-Monitors 
-water levels 
-in storage 
-tanks 
-Measures 
-overall water 
-consumption 
-Tracks 
-electricity 
-usage 
-Monitors 
-diesel fuel 
-levels & usage
-Tracks LPG 
-gas 
-consumption 
-Technology 
-Used 
-Ultrasonic 
-sensing 
-technology 
-Flow-based 
-metering 
-Smart 
-metering 
-with ToU 
-analysis 
-Fuel level 
-sensors & 
-engine 
-tracking 
-Gas ﬂow 
-metering 
-Monitoring 
-Capability 
-Tracks water 
-levels based 
-on set 
-intervals 
-Tracks water 
-consumption 
-over time 
-Monitors 
-real-time 
-electricity 
-usage 
-Tracks fuel 
-levels and 
-engine 
-runtime 
-Tracks gas 
-usage based 
-on set 
-intervals 
-Threshold 
-Alerts 
-Alerts for 
-low/high 
-water levels 
-Alerts for 
-excessive 
-usage or 
-leaks 
-Alerts for 
-peak usage 
-times & 
-overloads 
-Alerts for fuel 
-theft, leaks, or 
-anomalies 
-Alerts for 
-abnormal gas 
-consumption 
-or leaks 
-Consumption 
-Analysis 
-Identiﬁes 
-trends in 
-water 
-storage & 
-usage 
-Analyses 
-consumption 
-trends 
-Identiﬁes 
-ineﬃciencies 
-in power 
-usage 
-Tracks fuel 
-consumption 
-patterns 
-Analyses gas 
-usage trends 
-Integration 
-IoT-enabled 
-for central 
-monitoring 
-Integrates 
-with billing & 
-monitoring 
-platforms 
-Works with 
-smart grids & 
-billing 
-platforms 
-Can integrate 
-with asset 
-management 
-Compatible 
-with utility 
-management 
-platforms 
-Cost 
-Management 
-Helps 
-prevent 
-unnecessary 
-reﬁlling 
-Enables cost 
-allocation for 
-diﬀerent 
-users 
-Automates 
-cost 
-distribution & 
-billing 
-Helps 
-manage 
-diesel 
-expenses 
-eﬃciently 
-Ensures fair 
-billing 
-distribution 
+This document provides an in-depth overview of various monitoring and metering systems,
+including JoJo Tank Sensors, Electricity Meters, Water Meters, Diesel Monitoring, and Gas Meters.
+Each of these systems is designed with specific capabilities to offer monitoring, accurate reporting,
+and efficient resource management. By leveraging these technologies, businesses can optimise
+their utility consumption, enhance operational efficiency, and ensure accurate billing and cost
+allocation.
 
- 
-5 | P a g e  
- 
-Template Ref: MG-LET-TEM 20230601.03 
-Resource 
-Conservation 
-Prevents 
-shortages & 
-overﬂows 
-Encourages 
-eﬃcient 
-water usage 
-Helps shift 
-usage to oﬀ-
-peak hours 
-Reduces fuel 
-wastage & 
-theft 
-Ensures 
-optimal LPG 
-usage 
-Billing & 
-Reporting 
-Not 
-applicable 
-Generates 
-detailed 
-water bills & 
-reports 
-Generates 
-electricity 
-bills & 
-detailed 
-reports 
-Provides fuel 
-usage & run 
-time reports 
-Generates gas 
-consumption 
-reports & 
-billing 
- 
-Synergy & Interdependencies 
-While each system serves a unique purpose, their combined use creates a comprehensive 
-resource management system. Here’s how they complement each other: 
- 
-JoJo Tank Sensor & Water Meter: Ensures adequate stored water and monitors overall 
-consumption for eﬃciency. 
- 
-Electricity Meter & Diesel Monitoring System: Helps balance grid power usage with 
-backup generator eﬃciency, optimising operational costs. 
- 
-Gas Meter: Provides accurate billing and tracks usage trends for better gas resource 
-management. 
- 
-Uniﬁed Reporting: All systems integrate into the Liveview data analytics platform for 
+The integration of these systems into a unified platform enables seamless data collection, analysis,
+and visualization, empowering users with insights for informed decision-making. This document
+explores the features, functionalities, and interdependencies of these monitoring solutions to
+provide a comprehensive understanding of their role in resource management.
+
+1. JoJo Tank Sensor
+
+The JoJo Tank Sensor is a water level monitoring system designed to ensure efficient water storage
+and consumption management. By utilising ultrasonic sensing technology, it provides timely
+insights into tank levels, helping users prevent shortages, optimise water use, and reduce wastage.
+
+Key Features:
+
+e Level Status Monitoring: Uses ultrasonic sensors to track water levels at set intervals.
+
+e Threshold Alerts: Customisable triggers (e.g., low water level at 10%) sent via email or
+SMS.
+
+e Consumption Analysis: Tracks historical data to identify patterns and trends in water
+usage.
+
+e Integration Capabilities: Compatible with loT platforms for centralised monitoring
+and automation.
+
+2. Electricity Meter
+
+Electricity meters play a crucial role in tracking power usage and optimising energy consumption.
+These meters provide real-time insights into electricity usage patterns, allowing users to adjust
+consumption habits and manage costs effectively.
+
+Key Features:
+
+e Time-of-Use (ToU) Analysis: Enables users to shift energy consumption to off-peak hours,
+reducing costs (e.g., RO.50/kWh off-peak vs. R2.50/kWh peak).
+
+e Billing & Cost Allocation: Automates cost distribution across tenants or departments with
+detailed PDF reports and generates an Electricity bill.
+
+e Real-Time Monitoring: Tracks electricity usage per circuit or device, identifying
+inefficiencies.
+
+Waterfall Point Business Park, Building 1, Cnr of Woodmead & Waterfall Drive, Midrand
+Telephone: +27 (010) 493 6871 | Registration Number 2012/030907/07
+Directors: Sivi Moodley (CEO) | Yakshini Naidoo
+www.macrocomm.co.za
+
+macro
+‘ SMART MADE SIMPLE
+e Dashboard & Visualization: Provides Grafana-based visual analytics with anomaly
+detection algorithms.
+
+e Load Management: Helps prevent overloading by monitoring consumption limits.
+3. Water Meter
+
+Water meters facilitate accurate tracking of water consumption to promote efficient usage and
+conservation. These meters can be integrated with sewage monitoring systems for comprehensive
+water management.
+
+Key Features:
+
+e Water Consumption Monitoring: Provides timely tracking of water usage.
+
+e Threshold Alerts: Notifies users when consumption exceeds predefined limits.
+
+e Optional Sewage Monitoring: Tracks wastewater levels and ensures compliance with
+regulations.
+
+e Tank Level Percentage Monitoring: Works alongside JoJo Tank Sensors to provide
+comprehensive water management.
+
+e Automated Reporting & Notifications: Sends detailed reports on water usage trends.
+
+e Billing & Cost Allocation: Supports cost-sharing among tenants or departments and
+generates water bills.
+
+4. Diesel Monitoring System
+
+Industries that rely on diesel-powered generators require efficient fuel management to reduce
+wastage and ensure optimal performance. The diesel monitoring system provides detailed insights
+into fuel levels, usage patterns, and engine run hours.
+
+Key Features:
+
+e Fuel Status & Ignition Monitoring: Tracks real-time fuel levels and engine ignition status.
+
+e Level Status & Engine Hours Tracking: Monitors diesel consumption and machinery
+runtime.
+
+e Leak Detection: Identifies anomalies indicating fuel theft or leaks.
+
+e Automated Reporting & Notifications: Generates consumption reports for better
+tracking and cost management.
+
+e Remote Monitoring: Accessible via web and mobile applications.
+
+5. Gas Meter
+
+Gas meters enable efficient tracking of LPG consumption, ensuring optimal usage and proper cost
+management. These meters play a vital role in energy monitoring for commercial kitchens.
+
+Key Features:
+
+e LPG Gas Consumption Monitoring: Provides timely insights into usage.
+
+e Reporting & Notifications: Sends automated alerts and consumption reports.
+
+e Platform Integration: Works with existing utility management platforms for seamless
+tracking.
+
+e Billing & Cost Allocation: Ensures fair distribution of gas usage costs.
+
+2|Page
+
+“Ymacro
+‘ SMART MADE SIMPLE
+
+e Leakage Alerts: Detects unusual gas consumption that may indicate leaks.
+Workflow & Interdependencies
+
+Each metering and monitoring system plays a distinct role, but together, they provide a holistic
+view of resource management. Below is how these systems interconnect:
+
+1. Water Meter & JoJo Tank Sensor
+
+e Water Meter: Measures total consumption across a facility.
+
+e Jojo Tank Sensor: Ensures adequate storage and prevents shortages or overflows.
+
+e Synergy: The combination of both ensures efficient water distribution and conservation,
+reducing wastage.
+
+2. Electricity Meter & Diesel Monitoring
+
+e Electricity Meter: Tracks grid power usage and helps identify consumption patterns.
+
+e Diesel Monitoring System: Ensures backup generators are fuelled and operating
+efficiently.
+
+e Synergy: By analysing electricity and diesel consumption together, businesses can
+optimise energy usage by balancing grid power and backup generators, reducing
+operational costs.
+
+3. Gas Meter
+
+e Gas Meter: Monitors LPG consumption and provides usage analytics.
+
+e Supplier Bill Management: Ensures accurate cost allocation and financial tracking.
+
+e Synergy: This integration prevents billing discrepancies and helps optimise gas usage
+based on demand trends.
+
+4. Reporting & Platform Integration
+
+e All monitoring systems feed into a unified data analytics platform.
+e Provides centralised reporting, visualisation, and alerting.
+e Enables informed decision-making through trend analysis and anomaly detection.
+
+5. Overlap & Individual Importance
+
+While these systems share reporting and integration capabilities, each is essential due to the
+unique nature of utility consumption. Their combined use offers a comprehensive approach to
+resource management, maximising efficiency while ensuring sustainability.
+
+Conclusion
+By integrating these technologies, businesses can:
+
+e Enhance operational efficiency.
+
+e Reduce utility costs through smart consumption.
+
+e Improve financial management with automated billing.
+e Ensure sustainability by minimising resource wastage.
+
+3|Page
+
+rr
+
+\
+\
+
+))
+
+(
+\ »
+
+croc
+
+SMART MADE SIMPLE
+
+With a unified reporting platform, users can leverage data-driven insights to make strategic
+decisions, ultimately leading to improved efficiency and cost savings across water, electricity,
+diesel, and gas utilities.
+
+Feature Breakdown & Comparison
+
+Feature Jojo Tank Water Meter | Electricity Diesel Gas Meter
+Sensor Meter Monitoring
+System
+Primary Monitors Measures Tracks Monitors Tracks LPG
+Function water levels | overall water | electricity diesel fuel gas
+in storage consumption | usage levels & usage | consumption
+tanks
+Technology Ultrasonic Flow-based Smart Fuel level Gas flow
+Used sensing metering metering sensors & metering
+technology with ToU engine
+analysis tracking
+Monitoring Tracks water | Tracks water | Monitors Tracks fuel Tracks gas
+Capability levels based | consumption | real-time levels and usage based
+on set over time electricity engine on set
+intervals usage runtime intervals
+Threshold Alerts for Alerts for Alerts for Alerts for fuel | Alerts for
+Alerts low/high excessive peak usage theft, leaks, or | abnormal gas
+water levels | usage or times & anomalies consumption
+leaks overloads or leaks
+Consumption | Identifies Analyses Identifies Tracks fuel Analyses gas
+Analysis trends in consumption | inefficiencies | consumption | usage trends
+water trends in power patterns
+storage & usage
+usage
+Integration loT-enabled Integrates Works with Can integrate | Compatible
+for central with billing & | smart grids & | with asset with utility
+monitoring monitoring billing management | management
+platforms platforms platforms
+Cost Helps Enables cost | Automates Helps Ensures fair
+Management | prevent allocation for | cost manage billing
+unnecessary | different distribution & | diesel distribution
+refilling users billing expenses
+efficiently
+
+4|Page
+
+SMART MADE SIMPLE
+
+Resource Prevents Encourages Helps shift Reduces fuel | Ensures
+Conservation | shortages & | efficient usage to off- | wastage & optimal LPG
+overflows water usage peak hours theft usage
+Billing & Not Generates Generates Provides fuel | Generates gas
+Reporting applicable detailed electricity usage & run consumption
+water bills & bills & time reports reports &
+reports detailed billing
+reports
+
+Synergy & Interdependencies
+
+While each system serves a unique purpose, their combined use creates a comprehensive
+resource management system. Here’s how they complement each other:
+
+e Jojo Tank Sensor & Water Meter: Ensures adequate stored water and monitors overall
+consumption for efficiency.
+
+e Electricity Meter & Diesel Monitoring System: Helps balance grid power usage with
+backup generator efficiency, optimising operational costs.
+
+e Gas Meter: Provides accurate billing and tracks usage trends for better gas resource
+management.
+
+e Unified Reporting: All systems integrate into the Liveview data analytics platform for
 seamless monitoring and decision-making.
+
+5|Page

@@ -1,180 +1,176 @@
-// Macrocomm Desktop Wrapper — Final popup build
-// - Tray icon with left-click toggle
-// - Frameless, transparent window anchored bottom-right
-// - Loads the widget host URL
-// - Auto-opens the chat (fallback clicks launcher if needed)
-// - Minimal logging to help future debugging
+/**
+ * Macrocomm Desktop Bubble (robust local test build)
+ * --------------------------------------------------
+ * Fixes:
+ *  - Load the widget from the running FastAPI server (http URL) not file://
+ *  - Auto-show the bubble on first run so you SEE it without using the tray
+ *  - Create a Tray with a safe fallback icon so it always exists
+ *  - Keep a single frameless, always-on-top window (no big black host window)
+ *  - Add a global hotkey (Ctrl+Shift+Space) to toggle show/hide
+ *
+ * When you switch to the server, just change MACROCOMM_URL (via cross-env or BAT).
+ */
 
-const { app, BrowserWindow, Tray, Menu, nativeImage, screen, globalShortcut } = require('electron');
+const { app, BrowserWindow, Tray, Menu, nativeImage, globalShortcut, screen, shell } = require('electron');
 const path = require('path');
 const fs = require('fs');
 
-// ---------------------------- CONFIG ---------------------------------
-const WIDGET_URL = 'http://127.0.0.1:8000/static/host.html';  // <— change to central HTTPS URL after rollout
-const POPUP_W = 420;
-const POPUP_H = 380;
+// ---------- 1) Config ----------
+// Where to load the widget host page from.
+// For local dev we hit the FastAPI server directly.
+const API_BASE = (process.env.MACROCOMM_URL || 'http://127.0.0.1:8000').replace(/\/+$/, '');
+const WIDGET_URL = `${API_BASE}/static/host.html`;   // <-- your host page on the server
+
+const BUBBLE_W = 420;
+const BUBBLE_H = 560;
+const MARGIN   = 16;
 const APP_ID   = 'com.macrocomm.assistant';
-// ---------------------------------------------------------------------
 
-// --------------- Logging (kept lightweight & persistent) --------------
-const LOG_DIR  = path.join(process.env.LOCALAPPDATA || app.getPath('userData'), 'MacrocommAssistant');
-const LOG_FILE = path.join(LOG_DIR, 'electron-startup.log');
-if (!fs.existsSync(LOG_DIR)) fs.mkdirSync(LOG_DIR, { recursive: true });
-function log(...a){ fs.appendFileSync(LOG_FILE, `[${new Date().toISOString()}] ${a.join(' ')}\n`); }
-// ---------------------------------------------------------------------
+// ---------- 2) Globals ----------
+let tray = null;
+let bubble = null;
 
-let win, tray;
-
-function trayIcon() {
-  // Use a real icon — Windows will hide empty/transparent images
-  const dev = path.join(__dirname, 'assets', 'tray.ico');
-  const devPng = path.join(__dirname, 'assets', 'tray.png');
-  const prod = path.join(process.resourcesPath || __dirname, 'assets', 'tray.ico');
-  for (const p of [dev, devPng, prod]) {
-    if (fs.existsSync(p)) {
-      const img = nativeImage.createFromPath(p);
-      if (!img.isEmpty()) return img;
-    }
-  }
-  // fallback: small opaque square
-  const buf = Buffer.alloc(16*16*4, 0xff);
-  return nativeImage.createFromBuffer(buf, { width:16, height:16, scaleFactor:1 });
-}
-
-function anchorBR() {
-  const wa = screen.getPrimaryDisplay().workArea;
-  return { x: Math.round(wa.x + wa.width - POPUP_W - 8), y: Math.round(wa.y + wa.height - POPUP_H - 8) };
-}
-
-function createWindow() {
-  log('createWindow');
-  win = new BrowserWindow({
-    width: POPUP_W,
-    height: POPUP_H,
-    show: false,            // show after ready-to-show
-    frame: false,           // no native frame (true popup look)
-    resizable: false,
-    movable: false,
-    skipTaskbar: true,
-    alwaysOnTop: true,
-
-    // Transparent popup (just the chat UI)
-    transparent: true,
-    backgroundColor: '#00000000',
-
-    webPreferences: {
-      contextIsolation: true,
-      nodeIntegration: false
-    }
-  });
-
-  // Keep the window pinned bottom-right
-  const pos = anchorBR();
-  win.setPosition(pos.x, pos.y, false);
-
-  // Load host page
-  win.loadURL(WIDGET_URL).catch(err => log('loadURL error:', err?.message));
-
-  // Show quickly when ready
-  win.once('ready-to-show', () => { log('ready-to-show'); win.show(); });
-
-  // After load, try to auto-open bubble and hide only close/dismiss controls.
-  win.webContents.on('did-finish-load', () => {
-    log('did-finish-load');
-
-    // Keep page edges clean; do NOT hide the launcher
-    win.webContents.insertCSS(`
-      html, body { margin:0!important; padding:0!important; overflow:hidden!important; background:transparent!important; }
-    `).catch(()=>{});
-
-    // Inject a small <script> before </body> so Chrome/host pages run the auto-open logic in page context
-    const autoOpenScript = `
-      (function () {
-        function clickLauncher(doc) {
-          let el = doc.querySelector('[aria-label*="open" i],[aria-label*="toggle" i],[aria-label*="launcher" i]');
-          if (el) { el.click(); return true; }
-          el = doc.querySelector('.mc-launcher,.macrocomm-launcher,.widget-launcher');
-          if (el) { el.click(); return true; }
-          const wants = [/ask macro-?bot/i, /open chat/i, /open bot/i, /ask macrocomm/i];
-          for (const b of doc.querySelectorAll('button,[role="button"]')) {
-            const t = (b.innerText || b.textContent || '').trim();
-            if (wants.some(rx => rx.test(t))) { b.click(); return true; }
-          }
-          return false;
-        }
-        function tryOpen() {
-          if (clickLauncher(document)) return;
-          setTimeout(() => clickLauncher(document), 600);
-          setTimeout(() => clickLauncher(document), 1200);
-        }
-        if (document.readyState === 'loading') {
-          document.addEventListener('DOMContentLoaded', tryOpen);
-        } else {
-          tryOpen();
-        }
-      })();
-    `;
-    // Append script element into the page so it runs in page context (better compatibility with some hosts)
-    win.webContents.executeJavaScript(`(function(){ const s = document.createElement('script'); s.type = 'text/javascript'; s.textContent = ${JSON.stringify(autoOpenScript)}; (document.body || document.head || document.documentElement).appendChild(s); })();`).catch(()=>{});
-
-    // Backstop click to open the bubble if the page didn't already auto-open it
-    win.webContents.executeJavaScript(`
-      (function(){
-        function clickLauncher(doc){
-          let el = doc.querySelector('[aria-label*="open" i],[aria-label*="toggle" i],[aria-label*="launcher" i]');
-          if (el) { el.click(); return true; }
-          el = doc.querySelector('.mc-launcher,.macrocomm-launcher,.widget-launcher');
-          if (el) { el.click(); return true; }
-          const wants = [/ask macro-?bot/i, /open chat/i, /open bot/i, /ask macrocomm/i];
-          for (const b of doc.querySelectorAll('button,[role="button"]')) {
-            const t=(b.innerText||b.textContent||'').trim();
-            if (wants.some(rx=>rx.test(t))) { b.click(); return true; }
-          }
-          return false;
-        }
-        let tries = 0;
-        (function retry(){
-          if (clickLauncher(document) || ++tries > 4) return;
-          setTimeout(retry, 500);
-        })();
-      })();
-    `).catch(()=>{});
-  });
-
-  // Hide on close (keep process alive for tray)
-  win.on('close', (e) => { e.preventDefault(); win.hide(); });
-}
-
-function createTray() {
-  log('createTray');
-  tray = new Tray(trayIcon());
-  tray.setToolTip('Macrocomm Assistant');
-  tray.setContextMenu(Menu.buildFromTemplate([
-    { label: 'Open', click: () => { const p=anchorBR(); win.setPosition(p.x,p.y,false); win.show(); win.focus(); } },
-    { label: 'Hide', click: () => win.hide() },
-    { type: 'separator' },
-    { label: 'Quit', click: () => app.quit() }
-  ]));
-  // Left-click toggles
-  tray.on('click', () => {
-    if (win.isVisible()) win.hide();
-    else { const p=anchorBR(); win.setPosition(p.x,p.y,false); win.show(); win.focus(); }
-  });
-}
-
+// Make single instance
 if (!app.requestSingleInstanceLock()) app.quit();
 app.setAppUserModelId(APP_ID);
 
+// Compute bottom-right window bounds on the primary display
+function bottomRightBounds(w, h) {
+  const { workArea } = screen.getPrimaryDisplay();
+  const x = Math.max(workArea.x, workArea.x + workArea.width  - w - MARGIN);
+  const y = Math.max(workArea.y, workArea.y + workArea.height - h - MARGIN);
+  return { x, y, width: w, height: h };
+}
+
+function createBubble() {
+  const bounds = bottomRightBounds(BUBBLE_W, BUBBLE_H);
+
+  // Guarded preload (optional file)
+  const maybePreload = path.join(__dirname, 'preload.js');
+  const webPrefs = {
+    nodeIntegration: false,
+    contextIsolation: true,
+    sandbox: true,
+    backgroundThrottling: false
+  };
+  if (fs.existsSync(maybePreload)) webPrefs.preload = maybePreload;
+
+  // Frameless, transparent bubble (no black rectangle)
+  bubble = new BrowserWindow({
+    ...bounds,
+    show: false,                 // we'll show explicitly when ready
+    frame: false,
+    transparent: true,
+    resizable: false,
+    movable: true,
+    alwaysOnTop: true,
+    skipTaskbar: true,
+    autoHideMenuBar: true,
+    backgroundColor: '#00000000',
+    webPreferences: webPrefs
+  });
+
+  // Strongest on-top level on Windows, and visible across workspaces
+  bubble.setAlwaysOnTop(true, 'screen-saver');
+  bubble.setVisibleOnAllWorkspaces(true, { visibleOnFullScreen: true });
+
+  // Open external links in default browser
+  bubble.webContents.setWindowOpenHandler(({ url }) => {
+    shell.openExternal(url);
+    return { action: 'deny' };
+  });
+
+  // Load the widget host from the running FastAPI server
+  bubble.loadURL(WIDGET_URL);
+
+  // AUTO-SHOW so you see it immediately on first run;
+  // later, you can comment this and rely purely on tray/hotkey.
+  bubble.once('ready-to-show', () => {
+    bubble.show();
+    bubble.focus();
+  });
+
+  // Esc hides
+  bubble.webContents.on('before-input-event', (_e, input) => {
+    if (input.type === 'keyDown' && input.key === 'Escape') hideBubble();
+  });
+
+  // Keep positioned at bottom-right if display geometry changes
+  screen.on('display-metrics-changed', () => {
+    if (!bubble) return;
+    bubble.setBounds(bottomRightBounds(BUBBLE_W, BUBBLE_H));
+  });
+
+  bubble.on('closed', () => { bubble = null; });
+}
+
+function createTray() {
+  // --- Tray icon handling (scales for clarity) ---
+  let trayImgPath = path.join(__dirname, '..', 'static', 'brand', 'icon32.png'); // 32x32 or larger image
+  if (!fs.existsSync(trayImgPath)) {
+    // Fallback if you only have icon16.png
+    trayImgPath = path.join(__dirname, '..', 'static', 'brand', 'icon16.png');
+  }
+  let icon = nativeImage.createFromPath(trayImgPath);
+  // Optional: explicitly resize for visibility (Windows ignores oversize but scales crisp)
+  icon = icon.resize({ width: 24, height: 24 });   // try 20–28 for best results
+  // Optional: mark as template for dark/light modes on macOS (ignored on Windows)
+  // icon.setTemplateImage(true);
+  tray = new Tray(icon);
+  tray.setToolTip('Macrocomm Assistant');
+
+  const menu = Menu.buildFromTemplate([
+    { label: 'Show Chat', click: showBubble },
+    { label: 'Hide Chat', click: hideBubble },
+    { type: 'separator' },
+    { label: 'Reload', click: () => bubble && bubble.reload() },
+    { type: 'separator' },
+    { label: 'Quit', click: () => { globalShortcut.unregisterAll(); app.quit(); } }
+  ]);
+  tray.setContextMenu(menu);
+
+  // Left-click toggles quickly
+  tray.on('click', () => {
+    if (!bubble) return;
+    bubble.isVisible() ? hideBubble() : showBubble();
+  });
+}
+
+function showBubble() {
+  if (!bubble) return;
+  bubble.setBounds(bottomRightBounds(BUBBLE_W, BUBBLE_H)); // re-place
+  bubble.show();
+  bubble.focus();
+  bubble.setAlwaysOnTop(true, 'screen-saver'); // reinforce
+}
+
+function hideBubble() {
+  if (!bubble) return;
+  bubble.hide();
+}
+
+// ---------- 3) App lifecycle ----------
 app.whenReady().then(() => {
-  createWindow();
+  // Helpful console line so you can see Electron actually started
+  // (Run with $env:ELECTRON_ENABLE_LOGGING="1" if you want verbose logs)
+  console.log('[Macrocomm] Electron started. API_BASE =', API_BASE);
+  console.log('[Macrocomm] Loading widget from', WIDGET_URL);
+
+  createBubble();
   createTray();
 
-  // Optional: hotkey Ctrl+Shift+M toggles popup
-  globalShortcut.register('Control+Shift+M', () => {
-    if (win.isVisible()) win.hide();
-    else { const p=anchorBR(); win.setPosition(p.x,p.y,false); win.show(); win.focus(); }
+  // Global hotkey to toggle
+  globalShortcut.register('Control+Shift+Space', () => {
+    if (!bubble) return;
+    bubble.isVisible() ? hideBubble() : showBubble();
   });
 });
 
-app.on('will-quit', () => globalShortcut.unregisterAll());
-app.on('window-all-closed', () => { /* keep running for tray */ });
+// Keep process alive in tray even if no windows
+app.on('window-all-closed', (e) => e.preventDefault());
+
+// On re-activate (macOS), recreate bubble if needed
+app.on('activate', () => { if (!bubble) createBubble(); });
+
+// If a second instance is launched, just show the existing bubble
+app.on('second-instance', () => { showBubble(); });

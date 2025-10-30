@@ -1,417 +1,319 @@
-Document Name 
-MG-FIN-PRO-GSIL 202509.03 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT GENERIC SUPPLIER INVOICE 
-LOADING PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT  
-GENERIC SUPPLIER INVOICE LOADING PROCEDURE 
-Pg 1 of 7 
- 
-MACROCOMM GROUP (PTY) LTD 
-FINANCE PROCEDURE 
-GENERIC SUPPLIER INVOICE LOADING PROCESS 
-Document Name: 
-MG-FIN-PRO-GSIL 202508.03 
-Version: 
-03 
-Date: 
-12 SEPTEMBER 2025 
-Author: 
-KAILAN MOODLEY 
- 
- 
+Document Name MG-FIN-PRO-GSIL 202509.03
 
-Document Name 
-MG-FIN-PRO-GSIL 202509.03 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT GENERIC SUPPLIER INVOICE 
-LOADING PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT  
-GENERIC SUPPLIER INVOICE LOADING PROCEDURE 
-Pg 2 of 7 
- 
-Document Control 
-Name 
-Version 
-Date 
-Changes 
-MG-FIN-PRO 202508.00 
-00 
-08/08/25 
- 
-MG-FIN-PRO 202508.00 
-01 
-11/08/25 
- 
-MG-FIN-PRO-GSIL 202508.00 
-02 
-19/08/25 
- 
-MG-FIN-PRO-GSIL 202508.00 
-03 
-12/09/25 
- 
- 
- 
- 
- 
-Document Sign-Off / Approval 
-This is the formal sign-off for the Generic Supplier Invoice Loading procedure. 
-Name 
-Designation 
-Date 
-Signature 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Previous Name, if changed N/A
 
-Document Name 
-MG-FIN-PRO-GSIL 202509.03 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT GENERIC SUPPLIER INVOICE 
-LOADING PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT  
-GENERIC SUPPLIER INVOICE LOADING PROCEDURE 
-Pg 3 of 7 
- 
- 
-TABLE OF CONTENTS 
-1 
-PROCEDURE DESCRIPTION AND PURPOSE ........................................................................... 4 
-1.1 
-DESCRIPTION ................................................................................................................................ 4 
-1.2 
-BENEFITS ...................................................................................................................................... 4 
-1.3 
-AREAS OF RESPONSIBILITY .............................................................................................................. 4 
-1.4 
-RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES ................................ 4 
-2 
-GENERIC SUPPLIER INVOICE LOADING PROCEDURE MANAGEMENT .................................. 4 
-2.1 
-PROCEDURE OBJECTIVES AND METRICS ............................................................................................ 4 
-2.2 
-PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S) ........................................................................... 5 
-3 
-TYPICAL PROCEDURE INPUTS ................................................................................................ 5 
-3.1 
-INFORMATION OR DOCUMENTS NEEDED .......................................................................................... 5 
-3.2 
-RESOURCES NEEDED ...................................................................................................................... 5 
-3.3 
-PERSONNEL NEEDED ..................................................................................................................... 5 
-3.4 
-PRECEDING PROCESSES/PROCEDURES ............................................................................................. 5 
-4 
-TYPICAL PROCEDURE OUTPUTS ............................................................................................. 6 
-4.1 
-TYPICAL OUTPUTS ARE .................................................................................................................... 6 
-4.2   TECHNICAL OR SYSTEM ....................................................................................................................... 6 
-4.3 
-DOCUMENTS ................................................................................................................................. 6 
-4.4 
-ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS ......................................................... 6 
-5 
-THE GENERIC SUPPLIER INVOICE LOADING PROCESS .......................................................... 6 
-6 
-RISKS AND OPPORTUNITIES .................................................................................................. 7 
-6.1 
-RISKS ........................................................................................................................................... 7 
-6.2 
-OPPORTUNITIES ............................................................................................................................ 7 
-7 
-SUPPORT ................................................................................................................................. 7 
- 
- 
- 
- 
+MG FINANCIAL DEPARTMENT GENERIC SUPPLIER INVOICE
+LOADING PROCEDURE
 
-Document Name 
-MG-FIN-PRO-GSIL 202509.03 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT GENERIC SUPPLIER INVOICE 
-LOADING PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT  
-GENERIC SUPPLIER INVOICE LOADING PROCEDURE 
-Pg 4 of 7 
- 
-1 Procedure Description and Purpose 
-The purpose of this Generic Supplier Invoice Loading procedure is to enable the Finance 
-department in effectively capturing supplier invoice information on the Sage system so 
-that they ensure they upload the correct information and have it backed up on MG 
-Company (soft copy) 
-1.1 Description 
-This is the standard procedure for the Finance department to follow so that there is 
-consistency in capturing supplier invoice information. 
-1.2 Benefits 
-The benefit of this procedure is that it will serve as a reference for the Finance 
-Administrator/Accountant (s) and Finance Head to continuously improve the process of 
-capturing supplier invoice information. 
-1.3 Areas of Responsibility 
-The Finance Administrator/Accountant (s) are responsible for ensuring that the correct 
-information from the supplier invoice is accurately recorded on the Sage system.  
-This will ensure that there are no mistakes regarding what is captured on the system. 
-1.4 Relationship between this Procedure and other 
-Procedures/Processes 
-This procedure has a direct relationship with the Procurement and Sales procedures 
-2 Generic Supplier Invoice Loading Procedure Management 
-2.1 Procedure Objectives and Metrics 
-2.1.1 Procedure Objectives: 
-• 
-Capture supplier invoice information on the Sage system 
-2.1.2 Procedure Metrics: 
-Each objective of this procedure is measured according to the: 
+Revision No 03 Ymacro
 
-Document Name 
-MG-FIN-PRO-GSIL 202509.03 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT GENERIC SUPPLIER INVOICE 
-LOADING PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT  
-GENERIC SUPPLIER INVOICE LOADING PROCEDURE 
-Pg 5 of 7 
- 
-• 
-information on the supplier invoice matches information on the supplier 
-statement. 
-2.2 Procedure Owner(s) and Key Stakeholder(s) 
-2.2.1 Procedure Owner 
-The procedure owner is the Finance Head to ensure that procedures are adhered to and 
-that the metrics are set as well as met. 
-2.2.2 Key Stakeholders 
-The key stakeholders for this procedure are the Finance team and Head, and the 
-Procurement team and Head. 
-3 Typical Procedure Inputs 
-The typical procedure inputs are: 
-3.1 Information or Documents Needed 
-The following information or documents are necessary for effective measuring and 
-enabling of the Generic Supplier Invoice Loading procedure: 
-• 
-Supplier Invoice (hard or soft copy) 
-• 
-Supplier Statement 
-3.2 Resources Needed 
-The following resources are needed to support this procedure: 
-• 
-None 
-3.3 Personnel Needed 
-The Finance Administrator/Accountant (s) with access to the Sage system to effectively 
-capture supplier invoice data. 
-3.4 Preceding Processes/Procedures 
-Purchase Order Generation process, Generic Ordering process, Generic Stock-in process, 
-Generic Stock-out process, Delivery Upliftment process, Customer Returns (and 
-replacements) process to the Manufacturer. 
+Date of Revision 12 SEPTEMBER 2025 Vi SMART MADE SIMPLE
 
-Document Name 
-MG-FIN-PRO-GSIL 202509.03 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT GENERIC SUPPLIER INVOICE 
-LOADING PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT  
-GENERIC SUPPLIER INVOICE LOADING PROCEDURE 
-Pg 6 of 7 
- 
- 
-4 Typical Procedure Outputs 
-The following outputs: 
-4.1 Typical outputs are 
-• 
-The supplier invoice captured on Sage 
-4.2   Technical or System 
-• 
-Sage 
-4.3 Documents 
-• 
-Printed supplier invoice with Sage invoice code, supplier code, date processed, 
-and stamp 
-4.4 Enablement or Operationalisation of Another Process 
-The Finance Administrator/Accountant (s) to record correct information of supplier 
-invoice to enable payment scheduling and processing. 
-5 The Generic Supplier Invoice Loading process 
-5.1 Invoice Receipt 
-• 
-The Finance Administrator/Accountant receives a copy of the supplier’s invoice via 
-email and prints it for processing. 
- 
-5.2 Invoice Capture in Pastel 
-• 
-The Finance Administrator/Accountant logs into Pastel and selects the “Process 
-Supplier Invoice” option. 
-• 
-the relevant supplier is selected from the system. 
-• 
-in the reference field, the supplier’s invoice number is entered for accurate record-
-keeping. 
-• 
-the products and/or services listed on the supplier invoice are captured, including 
-the corresponding quantities and amounts. 
-5.3 Verification 
+Description
 
-Document Name 
-MG-FIN-PRO-GSIL 202509.03 
- 
-Previous Name, if changed 
-N/A 
-Description 
-MG FINANCIAL DEPARTMENT GENERIC SUPPLIER INVOICE 
-LOADING PROCEDURE 
-Revision No 
-03 
-Date of Revision 
-12 SEPTEMBER 2025 
-Date of Next Revision 
-12 SEPTEMBER 2027 
-Author 
-KAILAN MOODLEY 
-Approver 
-KUMARAN GOVENDER 
- 
-MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT  
-GENERIC SUPPLIER INVOICE LOADING PROCEDURE 
-Pg 7 of 7 
- 
-• 
-Once all line items have been entered, the details are cross-checked against the 
-physical invoice to ensure accuracy and completeness. 
-5.4 Finalization and Backup 
-• 
-After verification, the invoice is captured in the system, and the Pastel file is backed 
-up. 
- 
- 
-6 Risks and Opportunities 
-6.1 Risks 
-The following risks have been identified: 
-RISK 
-BUSINESS IMPACT 
-MITIGATION ACTIONS 
-Allocating the wrong 
-invoice to the wrong 
-supplier. 
- 
- 
-Subledger balance on Sage 
-will not match supplier 
-statement balance 
-Ensure that you double check whether 
-you have allocated the correct invoice to 
-the correct supplier subledger. 
- 
-6.2 Opportunities 
-The following opportunities table will used to help improve the procedure and 
-processes to for greater finance efficacies. 
-OPPORTUNITY 
-BUSINESS IMPACT 
-PROCESS/PROCEDURE AMENDMENT, 
-TRAINING REQUIREMENT  
- 
- 
- 
- 
-7 Support 
-If there are any queries or problems regarding the Generic Supplier Invoice Loading 
+Date of Next Revision 12 SEPTEMBER 2027
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+
+MACROCOMM GROUP (PTY) LTD
+FINANCE PROCEDURE
+
+GENERIC SUPPLIER INVOICE LOADING PROCESS
+
+Document Name: Version:
+MG-FIN-PRO-GSIL 202508.03 03
+
+Date: Author:
+
+12 SEPTEMBER 2025 KAILAN MOODLEY
+
+MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT
+
+GENERIC SUPPLIER INVOICE LOADING PROCEDURE Pg 1 of 7
+
+Document Name MG-FIN-PRO-GSIL 202509.03
+
+Previous Name, if changed N/A
+
+Description MG FINANCIAL DEPARTMENT GENERIC SUPPLIER INVOICE
+p LOADING PROCEDURE on
+2
+
+Revision No 03 macroconm®
+
+Date of Revision 12 SEPTEMBER 2025 7 SMART MADE SIMPLE
+Date of Next Revision
+
+Author KAILAN MOODLEY
+
+Approver KUMARAN GOVENDER
+
+Document Control
+
+Version Date Changes
+MG-FIN-PRO 202508.00 00 08/08/25
+MG-FIN-PRO 202508.00 01 11/08/25
+
+MG-FIN-PRO-GSIL 202508.00 02 19/08/25
+
+MG-FIN-PRO-GSIL 202508.00 03 12/09/25
+
+Document Sign-Off / Approval
+
+This is the formal sign-off for the Generic Supplier Invoice Loading procedure.
+
+Designation Signature
+
+MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT
+GENERIC SUPPLIER INVOICE LOADING PROCEDURE Pg 2 of 7
+
+Document Name MG-FIN-PRO-GSIL 202509.03
+Previous Name, if changed N/A
+Description MAING PRoceDUNe GENERIC SUPPLIER INVOICE aw
+sate of Revision 0 SEPTEMBER 2025 Macroc MADE SIM Lt
+Date of Next Revision 12 SEPTEMBER 2027
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+TABLE OF CONTENTS
+1 PROCEDURE DESCRIPTION AND PURPOSE .................ssccccccccsssscceecccccsssssssccccessssessccccessssesseees 4
+1.1 DESCRIPTION ....csscsssscsceccscssescseeseneescscescseseseeacsessesceeesenessceecacaeeassesaesesacaeesaesaeseeasaesssaeaeseeesaeeeeacees 4
+1.2 BENEFITS vo. sseescecescscesceescseesesceccscesesesccscnescsesscuescuecscsesacseseaesacscsaeseeasseeeeaeeaeseeesaeeeeaceeeaeeesaseeasets 4
+1.3. AREAS OF RESPONSIBILITY ......csssccssssessescscecesceecsceeescseescsenscsecsenesacsceecsesseseseeseuaescesaeeeeaceeeaseesaeeetacees 4
+1.4. RELATIONSHIP BETWEEN THIS PROCEDURE AND OTHER PROCEDURES/PROCESSES......sssssessesseseseeseeteees 4
+2 GENERIC SUPPLIER INVOICE LOADING PROCEDURE MANAGEMENT...................-ccsssssseeeeees 4
+2.1 PROCEDURE OBJECTIVES AND METRICS. .....ssssssssscsssseseescsceesceecscecescsessesesacseescaesaeseeasaesscaenaeseesseeeeaeees 4
+2.2 | PROCEDURE OWNER(S) AND KEY STAKEHOLDER(S) ...s.cscescescscesccsceseeseeseecsessessesseeeeeeeessnessesseeseeasrenees 5
+3 = TYPICAL PROCEDURE INPUTS ...........eccccccctcerrstsssscssssssscscssssssceccecesesssccscecssssssccccsssssssssssseeees 5
+3.1 INFORMATION OR DOCUMENTS NEEDED......csssscsssseseescseeesceecscscescseesesesacaeecaesaesesesaesenesaeseeesseeesaeees 5
+3.2 RESOURCES NEEDED... sesceccesscesscssscescesscesscssscescesseesseessecssecssesssesesesesecesssesesesssessseseecsusceseceasonaasea 5
+3.3 PERSONNEL NEEDED uo... ceccescesscessccscescessecsscessceseeessecssecssecssesssecesesesesesssesssesssessseseecsuecsueceascnaacea 5
+3.4 PRECEDING PROCESSES/PROCEDURES ......ssssecsssseseeseseseescseesensesescacsessesceeescseacsesaceeesenesaceesaceeeaseeeases 5
+4 TYPICAL PROCEDURE OUTPUTS. ...............ccccsccccccsccscsssssssssssssssccesessssssssccccccsssssccssscssssssssssseeees 6
+41 TYPICAL OUTPUTS ARE..s.sccssesssesseseseescseeseneucescsccsescescseeacsessceesscueeaesesacsesacseescaesaeseeesseeaeaceaesceesaeseeasees 6
+4.2 TECHNICAL OR SYSTEM ....scsesssecescssesccescscescscsesesaesceccsessssceecseneaceesseeeeacseeaesenacaeescaesassesasaeasnesaeseeeeaeeaes 6
+4.3 DOCUMENTS... ssesesescssesceecssecescseescscescseesesesaescsecsesaesceessenesceesseeeeacueeacsesacaesasnesacaesaeaesasaeeaeseeesaeeees 6
+4.4 ENABLEMENT OR OPERATIONALISATION OF ANOTHER PROCESS .....cssssesscssesseseeseesesescesecseeseesesseeeeseears 6
+5 THE GENERIC SUPPLIER INVOICE LOADING PROCESG..................:ccccsssscsecccccssssceeeccccesssseeecees 6
+6 RISKS AND OPPORTUNITIES ...........ceecscssssccccsssesccccsssssssssssscsscesceesesssesssccccccsssssseccsscsssssssseseeees 7
+6.1 RISKS v.sscsssscssesescescncesesceecsescescseeseueaceeescsesseseeacsesseseeeesenescsesscacaesesaesenasaesasaeeaesceesaeeaeaceesaesesaeeeeacee® 7
+6.2 OPPORTUNITIES ..s.cessccssccsscesscesscesseessesssesesesssessseseseseseseseseseeeseseseecseecsaecsaecsuecsuecsascessseaseesseesseeseeenees 7
+7 — SUPPORT ...........ssssssssssssccsscsssseesscccssessssessssesssessscesscsesssseessessssesscsesssssseescssssssssssesssseesssessseeseses 7
+
+MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT
+
+GENERIC SUPPLIER INVOICE LOADING PROCEDURE Pg 3 of 7
+
+Document Name MG-FIN-PRO-GSIL 202509.03
+Previous Name, if changed N/A
+Description MG FINANCIAL DEPARTMENT GENERIC SUPPLIER INVOICE i ‘
+LOADING PROCEDURE aN |
+Revision No 03 ) macro CO W
+Date of Revision 12 SEPTEMBER 2025 SY SMART MADE SIMPLE
+Date of Next Revision 12 SEPTEMBER 2027
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+
+1 Procedure Description and Purpose
+
+The purpose of this Generic Supplier Invoice Loading procedure is to enable the Finance
+department in effectively capturing supplier invoice information on the Sage system so
+that they ensure they upload the correct information and have it backed up on MG
+Company (soft copy)
+
+1.1 Description
+
+This is the standard procedure for the Finance department to follow so that there is
+consistency in capturing supplier invoice information.
+
+1.2 Benefits
+
+The benefit of this procedure is that it will serve as a reference for the Finance
+Administrator/Accountant (s) and Finance Head to continuously improve the process of
+capturing supplier invoice information.
+
+1.3 Areas of Responsibility
+
+The Finance Administrator/Accountant (s) are responsible for ensuring that the correct
+information from the supplier invoice is accurately recorded on the Sage system.
+
+This will ensure that there are no mistakes regarding what is captured on the system.
+
+1.4 Relationship between this Procedure and other
+Procedures/Processes
+
+This procedure has a direct relationship with the Procurement and Sales procedures
+2 Generic Supplier Invoice Loading Procedure Management
+
+2.1 Procedure Objectives and Metrics
+
+2.1.1 Procedure Objectives:
+
+e Capture supplier invoice information on the Sage system
+
+2.1.2 Procedure Metrics:
+
+Each objective of this procedure is measured according to the:
+
+MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT
+GENERIC SUPPLIER INVOICE LOADING PROCEDURE Pg 4 of 7
+
+Document Name MG-FIN-PRO-GSIL 202509.03
+Previous Name, if changed N/A
+Description MG FINANCIAL DEPARTMENT GENERIC SUPPLIER INVOICE ~. \
+LOADING PROCEDURE C \ |
+Revision No 03 ‘macro¢ om”
+Date of Revision 12 SEPTEMBER 2025 rd SMART MADE SIMPLE
+Date of Next Revision 12 SEPTEMBER 2027
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+
+e information on the supplier invoice matches information on the supplier
+statement.
+
+2.2 Procedure Owner(s) and Key Stakeholder(s)
+
+2.2.1. Procedure Owner
+
+The procedure owner is the Finance Head to ensure that procedures are adhered to and
+that the metrics are set as well as met.
+
+2.2.2 Key Stakeholders
+
+The key stakeholders for this procedure are the Finance team and Head, and the
+Procurement team and Head.
+
+3 Typical Procedure Inputs
+The typical procedure inputs are:
+3.1. Information or Documents Needed
+
+The following information or documents are necessary for effective measuring and
+enabling of the Generic Supplier Invoice Loading procedure:
+
+e Supplier Invoice (hard or soft copy)
+e Supplier Statement
+
+3.2 Resources Needed
+
+The following resources are needed to support this procedure:
+
+e None
+
+3.3 Personnel Needed
+
+The Finance Administrator/Accountant (s) with access to the Sage system to effectively
+capture supplier invoice data.
+
+3.4 Preceding Processes/Procedures
+
+Purchase Order Generation process, Generic Ordering process, Generic Stock-in process,
+Generic Stock-out process, Delivery Upliftment process, Customer Returns (and
+replacements) process to the Manufacturer.
+
+MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT
+
+GENERIC SUPPLIER INVOICE LOADING PROCEDURE Pg 5 of 7
+
+Document Name MG-FIN-PRO-GSIL 202509.03
+Previous Name, if changed N/A
+Description MG FINANCIAL DEPARTMENT GENERIC SUPPLIER INVOICE i ‘
+LOADING PROCEDURE aN |
+Revision No 03 ) macro CO W
+Date of Revision 12 SEPTEMBER 2025 SY SMART MADE SIMPLE
+Date of Next Revision 12 SEPTEMBER 2027
+Author KAILAN MOODLEY
+Approver KUMARAN GOVENDER
+
+4 Typical Procedure Outputs
+The following outputs:
+4.1 Typical outputs are
+
+e The supplier invoice captured on Sage
+4.2 Technical or System
+
+e Sage
+4.3 Documents
+
+e Printed supplier invoice with Sage invoice code, supplier code, date processed,
+and stamp
+
+4.4 Enablement or Operationalisation of Another Process
+
+The Finance Administrator/Accountant (s) to record correct information of supplier
+invoice to enable payment scheduling and processing.
+
+5 The Generic Supplier Invoice Loading process
+
+5.1 Invoice Receipt
+
+e The Finance Administrator/Accountant receives a copy of the supplier's invoice via
+email and prints it for processing.
+
+5.2 Invoice Capture in Pastel
+
+e The Finance Administrator/Accountant logs into Pastel and selects the “Process
+Supplier Invoice” option.
+
+e the relevant supplier is selected from the system.
+
+e inthe reference field, the supplier's invoice number is entered for accurate record-
+keeping.
+
+e the products and/or services listed on the supplier invoice are captured, including
+the corresponding quantities and amounts.
+
+5.3 Verification
+
+MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT
+GENERIC SUPPLIER INVOICE LOADING PROCEDURE Pg 6 of 7
+
+Document Name MG-FIN-PRO-GSIL 202509.03
+
+Previous Name, if changed N/A
+
+Description MG FINANCIAL DEPARTMENT GENERIC SUPPLIER INVOICE \)
+LOADING PROCEDURE on
+
+Revision No 03
+
+Date of Next Revision 12 SEPTEMBER 2027
+
+Author KAILAN MOODLEY
+
+Approver KUMARAN GOVENDER
+
+e Once all line items have been entered, the details are cross-checked against the
+physical invoice to ensure accuracy and completeness.
+
+5.4 Finalization and Backup
+
+e After verification, the invoice is captured in the system, and the Pastel file is backed
+up.
+
+6 Risks and Opportunities
+
+6.1 Risks
+
+The following risks have been identified:
+
+BUSINESS IMPACT MITIGATION ACTIONS
+
+Allocating the wrong | Subledger balance on Sage | Ensure that you double check whether
+invoice to the wrong | will not match supplier | you have allocated the correct invoice to
+supplier. statement balance the correct supplier subledger.
+
+6.2 Opportunities
+
+The following opportunities table will used to help improve the procedure and
+processes to for greater finance efficacies.
+
+PROCESS/PROCEDURE AMENDMENT,
+
+OPPORTUNITY BUSINESS IMPACT TRAINING REQUIREMENT
+
+7 Support
+
+If there are any queries or problems regarding the Generic Supplier Invoice Loading
 procedure, contact the Finance Head or Finance Administrator/Accountant (s).
+
+MG-FIN-PRO-GSIL 202509.03 MG FINANCIAL DEPARTMENT
+GENERIC SUPPLIER INVOICE LOADING PROCEDURE Pg 7 of 7
