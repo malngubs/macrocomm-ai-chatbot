@@ -1,40 +1,49 @@
 /**
- * Macrocomm Desktop Bubble (robust local test build)
- * --------------------------------------------------
+ * Macrocomm Desktop Bubble (robust + server-hosted widget)
+ * --------------------------------------------------------
  * Fixes:
- *  - Load the widget from the running FastAPI server (http URL) not file://
- *  - Auto-show the bubble on first run so you SEE it without using the tray
- *  - Create a Tray with a safe fallback icon so it always exists
- *  - Keep a single frameless, always-on-top window (no big black host window)
- *  - Add a global hotkey (Ctrl+Shift+Space) to toggle show/hide
- *
- * When you switch to the server, just change MACROCOMM_URL (via cross-env or BAT).
+ *  - Always finds a backend URL (env or config file fallback)
+ *  - Shows the bubble even if the first page load fails
+ *  - Tray "Show Chat" always creates/reveals the window
+ *  - Single-instance lock (no multiple Electron apps)
+ *  - Bottom-right positioning + always-on-top
  */
 
 const { app, BrowserWindow, Tray, Menu, nativeImage, globalShortcut, screen, shell } = require('electron');
 const path = require('path');
-const fs = require('fs');
+const fs   = require('fs');
+const url  = require('url');
 
-// ---------- 1) Config ----------
-// Where to load the widget host page from.
-// For local dev we hit the FastAPI server directly.
-const API_BASE = (process.env.MACROCOMM_URL || 'http://127.0.0.1:8000').replace(/\/+$/, '');
-const WIDGET_URL = `${API_BASE}/static/host.html`;   // <-- your host page on the server
+// ---------------- 1) Resolve backend URL reliably ----------------
+// Priority: ENV (MACROCOMM_URL) -> config/server_url.txt -> default
+function readServerUrlFromConfig() {
+  try {
+    const cfg = path.join(__dirname, '..', 'config', 'server_url.txt');
+    if (fs.existsSync(cfg)) {
+      const val = fs.readFileSync(cfg, 'utf8').trim();
+      if (val) return val;
+    }
+  } catch (_) {}
+  return '';
+}
+const fromEnv   = (process.env.MACROCOMM_URL || '').trim();
+const fromFile  = readServerUrlFromConfig();
+const API_BASE  = (fromEnv || fromFile || 'http://127.0.0.1:8000').replace(/\/+$/, '');
+const WIDGET_URL = `${API_BASE}/static/host.html`; // server-hosted host page
+
+// ---------------- 2) App identity + single instance ----------------
+const APP_ID = 'com.macrocomm.assistant';
+app.setAppUserModelId(APP_ID);
+if (!app.requestSingleInstanceLock()) app.quit();
+
+// ---------------- 3) Globals + helpers ----------------
+let tray = null;
+let bubble = null;
 
 const BUBBLE_W = 420;
 const BUBBLE_H = 560;
 const MARGIN   = 16;
-const APP_ID   = 'com.macrocomm.assistant';
 
-// ---------- 2) Globals ----------
-let tray = null;
-let bubble = null;
-
-// Make single instance
-if (!app.requestSingleInstanceLock()) app.quit();
-app.setAppUserModelId(APP_ID);
-
-// Compute bottom-right window bounds on the primary display
 function bottomRightBounds(w, h) {
   const { workArea } = screen.getPrimaryDisplay();
   const x = Math.max(workArea.x, workArea.x + workArea.width  - w - MARGIN);
@@ -42,10 +51,12 @@ function bottomRightBounds(w, h) {
   return { x, y, width: w, height: h };
 }
 
-function createBubble() {
+function ensureBubble() {
+  if (bubble && !bubble.isDestroyed()) return bubble;
+
   const bounds = bottomRightBounds(BUBBLE_W, BUBBLE_H);
 
-  // Guarded preload (optional file)
+  // Optional preload
   const maybePreload = path.join(__dirname, 'preload.js');
   const webPrefs = {
     nodeIntegration: false,
@@ -55,10 +66,9 @@ function createBubble() {
   };
   if (fs.existsSync(maybePreload)) webPrefs.preload = maybePreload;
 
-  // Frameless, transparent bubble (no black rectangle)
   bubble = new BrowserWindow({
     ...bounds,
-    show: false,                 // we'll show explicitly when ready
+    show: false,                 // we show explicitly
     frame: false,
     transparent: true,
     resizable: false,
@@ -70,7 +80,7 @@ function createBubble() {
     webPreferences: webPrefs
   });
 
-  // Strongest on-top level on Windows, and visible across workspaces
+  // Strong on-top + visible across workspaces
   bubble.setAlwaysOnTop(true, 'screen-saver');
   bubble.setVisibleOnAllWorkspaces(true, { visibleOnFullScreen: true });
 
@@ -80,97 +90,112 @@ function createBubble() {
     return { action: 'deny' };
   });
 
-  // Load the widget host from the running FastAPI server
+  // ----- Load the widget from the FastAPI server -----
+  console.log('[Macrocomm] API_BASE =', API_BASE);
+  console.log('[Macrocomm] Loading widget:', WIDGET_URL);
   bubble.loadURL(WIDGET_URL);
 
-  // AUTO-SHOW so you see it immediately on first run;
-  // later, you can comment this and rely purely on tray/hotkey.
-  bubble.once('ready-to-show', () => {
-    bubble.show();
-    bubble.focus();
+  // Show when ready, but also add a fallback in case load fails
+  let shown = false;
+  const tryShow = () => {
+    if (!shown && bubble && !bubble.isDestroyed()) {
+      bubble.show();
+      bubble.focus();
+      shown = true;
+    }
+  };
+
+  bubble.once('ready-to-show', tryShow);
+
+  // If load fails, show a tiny error HTML so users still see a window
+  bubble.webContents.on('did-fail-load', (_e, code, desc, failingURL) => {
+    console.error('[Macrocomm] did-fail-load', code, desc, failingURL);
+    const html = `
+      <html>
+        <body style="margin:0;font-family:Segoe UI,Arial,sans-serif;background:#fff">
+          <div style="padding:16px">
+            <h3 style="margin:0 0 8px">Macrocomm Assistant</h3>
+            <div style="color:#444">Could not load the chat UI.</div>
+            <div style="margin-top:8px;font-size:12px;color:#666">
+              Backend: ${API_BASE}<br/>
+              Error: ${code} ${desc}
+            </div>
+          </div>
+        </body>
+      </html>`;
+    bubble.loadURL('data:text/html;charset=utf-8,' + encodeURIComponent(html));
+    setTimeout(tryShow, 50);
   });
 
-  // Esc hides
-  bubble.webContents.on('before-input-event', (_e, input) => {
-    if (input.type === 'keyDown' && input.key === 'Escape') hideBubble();
-  });
-
-  // Keep positioned at bottom-right if display geometry changes
+  // Keep positioned at bottom-right if display metrics change
   screen.on('display-metrics-changed', () => {
-    if (!bubble) return;
+    if (!bubble || bubble.isDestroyed()) return;
     bubble.setBounds(bottomRightBounds(BUBBLE_W, BUBBLE_H));
   });
 
   bubble.on('closed', () => { bubble = null; });
+  return bubble;
 }
 
+function showBubble() {
+  const win = ensureBubble();
+  if (!win) return;
+  win.setBounds(bottomRightBounds(BUBBLE_W, BUBBLE_H));
+  win.show();
+  win.focus();
+  win.setAlwaysOnTop(true, 'screen-saver'); // reinforce
+}
+
+function hideBubble() {
+  if (!bubble || bubble.isDestroyed()) return;
+  bubble.hide();
+}
+
+// ---------------- 4) Tray ----------------
 function createTray() {
-  // --- Tray icon handling (scales for clarity) ---
-  let trayImgPath = path.join(__dirname, '..', 'static', 'brand', 'icon32.png'); // 32x32 or larger image
+  // Prefer 32px icon; fall back to 16px if needed
+  let trayImgPath = path.join(__dirname, '..', 'static', 'brand', 'icon32.png');
   if (!fs.existsSync(trayImgPath)) {
-    // Fallback if you only have icon16.png
     trayImgPath = path.join(__dirname, '..', 'static', 'brand', 'icon16.png');
   }
   let icon = nativeImage.createFromPath(trayImgPath);
-  // Optional: explicitly resize for visibility (Windows ignores oversize but scales crisp)
-  icon = icon.resize({ width: 24, height: 24 });   // try 20–28 for best results
-  // Optional: mark as template for dark/light modes on macOS (ignored on Windows)
-  // icon.setTemplateImage(true);
+  icon = icon.isEmpty() ? nativeImage.createEmpty() : icon.resize({ width: 24, height: 24 });
+
   tray = new Tray(icon);
   tray.setToolTip('Macrocomm Assistant');
 
   const menu = Menu.buildFromTemplate([
-    { label: 'Show Chat', click: showBubble },
-    { label: 'Hide Chat', click: hideBubble },
+    { label: 'Show Chat', click: () => showBubble() },
+    { label: 'Hide Chat', click: () => hideBubble() },
     { type: 'separator' },
-    { label: 'Reload', click: () => bubble && bubble.reload() },
+    { label: 'Reload',   click: () => { if (!bubble) ensureBubble(); bubble && bubble.reload(); } },
     { type: 'separator' },
-    { label: 'Quit', click: () => { globalShortcut.unregisterAll(); app.quit(); } }
+    { label: 'Quit',     click: () => { globalShortcut.unregisterAll(); app.quit(); } }
   ]);
   tray.setContextMenu(menu);
 
   // Left-click toggles quickly
   tray.on('click', () => {
-    if (!bubble) return;
+    if (!bubble || bubble.isDestroyed()) return showBubble();
     bubble.isVisible() ? hideBubble() : showBubble();
   });
 }
 
-function showBubble() {
-  if (!bubble) return;
-  bubble.setBounds(bottomRightBounds(BUBBLE_W, BUBBLE_H)); // re-place
-  bubble.show();
-  bubble.focus();
-  bubble.setAlwaysOnTop(true, 'screen-saver'); // reinforce
-}
-
-function hideBubble() {
-  if (!bubble) return;
-  bubble.hide();
-}
-
-// ---------- 3) App lifecycle ----------
+// ---------------- 5) App lifecycle ----------------
 app.whenReady().then(() => {
-  // Helpful console line so you can see Electron actually started
-  // (Run with $env:ELECTRON_ENABLE_LOGGING="1" if you want verbose logs)
-  console.log('[Macrocomm] Electron started. API_BASE =', API_BASE);
-  console.log('[Macrocomm] Loading widget from', WIDGET_URL);
+  console.log('[Macrocomm] Electron started');
+  ensureBubble();     // create window immediately
+  createTray();       // then tray
 
-  createBubble();
-  createTray();
-
-  // Global hotkey to toggle
+  // Global hotkey: toggle window
   globalShortcut.register('Control+Shift+Space', () => {
-    if (!bubble) return;
+    if (!bubble || bubble.isDestroyed()) return showBubble();
     bubble.isVisible() ? hideBubble() : showBubble();
   });
 });
 
-// Keep process alive in tray even if no windows
+// Keep process alive in tray even if all windows close
 app.on('window-all-closed', (e) => e.preventDefault());
 
-// On re-activate (macOS), recreate bubble if needed
-app.on('activate', () => { if (!bubble) createBubble(); });
-
-// If a second instance is launched, just show the existing bubble
+// On second launch, just bring the window up
 app.on('second-instance', () => { showBubble(); });
