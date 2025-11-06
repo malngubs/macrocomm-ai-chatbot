@@ -1,71 +1,60 @@
 <!doctype html>
-<html>
-<head>
-  <meta charset="utf-8" />
-  <title>Macrocomm Widget Host</title>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Macrocomm Assistant</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <!-- Clean canvas for Electron (no scrollbars, transparent background) -->
-  <style>
-    /* Hide any internal “close” elements inside the bubble */
-    [aria-label*="close" i],
-    [aria-label*="dismiss" i],
-    [title*="close" i],
-    [title*="dismiss" i],
-    [role="button"][aria-label*="close" i],
-    .widget-close, .chatbot-close, .close, .mcw-close, .macrocomm-close,
-    [id*="close" i], [id*="dismiss" i]{
-      display:none !important;
-      visibility:hidden !important;
-      pointer-events:none !important;
-    }
-    html, body{
-      margin:0 !important;
-      padding:0 !important;
-      background:transparent !important;
-      overflow:hidden !important;
-    }
-  </style>
+    <link rel="stylesheet" href="/static/brand-macrocomm.css" />
+    <style>
+      body { margin: 0; background: transparent; }
+    </style>
 
-  <!-- Open Sans brand font -->
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
-</head>
-<body>
-  <!-- Optional host-level close (Electron can wire this) -->
-  <button id="close-btn" style="position:absolute;top:10px;right:10px;display:none">&#10005;</button>
+    <script>
+      /**
+       * host.html bootstrapping:
+       *  - Read ?api_base=... (injected by Electron main.js)
+       *  - Publish window.API_BASE for the widget
+       *  - Rewrite ANY relative fetch("/chat") to an absolute
+       *    URL:  ${API_BASE}/chat
+       */
+      (function () {
+        const qs = new URLSearchParams(location.search);
+        const apiFromQuery = (qs.get("api_base") || "").trim();
+        const base = (apiFromQuery || (window.API_BASE || "")).replace(/\/+$/, "");
+        window.API_BASE = base;
 
-  <!-- Widget -->
-  <script src="/static/macrocomm-widget.js?v=3" defer></script>
-  <link rel="stylesheet" href="/static/brand-macrocomm.css" />
-
-  <script>
-    // Open the bubble as soon as the widget renders.
-    (function () {
-      function clickLauncher(doc) {
-        let el = doc.querySelector('[aria-label*="open" i], [aria-label*="toggle" i], [aria-label*="launcher" i]');
-        if (el) { el.click(); return true; }
-        el = doc.querySelector('.mc-launcher, .macrocomm-launcher, .widget-launcher');
-        if (el) { el.click(); return true; }
-        for (const b of doc.querySelectorAll('button,[role="button"]')) {
-          const t = (b.innerText || b.textContent || '').trim();
-          if (/ask macro-?bot|open chat|open bot|ask macrocomm/i.test(t)) { b.click(); return true; }
+        function joinUrl(base, path) {
+          if (!base) return path || "";
+          if (!path) return base;
+          return base.replace(/\/+$/, "") + "/" + String(path).replace(/^\/+/, "");
         }
-        return false;
-      }
-      function tryOpen(){
-        const ok = clickLauncher(document);
-        if (!ok) setTimeout(() => clickLauncher(document), 600);
-        if (!ok) setTimeout(() => clickLauncher(document), 1200);
-      }
-      if (document.readyState === 'loading'){
-        document.addEventListener('DOMContentLoaded', tryOpen);
-      } else {
-        tryOpen();
-      }
-    })();
-  </script>
-</body>
+
+        const origFetch = window.fetch.bind(window);
+        window.fetch = function patchedFetch(input, init) {
+          try {
+            if (typeof input === "string") {
+              const hasScheme = /^[a-zA-Z]+:\/\//.test(input);
+              if (!hasScheme) {
+                const path = input.startsWith("/") ? input : "/" + input;
+                input = joinUrl(window.API_BASE || "", path);
+              }
+            }
+          } catch (e) {
+            console.warn("[Macrocomm] fetch absolutize failed:", e);
+          }
+          return origFetch(input, init);
+        };
+
+        console.log("[Macrocomm] host API_BASE =", window.API_BASE);
+      })();
+    </script>
+  </head>
+
+  <body>
+    <div id="macrocomm-root"></div>
+    <!-- Load the widget AFTER API_BASE is set -->
+    <script src="/static/macrocomm-widget.js" defer></script>
+  </body>
 </html>
-
-
-

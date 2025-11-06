@@ -1,201 +1,178 @@
 /**
- * Macrocomm Desktop Bubble (robust + server-hosted widget)
- * --------------------------------------------------------
- * Fixes:
- *  - Always finds a backend URL (env or config file fallback)
- *  - Shows the bubble even if the first page load fails
- *  - Tray "Show Chat" always creates/reveals the window
- *  - Single-instance lock (no multiple Electron apps)
- *  - Bottom-right positioning + always-on-top
+ * Macrocomm Desktop Wrapper — SAFE main process (Bubble Mode)
+ * - No 'window' usage in main (Node context only)
+ * - Serves local UI from /static on 127.0.0.1:8000
+ * - Passes backend API base to the renderer via ?api_base=...
+ * - Bubble window: bottom-right, frameless, transparent, hidden from taskbar
+ * - Tray icon toggles visibility
  */
 
-const { app, BrowserWindow, Tray, Menu, nativeImage, globalShortcut, screen, shell } = require('electron');
-const path = require('path');
-const fs   = require('fs');
-const url  = require('url');
+const { app, BrowserWindow, Menu, Tray, nativeImage, screen } = require("electron");
+const path = require("path");
+const fs = require("fs");
+const http = require("http");
+const url = require("url");
 
-// ---------------- 1) Resolve backend URL reliably ----------------
-// Priority: ENV (MACROCOMM_URL) -> config/server_url.txt -> default
+// ---------- resolve API base (ENV -> config -> default) ----------
 function readServerUrlFromConfig() {
   try {
-    const cfg = path.join(__dirname, '..', 'config', 'server_url.txt');
-    if (fs.existsSync(cfg)) {
-      const val = fs.readFileSync(cfg, 'utf8').trim();
-      if (val) return val;
-    }
-  } catch (_) {}
-  return '';
+    const p = path.join(__dirname, "..", "static", "server-url.txt");
+    return (fs.readFileSync(p, "utf8") || "").trim();
+  } catch { return ""; }
 }
-const fromEnv   = (process.env.MACROCOMM_URL || '').trim();
-const fromFile  = readServerUrlFromConfig();
-const API_BASE  = (fromEnv || fromFile || 'http://127.0.0.1:8000').replace(/\/+$/, '');
-const WIDGET_URL = `${API_BASE}/static/host.html`; // server-hosted host page
+const normalizeBase = (u) => (u || "").trim().replace(/\/+$/, "");
+function resolveApiBase() {
+  // Example: MACROCOMM_URL=http://bot.macrocomm.local:8000
+  const fromEnv  = normalizeBase(process.env.MACROCOMM_URL);
+  if (fromEnv) return fromEnv;
 
-// ---------------- 2) App identity + single instance ----------------
-const APP_ID = 'com.macrocomm.assistant';
-app.setAppUserModelId(APP_ID);
-if (!app.requestSingleInstanceLock()) app.quit();
+  const fromFile = normalizeBase(readServerUrlFromConfig());
+  if (fromFile) return fromFile;
 
-// ---------------- 3) Globals + helpers ----------------
+  // Dev fallback
+  return "http://127.0.0.1:8000";
+}
+
+// ---------- tiny static file server for /static/* ----------
+function startStaticServer(rootDir, port = 8000) {
+  const mime = {
+    ".html": "text/html; charset=utf-8", ".css": "text/css; charset=utf-8",
+    ".js": "application/javascript; charset=utf-8", ".png": "image/png",
+    ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".svg": "image/svg+xml",
+    ".ico": "image/x-icon", ".json": "application/json; charset=utf-8",
+    ".txt": "text/plain; charset=utf-8", ".woff2": "font/woff2",
+    ".woff": "font/woff", ".ttf": "font/ttf",
+  };
+
+  const server = http.createServer((req, res) => {
+    try {
+      const parsed = url.parse(req.url || "/");
+
+      // Only serve /static/*
+      if (!parsed.pathname.startsWith("/static/")) {
+        res.writeHead(404, { "Content-Type": "application/json; charset=utf-8" });
+        res.end(JSON.stringify({ detail: "Not Found" }));
+        return;
+      }
+
+      // Map /static/... → <rootDir>/...
+      const rel = parsed.pathname.replace(/^\/static\//, "").replace(/\.\.[/\\]/g, "");
+      const filePath = path.join(rootDir, rel);
+
+      if (!fs.existsSync(filePath) || !fs.statSync(filePath).isFile()) {
+        res.writeHead(404, { "Content-Type": "application/json; charset=utf-8" });
+        res.end(JSON.stringify({ detail: "Not Found" }));
+        return;
+      }
+
+      const ext = path.extname(filePath).toLowerCase();
+      res.writeHead(200, { "Content-Type": mime[ext] || "application/octet-stream", "Cache-Control": "no-cache" });
+      fs.createReadStream(filePath).pipe(res);
+    } catch (e) {
+      res.writeHead(500, { "Content-Type": "application/json; charset=utf-8" });
+      res.end(JSON.stringify({ detail: "Static server error", error: String(e) }));
+    }
+  });
+
+  server.listen(port, "127.0.0.1", () => {
+    console.log(`[Macrocomm] Static UI server on http://127.0.0.1:${port}/static/`);
+  });
+
+  return server;
+}
+
+// ---------- window/tray (still main process — no 'window' global) ----------
+let staticServer = null;
 let tray = null;
-let bubble = null;
+let win = null;
 
-const BUBBLE_W = 420;
-const BUBBLE_H = 560;
-const MARGIN   = 16;
-
-function bottomRightBounds(w, h) {
-  const { workArea } = screen.getPrimaryDisplay();
-  const x = Math.max(workArea.x, workArea.x + workArea.width  - w - MARGIN);
-  const y = Math.max(workArea.y, workArea.y + workArea.height - h - MARGIN);
-  return { x, y, width: w, height: h };
+function getBottomRightPosition(width, height) {
+  const d = screen.getPrimaryDisplay().workArea;   // respects taskbar
+  const margin = 16;
+  return {
+    x: Math.max(d.x, d.x + d.width  - width  - margin),
+    y: Math.max(d.y, d.y + d.height - height - margin),
+  };
 }
 
-function ensureBubble() {
-  if (bubble && !bubble.isDestroyed()) return bubble;
+function createWindow() {
+  const apiBase = resolveApiBase();   // e.g., http://bot.macrocomm.local:8000
+  console.log(`[Macrocomm] RESOLVED API_BASE = ${apiBase}`);
 
-  const bounds = bottomRightBounds(BUBBLE_W, BUBBLE_H);
+  // start the tiny server that serves /static/*
+  staticServer ||= startStaticServer(path.join(__dirname, "..", "static"), 8000);
 
-  // Optional preload
-  const maybePreload = path.join(__dirname, 'preload.js');
-  const webPrefs = {
-    nodeIntegration: false,
-    contextIsolation: true,
-    sandbox: true,
-    backgroundThrottling: false
-  };
-  if (fs.existsSync(maybePreload)) webPrefs.preload = maybePreload;
+  // ---- Option A: bubble-like window (frameless, transparent, bottom-right) ----
+  const WIDTH = 420, HEIGHT = 640;
+  const pos = getBottomRightPosition(WIDTH, HEIGHT);
 
-  bubble = new BrowserWindow({
-    ...bounds,
-    show: false,                 // we show explicitly
-    frame: false,
-    transparent: true,
-    resizable: false,
+  Menu.setApplicationMenu(null); // remove menu bar
+
+  win = new BrowserWindow({
+    width: WIDTH,
+    height: HEIGHT,
+    x: pos.x,
+    y: pos.y,
+    frame: false,           // bubble look (no OS chrome)
+    transparent: true,      // allows rounded/overlay styled UI
+    resizable: false,       // avoid accidental resize
     movable: true,
-    alwaysOnTop: true,
-    skipTaskbar: true,
-    autoHideMenuBar: true,
-    backgroundColor: '#00000000',
-    webPreferences: webPrefs
-  });
-
-  // Strong on-top + visible across workspaces
-  bubble.setAlwaysOnTop(true, 'screen-saver');
-  bubble.setVisibleOnAllWorkspaces(true, { visibleOnFullScreen: true });
-
-  // Open external links in default browser
-  bubble.webContents.setWindowOpenHandler(({ url }) => {
-    shell.openExternal(url);
-    return { action: 'deny' };
-  });
-
-  // ----- Load the widget from the FastAPI server -----
-  console.log('[Macrocomm] API_BASE =', API_BASE);
-  console.log('[Macrocomm] Loading widget:', WIDGET_URL);
-  bubble.loadURL(WIDGET_URL);
-
-  // Show when ready, but also add a fallback in case load fails
-  let shown = false;
-  const tryShow = () => {
-    if (!shown && bubble && !bubble.isDestroyed()) {
-      bubble.show();
-      bubble.focus();
-      shown = true;
+    alwaysOnTop: false,     // set to true if you want it above all windows
+    skipTaskbar: true,      // hide from taskbar
+    show: false,            // show only when ready (avoid flash)
+    backgroundColor: "#00000000",
+    webPreferences: {
+      nodeIntegration: false,
+      contextIsolation: true,
+      sandbox: true
     }
-  };
-
-  bubble.once('ready-to-show', tryShow);
-
-  // If load fails, show a tiny error HTML so users still see a window
-  bubble.webContents.on('did-fail-load', (_e, code, desc, failingURL) => {
-    console.error('[Macrocomm] did-fail-load', code, desc, failingURL);
-    const html = `
-      <html>
-        <body style="margin:0;font-family:Segoe UI,Arial,sans-serif;background:#fff">
-          <div style="padding:16px">
-            <h3 style="margin:0 0 8px">Macrocomm Assistant</h3>
-            <div style="color:#444">Could not load the chat UI.</div>
-            <div style="margin-top:8px;font-size:12px;color:#666">
-              Backend: ${API_BASE}<br/>
-              Error: ${code} ${desc}
-            </div>
-          </div>
-        </body>
-      </html>`;
-    bubble.loadURL('data:text/html;charset=utf-8,' + encodeURIComponent(html));
-    setTimeout(tryShow, 50);
   });
 
-  // Keep positioned at bottom-right if display metrics change
-  screen.on('display-metrics-changed', () => {
-    if (!bubble || bubble.isDestroyed()) return;
-    bubble.setBounds(bottomRightBounds(BUBBLE_W, BUBBLE_H));
-  });
+  // Pass api_base in query string for the renderer (host.html) to read
+  const hostUrl = `http://127.0.0.1:8000/static/host.html?api_base=${encodeURIComponent(apiBase)}`;
+  console.log(`[Macrocomm] Loading widget: ${hostUrl}`);
+  win.loadURL(hostUrl);
 
-  bubble.on('closed', () => { bubble = null; });
-  return bubble;
+  // Smooth first paint
+  win.once("ready-to-show", () => win.show());
 }
 
-function showBubble() {
-  const win = ensureBubble();
-  if (!win) return;
-  win.setBounds(bottomRightBounds(BUBBLE_W, BUBBLE_H));
-  win.show();
-  win.focus();
-  win.setAlwaysOnTop(true, 'screen-saver'); // reinforce
-}
-
-function hideBubble() {
-  if (!bubble || bubble.isDestroyed()) return;
-  bubble.hide();
-}
-
-// ---------------- 4) Tray ----------------
-function createTray() {
-  // Prefer 32px icon; fall back to 16px if needed
-  let trayImgPath = path.join(__dirname, '..', 'static', 'brand', 'icon32.png');
-  if (!fs.existsSync(trayImgPath)) {
-    trayImgPath = path.join(__dirname, '..', 'static', 'brand', 'icon16.png');
+function toggleWindow() {
+  if (!win) return createWindow();
+  if (win.isVisible()) {
+    win.hide();
+  } else {
+    const WIDTH = 420, HEIGHT = 640;
+    const pos = getBottomRightPosition(WIDTH, HEIGHT);
+    win.setBounds({ x: pos.x, y: pos.y, width: WIDTH, height: HEIGHT });
+    win.show();
   }
-  let icon = nativeImage.createFromPath(trayImgPath);
-  icon = icon.isEmpty() ? nativeImage.createEmpty() : icon.resize({ width: 24, height: 24 });
-
-  tray = new Tray(icon);
-  tray.setToolTip('Macrocomm Assistant');
-
-  const menu = Menu.buildFromTemplate([
-    { label: 'Show Chat', click: () => showBubble() },
-    { label: 'Hide Chat', click: () => hideBubble() },
-    { type: 'separator' },
-    { label: 'Reload',   click: () => { if (!bubble) ensureBubble(); bubble && bubble.reload(); } },
-    { type: 'separator' },
-    { label: 'Quit',     click: () => { globalShortcut.unregisterAll(); app.quit(); } }
-  ]);
-  tray.setContextMenu(menu);
-
-  // Left-click toggles quickly
-  tray.on('click', () => {
-    if (!bubble || bubble.isDestroyed()) return showBubble();
-    bubble.isVisible() ? hideBubble() : showBubble();
-  });
 }
 
-// ---------------- 5) App lifecycle ----------------
-app.whenReady().then(() => {
-  console.log('[Macrocomm] Electron started');
-  ensureBubble();     // create window immediately
-  createTray();       // then tray
+function createTray() {
+  try {
+    const iconPath = path.join(__dirname, "..", "static", "brand", "tray.png");
+    const image = nativeImage.createFromPath(iconPath);
+    tray = new Tray(image.isEmpty() ? nativeImage.createEmpty() : image);
+  } catch {
+    tray = new Tray(nativeImage.createEmpty());
+  }
+  tray.setToolTip("Macrocomm Assistant");
+  tray.on("click", toggleWindow);
+}
 
-  // Global hotkey: toggle window
-  globalShortcut.register('Control+Shift+Space', () => {
-    if (!bubble || bubble.isDestroyed()) return showBubble();
-    bubble.isVisible() ? hideBubble() : showBubble();
+app.whenReady().then(() => {
+  createWindow();
+  createTray();
+  app.on("activate", () => {
+    if (BrowserWindow.getAllWindows().length === 0) createWindow();
   });
 });
 
-// Keep process alive in tray even if all windows close
-app.on('window-all-closed', (e) => e.preventDefault());
+app.on("window-all-closed", () => {
+  if (process.platform !== "darwin") app.quit();
+});
 
-// On second launch, just bring the window up
-app.on('second-instance', () => { showBubble(); });
+app.on("quit", () => {
+  try { staticServer && staticServer.close(); } catch {}
+});
